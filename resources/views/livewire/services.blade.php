@@ -6243,12 +6243,12 @@ flexibility(document.documentElement);
                                             <div class="elementor-widget-container">
                                                 <link rel="stylesheet"
                                                     href="/assets/wp-content/plugins/elementor-pro/assets/css/widget-posts.min.css">
-                                                <div
+                                                    <div
                                                     class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
                                                     <article
                                                         class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
                                                         <a class="elementor-post__thumbnail__link"
-                                                            href="https://hikaripetfood.com/ca-chep-phi-tan/"
+                                                            href="/service/ca-chep-phi-tan/"
                                                             tabindex="-1">
                                                             <div class="elementor-post__thumbnail"><img width="768"
                                                                     height="432"
@@ -6259,7 +6259,7 @@ flexibility(document.documentElement);
                                                         </a>
                                                         <div class="elementor-post__text">
                                                             <h3 class="elementor-post__title">
-                                                                <a href="https://hikaripetfood.com/ca-chep-phi-tan/">
+                                                                <a href="/service/ca-chep-phi-tan/">
                                                                     Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết
                                                                     Nhất </a>
                                                             </h3>
@@ -6277,179 +6277,208 @@ flexibility(document.documentElement);
                                                         </div>
                                                     </article>
                                                     <article
-                                                        class="elementor-post elementor-grid-item post-3507 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
+                                                        class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
                                                         <a class="elementor-post__thumbnail__link"
-                                                            href="https://hikaripetfood.com/ca-chep-phung/"
+                                                            href="/service/ca-chep-phi-tan/"
                                                             tabindex="-1">
-                                                            <div class="elementor-post__thumbnail"><img loading="lazy"
-                                                                    width="768" height="432"
-                                                                    src="/assets/wp-content/uploads/2025/03/ca-chep-phung-1-768x432.jpg"
-                                                                    class="attachment-medium_large size-medium_large wp-image-3677"
-                                                                    alt="Cá Chép Phụng Cách Nuôi Và Chăm Sóc Khỏe Đẹp Chi Tiết Nhất" />
+                                                            <div class="elementor-post__thumbnail"><img width="768"
+                                                                    height="432"
+                                                                    src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
+                                                                    class="attachment-medium_large size-medium_large wp-image-3684"
+                                                                    alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
                                                             </div>
                                                         </a>
                                                         <div class="elementor-post__text">
                                                             <h3 class="elementor-post__title">
-                                                                <a href="https://hikaripetfood.com/ca-chep-phung/">
-                                                                    Khám Phá Cá Chép phụng Cách Chọn Cách Nuôi Chăm Sóc
-                                                                    Chi Tiết </a>
+                                                                <a href="/service/ca-chep-phi-tan/">
+                                                                    Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết
+                                                                    Nhất </a>
                                                             </h3>
                                                             <div class="elementor-post__meta-data">
                                                                 <span class="elementor-post-date">
-                                                                    10 Tháng Ba, 2025 </span>
+                                                                    21 Tháng Ba, 2025 </span>
                                                             </div>
                                                             <div class="elementor-post__excerpt">
-                                                                <p>Khác biệt so với cá chép thông thường, cá chép phụng
-                                                                    nổi bật với vẻ đẹp độc đáo và những đặc điểm ấn
-                                                                    tượng. Hãy cùng Hikari Pet Food khám phá bí ẩn của
-                                                                    loài cá này, cách chọn những cá khỏe mạnh, rực rỡ
-                                                                    nhất và tìm hiểu chi tiết về cách nuôi dưỡng, chăm
-                                                                </p>
+                                                                <p>Cá chép Phi Tần mang một nét đẹp riêng, khó có loài
+                                                                    cá nào sánh được. Chúng thường được nuôi trong các
+                                                                    hồ cảnh để làm đẹp và mang lại ý nghĩa phong thủy
+                                                                    tốt lành. Nếu bạn đang tìm hiểu về dòng cá này hãy
+                                                                    xem hết bài viết dưới đây, bao gồm thông tin</p>
                                                             </div>
                                                         </div>
                                                     </article>
                                                     <article
-                                                        class="elementor-post elementor-grid-item post-3550 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-nhiet-doi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
+                                                        class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
                                                         <a class="elementor-post__thumbnail__link"
-                                                            href="https://hikaripetfood.com/dau-hieu-ca-ket-panda-sap-de/"
+                                                            href="/service/ca-chep-phi-tan/"
                                                             tabindex="-1">
-                                                            <div class="elementor-post__thumbnail"><img loading="lazy"
-                                                                    width="768" height="432"
-                                                                    src="/assets/wp-content/uploads/2025/03/dau-hieu-ca-ket-panda-sap-de-768x432.jpg"
-                                                                    class="attachment-medium_large size-medium_large wp-image-3672"
-                                                                    alt="Dấu Hiệu Cá Két Panda Sắp Đẻ, Trứng Cá Két Bao Lâu Thì Nở" />
+                                                            <div class="elementor-post__thumbnail"><img width="768"
+                                                                    height="432"
+                                                                    src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
+                                                                    class="attachment-medium_large size-medium_large wp-image-3684"
+                                                                    alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
                                                             </div>
                                                         </a>
                                                         <div class="elementor-post__text">
                                                             <h3 class="elementor-post__title">
-                                                                <a
-                                                                    href="https://hikaripetfood.com/dau-hieu-ca-ket-panda-sap-de/">
-                                                                    Dấu Hiệu Cá Két Panda Sắp Đẻ, Trứng Cá Két Bao Lâu
-                                                                    Thì Nở </a>
+                                                                <a href="/service/ca-chep-phi-tan/">
+                                                                    Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết
+                                                                    Nhất </a>
                                                             </h3>
                                                             <div class="elementor-post__meta-data">
                                                                 <span class="elementor-post-date">
-                                                                    5 Tháng Ba, 2025 </span>
+                                                                    21 Tháng Ba, 2025 </span>
                                                             </div>
                                                             <div class="elementor-post__excerpt">
-                                                                <p>Dấu hiệu cá két Panda sắp đẻ là gì? Trứng cá mất bao
-                                                                    lâu để nở? Làm thế nào để chuẩn bị và chăm sóc cá
-                                                                    két Panda cùng đàn cá con đúng cách? Hãy cùng Hikari
-                                                                    Pet Food khám phá chi tiết qua bài viết sau để hiểu
-                                                                    rõ hơn về các dấu hiệu</p>
+                                                                <p>Cá chép Phi Tần mang một nét đẹp riêng, khó có loài
+                                                                    cá nào sánh được. Chúng thường được nuôi trong các
+                                                                    hồ cảnh để làm đẹp và mang lại ý nghĩa phong thủy
+                                                                    tốt lành. Nếu bạn đang tìm hiểu về dòng cá này hãy
+                                                                    xem hết bài viết dưới đây, bao gồm thông tin</p>
                                                             </div>
                                                         </div>
                                                     </article>
                                                     <article
-                                                        class="elementor-post elementor-grid-item post-3531 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-nhiet-doi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
+                                                        class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
                                                         <a class="elementor-post__thumbnail__link"
-                                                            href="https://hikaripetfood.com/ca-ket-panda-nuoi-chung-voi-ca-gi/"
+                                                            href="/service/ca-chep-phi-tan/"
                                                             tabindex="-1">
-                                                            <div class="elementor-post__thumbnail"><img loading="lazy"
-                                                                    width="768" height="432"
-                                                                    src="/assets/wp-content/uploads/2025/02/ca-ket-panda-nuoi-chung-voi-ca-gi-768x432.jpg"
-                                                                    class="attachment-medium_large size-medium_large wp-image-3604"
-                                                                    alt="Cá Két Panda Nuôi Chung Với Cá Gì? 8 Loại Cá Có Thể Và Không Thể" />
+                                                            <div class="elementor-post__thumbnail"><img width="768"
+                                                                    height="432"
+                                                                    src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
+                                                                    class="attachment-medium_large size-medium_large wp-image-3684"
+                                                                    alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
                                                             </div>
                                                         </a>
                                                         <div class="elementor-post__text">
                                                             <h3 class="elementor-post__title">
-                                                                <a
-                                                                    href="https://hikaripetfood.com/ca-ket-panda-nuoi-chung-voi-ca-gi/">
-                                                                    Cá Két Panda Nuôi Chung Với Cá Gì? 8 Loại Cá Có Thể
-                                                                    Và Không Thể </a>
+                                                                <a href="/service/ca-chep-phi-tan/">
+                                                                    Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết
+                                                                    Nhất </a>
                                                             </h3>
                                                             <div class="elementor-post__meta-data">
                                                                 <span class="elementor-post-date">
-                                                                    27 Tháng Hai, 2025 </span>
+                                                                    21 Tháng Ba, 2025 </span>
                                                             </div>
                                                             <div class="elementor-post__excerpt">
-                                                                <p>Cá Két Panda nổi bật không chỉ nhờ vào tính cách hiền
-                                                                    hòa mà còn bởi màu sắc đẹp mắt. Vậy cá Két Panda
-                                                                    nuôi chung với cá gì thì phù hợp? Để tạo nên một bể
-                                                                    cá đa dạng, người nuôi cần tìm hiểu kỹ về đặc tính
-                                                                    của từng loài cá trước khi nuôi cùng</p>
+                                                                <p>Cá chép Phi Tần mang một nét đẹp riêng, khó có loài
+                                                                    cá nào sánh được. Chúng thường được nuôi trong các
+                                                                    hồ cảnh để làm đẹp và mang lại ý nghĩa phong thủy
+                                                                    tốt lành. Nếu bạn đang tìm hiểu về dòng cá này hãy
+                                                                    xem hết bài viết dưới đây, bao gồm thông tin</p>
                                                             </div>
                                                         </div>
                                                     </article>
                                                     <article
-                                                        class="elementor-post elementor-grid-item post-3521 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-nhiet-doi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
+                                                        class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
                                                         <a class="elementor-post__thumbnail__link"
-                                                            href="https://hikaripetfood.com/ca-ket-panda/"
+                                                            href="/service/ca-chep-phi-tan/"
                                                             tabindex="-1">
-                                                            <div class="elementor-post__thumbnail"><img loading="lazy"
-                                                                    width="768" height="432"
-                                                                    src="/assets/wp-content/uploads/2025/01/ca-ket-panda-768x432.jpg"
-                                                                    class="attachment-medium_large size-medium_large wp-image-3598"
-                                                                    alt="" /></div>
+                                                            <div class="elementor-post__thumbnail"><img width="768"
+                                                                    height="432"
+                                                                    src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
+                                                                    class="attachment-medium_large size-medium_large wp-image-3684"
+                                                                    alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
+                                                            </div>
                                                         </a>
                                                         <div class="elementor-post__text">
                                                             <h3 class="elementor-post__title">
-                                                                <a href="https://hikaripetfood.com/ca-ket-panda/">
-                                                                    Cá Két Panda &#8211; Tổng Quan Nguồn Gốc, Cách Nuôi
-                                                                    Và Chăm Sóc </a>
+                                                                <a href="/service/ca-chep-phi-tan/">
+                                                                    Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết
+                                                                    Nhất </a>
                                                             </h3>
                                                             <div class="elementor-post__meta-data">
                                                                 <span class="elementor-post-date">
-                                                                    26 Tháng Hai, 2025 </span>
+                                                                    21 Tháng Ba, 2025 </span>
                                                             </div>
                                                             <div class="elementor-post__excerpt">
-                                                                <p>Khác với cá hồng két thông thường, cá Két Panda nổi
-                                                                    bật nhờ màu sắc độc đáo với các họa tiết sọc đen
-                                                                    trắng đối xứng. Với vẻ ngoài bắt mắt, tính cách ôn
-                                                                    hòa và khả năng thích nghi tốt, loài cá này không
-                                                                    chỉ phù hợp cho người mới bắt đầu nuôi cá cảnh mà
-                                                                </p>
+                                                                <p>Cá chép Phi Tần mang một nét đẹp riêng, khó có loài
+                                                                    cá nào sánh được. Chúng thường được nuôi trong các
+                                                                    hồ cảnh để làm đẹp và mang lại ý nghĩa phong thủy
+                                                                    tốt lành. Nếu bạn đang tìm hiểu về dòng cá này hãy
+                                                                    xem hết bài viết dưới đây, bao gồm thông tin</p>
                                                             </div>
                                                         </div>
                                                     </article>
                                                     <article
-                                                        class="elementor-post elementor-grid-item post-3429 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-nhiet-doi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
+                                                        class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
                                                         <a class="elementor-post__thumbnail__link"
-                                                            href="https://hikaripetfood.com/ca-hong-ket-an-gi/"
+                                                            href="/service/ca-chep-phi-tan/"
                                                             tabindex="-1">
-                                                            <div class="elementor-post__thumbnail"><img loading="lazy"
-                                                                    width="768" height="432"
-                                                                    src="/assets/wp-content/uploads/2025/02/ca-hong-ket-an-gi-768x432.jpg"
-                                                                    class="attachment-medium_large size-medium_large wp-image-3576"
-                                                                    alt="Cá Hồng Két Ăn Gì? Cách Nuôi Cá Hồng Két Lên Màu Chi Tiết" />
+                                                            <div class="elementor-post__thumbnail"><img width="768"
+                                                                    height="432"
+                                                                    src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
+                                                                    class="attachment-medium_large size-medium_large wp-image-3684"
+                                                                    alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
                                                             </div>
                                                         </a>
                                                         <div class="elementor-post__text">
                                                             <h3 class="elementor-post__title">
-                                                                <a href="https://hikaripetfood.com/ca-hong-ket-an-gi/">
-                                                                    Cá Hồng Két Ăn Gì? Cách Nuôi Cá Hồng Két Lên Màu Chi
-                                                                    Tiết </a>
+                                                                <a href="/service/ca-chep-phi-tan/">
+                                                                    Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết
+                                                                    Nhất </a>
                                                             </h3>
                                                             <div class="elementor-post__meta-data">
                                                                 <span class="elementor-post-date">
-                                                                    13 Tháng Hai, 2025 </span>
+                                                                    21 Tháng Ba, 2025 </span>
                                                             </div>
                                                             <div class="elementor-post__excerpt">
-                                                                <p>Cá hồng két ăn gì? Cá hồng két ăn gì lên màu? Cách
-                                                                    nuôi cá hồng két lên màu? Đây là những câu hỏi được
-                                                                    rất nhiều bạn hỏi Hikari Pet Food khi tư vấn về thức
-                                                                    ăn của cá. Nếu bạn mong muốn có một bể cá hồng két
-                                                                    xinh đẹp và khỏe mạnh</p>
+                                                                <p>Cá chép Phi Tần mang một nét đẹp riêng, khó có loài
+                                                                    cá nào sánh được. Chúng thường được nuôi trong các
+                                                                    hồ cảnh để làm đẹp và mang lại ý nghĩa phong thủy
+                                                                    tốt lành. Nếu bạn đang tìm hiểu về dòng cá này hãy
+                                                                    xem hết bài viết dưới đây, bao gồm thông tin</p>
                                                             </div>
                                                         </div>
                                                     </article>
+                                                    <article
+                                                        class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
+                                                        <a class="elementor-post__thumbnail__link"
+                                                            href="/service/ca-chep-phi-tan/"
+                                                            tabindex="-1">
+                                                            <div class="elementor-post__thumbnail"><img width="768"
+                                                                    height="432"
+                                                                    src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
+                                                                    class="attachment-medium_large size-medium_large wp-image-3684"
+                                                                    alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
+                                                            </div>
+                                                        </a>
+                                                        <div class="elementor-post__text">
+                                                            <h3 class="elementor-post__title">
+                                                                <a href="/service/ca-chep-phi-tan/">
+                                                                    Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết
+                                                                    Nhất </a>
+                                                            </h3>
+                                                            <div class="elementor-post__meta-data">
+                                                                <span class="elementor-post-date">
+                                                                    21 Tháng Ba, 2025 </span>
+                                                            </div>
+                                                            <div class="elementor-post__excerpt">
+                                                                <p>Cá chép Phi Tần mang một nét đẹp riêng, khó có loài
+                                                                    cá nào sánh được. Chúng thường được nuôi trong các
+                                                                    hồ cảnh để làm đẹp và mang lại ý nghĩa phong thủy
+                                                                    tốt lành. Nếu bạn đang tìm hiểu về dòng cá này hãy
+                                                                    xem hết bài viết dưới đây, bao gồm thông tin</p>
+                                                            </div>
+                                                        </div>
+                                                    </article>
+
                                                 </div>
 
                                                 <div class="e-load-more-anchor" data-page="1" data-max-page="10"
-                                                    data-next-page="https://hikaripetfood.com/blog/page/2/"></div>
+                                                    data-next-page="/2/"></div>
                                                 <nav class="elementor-pagination" aria-label="Pagination">
                                                     <span aria-current="page" class="page-numbers current"><span
                                                             class="elementor-screen-only">Trang</span>1</span>
                                                     <a class="page-numbers"
-                                                        href="https://hikaripetfood.com/blog/page/2/"><span
+                                                        href="/2/"><span
                                                             class="elementor-screen-only">Trang</span>2</a>
                                                     <a class="page-numbers"
-                                                        href="https://hikaripetfood.com/blog/page/3/"><span
+                                                        href="/3/"><span
                                                             class="elementor-screen-only">Trang</span>3</a>
                                                     <span class="page-numbers dots">&hellip;</span>
                                                     <a class="page-numbers"
-                                                        href="https://hikaripetfood.com/blog/page/10/"><span
+                                                        href="/10/"><span
                                                             class="elementor-screen-only">Trang</span>10</a>
                                                 </nav>
                                             </div>

@@ -547,7 +547,7 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                         <p><span style="color: #ffffff;"><a style="color: #ffffff;"
                                     href="https://hikaripetfood.com/chinh-sach/">Chính sách bảo
                                     mật</a></span></p>
-                        <p><a href="https://hikaripetfood.com/lien-he/"><span
+                        <p><a href="/contact"><span
                                     style="color: #ffffff;">Thông tin liên hệ</span></a></p>
                     </div>
                 </div>

@@ -6423,14 +6423,12 @@ flexibility(document.documentElement);
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="https://hikaripetfood.com/hikari-economy/"><img
+                                                                                        href="/product/hikari-economy/"><img
                                                                                             width="1701" height="1701"
                                                                                             src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
                                                                                             alt="Hikari Economy - 4kg"
-                                                                                            decoding="async"
-                                                                                            srcset="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg 1701w, /assets/wp-content/uploads/2023/08/Hikari-Economy-4kg-768x768.jpg 768w, /assets/wp-content/uploads/2023/08/Hikari-Economy-4kg-1536x1536.jpg 1536w, /assets/wp-content/uploads/2023/08/Hikari-Economy-4kg-300x300.jpg 300w, /assets/wp-content/uploads/2023/08/Hikari-Economy-4kg-600x600.jpg 600w, /assets/wp-content/uploads/2023/08/Hikari-Economy-4kg-100x100.jpg 100w, /assets/wp-content/uploads/2023/08/Hikari-Economy-4kg-50x50.jpg 50w"
-                                                                                            sizes="(max-width: 1701px) 100vw, 1701px" /></a>
+                                                                                           /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
                                                                                     </div>
@@ -6438,7 +6436,7 @@ flexibility(document.documentElement);
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="https://hikaripetfood.com/hikari-economy/">Hikari
+                                                                                        href="/product/hikari-economy/">Hikari
                                                                                         Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
@@ -6455,21 +6453,18 @@ flexibility(document.documentElement);
 
                                                                         </div>
                                                                         <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1883">
+                                                                            data-product-id="1893">
                                                                             <div class="jet-woo-products__inner-box">
 
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="https://hikaripetfood.com/hikari-excel/"><img
-                                                                                            loading="lazy" width="1701"
-                                                                                            height="1701"
-                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Excel-5kg.jpg"
+                                                                                        href="/product/hikari-economy/"><img
+                                                                                            width="1701" height="1701"
+                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Hikari Excel-5kg"
-                                                                                            decoding="async"
-                                                                                            srcset="/assets/wp-content/uploads/2023/08/Hikari-Excel-5kg.jpg 1701w, /assets/wp-content/uploads/2023/08/Hikari-Excel-5kg-768x768.jpg 768w, /assets/wp-content/uploads/2023/08/Hikari-Excel-5kg-1536x1536.jpg 1536w, /assets/wp-content/uploads/2023/08/Hikari-Excel-5kg-300x300.jpg 300w, /assets/wp-content/uploads/2023/08/Hikari-Excel-5kg-600x600.jpg 600w, /assets/wp-content/uploads/2023/08/Hikari-Excel-5kg-100x100.jpg 100w, /assets/wp-content/uploads/2023/08/Hikari-Excel-5kg-50x50.jpg 50w"
-                                                                                            sizes="(max-width: 1701px) 100vw, 1701px" /></a>
+                                                                                            alt="Hikari Economy - 4kg"
+                                                                                           /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
                                                                                     </div>
@@ -6477,86 +6472,14 @@ flexibility(document.documentElement);
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="https://hikaripetfood.com/hikari-excel/">Hikari
-                                                                                        Excel</a></h2>
+                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>2.100.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="jet-woo-products-cqw-wrapper">
-                                                                                </div>
-                                                                            </div>
-
-                                                                        </div>
-                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1077">
-                                                                            <div class="jet-woo-products__inner-box">
-
-                                                                                <div class="jet-woo-product-thumbnail">
-
-                                                                                    <a
-                                                                                        href="https://hikaripetfood.com/hikari-friend/"><img
-                                                                                            loading="lazy" width="500"
-                                                                                            height="500"
-                                                                                            src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
-                                                                                            class="attachment-full size-full"
-                                                                                            alt="Hikari Friend Medium 10kg"
-                                                                                            decoding="async"
-                                                                                            srcset="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg 500w, /assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg-300x300.jpg 300w, /assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg-100x100.jpg 100w, /assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg-50x50.jpg 50w"
-                                                                                            sizes="(max-width: 500px) 100vw, 500px" /></a>
-                                                                                    <div
-                                                                                        class="jet-woo-product-img-overlay">
-                                                                                    </div>
-
-
-                                                                                </div>
-                                                                                <h2 class="jet-woo-product-title"><a
-                                                                                        href="https://hikaripetfood.com/hikari-friend/">Hikari
-                                                                                        Friend</a></h2>
-                                                                                <div class="jet-woo-product-price">
-                                                                                    <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>1.035.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="jet-woo-products-cqw-wrapper">
-                                                                                </div>
-                                                                            </div>
-
-                                                                        </div>
-                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1898">
-                                                                            <div class="jet-woo-products__inner-box">
-
-                                                                                <div class="jet-woo-product-thumbnail">
-
-                                                                                    <a
-                                                                                        href="https://hikaripetfood.com/hikari-gold/"><img
-                                                                                            loading="lazy" width="500"
-                                                                                            height="500"
-                                                                                            src="/assets/wp-content/uploads/2023/08/hikari-gold.jpg"
-                                                                                            class="attachment-full size-full"
-                                                                                            alt="Hikari Gold - Cám cá Koi giúp tăng màu cải thiện tốc độ tăng trưởng"
-                                                                                            decoding="async"
-                                                                                            srcset="/assets/wp-content/uploads/2023/08/hikari-gold.jpg 500w, /assets/wp-content/uploads/2023/08/hikari-gold-300x300.jpg 300w, /assets/wp-content/uploads/2023/08/hikari-gold-100x100.jpg 100w, /assets/wp-content/uploads/2023/08/hikari-gold-50x50.jpg 50w"
-                                                                                            sizes="(max-width: 500px) 100vw, 500px" /></a>
-                                                                                    <div
-                                                                                        class="jet-woo-product-img-overlay">
-                                                                                    </div>
-
-
-                                                                                </div>
-                                                                                <h2 class="jet-woo-product-title"><a
-                                                                                        href="https://hikaripetfood.com/hikari-gold/">Hikari
-                                                                                        Gold</a></h2>
-                                                                                <div class="jet-woo-product-price">
-                                                                                    <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>150.000<span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
                                                                                                     class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                                                                         &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>2.282.000<span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
                                                                                                     class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                 </div>
                                                                                 <div
@@ -6566,21 +6489,18 @@ flexibility(document.documentElement);
 
                                                                         </div>
                                                                         <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1885">
+                                                                            data-product-id="1893">
                                                                             <div class="jet-woo-products__inner-box">
 
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="https://hikaripetfood.com/hikari-spirulina/"><img
-                                                                                            loading="lazy" width="1701"
-                                                                                            height="1701"
-                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Spirulina-500g.jpg"
+                                                                                        href="/product/hikari-economy/"><img
+                                                                                            width="1701" height="1701"
+                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Hikari Spirulina - 500g"
-                                                                                            decoding="async"
-                                                                                            srcset="/assets/wp-content/uploads/2023/08/Hikari-Spirulina-500g.jpg 1701w, /assets/wp-content/uploads/2023/08/Hikari-Spirulina-500g-768x768.jpg 768w, /assets/wp-content/uploads/2023/08/Hikari-Spirulina-500g-1536x1536.jpg 1536w, /assets/wp-content/uploads/2023/08/Hikari-Spirulina-500g-300x300.jpg 300w, /assets/wp-content/uploads/2023/08/Hikari-Spirulina-500g-600x600.jpg 600w, /assets/wp-content/uploads/2023/08/Hikari-Spirulina-500g-100x100.jpg 100w, /assets/wp-content/uploads/2023/08/Hikari-Spirulina-500g-50x50.jpg 50w"
-                                                                                            sizes="(max-width: 1701px) 100vw, 1701px" /></a>
+                                                                                            alt="Hikari Economy - 4kg"
+                                                                                           /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
                                                                                     </div>
@@ -6588,50 +6508,14 @@ flexibility(document.documentElement);
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="https://hikaripetfood.com/hikari-spirulina/">Hikari
-                                                                                        Spirulina</a></h2>
+                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>240.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="jet-woo-products-cqw-wrapper">
-                                                                                </div>
-                                                                            </div>
-
-                                                                        </div>
-                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1889">
-                                                                            <div class="jet-woo-products__inner-box">
-
-                                                                                <div class="jet-woo-product-thumbnail">
-
-                                                                                    <a
-                                                                                        href="https://hikaripetfood.com/hikari-staple/"><img
-                                                                                            loading="lazy" width="1701"
-                                                                                            height="1701"
-                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Staple-5kg-1.jpg"
-                                                                                            class="attachment-full size-full"
-                                                                                            alt="Hikari Staple - 5kg"
-                                                                                            decoding="async"
-                                                                                            srcset="/assets/wp-content/uploads/2023/08/Hikari-Staple-5kg-1.jpg 1701w, /assets/wp-content/uploads/2023/08/Hikari-Staple-5kg-1-768x768.jpg 768w, /assets/wp-content/uploads/2023/08/Hikari-Staple-5kg-1-1536x1536.jpg 1536w, /assets/wp-content/uploads/2023/08/Hikari-Staple-5kg-1-300x300.jpg 300w, /assets/wp-content/uploads/2023/08/Hikari-Staple-5kg-1-600x600.jpg 600w, /assets/wp-content/uploads/2023/08/Hikari-Staple-5kg-1-100x100.jpg 100w, /assets/wp-content/uploads/2023/08/Hikari-Staple-5kg-1-50x50.jpg 50w"
-                                                                                            sizes="(max-width: 1701px) 100vw, 1701px" /></a>
-                                                                                    <div
-                                                                                        class="jet-woo-product-img-overlay">
-                                                                                    </div>
-
-
-                                                                                </div>
-                                                                                <h2 class="jet-woo-product-title"><a
-                                                                                        href="https://hikaripetfood.com/hikari-staple/">Hikari
-                                                                                        Staple</a></h2>
-                                                                                <div class="jet-woo-product-price">
-                                                                                    <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>385.000<span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
                                                                                                     class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                                                                         &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>1.697.000<span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
                                                                                                     class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                 </div>
                                                                                 <div
@@ -6641,21 +6525,18 @@ flexibility(document.documentElement);
 
                                                                         </div>
                                                                         <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1360">
+                                                                            data-product-id="1893">
                                                                             <div class="jet-woo-products__inner-box">
 
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="https://hikaripetfood.com/saki-hikari-deep-red/"><img
-                                                                                            loading="lazy" width="800"
-                                                                                            height="640"
-                                                                                            src="/assets/wp-content/uploads/2023/06/Saki-Hikari-Deep-Red.jpg"
+                                                                                        href="/product/hikari-economy/"><img
+                                                                                            width="1701" height="1701"
+                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Saki Hikari - Deep Red L"
-                                                                                            decoding="async"
-                                                                                            srcset="/assets/wp-content/uploads/2023/06/Saki-Hikari-Deep-Red.jpg 800w, /assets/wp-content/uploads/2023/06/Saki-Hikari-Deep-Red-768x614.jpg 768w, /assets/wp-content/uploads/2023/06/Saki-Hikari-Deep-Red-600x480.jpg 600w"
-                                                                                            sizes="(max-width: 800px) 100vw, 800px" /></a>
+                                                                                            alt="Hikari Economy - 4kg"
+                                                                                           /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
                                                                                     </div>
@@ -6663,14 +6544,14 @@ flexibility(document.documentElement);
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="https://hikaripetfood.com/saki-hikari-deep-red/">Saki
-                                                                                        Hikari &#8211; Deep Red</a></h2>
+                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>4.154.000<span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
                                                                                                     class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                                                                         &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>11.642.000<span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
                                                                                                     class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                 </div>
                                                                                 <div
@@ -6680,21 +6561,18 @@ flexibility(document.documentElement);
 
                                                                         </div>
                                                                         <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1306">
+                                                                            data-product-id="1893">
                                                                             <div class="jet-woo-products__inner-box">
 
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="https://hikaripetfood.com/saki-hikari-pure-white/"><img
-                                                                                            loading="lazy" width="800"
-                                                                                            height="640"
-                                                                                            src="/assets/wp-content/uploads/2023/06/Saki-Hikari-Pure-White.jpg"
+                                                                                        href="/product/hikari-economy/"><img
+                                                                                            width="1701" height="1701"
+                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Saki Hikari Pure White"
-                                                                                            decoding="async"
-                                                                                            srcset="/assets/wp-content/uploads/2023/06/Saki-Hikari-Pure-White.jpg 800w, /assets/wp-content/uploads/2023/06/Saki-Hikari-Pure-White-768x614.jpg 768w, /assets/wp-content/uploads/2023/06/Saki-Hikari-Pure-White-600x480.jpg 600w"
-                                                                                            sizes="(max-width: 800px) 100vw, 800px" /></a>
+                                                                                            alt="Hikari Economy - 4kg"
+                                                                                           /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
                                                                                     </div>
@@ -6702,14 +6580,14 @@ flexibility(document.documentElement);
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="https://hikaripetfood.com/saki-hikari-pure-white/">Saki
-                                                                                        Hikari Pure White</a></h2>
+                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>2.340.000<span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
                                                                                                     class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                                                                         &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>8.541.000<span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
                                                                                                     class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                 </div>
                                                                                 <div
@@ -6719,21 +6597,18 @@ flexibility(document.documentElement);
 
                                                                         </div>
                                                                         <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1132">
+                                                                            data-product-id="1893">
                                                                             <div class="jet-woo-products__inner-box">
 
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="https://hikaripetfood.com/saki-hikari-balance-floating/"><img
-                                                                                            loading="lazy" width="800"
-                                                                                            height="640"
-                                                                                            src="/assets/wp-content/uploads/2023/06/saki-hikari-balance.jpg"
+                                                                                        href="/product/hikari-economy/"><img
+                                                                                            width="1701" height="1701"
+                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Saki-Hikari Balance Floating"
-                                                                                            decoding="async"
-                                                                                            srcset="/assets/wp-content/uploads/2023/06/saki-hikari-balance.jpg 800w, /assets/wp-content/uploads/2023/06/saki-hikari-balance-768x614.jpg 768w, /assets/wp-content/uploads/2023/06/saki-hikari-balance-600x480.jpg 600w"
-                                                                                            sizes="(max-width: 800px) 100vw, 800px" /></a>
+                                                                                            alt="Hikari Economy - 4kg"
+                                                                                           /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
                                                                                     </div>
@@ -6741,14 +6616,14 @@ flexibility(document.documentElement);
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="https://hikaripetfood.com/saki-hikari-balance-floating/">Saki-Hikari
-                                                                                        Balance Floating</a></h2>
+                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>1.416.000<span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
                                                                                                     class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                                                                         &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>3.443.000<span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
                                                                                                     class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                 </div>
                                                                                 <div
@@ -6758,21 +6633,18 @@ flexibility(document.documentElement);
 
                                                                         </div>
                                                                         <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1146">
+                                                                            data-product-id="1893">
                                                                             <div class="jet-woo-products__inner-box">
 
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="https://hikaripetfood.com/saki-hikari-color-enhancing/"><img
-                                                                                            loading="lazy" width="600"
-                                                                                            height="600"
-                                                                                            src="/assets/wp-content/uploads/2023/06/saki-hikari-color-enhancing-5kg.jpg"
+                                                                                        href="/product/hikari-economy/"><img
+                                                                                            width="1701" height="1701"
+                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Saki-Hikari Color Enhancing 5kg"
-                                                                                            decoding="async"
-                                                                                            srcset="/assets/wp-content/uploads/2023/06/saki-hikari-color-enhancing-5kg.jpg 600w, /assets/wp-content/uploads/2023/06/saki-hikari-color-enhancing-5kg-300x300.jpg 300w, /assets/wp-content/uploads/2023/06/saki-hikari-color-enhancing-5kg-100x100.jpg 100w, /assets/wp-content/uploads/2023/06/saki-hikari-color-enhancing-5kg-50x50.jpg 50w"
-                                                                                            sizes="(max-width: 600px) 100vw, 600px" /></a>
+                                                                                            alt="Hikari Economy - 4kg"
+                                                                                           /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
                                                                                     </div>
@@ -6780,14 +6652,14 @@ flexibility(document.documentElement);
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="https://hikaripetfood.com/saki-hikari-color-enhancing/">Saki-Hikari
-                                                                                        Color Enhancing</a></h2>
+                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>872.000<span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
                                                                                                     class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                                                                         &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>6.950.000<span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
                                                                                                     class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                 </div>
                                                                                 <div
@@ -6797,21 +6669,18 @@ flexibility(document.documentElement);
 
                                                                         </div>
                                                                         <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1202">
+                                                                            data-product-id="1893">
                                                                             <div class="jet-woo-products__inner-box">
 
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="https://hikaripetfood.com/saki-hikari-growth-floating/"><img
-                                                                                            loading="lazy" width="1000"
-                                                                                            height="1000"
-                                                                                            src="/assets/wp-content/uploads/2023/06/saki-hikari-growth-floating-5kg.jpg"
+                                                                                        href="/product/hikari-economy/"><img
+                                                                                            width="1701" height="1701"
+                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Saki Hikari Growth Floating Medium pellets Fish Food 5kg size M"
-                                                                                            decoding="async"
-                                                                                            srcset="/assets/wp-content/uploads/2023/06/saki-hikari-growth-floating-5kg.jpg 1000w, /assets/wp-content/uploads/2023/06/saki-hikari-growth-floating-5kg-768x768.jpg 768w, /assets/wp-content/uploads/2023/06/saki-hikari-growth-floating-5kg-300x300.jpg 300w, /assets/wp-content/uploads/2023/06/saki-hikari-growth-floating-5kg-600x600.jpg 600w, /assets/wp-content/uploads/2023/06/saki-hikari-growth-floating-5kg-100x100.jpg 100w, /assets/wp-content/uploads/2023/06/saki-hikari-growth-floating-5kg-50x50.jpg 50w"
-                                                                                            sizes="(max-width: 1000px) 100vw, 1000px" /></a>
+                                                                                            alt="Hikari Economy - 4kg"
+                                                                                           /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
                                                                                     </div>
@@ -6819,14 +6688,14 @@ flexibility(document.documentElement);
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="https://hikaripetfood.com/saki-hikari-growth-floating/">Saki-Hikari
-                                                                                        Growth Floating</a></h2>
+                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>778.000<span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
                                                                                                     class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                                                                         &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>5.899.000<span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
                                                                                                     class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                 </div>
                                                                                 <div
@@ -6836,21 +6705,18 @@ flexibility(document.documentElement);
 
                                                                         </div>
                                                                         <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1119">
+                                                                            data-product-id="1893">
                                                                             <div class="jet-woo-products__inner-box">
 
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="https://hikaripetfood.com/saki-hikari-multi-season/"><img
-                                                                                            loading="lazy" width="800"
-                                                                                            height="640"
-                                                                                            src="/assets/wp-content/uploads/2023/05/saki-hikari-multi-season.jpg"
+                                                                                        href="/product/hikari-economy/"><img
+                                                                                            width="1701" height="1701"
+                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Saki-Hikari Multi Season"
-                                                                                            decoding="async"
-                                                                                            srcset="/assets/wp-content/uploads/2023/05/saki-hikari-multi-season.jpg 800w, /assets/wp-content/uploads/2023/05/saki-hikari-multi-season-768x614.jpg 768w, /assets/wp-content/uploads/2023/05/saki-hikari-multi-season-600x480.jpg 600w"
-                                                                                            sizes="(max-width: 800px) 100vw, 800px" /></a>
+                                                                                            alt="Hikari Economy - 4kg"
+                                                                                           /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
                                                                                     </div>
@@ -6858,10 +6724,15 @@ flexibility(document.documentElement);
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="https://hikaripetfood.com/saki-hikari-multi-season/">Saki-Hikari
-                                                                                        Multi Season</a></h2>
+                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
-                                                                                    <span class="price">Liên hệ</span>
+                                                                                    <span class="price"><span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
+                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                        &ndash; <span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
+                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                 </div>
                                                                                 <div
                                                                                     class="jet-woo-products-cqw-wrapper">
@@ -6869,6 +6740,115 @@ flexibility(document.documentElement);
                                                                             </div>
 
                                                                         </div>
+                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
+                                                                            data-product-id="1893">
+                                                                            <div class="jet-woo-products__inner-box">
+
+                                                                                <div class="jet-woo-product-thumbnail">
+
+                                                                                    <a
+                                                                                        href="/product/hikari-economy/"><img
+                                                                                            width="1701" height="1701"
+                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
+                                                                                            class="attachment-full size-full"
+                                                                                            alt="Hikari Economy - 4kg"
+                                                                                           /></a>
+                                                                                    <div
+                                                                                        class="jet-woo-product-img-overlay">
+                                                                                    </div>
+
+
+                                                                                </div>
+                                                                                <h2 class="jet-woo-product-title"><a
+                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        Economy</a></h2>
+                                                                                <div class="jet-woo-product-price">
+                                                                                    <span class="price"><span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
+                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                        &ndash; <span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
+                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+                                                                                </div>
+                                                                                <div
+                                                                                    class="jet-woo-products-cqw-wrapper">
+                                                                                </div>
+                                                                            </div>
+
+                                                                        </div>
+                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
+                                                                            data-product-id="1893">
+                                                                            <div class="jet-woo-products__inner-box">
+
+                                                                                <div class="jet-woo-product-thumbnail">
+
+                                                                                    <a
+                                                                                        href="/product/hikari-economy/"><img
+                                                                                            width="1701" height="1701"
+                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
+                                                                                            class="attachment-full size-full"
+                                                                                            alt="Hikari Economy - 4kg"
+                                                                                           /></a>
+                                                                                    <div
+                                                                                        class="jet-woo-product-img-overlay">
+                                                                                    </div>
+
+
+                                                                                </div>
+                                                                                <h2 class="jet-woo-product-title"><a
+                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        Economy</a></h2>
+                                                                                <div class="jet-woo-product-price">
+                                                                                    <span class="price"><span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
+                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                        &ndash; <span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
+                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+                                                                                </div>
+                                                                                <div
+                                                                                    class="jet-woo-products-cqw-wrapper">
+                                                                                </div>
+                                                                            </div>
+
+                                                                        </div>
+                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
+                                                                            data-product-id="1893">
+                                                                            <div class="jet-woo-products__inner-box">
+
+                                                                                <div class="jet-woo-product-thumbnail">
+
+                                                                                    <a
+                                                                                        href="/product/hikari-economy/"><img
+                                                                                            width="1701" height="1701"
+                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
+                                                                                            class="attachment-full size-full"
+                                                                                            alt="Hikari Economy - 4kg"
+                                                                                           /></a>
+                                                                                    <div
+                                                                                        class="jet-woo-product-img-overlay">
+                                                                                    </div>
+
+
+                                                                                </div>
+                                                                                <h2 class="jet-woo-product-title"><a
+                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        Economy</a></h2>
+                                                                                <div class="jet-woo-product-price">
+                                                                                    <span class="price"><span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
+                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                        &ndash; <span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
+                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+                                                                                </div>
+                                                                                <div
+                                                                                    class="jet-woo-products-cqw-wrapper">
+                                                                                </div>
+                                                                            </div>
+
+                                                                        </div>
+
                                                                     </div>
                                                                 </div>
                                                             </div>

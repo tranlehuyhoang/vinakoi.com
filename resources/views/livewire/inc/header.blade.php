@@ -14,16 +14,15 @@
                                 data-section="title_tagline">
                                 <div class="site-branding ast-site-identity" itemtype="https://schema.org/Organization"
                                     itemscope="itemscope">
-                                    <h1 class="site-logo-img"><a href="https://hikaripetfood.com/"
-                                            class="custom-logo-link" rel="home" aria-current="page"><img width="85"
-                                                height="56"
+                                    <h1 class="site-logo-img"><a href="/" class="custom-logo-link" rel="home"
+                                            aria-current="page"><img width="85" height="56"
                                                 src="/assets/wp-content/uploads/2023/05/logo-thuc-an-hikari-blue-85x56.png"
                                                 class="custom-logo"
                                                 alt="Hikari Pet Food &#8211; Thức ăn thú cưng cao cấp đến từ Nhật Bản"
                                                 decoding="async" sizes="(max-width: 85px) 100vw, 85px" /></a></h1>
                                     <div class="ast-site-title-wrap">
                                         <h1 class="site-title" itemprop="name">
-                                            <a href="https://hikaripetfood.com/" rel="home" itemprop="url">
+                                            <a href="/" rel="home" itemprop="url">
                                                 Hikari Pet Food - Thức ăn thú cưng cao cấp đến từ Nhật Bản
                                             </a>
                                         </h1>
@@ -60,8 +59,7 @@
                                                                     <div class="jet-ajax-search"
                                                                         data-settings="{&quot;symbols_for_start_searching&quot;:2,&quot;search_by_empty_value&quot;:&quot;&quot;,&quot;submit_on_enter&quot;:&quot;&quot;,&quot;search_source&quot;:[&quot;product&quot;],&quot;search_logging&quot;:&quot;&quot;,&quot;search_results_url&quot;:&quot;&quot;,&quot;search_taxonomy&quot;:&quot;&quot;,&quot;include_terms_ids&quot;:[],&quot;exclude_terms_ids&quot;:[],&quot;exclude_posts_ids&quot;:[],&quot;custom_fields_source&quot;:&quot;&quot;,&quot;limit_query&quot;:5,&quot;limit_query_tablet&quot;:&quot;&quot;,&quot;limit_query_mobile&quot;:&quot;&quot;,&quot;limit_query_in_result_area&quot;:25,&quot;results_order_by&quot;:&quot;relevance&quot;,&quot;results_order&quot;:&quot;asc&quot;,&quot;sentence&quot;:&quot;&quot;,&quot;search_in_taxonomy&quot;:&quot;&quot;,&quot;search_in_taxonomy_source&quot;:&quot;&quot;,&quot;results_area_width_by&quot;:&quot;form&quot;,&quot;results_area_custom_width&quot;:&quot;&quot;,&quot;results_area_custom_position&quot;:&quot;&quot;,&quot;thumbnail_visible&quot;:&quot;yes&quot;,&quot;thumbnail_size&quot;:&quot;thumbnail&quot;,&quot;thumbnail_placeholder&quot;:{&quot;url&quot;:&quot;https:\/\/hikaripetfood.com\/wp-content\/plugins\/elementor\/assets\/images\/placeholder.png&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;post_content_source&quot;:&quot;content&quot;,&quot;post_content_custom_field_key&quot;:&quot;&quot;,&quot;post_content_length&quot;:0,&quot;show_product_price&quot;:&quot;yes&quot;,&quot;show_product_rating&quot;:&quot;&quot;,&quot;show_result_new_tab&quot;:&quot;&quot;,&quot;highlight_searched_text&quot;:&quot;&quot;,&quot;bullet_pagination&quot;:&quot;&quot;,&quot;number_pagination&quot;:&quot;&quot;,&quot;navigation_arrows&quot;:&quot;in_header&quot;,&quot;navigation_arrows_type&quot;:&quot;angle&quot;,&quot;show_title_related_meta&quot;:&quot;&quot;,&quot;meta_title_related_position&quot;:&quot;&quot;,&quot;title_related_meta&quot;:&quot;&quot;,&quot;show_content_related_meta&quot;:&quot;&quot;,&quot;meta_content_related_position&quot;:&quot;&quot;,&quot;content_related_meta&quot;:&quot;&quot;,&quot;negative_search&quot;:&quot;Xin l\u1ed7i, nh\u01b0ng kh\u00f4ng c\u00f3 g\u00ec ph\u00f9 h\u1ee3p v\u1edbi \u0111i\u1ec1u ki\u1ec7n t\u00ecm ki\u1ebfm c\u1ee7a b\u1ea1n.&quot;,&quot;server_error&quot;:&quot;Xin l\u1ed7i, nh\u01b0ng ch\u00fang t\u00f4i kh\u00f4ng th\u1ec3 x\u1eed l\u00fd truy v\u1ea5n t\u00ecm ki\u1ebfm c\u1ee7a b\u1ea1n b\u00e2y gi\u1edd. Vui l\u00f2ng th\u1eed l\u1ea1i sau!&quot;,&quot;catalog_visibility&quot;:&quot;&quot;}">
                                                                         <form class="jet-ajax-search__form" method="get"
-                                                                            action="https://hikaripetfood.com/"
-                                                                            role="search" target="">
+                                                                            action="/" role="search" target="">
                                                                             <div class="jet-ajax-search__fields-holder">
                                                                                 <div
                                                                                     class="jet-ajax-search__field-wrapper">
@@ -271,9 +269,8 @@
                                                     class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex  submenu-with-border stack-on-mobile ast-mega-menu-enabled">
                                                     <li id="menu-item-793"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793">
-                                                        <a href="https://hikaripetfood.com/gioi-thieu/"
-                                                            class="menu-link"><span class="ast-icon icon-arrow"><svg
-                                                                    class="ast-arrow-svg"
+                                                        <a href="/" class="menu-link"><span
+                                                                class="ast-icon icon-arrow"><svg class="ast-arrow-svg"
                                                                     xmlns="http://www.w3.org/2000/svg"
                                                                     xmlns:xlink="http://www.w3.org/1999/xlink"
                                                                     version="1.1" x="0px" y="0px" width="26px"
@@ -282,12 +279,12 @@
                                                                     xml:space="preserve">
                                                                     <path
                                                                         d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                                </svg></span><span class="menu-text">Giới
-                                                                thiệu</span></a>
+                                                                </svg></span><span class="menu-text">Trang chủ
+                                                            </span></a>
                                                     </li>
                                                     <li id="menu-item-1656"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1656">
-                                                        <a href="https://hikaripetfood.com/thuc-an-ca-koi/"
+                                                        <a href="/products?category=1"
                                                             class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                     class="ast-arrow-svg"
                                                                     xmlns="http://www.w3.org/2000/svg"
@@ -301,9 +298,9 @@
                                                                 </svg></span><span class="menu-text">Cá
                                                                 Koi</span></a>
                                                     </li>
-                                                    <li id="menu-item-728"
-                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-728">
-                                                        <a href="https://hikaripetfood.com/thuc-an-ca-vang/"
+                                                    <li id="menu-item-1656"
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1656">
+                                                        <a href="/products?category=1"
                                                             class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                     class="ast-arrow-svg"
                                                                     xmlns="http://www.w3.org/2000/svg"
@@ -315,11 +312,11 @@
                                                                     <path
                                                                         d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
                                                                 </svg></span><span class="menu-text">Cá
-                                                                vàng</span></a>
+                                                                Koi</span></a>
                                                     </li>
-                                                    <li id="menu-item-729"
-                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-729">
-                                                        <a href="https://hikaripetfood.com/thuc-an-ca-nhiet-doi/"
+                                                    <li id="menu-item-1656"
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1656">
+                                                        <a href="/products?category=1"
                                                             class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                     class="ast-arrow-svg"
                                                                     xmlns="http://www.w3.org/2000/svg"
@@ -331,58 +328,12 @@
                                                                     <path
                                                                         d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
                                                                 </svg></span><span class="menu-text">Cá
-                                                                nhiệt đới</span></a>
+                                                                Koi</span></a>
                                                     </li>
-                                                    <li id="menu-item-731"
-                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-731">
-                                                        <a href="https://hikaripetfood.com/thuc-an-bo-sat/"
-                                                            class="menu-link"><span class="ast-icon icon-arrow"><svg
-                                                                    class="ast-arrow-svg"
-                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                    version="1.1" x="0px" y="0px" width="26px"
-                                                                    height="16.043px" viewBox="57 35.171 26 16.043"
-                                                                    enable-background="new 57 35.171 26 16.043"
-                                                                    xml:space="preserve">
-                                                                    <path
-                                                                        d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                                </svg></span><span class="menu-text">Bò
-                                                                sát</span></a>
-                                                    </li>
-                                                    <li id="menu-item-733"
-                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-733">
-                                                        <a href="https://hikaripetfood.com/thuc-an-chim/"
-                                                            class="menu-link"><span class="ast-icon icon-arrow"><svg
-                                                                    class="ast-arrow-svg"
-                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                    version="1.1" x="0px" y="0px" width="26px"
-                                                                    height="16.043px" viewBox="57 35.171 26 16.043"
-                                                                    enable-background="new 57 35.171 26 16.043"
-                                                                    xml:space="preserve">
-                                                                    <path
-                                                                        d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                                </svg></span><span class="menu-text">Chim</span></a>
-                                                    </li>
-                                                    <li id="menu-item-732"
-                                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-732">
-                                                        <a href="https://hikaripetfood.com/thuc-an-dong-vat-nho/"
-                                                            class="menu-link"><span class="ast-icon icon-arrow"><svg
-                                                                    class="ast-arrow-svg"
-                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                    version="1.1" x="0px" y="0px" width="26px"
-                                                                    height="16.043px" viewBox="57 35.171 26 16.043"
-                                                                    enable-background="new 57 35.171 26 16.043"
-                                                                    xml:space="preserve">
-                                                                    <path
-                                                                        d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                                </svg></span><span class="menu-text">Động
-                                                                vật nhỏ</span></a>
-                                                    </li>
+
                                                     <li id="menu-item-794"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-794">
-                                                        <a href="https://hikaripetfood.com/blog/"
+                                                        <a href="/services"
                                                             class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                     class="ast-arrow-svg"
                                                                     xmlns="http://www.w3.org/2000/svg"
@@ -393,7 +344,7 @@
                                                                     xml:space="preserve">
                                                                     <path
                                                                         d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                                </svg></span><span class="menu-text">Blog<span
+                                                                </svg></span><span class="menu-text">Dịch vụ<span
                                                                     role="application"
                                                                     class="dropdown-menu-toggle ast-header-navigation-arrow"
                                                                     tabindex="0" aria-expanded="false"
@@ -401,21 +352,13 @@
                                                                 role="application"
                                                                 class="dropdown-menu-toggle ast-header-navigation-arrow"
                                                                 tabindex="0" aria-expanded="false"
-                                                                aria-label="Menu Toggle"><span
-                                                                    class="ast-icon icon-arrow"><svg
-                                                                        class="ast-arrow-svg"
-                                                                        xmlns="http://www.w3.org/2000/svg"
-                                                                        xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                        version="1.1" x="0px" y="0px" width="26px"
-                                                                        height="16.043px" viewBox="57 35.171 26 16.043"
-                                                                        enable-background="new 57 35.171 26 16.043"
-                                                                        xml:space="preserve">
-                                                                        <path
-                                                                            d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                                    </svg></span></span></a><button
-                                                            class="ast-menu-toggle" aria-expanded="false"><span
-                                                                class="screen-reader-text">Menu
-                                                                Toggle</span><span class="ast-icon icon-arrow"><svg
+                                                                aria-label="Menu Toggle"></span></a>
+
+                                                    </li>
+                                                    <li id="menu-item-794"
+                                                        class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-794">
+                                                        <a href="/blogs"
+                                                            class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                     class="ast-arrow-svg"
                                                                     xmlns="http://www.w3.org/2000/svg"
                                                                     xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -425,124 +368,20 @@
                                                                     xml:space="preserve">
                                                                     <path
                                                                         d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                                </svg></span></button>
-                                                        <ul class="sub-menu">
-                                                            <li id="menu-item-795"
-                                                                class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-795">
-                                                                <a href="https://hikaripetfood.com/blog/chu-de-ca-koi/"
-                                                                    class="menu-link"><span
-                                                                        class="ast-icon icon-arrow"><svg
-                                                                            class="ast-arrow-svg"
-                                                                            xmlns="http://www.w3.org/2000/svg"
-                                                                            xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                            version="1.1" x="0px" y="0px" width="26px"
-                                                                            height="16.043px"
-                                                                            viewBox="57 35.171 26 16.043"
-                                                                            enable-background="new 57 35.171 26 16.043"
-                                                                            xml:space="preserve">
-                                                                            <path
-                                                                                d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                                        </svg></span><span class="menu-text">Chủ đề cá
-                                                                        Koi</span></a>
-                                                            </li>
-                                                            <li id="menu-item-797"
-                                                                class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-797">
-                                                                <a href="https://hikaripetfood.com/blog/chu-de-ca-vang/"
-                                                                    class="menu-link"><span
-                                                                        class="ast-icon icon-arrow"><svg
-                                                                            class="ast-arrow-svg"
-                                                                            xmlns="http://www.w3.org/2000/svg"
-                                                                            xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                            version="1.1" x="0px" y="0px" width="26px"
-                                                                            height="16.043px"
-                                                                            viewBox="57 35.171 26 16.043"
-                                                                            enable-background="new 57 35.171 26 16.043"
-                                                                            xml:space="preserve">
-                                                                            <path
-                                                                                d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                                        </svg></span><span class="menu-text">Chủ đề cá
-                                                                        Vàng</span></a>
-                                                            </li>
-                                                            <li id="menu-item-796"
-                                                                class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-796">
-                                                                <a href="https://hikaripetfood.com/blog/chu-de-ca-nhiet-doi/"
-                                                                    class="menu-link"><span
-                                                                        class="ast-icon icon-arrow"><svg
-                                                                            class="ast-arrow-svg"
-                                                                            xmlns="http://www.w3.org/2000/svg"
-                                                                            xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                            version="1.1" x="0px" y="0px" width="26px"
-                                                                            height="16.043px"
-                                                                            viewBox="57 35.171 26 16.043"
-                                                                            enable-background="new 57 35.171 26 16.043"
-                                                                            xml:space="preserve">
-                                                                            <path
-                                                                                d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                                        </svg></span><span class="menu-text">Chủ đề cá
-                                                                        nhiệt
-                                                                        đới</span></a>
-                                                            </li>
-                                                            <li id="menu-item-799"
-                                                                class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-799">
-                                                                <a href="https://hikaripetfood.com/blog/chu-de-ve-bo-sat/"
-                                                                    class="menu-link"><span
-                                                                        class="ast-icon icon-arrow"><svg
-                                                                            class="ast-arrow-svg"
-                                                                            xmlns="http://www.w3.org/2000/svg"
-                                                                            xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                            version="1.1" x="0px" y="0px" width="26px"
-                                                                            height="16.043px"
-                                                                            viewBox="57 35.171 26 16.043"
-                                                                            enable-background="new 57 35.171 26 16.043"
-                                                                            xml:space="preserve">
-                                                                            <path
-                                                                                d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                                        </svg></span><span class="menu-text">Chủ đề về
-                                                                        bò
-                                                                        sát</span></a>
-                                                            </li>
-                                                            <li id="menu-item-800"
-                                                                class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-800">
-                                                                <a href="https://hikaripetfood.com/blog/chu-de-ve-chim/"
-                                                                    class="menu-link"><span
-                                                                        class="ast-icon icon-arrow"><svg
-                                                                            class="ast-arrow-svg"
-                                                                            xmlns="http://www.w3.org/2000/svg"
-                                                                            xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                            version="1.1" x="0px" y="0px" width="26px"
-                                                                            height="16.043px"
-                                                                            viewBox="57 35.171 26 16.043"
-                                                                            enable-background="new 57 35.171 26 16.043"
-                                                                            xml:space="preserve">
-                                                                            <path
-                                                                                d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                                        </svg></span><span class="menu-text">Chủ đề về
-                                                                        chim</span></a>
-                                                            </li>
-                                                            <li id="menu-item-798"
-                                                                class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-798">
-                                                                <a href="https://hikaripetfood.com/blog/chu-de-dong-vat-nho/"
-                                                                    class="menu-link"><span
-                                                                        class="ast-icon icon-arrow"><svg
-                                                                            class="ast-arrow-svg"
-                                                                            xmlns="http://www.w3.org/2000/svg"
-                                                                            xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                            version="1.1" x="0px" y="0px" width="26px"
-                                                                            height="16.043px"
-                                                                            viewBox="57 35.171 26 16.043"
-                                                                            enable-background="new 57 35.171 26 16.043"
-                                                                            xml:space="preserve">
-                                                                            <path
-                                                                                d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                                        </svg></span><span class="menu-text">Chủ đề động
-                                                                        vật
-                                                                        nhỏ</span></a>
-                                                            </li>
-                                                        </ul>
+                                                                </svg></span><span class="menu-text">Tin tức<span
+                                                                    role="application"
+                                                                    class="dropdown-menu-toggle ast-header-navigation-arrow"
+                                                                    tabindex="0" aria-expanded="false"
+                                                                    aria-label="Menu Toggle"></span></span><span
+                                                                role="application"
+                                                                class="dropdown-menu-toggle ast-header-navigation-arrow"
+                                                                tabindex="0" aria-expanded="false"
+                                                                aria-label="Menu Toggle"></span></a>
+
                                                     </li>
                                                     <li id="menu-item-809"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-809">
-                                                        <a href="https://hikaripetfood.com/lien-he/"
+                                                        <a href="/contact"
                                                             class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                     class="ast-arrow-svg"
                                                                     xmlns="http://www.w3.org/2000/svg"
@@ -608,8 +447,8 @@
                             data-section="title_tagline">
                             <div class="site-branding ast-site-identity" itemtype="https://schema.org/Organization"
                                 itemscope="itemscope">
-                                <h1 class="site-logo-img"><a href="https://hikaripetfood.com/" class="custom-logo-link"
-                                        rel="home" aria-current="page"><img width="85" height="56"
+                                <h1 class="site-logo-img"><a href="/" class="custom-logo-link" rel="home"
+                                        aria-current="page"><img width="85" height="56"
                                             src="/assets/wp-content/uploads/2023/05/logo-thuc-an-hikari-blue-85x56.png"
                                             class="custom-logo"
                                             alt="Hikari Pet Food &#8211; Thức ăn thú cưng cao cấp đến từ Nhật Bản"
@@ -617,7 +456,7 @@
                                 </h1>
                                 <div class="ast-site-title-wrap">
                                     <h1 class="site-title" itemprop="name">
-                                        <a href="https://hikaripetfood.com/" rel="home" itemprop="url">
+                                        <a href="/" rel="home" itemprop="url">
                                             Hikari Pet Food - Thức ăn thú cưng cao cấp đến từ Nhật Bản
                                         </a>
                                     </h1>
@@ -735,16 +574,15 @@
                                     data-section="title_tagline">
                                     <div class="site-branding ast-site-identity"
                                         itemtype="https://schema.org/Organization" itemscope="itemscope">
-                                        <h1 class="site-logo-img"><a href="https://hikaripetfood.com/"
-                                                class="custom-logo-link" rel="home" aria-current="page"><img width="85"
-                                                    height="56"
+                                        <h1 class="site-logo-img"><a href="/" class="custom-logo-link" rel="home"
+                                                aria-current="page"><img width="85" height="56"
                                                     src="/assets/wp-content/uploads/2023/05/logo-thuc-an-hikari-blue-85x56.png"
                                                     class="custom-logo"
                                                     alt="Hikari Pet Food &#8211; Thức ăn thú cưng cao cấp đến từ Nhật Bản"
                                                     decoding="async" sizes="(max-width: 85px) 100vw, 85px" /></a></h1>
                                         <div class="ast-site-title-wrap">
                                             <h1 class="site-title" itemprop="name">
-                                                <a href="https://hikaripetfood.com/" rel="home" itemprop="url">
+                                                <a href="/" rel="home" itemprop="url">
                                                     Hikari Pet Food - Thức ăn thú cưng cao cấp đến từ Nhật
                                                     Bản
                                                 </a>
@@ -783,9 +621,8 @@
                                                                         <div class="jet-ajax-search"
                                                                             data-settings="{&quot;symbols_for_start_searching&quot;:2,&quot;search_by_empty_value&quot;:&quot;&quot;,&quot;submit_on_enter&quot;:&quot;&quot;,&quot;search_source&quot;:[&quot;product&quot;],&quot;search_logging&quot;:&quot;&quot;,&quot;search_results_url&quot;:&quot;&quot;,&quot;search_taxonomy&quot;:&quot;&quot;,&quot;include_terms_ids&quot;:[],&quot;exclude_terms_ids&quot;:[],&quot;exclude_posts_ids&quot;:[],&quot;custom_fields_source&quot;:&quot;&quot;,&quot;limit_query&quot;:5,&quot;limit_query_tablet&quot;:&quot;&quot;,&quot;limit_query_mobile&quot;:&quot;&quot;,&quot;limit_query_in_result_area&quot;:25,&quot;results_order_by&quot;:&quot;relevance&quot;,&quot;results_order&quot;:&quot;asc&quot;,&quot;sentence&quot;:&quot;&quot;,&quot;search_in_taxonomy&quot;:&quot;&quot;,&quot;search_in_taxonomy_source&quot;:&quot;&quot;,&quot;results_area_width_by&quot;:&quot;form&quot;,&quot;results_area_custom_width&quot;:&quot;&quot;,&quot;results_area_custom_position&quot;:&quot;&quot;,&quot;thumbnail_visible&quot;:&quot;yes&quot;,&quot;thumbnail_size&quot;:&quot;thumbnail&quot;,&quot;thumbnail_placeholder&quot;:{&quot;url&quot;:&quot;https:\/\/hikaripetfood.com\/wp-content\/plugins\/elementor\/assets\/images\/placeholder.png&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;post_content_source&quot;:&quot;content&quot;,&quot;post_content_custom_field_key&quot;:&quot;&quot;,&quot;post_content_length&quot;:0,&quot;show_product_price&quot;:&quot;yes&quot;,&quot;show_product_rating&quot;:&quot;&quot;,&quot;show_result_new_tab&quot;:&quot;&quot;,&quot;highlight_searched_text&quot;:&quot;&quot;,&quot;bullet_pagination&quot;:&quot;&quot;,&quot;number_pagination&quot;:&quot;&quot;,&quot;navigation_arrows&quot;:&quot;in_header&quot;,&quot;navigation_arrows_type&quot;:&quot;angle&quot;,&quot;show_title_related_meta&quot;:&quot;&quot;,&quot;meta_title_related_position&quot;:&quot;&quot;,&quot;title_related_meta&quot;:&quot;&quot;,&quot;show_content_related_meta&quot;:&quot;&quot;,&quot;meta_content_related_position&quot;:&quot;&quot;,&quot;content_related_meta&quot;:&quot;&quot;,&quot;negative_search&quot;:&quot;Xin l\u1ed7i, nh\u01b0ng kh\u00f4ng c\u00f3 g\u00ec ph\u00f9 h\u1ee3p v\u1edbi \u0111i\u1ec1u ki\u1ec7n t\u00ecm ki\u1ebfm c\u1ee7a b\u1ea1n.&quot;,&quot;server_error&quot;:&quot;Xin l\u1ed7i, nh\u01b0ng ch\u00fang t\u00f4i kh\u00f4ng th\u1ec3 x\u1eed l\u00fd truy v\u1ea5n t\u00ecm ki\u1ebfm c\u1ee7a b\u1ea1n b\u00e2y gi\u1edd. Vui l\u00f2ng th\u1eed l\u1ea1i sau!&quot;,&quot;catalog_visibility&quot;:&quot;&quot;}">
                                                                             <form class="jet-ajax-search__form"
-                                                                                method="get"
-                                                                                action="https://hikaripetfood.com/"
-                                                                                role="search" target="">
+                                                                                method="get" action="/" role="search"
+                                                                                target="">
                                                                                 <div
                                                                                     class="jet-ajax-search__fields-holder">
                                                                                     <div
@@ -1003,8 +840,8 @@
                                                         class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex  submenu-with-border stack-on-mobile ast-mega-menu-enabled">
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-793">
-                                                            <a href="https://hikaripetfood.com/gioi-thieu/"
-                                                                class="menu-link"><span class="ast-icon icon-arrow"><svg
+                                                            <a href="/" class="menu-link"><span
+                                                                    class="ast-icon icon-arrow"><svg
                                                                         class="ast-arrow-svg"
                                                                         xmlns="http://www.w3.org/2000/svg"
                                                                         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -1014,8 +851,8 @@
                                                                         xml:space="preserve">
                                                                         <path
                                                                             d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                                    </svg></span><span class="menu-text">Giới
-                                                                    thiệu</span></a>
+                                                                    </svg></span><span class="menu-text">Trang chủ
+                                                                </span></a>
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1656">
@@ -1278,7 +1115,7 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-809">
-                                                            <a href="https://hikaripetfood.com/lien-he/"
+                                                            <a href="/contact"
                                                                 class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                         class="ast-arrow-svg"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -1345,16 +1182,15 @@
                                 data-section="title_tagline">
                                 <div class="site-branding ast-site-identity" itemtype="https://schema.org/Organization"
                                     itemscope="itemscope">
-                                    <h1 class="site-logo-img"><a href="https://hikaripetfood.com/"
-                                            class="custom-logo-link" rel="home" aria-current="page"><img width="85"
-                                                height="56"
+                                    <h1 class="site-logo-img"><a href="/" class="custom-logo-link" rel="home"
+                                            aria-current="page"><img width="85" height="56"
                                                 src="/assets/wp-content/uploads/2023/05/logo-thuc-an-hikari-blue-85x56.png"
                                                 class="custom-logo"
                                                 alt="Hikari Pet Food &#8211; Thức ăn thú cưng cao cấp đến từ Nhật Bản"
                                                 decoding="async" sizes="(max-width: 85px) 100vw, 85px" /></a></h1>
                                     <div class="ast-site-title-wrap">
                                         <h1 class="site-title" itemprop="name">
-                                            <a href="https://hikaripetfood.com/" rel="home" itemprop="url">
+                                            <a href="/" rel="home" itemprop="url">
                                                 Hikari Pet Food - Thức ăn thú cưng cao cấp đến từ Nhật Bản
                                             </a>
                                         </h1>

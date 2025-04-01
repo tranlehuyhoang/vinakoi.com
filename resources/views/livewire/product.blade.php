@@ -6869,117 +6869,11 @@
                                                                     class="elementor-add-to-cart elementor-product-variable">
 
                                                                     <form class="variations_form cart"
-                                                                        action="https://hikaripetfood.com/hikari-economy/"
-                                                                        method="post" enctype='multipart/form-data'
-                                                                        data-product_id="1893"
-                                                                        data-product_variations="[{&quot;attributes&quot;:{&quot;attribute_pa_dang-vien&quot;:&quot;l&quot;,&quot;attribute_pa_size&quot;:&quot;4kg&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock in-stock\&quot;&gt;C\u00f2n h\u00e0ng&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:440000,&quot;display_regular_price&quot;:440000,&quot;image&quot;:{&quot;title&quot;:&quot;Hikari Economy - 4kg&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg.jpg&quot;,&quot;alt&quot;:&quot;Hikari Economy - 4kg&quot;,&quot;src&quot;:&quot;https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-600x600.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-600x600.jpg 600w, https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-768x768.jpg 768w, https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-1536x1536.jpg 1536w, https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-300x300.jpg 300w, https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-100x100.jpg 100w, https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-50x50.jpg 50w, https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg.jpg 1701w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg.jpg&quot;,&quot;full_src_w&quot;:1701,&quot;full_src_h&quot;:1701,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-300x300.jpg&quot;,&quot;thumb_src_w&quot;:300,&quot;thumb_src_h&quot;:300,&quot;src_w&quot;:600,&quot;src_h&quot;:600},&quot;image_id&quot;:1896,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&lt;span class=\&quot;price\&quot;&gt;&lt;span class=\&quot;woocommerce-Price-amount amount\&quot;&gt;&lt;bdi&gt;440.000&lt;span class=\&quot;woocommerce-Price-currencySymbol\&quot;&gt;&amp;#8363;&lt;\/span&gt;&lt;\/bdi&gt;&lt;\/span&gt;&lt;\/span&gt;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:1996,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;&quot;,&quot;weight_html&quot;:&quot;N\/A&quot;},{&quot;attributes&quot;:{&quot;attribute_pa_dang-vien&quot;:&quot;l&quot;,&quot;attribute_pa_size&quot;:&quot;16kg&quot;},&quot;availability_html&quot;:&quot;&lt;p class=\&quot;stock in-stock\&quot;&gt;C\u00f2n h\u00e0ng&lt;\/p&gt;\n&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:1760000,&quot;display_regular_price&quot;:1760000,&quot;image&quot;:{&quot;title&quot;:&quot;Hikari Economy - 4kg&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg.jpg&quot;,&quot;alt&quot;:&quot;Hikari Economy - 4kg&quot;,&quot;src&quot;:&quot;https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-600x600.jpg&quot;,&quot;srcset&quot;:&quot;https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-600x600.jpg 600w, https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-768x768.jpg 768w, https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-1536x1536.jpg 1536w, https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-300x300.jpg 300w, https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-100x100.jpg 100w, https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-50x50.jpg 50w, https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg.jpg 1701w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg.jpg&quot;,&quot;full_src_w&quot;:1701,&quot;full_src_h&quot;:1701,&quot;gallery_thumbnail_src&quot;:&quot;https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;https:\/\/hikaripetfood.com\/wp-content\/uploads\/2023\/08\/Hikari-Economy-4kg-300x300.jpg&quot;,&quot;thumb_src_w&quot;:300,&quot;thumb_src_h&quot;:300,&quot;src_w&quot;:600,&quot;src_h&quot;:600},&quot;image_id&quot;:1896,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&lt;span class=\&quot;price\&quot;&gt;&lt;span class=\&quot;woocommerce-Price-amount amount\&quot;&gt;&lt;bdi&gt;1.760.000&lt;span class=\&quot;woocommerce-Price-currencySymbol\&quot;&gt;&amp;#8363;&lt;\/span&gt;&lt;\/bdi&gt;&lt;\/span&gt;&lt;\/span&gt;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:1997,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;&quot;,&quot;weight_html&quot;:&quot;N\/A&quot;}]">
+                                                                  >
                                                                         <div data-product_id="1893"
                                                                             data-threshold_min="30"
                                                                             data-threshold_max="100" data-total="2">
-                                                                            <table class="variations" cellspacing="0"
-                                                                                role="presentation">
-                                                                                <tbody>
-                                                                                    <tr>
-                                                                                        <th class="label"><label
-                                                                                                for="pa_dang-vien">Dạng
-                                                                                                viên</label></th>
-                                                                                        <td class="value">
-                                                                                            <select style="display:none"
-                                                                                                id="pa_dang-vien"
-                                                                                                class=" woo-variation-raw-select"
-                                                                                                name="attribute_pa_dang-vien"
-                                                                                                data-attribute_name="attribute_pa_dang-vien"
-                                                                                                data-show_option_none="yes">
-                                                                                                <option value="">Chọn
-                                                                                                    một tùy chọn
-                                                                                                </option>
-                                                                                                <option value="l">L
-                                                                                                </option>
-                                                                                            </select>
-                                                                                            <ul role="radiogroup"
-                                                                                                aria-label="Dạng viên"
-                                                                                                class="variable-items-wrapper button-variable-items-wrapper wvs-style-squared"
-                                                                                                data-attribute_name="attribute_pa_dang-vien"
-                                                                                                data-attribute_values="[&quot;l&quot;]">
-                                                                                                <li aria-checked="false"
-                                                                                                    tabindex="0"
-                                                                                                    data-wvstooltip="L"
-                                                                                                    class="variable-item button-variable-item button-variable-item-l "
-                                                                                                    title="L"
-                                                                                                    data-title="L"
-                                                                                                    data-value="l"
-                                                                                                    role="radio"
-                                                                                                    tabindex="0">
-                                                                                                    <div
-                                                                                                        class="variable-item-contents">
-                                                                                                        <span
-                                                                                                            class="variable-item-span variable-item-span-button">L</span>
-                                                                                                    </div>
-                                                                                                </li>
-                                                                                            </ul>
-                                                                                        </td>
-                                                                                    </tr>
-                                                                                    <tr>
-                                                                                        <th class="label"><label
-                                                                                                for="pa_size">Size</label>
-                                                                                        </th>
-                                                                                        <td class="value">
-                                                                                            <select style="display:none"
-                                                                                                id="pa_size"
-                                                                                                class=" woo-variation-raw-select"
-                                                                                                name="attribute_pa_size"
-                                                                                                data-attribute_name="attribute_pa_size"
-                                                                                                data-show_option_none="yes">
-                                                                                                <option value="">Chọn
-                                                                                                    một tùy chọn
-                                                                                                </option>
-                                                                                                <option value="16kg">
-                                                                                                    16kg</option>
-                                                                                                <option value="4kg">4kg
-                                                                                                </option>
-                                                                                            </select>
-                                                                                            <ul role="radiogroup"
-                                                                                                aria-label="Size"
-                                                                                                class="variable-items-wrapper button-variable-items-wrapper wvs-style-squared"
-                                                                                                data-attribute_name="attribute_pa_size"
-                                                                                                data-attribute_values="[&quot;4kg&quot;,&quot;16kg&quot;]">
-                                                                                                <li aria-checked="false"
-                                                                                                    tabindex="0"
-                                                                                                    data-wvstooltip="16kg"
-                                                                                                    class="variable-item button-variable-item button-variable-item-16kg "
-                                                                                                    title="16kg"
-                                                                                                    data-title="16kg"
-                                                                                                    data-value="16kg"
-                                                                                                    role="radio"
-                                                                                                    tabindex="0">
-                                                                                                    <div
-                                                                                                        class="variable-item-contents">
-                                                                                                        <span
-                                                                                                            class="variable-item-span variable-item-span-button">16kg</span>
-                                                                                                    </div>
-                                                                                                </li>
-                                                                                                <li aria-checked="false"
-                                                                                                    tabindex="0"
-                                                                                                    data-wvstooltip="4kg"
-                                                                                                    class="variable-item button-variable-item button-variable-item-4kg "
-                                                                                                    title="4kg"
-                                                                                                    data-title="4kg"
-                                                                                                    data-value="4kg"
-                                                                                                    role="radio"
-                                                                                                    tabindex="0">
-                                                                                                    <div
-                                                                                                        class="variable-item-contents">
-                                                                                                        <span
-                                                                                                            class="variable-item-span variable-item-span-button">4kg</span>
-                                                                                                    </div>
-                                                                                                </li>
-                                                                                            </ul><a
-                                                                                                class="reset_variations"
-                                                                                                href="#">Xóa</a>
-                                                                                        </td>
-                                                                                    </tr>
-                                                                                </tbody>
-                                                                            </table>
+
 
                                                                             <div class="single_variation_wrap">
                                                                                 <div
@@ -7005,8 +6899,7 @@
                                                                                     </div>
 
                                                                                     <button type="submit"
-                                                                                        class="single_add_to_cart_button button alt">Thêm
-                                                                                        vào giỏ hàng</button>
+                                                                                        class=" button alt">Liên hệ để mua hàng</button>
 
                                                                                     <style>
                                                                                         .devvn-quickbuy button.single_add_to_cart_button.loading:after {
@@ -7040,9 +6933,6 @@
                                                                                             width: 16px;
                                                                                         }
                                                                                     </style>
-                                                                                    <button type="button"
-                                                                                        class="button buy_now_button">
-                                                                                        Mua ngay </button>
                                                                                     <input type="hidden"
                                                                                         name="is_buy_now"
                                                                                         class="is_buy_now" value="0"
@@ -7113,59 +7003,7 @@
                                                                         dành cho cá koi mang lại chất lượng và giá trị
                                                                         mà chỉ người dẫn đầu thị trường mới có thể phát
                                                                         triển.</p>
-                                                                    <div class="ast-oembed-container"
-                                                                        style="height: 100%;"><iframe
-                                                                            title="Hikari economy {L}/bongkar 1 zak/koi food"
-                                                                            width="1200" height="675"
-                                                                            src="https://www.youtube.com/embed/Tc6B8Vx1wJc?feature=oembed"
-                                                                            frameborder="0"
-                                                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                                                            allowfullscreen></iframe></div>
-                                                                    <div id="ftwp-container-outer"
-                                                                        class="ftwp-in-post ftwp-float-none">
-                                                                        <div id="ftwp-container"
-                                                                            class="ftwp-wrap ftwp-hidden-state ftwp-minimize ftwp-middle-left">
-                                                                            <button type="button" id="ftwp-trigger"
-                                                                                class="ftwp-shape-round ftwp-border-medium"
-                                                                                title="click To Maximize The Table Of Contents"><span
-                                                                                    class="ftwp-trigger-icon ftwp-icon-number"></span></button>
-                                                                            <nav id="ftwp-contents"
-                                                                                class="ftwp-shape-square ftwp-border-medium">
-                                                                                <header id="ftwp-header"><span
-                                                                                        id="ftwp-header-control"
-                                                                                        class="ftwp-icon-number"></span><button
-                                                                                        type="button"
-                                                                                        id="ftwp-header-minimize"
-                                                                                        class="ftwp-icon-expand"
-                                                                                        aria-labelledby="ftwp-header-title"
-                                                                                        aria-label="Expand or collapse"></button>
-                                                                                    <h2 id="ftwp-header-title">Phụ Lục
-                                                                                    </h2>
-                                                                                </header>
-                                                                                <ol id="ftwp-list"
-                                                                                    class="ftwp-liststyle-decimal ftwp-effect-bounce-to-right ftwp-list-nest ftwp-strong-first ftwp-colexp ftwp-colexp-icon">
-                                                                                    <li class="ftwp-item"><a
-                                                                                            class="ftwp-anchor"
-                                                                                            href="#ftoc-heading-1"><span
-                                                                                                class="ftwp-text">Mô tả
-                                                                                                chi tiết Hikari
-                                                                                                Economy</span></a></li>
-                                                                                    <li class="ftwp-item"><a
-                                                                                            class="ftwp-anchor"
-                                                                                            href="#ftoc-heading-2-2"><span
-                                                                                                class="ftwp-text">Lượng
-                                                                                                thức ăn cho một
-                                                                                                lần</span></a></li>
-                                                                                    <li class="ftwp-item"><a
-                                                                                            class="ftwp-anchor"
-                                                                                            href="#ftoc-heading-8"><span
-                                                                                                class="ftwp-text">Thành
-                                                                                                phần chính</span></a>
-                                                                                    </li>
-                                                                                </ol>
-                                                                            </nav>
-                                                                        </div>
-                                                                    </div>
+
                                                                     <h2 id="ftoc-heading-1"
                                                                         class="ftwp-heading ftwp-heading ftwp-heading ftwp-heading">
                                                                         Mô tả chi tiết Hikari Economy</h2>
