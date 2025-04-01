@@ -6220,9 +6220,6 @@ flexibility(document.documentElement);
                 </filter>
             </defs>
         </svg>
-        <a class="skip-link screen-reader-text" href="#content" role="link" title="Skip to content">
-            Skip to content</a>
-
         <div class="hfeed site" id="page">
             <header
                 class="site-header header-main-layout-1 ast-primary-menu-enabled ast-logo-title-inline ast-hide-custom-menu-mobile ast-builder-menu-toggle-icon ast-mobile-header-inline"

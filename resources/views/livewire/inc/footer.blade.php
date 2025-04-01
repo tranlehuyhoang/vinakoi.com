@@ -1,152 +1,593 @@
-<div>
-    <footer id="footer" class="footer-wrapper">
-
-        <section class="section section-lien-he" id="section_1034845780">
-            <div class="bg section-bg fill bg-fill  bg-loaded">
-
-
-
-
-
-            </div>
-
-            <div class="section-content relative">
-
-
-                <span class="scroll-to" data-label="Scroll to: #lien-he" data-bullet="false"
-                    data-link="#lien-he" data-title="Change this"><a name="lien-he"></a></span>
-
-                <div class="row" id="row-741883748">
-
-
-                    <div id="col-728088041" class="col medium-6 small-12 large-6">
-                        <div class="col-inner">
-
-
-
-                            <h2 class="content-title">LIÊN HỆ VỚI CHÚNG TÔI</h2>
-                            <p><strong>Kết nối với cộng đồng</strong><br />
-                                Chúng tôi rất vui nếu nhận được những góp ý và phản hồi của quý khách. Nếu có
-                                bất cứ câu hỏi nào, quý khách vui lòng điền vào form trên và gửi cho chúng tôi.
-                                Chúng tôi sẽ phản hồi lại quý khách trong thời gian sớm nhất.</p>
-                            <p>Sự ủng hộ và tin tưởng của quý khách hàng là động lực để chúng tôi cố gắng phát
-                                triển , càng ngày càng hoàn thiện hơn trong công việc và dịch vụ chăm sóc khách
-                                hàng.</p>
-                            <div class="row" id="row-1025833237">
-
-
-                                <div id="col-490369858" class="col small-12 large-12">
-                                    <div class="col-inner">
-
-
-
-                                        <div class="text-lien-he">
-                                            <p><i class="fa fa-home"></i><span style="font-weight: 400;">Địa
-                                                    Chỉ: P.21, Q.Bình Thạnh</span></p>
-                                            <p><i class="fa fa-phone"></i> Hotline: <span
-                                                    style="font-weight: 400;"> 0989999999</span></p>
-                                        </div>
-
-                                    </div>
-                                </div>
-
-
-
-                            </div>
-
-                        </div>
+<div data-elementor-type="footer" data-elementor-id="321"
+class="elementor elementor-321 elementor-location-footer" data-elementor-post-type="elementor_library">
+<section
+    class="elementor-section elementor-top-section elementor-element elementor-element-7372fcc elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+    data-id="7372fcc" data-element_type="section"
+    data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+    <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-86a3960"
+            data-id="86a3960" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                <div class="elementor-element elementor-element-b7ac719 elementor-widget elementor-widget-heading"
+                    data-id="b7ac719" data-element_type="widget" data-widget_type="heading.default">
+                    <div class="elementor-widget-container">
+                        <span class="elementor-heading-title elementor-size-default">Mới Nhất</span>
                     </div>
-
-
-
-                    <div id="col-932579009" class="col medium-6 small-12 large-6">
-                        <div class="col-inner">
-
-
-
-                            <div role="form" class="wpcf7" id="wpcf7-f140-o1" lang="vi"
-                                dir="ltr">
-                                <div class="screen-reader-response">
-                                    <p role="status" aria-live="polite" aria-atomic="true"></p>
-                                    <ul></ul>
-                                </div>
-                                <form action="/#wpcf7-f140-o1" method="post" class="wpcf7-form init"
-                                    novalidate="novalidate" data-status="init">
-                                    <div style="display: none;">
-                                        <input type="hidden" name="_wpcf7" value="140" />
-                                        <input type="hidden" name="_wpcf7_version" value="5.4.2" />
-                                        <input type="hidden" name="_wpcf7_locale" value="vi" />
-                                        <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f140-o1" />
-                                        <input type="hidden" name="_wpcf7_container_post" value="0" />
-                                        <input type="hidden" name="_wpcf7_posted_data_hash"
-                                            value="" />
-                                    </div>
-                                    <div class="form-title"> Tên của bạn:</div>
-                                    <p> <span class="wpcf7-form-control-wrap your-name"><input type="text"
-                                                name="your-name" value="" size="40"
-                                                class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                aria-required="true" aria-invalid="false"
-                                                placeholder="Nhập họ tên của bạn..." /></span></p>
-                                    <div class="form-title">Địa chỉ Email:</div>
-                                    <p> <span class="wpcf7-form-control-wrap your-email"><input type="email"
-                                                name="your-email" value="" size="40"
-                                                class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
-                                                aria-required="true" aria-invalid="false"
-                                                placeholder="Nhập địa chỉ email..." /></span></p>
-                                    <div class="form-title">Điện thoại:<br />
-                                        <span class="wpcf7-form-control-wrap your-subject"><input
-                                                type="text" name="your-subject" value=""
-                                                size="40" class="wpcf7-form-control wpcf7-text"
-                                                aria-invalid="false"
-                                                placeholder="Nhập số điện thoại" /></span>
-                                    </div>
-                                    <div class="form-title">Lời nhắn</div>
-                                    <p> <span class="wpcf7-form-control-wrap your-message">
-                                            <textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea"
-                                                aria-invalid="false" placeholder="Nhập lời nhắn của bạn"></textarea>
-                                        </span> </p>
-                                    <p><input type="submit" value="Gửi đi"
-                                            class="wpcf7-form-control wpcf7-submit" /></p>
-                                    <div class="wpcf7-response-output" aria-hidden="true"></div>
-                                </form>
-                            </div>
-
-
-                        </div>
-                    </div>
-
-
-
                 </div>
+                <div class="elementor-element elementor-element-60bf37a elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                    data-id="60bf37a" data-element_type="widget" data-widget_type="divider.default">
+                    <div class="elementor-widget-container">
+                        <style>
+                            /*! elementor - v3.20.0 - 11-03-2024 */
+                            .elementor-widget-divider {
+                                --divider-border-style: none;
+                                --divider-border-width: 1px;
+                                --divider-color: #0c0d0e;
+                                --divider-icon-size: 20px;
+                                --divider-element-spacing: 10px;
+                                --divider-pattern-height: 24px;
+                                --divider-pattern-size: 20px;
+                                --divider-pattern-url: none;
+                                --divider-pattern-repeat: repeat-x
+                            }
 
-            </div>
+                            .elementor-widget-divider .elementor-divider {
+                                display: flex
+                            }
 
+                            .elementor-widget-divider .elementor-divider__text {
+                                font-size: 15px;
+                                line-height: 1;
+                                max-width: 95%
+                            }
 
-            <style>
-                #section_1034845780 {
-                    padding-top: 30px;
-                    padding-bottom: 30px;
-                }
-            </style>
-        </section>
+                            .elementor-widget-divider .elementor-divider__element {
+                                margin: 0 var(--divider-element-spacing);
+                                flex-shrink: 0
+                            }
 
-        <div class="absolute-footer dark medium-text-center text-center">
-            <div class="container clearfix">
+                            .elementor-widget-divider .elementor-icon {
+                                font-size: var(--divider-icon-size)
+                            }
 
+                            .elementor-widget-divider .elementor-divider-separator {
+                                display: flex;
+                                margin: 0;
+                                direction: ltr
+                            }
 
-                <div class="footer-primary pull-left">
-                    <div class="copyright-footer">
-                        <span style="font-size: 14px; color: #ffffff;"> Thiết kế bởi <strong><a
-                                    style="color: #ffffff;" href="https://aznet.vn" target="_blank"
-                                    rel="noopener">AZnet Việt Nam</a></strong></span>
+                            .elementor-widget-divider--view-line_icon .elementor-divider-separator,
+                            .elementor-widget-divider--view-line_text .elementor-divider-separator {
+                                align-items: center
+                            }
+
+                            .elementor-widget-divider--view-line_icon .elementor-divider-separator:after,
+                            .elementor-widget-divider--view-line_icon .elementor-divider-separator:before,
+                            .elementor-widget-divider--view-line_text .elementor-divider-separator:after,
+                            .elementor-widget-divider--view-line_text .elementor-divider-separator:before {
+                                display: block;
+                                content: "";
+                                border-block-end: 0;
+                                flex-grow: 1;
+                                border-block-start: var(--divider-border-width) var(--divider-border-style) var(--divider-color)
+                            }
+
+                            .elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type {
+                                flex-grow: 0;
+                                flex-shrink: 100
+                            }
+
+                            .elementor-widget-divider--element-align-left .elementor-divider-separator:before {
+                                content: none
+                            }
+
+                            .elementor-widget-divider--element-align-left .elementor-divider__element {
+                                margin-left: 0
+                            }
+
+                            .elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type {
+                                flex-grow: 0;
+                                flex-shrink: 100
+                            }
+
+                            .elementor-widget-divider--element-align-right .elementor-divider-separator:after {
+                                content: none
+                            }
+
+                            .elementor-widget-divider--element-align-right .elementor-divider__element {
+                                margin-right: 0
+                            }
+
+                            .elementor-widget-divider--element-align-start .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type {
+                                flex-grow: 0;
+                                flex-shrink: 100
+                            }
+
+                            .elementor-widget-divider--element-align-start .elementor-divider-separator:before {
+                                content: none
+                            }
+
+                            .elementor-widget-divider--element-align-start .elementor-divider__element {
+                                margin-inline-start: 0
+                            }
+
+                            .elementor-widget-divider--element-align-end .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type {
+                                flex-grow: 0;
+                                flex-shrink: 100
+                            }
+
+                            .elementor-widget-divider--element-align-end .elementor-divider-separator:after {
+                                content: none
+                            }
+
+                            .elementor-widget-divider--element-align-end .elementor-divider__element {
+                                margin-inline-end: 0
+                            }
+
+                            .elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator {
+                                border-block-start: var(--divider-border-width) var(--divider-border-style) var(--divider-color)
+                            }
+
+                            .elementor-widget-divider--separator-type-pattern {
+                                --divider-border-style: none
+                            }
+
+                            .elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,
+                            .elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,
+                            .elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,
+                            .elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator {
+                                width: 100%;
+                                min-height: var(--divider-pattern-height);
+                                -webkit-mask-size: var(--divider-pattern-size) 100%;
+                                mask-size: var(--divider-pattern-size) 100%;
+                                -webkit-mask-repeat: var(--divider-pattern-repeat);
+                                mask-repeat: var(--divider-pattern-repeat);
+                                background-color: var(--divider-color);
+                                -webkit-mask-image: var(--divider-pattern-url);
+                                mask-image: var(--divider-pattern-url)
+                            }
+
+                            .elementor-widget-divider--no-spacing {
+                                --divider-pattern-size: auto
+                            }
+
+                            .elementor-widget-divider--bg-round {
+                                --divider-pattern-repeat: round
+                            }
+
+                            .rtl .elementor-widget-divider .elementor-divider__text {
+                                direction: rtl
+                            }
+
+                            .e-con-inner>.elementor-widget-divider,
+                            .e-con>.elementor-widget-divider {
+                                width: var(--container-widget-width, 100%);
+                                --flex-grow: var(--container-widget-flex-grow)
+                            }
+                        </style>
+                        <div class="elementor-divider">
+                            <span class="elementor-divider-separator">
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-9462209 elementor-widget elementor-widget-wp-widget-woocommerce_products"
+                    data-id="9462209" data-element_type="widget"
+                    data-widget_type="wp-widget-woocommerce_products.default">
+                    <div class="elementor-widget-container">
+                        <div class="woocommerce widget_products">
+                            <ul class="product_list_widget">
+                                <li>
+
+                                    <a href="https://hikaripetfood.com/blood-red-parrot/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/06/blood-red-parrot-thuc-an-cho-ca-hong-ket-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Blood-Red Parrot+</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>238.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+                                <li>
+
+                                    <a href="https://hikaripetfood.com/hikari-goldfish-staple/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari-Goldfish-Gold-Baby-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Hikari Goldfish Staple Baby Pellet" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Hikari Goldfish Staple Baby
+                                            Pellet</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>132.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+                                <li>
+
+                                    <a href="https://hikaripetfood.com/hikari-sinking-cichlid-gold/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari-Cichlid-Cichlid-Gold-Sinking-342g-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Hikari Cichlid Sinking Gold" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Hikari Sinking Cichlid Gold</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>49.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                    &ndash; <span
+                                        class="woocommerce-Price-amount amount"><bdi>144.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+                                <li>
+
+                                    <a href="https://hikaripetfood.com/hikari-friend/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Hikari Friend Medium 10kg" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Hikari Friend</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>1.035.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+        <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0058317"
+            data-id="0058317" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                <div class="elementor-element elementor-element-99c836e elementor-widget elementor-widget-heading"
+                    data-id="99c836e" data-element_type="widget" data-widget_type="heading.default">
+                    <div class="elementor-widget-container">
+                        <span class="elementor-heading-title elementor-size-default">Mua Nhiều</span>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-2e7ff1d elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                    data-id="2e7ff1d" data-element_type="widget" data-widget_type="divider.default">
+                    <div class="elementor-widget-container">
+                        <div class="elementor-divider">
+                            <span class="elementor-divider-separator">
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-66cff4e elementor-widget elementor-widget-wp-widget-woocommerce_products"
+                    data-id="66cff4e" data-element_type="widget"
+                    data-widget_type="wp-widget-woocommerce_products.default">
+                    <div class="elementor-widget-container">
+                        <div class="woocommerce widget_products">
+                            <ul class="product_list_widget">
+                                <li>
 
-        <a href="#top"
-            class="back-to-top button icon invert plain fixed bottom z-1 is-outline hide-for-medium circle"
-            id="top-link" aria-label="Go to top"><i class="icon-angle-up"></i></a>
+                                    <a href="https://hikaripetfood.com/hikari-tropical-vibra-bites/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Hikari Tropical Vibra Bites - 73g" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                    </a>
 
-    </footer>
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>98.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                    &ndash; <span
+                                        class="woocommerce-Price-amount amount"><bdi>858.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+                                <li>
+
+                                    <a
+                                        href="https://hikaripetfood.com/hikari-cichlid-cichlid-bio-gold/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari-Cichlid-Cichlid-Bio-Gold250g-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Hikari-Cichlid-Cichlid-Bio-Gold250g" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Hikari Cichlid Cichlid
+                                            Bio-Gold+</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>193.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+                                <li>
+
+                                    <a href="https://hikaripetfood.com/saki-hikari-growth-floating/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/06/saki-hikari-growth-floating-5kg-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Saki Hikari Growth Floating Medium pellets Fish Food 5kg size M"
+                                            decoding="async" sizes="(max-width: 300px) 100vw, 300px" />
+                                        <span class="product-title">Saki-Hikari Growth Floating</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>778.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                    &ndash; <span
+                                        class="woocommerce-Price-amount amount"><bdi>5.899.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+                                <li>
+
+                                    <a href="https://hikaripetfood.com/hikari-gold/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/08/hikari-gold-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Hikari Gold - Cám cá Koi giúp tăng màu cải thiện tốc độ tăng trưởng"
+                                            decoding="async" sizes="(max-width: 300px) 100vw, 300px" />
+                                        <span class="product-title">Hikari Gold</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>150.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                    &ndash; <span
+                                        class="woocommerce-Price-amount amount"><bdi>2.282.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1e90c85"
+            data-id="1e90c85" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                <div class="elementor-element elementor-element-75f05d2 elementor-widget elementor-widget-heading"
+                    data-id="75f05d2" data-element_type="widget" data-widget_type="heading.default">
+                    <div class="elementor-widget-container">
+                        <span class="elementor-heading-title elementor-size-default">Nổi Bật</span>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-3f8d19d elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                    data-id="3f8d19d" data-element_type="widget" data-widget_type="divider.default">
+                    <div class="elementor-widget-container">
+                        <div class="elementor-divider">
+                            <span class="elementor-divider-separator">
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-bb6fc81 elementor-widget elementor-widget-wp-widget-woocommerce_products"
+                    data-id="bb6fc81" data-element_type="widget"
+                    data-widget_type="wp-widget-woocommerce_products.default">
+                    <div class="elementor-widget-container">
+                        <div class="woocommerce widget_products">
+                            <ul class="product_list_widget">
+                                <li>
+
+                                    <a href="https://hikaripetfood.com/hikari-planlton/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/05/plankton-middle-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Hikari PLANKTON MIDDLE" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Hikari Planlton</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>310.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+                                <li>
+
+                                    <a href="https://hikaripetfood.com/saki-hikari-growth-floating/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/06/saki-hikari-growth-floating-5kg-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Saki Hikari Growth Floating Medium pellets Fish Food 5kg size M"
+                                            decoding="async" sizes="(max-width: 300px) 100vw, 300px" />
+                                        <span class="product-title">Saki-Hikari Growth Floating</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>778.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                    &ndash; <span
+                                        class="woocommerce-Price-amount amount"><bdi>5.899.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+                                <li>
+
+                                    <a
+                                        href="https://hikaripetfood.com/saki-hikari-fancy-goldfish-color-enhancing/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-color-enhancing-200g-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Saki-Hikari Fancy Goldfish Color
+                                            Enhancing</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>219.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                    &ndash; <span
+                                        class="woocommerce-Price-amount amount"><bdi>848.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+                                <li>
+
+                                    <a href="https://hikaripetfood.com/hikari-goldfish-staple/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari-Goldfish-Gold-Baby-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Hikari Goldfish Staple Baby Pellet" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Hikari Goldfish Staple Baby
+                                            Pellet</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>132.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1d7433a"
+            data-id="1d7433a" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                <div class="elementor-element elementor-element-c589d5e elementor-widget elementor-widget-heading"
+                    data-id="c589d5e" data-element_type="widget" data-widget_type="heading.default">
+                    <div class="elementor-widget-container">
+                        <span class="elementor-heading-title elementor-size-default">Giảm Giá</span>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-bb1c186 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                    data-id="bb1c186" data-element_type="widget" data-widget_type="divider.default">
+                    <div class="elementor-widget-container">
+                        <div class="elementor-divider">
+                            <span class="elementor-divider-separator">
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section
+    class="elementor-section elementor-top-section elementor-element elementor-element-7f054e6 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+    data-id="7f054e6" data-element_type="section"
+    data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+    <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-18b1b87"
+            data-id="18b1b87" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                <div class="elementor-element elementor-element-6e9faad css_tieu_footer elementor-widget elementor-widget-heading"
+                    data-id="6e9faad" data-element_type="widget" data-widget_type="heading.default">
+                    <div class="elementor-widget-container">
+                        <span class="elementor-heading-title elementor-size-default">THỨC ĂN HIKARI -
+                            Thức ăn thú cưng cao cấp đến từ Nhật Bản</span>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-5104ea2 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+                    data-id="5104ea2" data-element_type="widget" data-widget_type="icon-list.default">
+                    <div class="elementor-widget-container">
+                        <link rel="stylesheet"
+                            href="/assets/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">
+                        <ul class="elementor-icon-list-items">
+                            <li class="elementor-icon-list-item">
+                                <span class="elementor-icon-list-text"><b> Địa chỉ</b>: 1 Dương Văn
+                                    Dương, Sơn Kỳ, Tân Phú, TP.HCM </span>
+                            </li>
+                            <li class="elementor-icon-list-item">
+                                <a href="tel:0962980263">
+
+                                    <span class="elementor-icon-list-text"><b> Hotline</b>: 0962 980
+                                        263</span>
+                                </a>
+                            </li>
+                            <li class="elementor-icon-list-item">
+                                <a href="mailto::hikaripetfood@gmail.com">
+
+                                    <span class="elementor-icon-list-text"><b>Email</b>:
+                                        hikaripetfood@gmail.com</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8b8cf10"
+            data-id="8b8cf10" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                <div class="elementor-element elementor-element-cd85711 css_tieu_footer elementor-widget elementor-widget-heading"
+                    data-id="cd85711" data-element_type="widget" data-widget_type="heading.default">
+                    <div class="elementor-widget-container">
+                        <span class="elementor-heading-title elementor-size-default">Chính sách - Điều
+                            khoản</span>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-56dce87 elementor-widget elementor-widget-text-editor"
+                    data-id="56dce87" data-element_type="widget" data-widget_type="text-editor.default">
+                    <div class="elementor-widget-container">
+                        <p><span style="color: #ffffff;"><a style="color: #ffffff;"
+                                    href="https://hikaripetfood.com/chinh-sach/">Chính sách bảo
+                                    hành</a></span></p>
+                        <p><span style="color: #ffffff;"><a style="color: #ffffff;"
+                                    href="https://hikaripetfood.com/chinh-sach/">Chính sách đổi trả
+                                </a></span></p>
+                        <p><span style="color: #ffffff;"><a style="color: #ffffff;"
+                                    href="https://hikaripetfood.com/chinh-sach/">Chính sách bảo
+                                    mật</a></span></p>
+                        <p><a href="https://hikaripetfood.com/lien-he/"><span
+                                    style="color: #ffffff;">Thông tin liên hệ</span></a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-be27333"
+            data-id="be27333" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                <div class="elementor-element elementor-element-7795f81 elementor-widget elementor-widget-text-editor"
+                    data-id="7795f81" data-element_type="widget" data-widget_type="text-editor.default">
+                    <div class="elementor-widget-container">
+                        <a href="//www.dmca.com/Protection/Status.aspx?ID=da5734f1-4877-4420-b82b-9f6cdbd8abef"
+                            title="DMCA.com Protection Status" class="dmca-badge"> <img
+                                src="https://images.dmca.com/Badges/dmca-badge-w100-2x1-02.png?ID=da5734f1-4877-4420-b82b-9f6cdbd8abef"
+                                alt="DMCA.com Protection Status" /></a>
+                        <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section
+    class="elementor-section elementor-top-section elementor-element elementor-element-086bf8b elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+    data-id="086bf8b" data-element_type="section"
+    data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+    <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7036e0b"
+            data-id="7036e0b" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                <div class="elementor-element elementor-element-772fb47 elementor-widget elementor-widget-heading"
+                    data-id="772fb47" data-element_type="widget" data-widget_type="heading.default">
+                    <div class="elementor-widget-container">
+                        <p class="elementor-heading-title elementor-size-default">Copyright 2023 © Thức
+                            Ăn HIKARI . All Rights Reserved.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 </div>
