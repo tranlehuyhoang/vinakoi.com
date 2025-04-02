@@ -856,7 +856,7 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1656">
-                                                            <a href="https://vinakoi.com/thuc-an-ca-koi/"
+                                                            <a href="/thuc-an-ca-koi/"
                                                                 class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                         class="ast-arrow-svg"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -872,7 +872,7 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-728">
-                                                            <a href="https://vinakoi.com/thuc-an-ca-vang/"
+                                                            <a href="/thuc-an-ca-vang/"
                                                                 class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                         class="ast-arrow-svg"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -888,7 +888,7 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-729">
-                                                            <a href="https://vinakoi.com/thuc-an-ca-nhiet-doi/"
+                                                            <a href="/thuc-an-ca-nhiet-doi/"
                                                                 class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                         class="ast-arrow-svg"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -904,7 +904,7 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-731">
-                                                            <a href="https://vinakoi.com/thuc-an-bo-sat/"
+                                                            <a href="/thuc-an-bo-sat/"
                                                                 class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                         class="ast-arrow-svg"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -920,7 +920,7 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-733">
-                                                            <a href="https://vinakoi.com/thuc-an-chim/"
+                                                            <a href="/thuc-an-chim/"
                                                                 class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                         class="ast-arrow-svg"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -935,7 +935,7 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-732">
-                                                            <a href="https://vinakoi.com/thuc-an-dong-vat-nho/"
+                                                            <a href="/thuc-an-dong-vat-nho/"
                                                                 class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                         class="ast-arrow-svg"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -951,7 +951,7 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-794">
-                                                            <a href="https://vinakoi.com/blog/"
+                                                            <a href="/blog/"
                                                                 class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                         class="ast-arrow-svg"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -999,7 +999,7 @@
                                                             <ul class="sub-menu">
                                                                 <li
                                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-795">
-                                                                    <a href="https://vinakoi.com/blog/chu-de-ca-koi/"
+                                                                    <a href="/blog/chu-de-ca-koi/"
                                                                         class="menu-link"><span
                                                                             class="ast-icon icon-arrow"><svg
                                                                                 class="ast-arrow-svg"
@@ -1018,7 +1018,7 @@
                                                                 </li>
                                                                 <li
                                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-797">
-                                                                    <a href="https://vinakoi.com/blog/chu-de-ca-vang/"
+                                                                    <a href="/blog/chu-de-ca-vang/"
                                                                         class="menu-link"><span
                                                                             class="ast-icon icon-arrow"><svg
                                                                                 class="ast-arrow-svg"
@@ -1037,7 +1037,7 @@
                                                                 </li>
                                                                 <li
                                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-796">
-                                                                    <a href="https://vinakoi.com/blog/chu-de-ca-nhiet-doi/"
+                                                                    <a href="/blog/chu-de-ca-nhiet-doi/"
                                                                         class="menu-link"><span
                                                                             class="ast-icon icon-arrow"><svg
                                                                                 class="ast-arrow-svg"
@@ -1056,7 +1056,7 @@
                                                                 </li>
                                                                 <li
                                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-799">
-                                                                    <a href="https://vinakoi.com/blog/chu-de-ve-bo-sat/"
+                                                                    <a href="/blog/chu-de-ve-bo-sat/"
                                                                         class="menu-link"><span
                                                                             class="ast-icon icon-arrow"><svg
                                                                                 class="ast-arrow-svg"
@@ -1075,7 +1075,7 @@
                                                                 </li>
                                                                 <li
                                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-800">
-                                                                    <a href="https://vinakoi.com/blog/chu-de-ve-chim/"
+                                                                    <a href="/blog/chu-de-ve-chim/"
                                                                         class="menu-link"><span
                                                                             class="ast-icon icon-arrow"><svg
                                                                                 class="ast-arrow-svg"
@@ -1094,7 +1094,7 @@
                                                                 </li>
                                                                 <li
                                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-798">
-                                                                    <a href="https://vinakoi.com/blog/chu-de-dong-vat-nho/"
+                                                                    <a href="/blog/chu-de-dong-vat-nho/"
                                                                         class="menu-link"><span
                                                                             class="ast-icon icon-arrow"><svg
                                                                                 class="ast-arrow-svg"

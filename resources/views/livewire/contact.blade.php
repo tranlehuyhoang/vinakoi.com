@@ -61,7 +61,7 @@
                                                         display: inline-block
                                                     }
                                                 </style>
-                                                <h1 style="text-align: center;"><strong>Liên Hệ Hikari &#8211; Thức ăn
+                                                <h1 style="text-align: center;"><strong>Liên Hệ Vina Koi &#8211; Thức ăn
                                                         thú cưng cao cấp đến từ Nhật Bản</strong></h1>
                                             </div>
                                         </div>

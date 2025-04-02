@@ -161,7 +161,7 @@
                                                     <div class="elementor-widget-container">
                                                         <div id="ftwp-postcontent">
                                                             <p style="text-align: justify;"><a
-                                                                    href="https://vinakoi.com/ca-chep-phi-tan/"><strong>Cá
+                                                                    href="/ca-chep-phi-tan/"><strong>Cá
                                                                         chép Phi Tần</strong></a><span
                                                                     style="font-weight: 400;"> mang một nét đẹp riêng,
                                                                     khó có loài cá nào sánh được. Chúng thường được nuôi

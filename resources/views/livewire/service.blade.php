@@ -2,7 +2,7 @@
     <head>
         <title>Chi tiết dịch vụ</title>
         <script>
-            window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/vinakoi.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2" } };
+            window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "\/assets\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2" } };
             /*! This file is auto-generated */
             !function (e, a, t) { var n, r, o, i = a.createElement("canvas"), p = i.getContext && i.getContext("2d"); function s(e, t) { p.clearRect(0, 0, i.width, i.height), p.fillText(e, 0, 0); e = i.toDataURL(); return p.clearRect(0, 0, i.width, i.height), p.fillText(t, 0, 0), e === i.toDataURL() } function c(e) { var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t) } for (o = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, r = 0; r < o.length; r++)t.supports[o[r]] = function (e) { if (p && p.fillText) switch (p.textBaseline = "top", p.font = "600 32px Arial", e) { case "flag": return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !1 : !s("\ud83c\uddfa\ud83c\uddf3", "\ud83c\uddfa\u200b\ud83c\uddf3") && !s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f", "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f"); case "emoji": return !s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff", "\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff") }return !1 }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function () { t.DOMReady = !0 }, t.supports.everything || (n = function () { t.readyCallback() }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () { "complete" === a.readyState && t.readyCallback() })), (e = t.source || {}).concatemoji ? c(e.concatemoji) : e.wpemoji && e.twemoji && (c(e.twemoji), c(e.wpemoji))) }(window, document, window._wpemojiSettings);
         </script>
@@ -6040,7 +6040,7 @@
             id='imagesLoaded-js'></script>
         <link rel="https://api.w.org/" href="/assets/wp-json/" />
         <link rel="alternate" type="application/json" href="/assets/wp-json/wp/v2/posts/3498" />
-        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://vinakoi.com/xmlrpc.php?rsd" />
+        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
         <link rel="wlwmanifest" type="application/wlwmanifest+xml"
             href="/assets/wp-includes/wlwmanifest.xml" />
         <meta name="generator" content="WordPress 6.2.2" />
@@ -6070,7 +6070,7 @@
             "ratingCount": "2"
         }
     }</script>
-        <link rel="pingback" href="https://vinakoi.com/xmlrpc.php">
+        <link rel="pingback" href="/xmlrpc.php">
         <noscript>
             <style>
                 .woocommerce-product-gallery {
@@ -6677,7 +6677,7 @@
                                                                 <span
                                                                     class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
                                                                     <span class="elementor-post-info__terms-list">
-                                                                        <a href="https://vinakoi.com/blog/chu-de-ca-koi/"
+                                                                        <a href="/blog/chu-de-ca-koi/"
                                                                             class="elementor-post-info__terms-list-item">Chủ
                                                                             đề cá Koi</a> </span>
                                                                 </span>
@@ -6735,7 +6735,7 @@
                                                             class="elementor-inline-items elementor-icon-list-items elementor-post-info">
                                                             <li class="elementor-icon-list-item elementor-repeater-item-8366f3f elementor-inline-item"
                                                                 itemprop="datePublished">
-                                                                <a href="https://vinakoi.com/2025/03/21/">
+                                                                <a href="/2025/03/21/">
                                                                     <span class="elementor-icon-list-icon">
                                                                         <i aria-hidden="true"
                                                                             class="far fa-calendar-alt"></i> </span>
@@ -6746,7 +6746,7 @@
                                                             </li>
                                                             <li class="elementor-icon-list-item elementor-repeater-item-cf7feaa elementor-inline-item"
                                                                 itemprop="author">
-                                                                <a href="https://vinakoi.com/author/ctv2/">
+                                                                <a href="/author/ctv2/">
                                                                     <span class="elementor-icon-list-icon">
                                                                         <i aria-hidden="true" class="far fa-user"></i>
                                                                     </span>
@@ -6794,7 +6794,7 @@
                                                     <div class="elementor-widget-container">
                                                         <div id="ftwp-postcontent">
                                                             <p style="text-align: justify;"><a
-                                                                    href="https://vinakoi.com/ca-chep-phi-tan/"><strong>Cá
+                                                                    href="/ca-chep-phi-tan/"><strong>Cá
                                                                         chép Phi Tần</strong></a><span
                                                                     style="font-weight: 400;"> mang một nét đẹp riêng,
                                                                     khó có loài cá nào sánh được. Chúng thường được nuôi
@@ -7387,7 +7387,7 @@
                                                             <p style="text-align: justify;">Thức ăn cám cho cá chép Phi
                                                                 Tần rất cần thiết cho bạn khi bận rộn không có thời gian
                                                                 chuẩn bị đồ ăn tươi sống, bạn có thể tham khảo các dòng
-                                                                <a href="https://vinakoi.com/thuc-an-ca-koi/">cám
+                                                                <a href="/thuc-an-ca-koi/">cám
                                                                     cho cá Chép Hikari</a> có bổ sung đầy đủ các chất
                                                                 dinh dưỡng như protein, chất xơ, vitamin cũng như là
                                                                 khoáng chất đáp ứng các nhu cầu dinh dưỡng cá chép, đặc
@@ -7528,7 +7528,7 @@
                                                             <p style="text-align: justify;">Hiện nay có nhiều cách chữa
                                                                 bệnh cho cá chép phi tần bị nấm trắng cho cá chép Phi
                                                                 Tần như sử dụng Bio Kock 2, <a
-                                                                    href="https://vinakoi.com/cach-su-dung-tetracyclin-cho-ca/">Tetra
+                                                                    href="/cach-su-dung-tetracyclin-cho-ca/">Tetra
                                                                     Nhật</a>, Pimafix hoặc thậm chí muối hột cũng được
                                                                 chứng minh là một phương pháp điều trị khá hiệu
                                                                 quả.<span style="font-weight: 400;"> Phòng ngừa bệnh
@@ -7774,7 +7774,7 @@
                                                             <article
                                                                 class="elementor-post elementor-grid-item post-3507 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi post-ftoc">
                                                                 <a class="elementor-post__thumbnail__link"
-                                                                    href="https://vinakoi.com/ca-chep-phung/"
+                                                                    href="/ca-chep-phung/"
                                                                     tabindex="-1">
                                                                     <div class="elementor-post__thumbnail"><img
                                                                             width="800" height="450"
@@ -7786,7 +7786,7 @@
                                                                 <div class="elementor-post__text">
                                                                     <h3 class="elementor-post__title">
                                                                         <a
-                                                                            href="https://vinakoi.com/ca-chep-phung/">
+                                                                            href="/ca-chep-phung/">
                                                                             Khám Phá Cá Chép phụng Cách Chọn Cách Nuôi
                                                                             Chăm Sóc Chi Tiết </a>
                                                                     </h3>
@@ -7795,7 +7795,7 @@
                                                             <article
                                                                 class="elementor-post elementor-grid-item post-2924 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi post-ftoc">
                                                                 <a class="elementor-post__thumbnail__link"
-                                                                    href="https://vinakoi.com/vietnam-koi-show-2024/"
+                                                                    href="/vietnam-koi-show-2024/"
                                                                     tabindex="-1">
                                                                     <div class="elementor-post__thumbnail"><img
                                                                             width="800" height="450"
@@ -7806,7 +7806,7 @@
                                                                 <div class="elementor-post__text">
                                                                     <h3 class="elementor-post__title">
                                                                         <a
-                                                                            href="https://vinakoi.com/vietnam-koi-show-2024/">
+                                                                            href="/vietnam-koi-show-2024/">
                                                                             Vietnam Koi Show 2024 </a>
                                                                     </h3>
                                                                 </div>
@@ -7814,7 +7814,7 @@
                                                             <article
                                                                 class="elementor-post elementor-grid-item post-2053 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi category-blog post-ftoc">
                                                                 <a class="elementor-post__thumbnail__link"
-                                                                    href="https://vinakoi.com/young-koi-show/"
+                                                                    href="/young-koi-show/"
                                                                     tabindex="-1">
                                                                     <div class="elementor-post__thumbnail"><img
                                                                             width="800" height="450"
@@ -7826,7 +7826,7 @@
                                                                 <div class="elementor-post__text">
                                                                     <h3 class="elementor-post__title">
                                                                         <a
-                                                                            href="https://vinakoi.com/young-koi-show/">
+                                                                            href="/young-koi-show/">
                                                                             Young Koi Show 2023 </a>
                                                                     </h3>
                                                                 </div>
@@ -7834,7 +7834,7 @@
                                                             <article
                                                                 class="elementor-post elementor-grid-item post-1795 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi category-blog post-ftoc">
                                                                 <a class="elementor-post__thumbnail__link"
-                                                                    href="https://vinakoi.com/vietnam-koi-show-2023/"
+                                                                    href="/vietnam-koi-show-2023/"
                                                                     tabindex="-1">
                                                                     <div class="elementor-post__thumbnail"><img
                                                                             width="800" height="450"
@@ -7845,7 +7845,7 @@
                                                                 <div class="elementor-post__text">
                                                                     <h3 class="elementor-post__title">
                                                                         <a
-                                                                            href="https://vinakoi.com/vietnam-koi-show-2023/">
+                                                                            href="/vietnam-koi-show-2023/">
                                                                             Vietnam Koi Show 2023 </a>
                                                                     </h3>
                                                                 </div>
