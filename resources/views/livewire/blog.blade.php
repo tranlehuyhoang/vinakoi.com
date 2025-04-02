@@ -6987,7 +6987,7 @@
                                                                 class="ftwp-heading" style="text-align: justify;">
                                                                 <strong>Đặc điểm và nguồn gốc cá chép Phi Tần</strong>
                                                             </h2>
-                                                            <p>Trước tiên cùng Hikari Pet Food tìm hiểu về nguồn gốc
+                                                            <p>Trước tiên cùng Hoang Pet Food tìm hiểu về nguồn gốc
                                                                 cũng như đặc điểm của cá chép Phi Tần, rồi từ đó chúng
                                                                 ta sẽ xác định được cách nuôi cá khỏe mạnh, lên màu đẹp
                                                                 cho cá nhé!</p>
@@ -7012,7 +7012,7 @@
                                                                 khoảng từ 5 năm đến 10 năm có thể hơn nữa. Tùy thuộc vào
                                                                 điều kiện nuôi và cách chăm sóc cá chép Phi Tần bao gồm:
                                                                 chất lượng nước, chế độ dinh dưỡng, kích thước
-                                                                hồ,&#8230; và nhiều yếu tố khác. Bên dưới Hikari Pet
+                                                                hồ,&#8230; và nhiều yếu tố khác. Bên dưới Hoang Pet
                                                                 Food sẽ hướng dẫn chi tiết cho các bạn nhé. Hãy cùng tìm
                                                                 hiểu tiếp nào!</p>
                                                             <p style="text-align: justify;"><span
@@ -7055,7 +7055,7 @@
                                                                         tần</span> khác nhau như thế nào? Tuy là cùng
                                                                     loại cá chép thoạt nhìn có vẻ ngoại hình tương đối
                                                                     giống nhau, tuy nhiên hai loài này vẫn sở hữu nhiều
-                                                                    đặc điểm khác nhau, hãy cùng Hikari phân biệt nhé!
+                                                                    đặc điểm khác nhau, hãy cùng Hoang phân biệt nhé!
                                                                 </span></p>
                                                             <table>
                                                                 <tbody>
@@ -7390,7 +7390,7 @@
                                                                 Tần rất cần thiết cho bạn khi bận rộn không có thời gian
                                                                 chuẩn bị đồ ăn tươi sống, bạn có thể tham khảo các dòng
                                                                 <a href="https://hikaripetfood.com/thuc-an-ca-koi/">cám
-                                                                    cho cá Chép Hikari</a> có bổ sung đầy đủ các chất
+                                                                    cho cá Chép Hoang</a> có bổ sung đầy đủ các chất
                                                                 dinh dưỡng như protein, chất xơ, vitamin cũng như là
                                                                 khoáng chất đáp ứng các nhu cầu dinh dưỡng cá chép, đặc
                                                                 biệt hàm lượng được nghiên cứu, kiểm nghiệm chặt chẽ từ
@@ -7398,12 +7398,12 @@
                                                                 Animalis Edition. Từ đó giúp cá tăng cường màu sắc, sức
                                                                 khỏe và hệ miễn dịch tốt nhất.</p>
                                                             <p style="text-align: justify;">Đặc biệt, các dòng cám Saki
-                                                                Hikari có bổ sung thêm lợi khuẩn Hikari-Germ™ một lợi
-                                                                khuẩn độc quyền của Hikari giúp hoàn thiện công thức
+                                                                Hoang có bổ sung thêm lợi khuẩn Hoang-Germ™ một lợi
+                                                                khuẩn độc quyền của Hoang giúp hoàn thiện công thức
                                                                 dinh dưỡng làm tăng hiệu quả cho cá Chép và thúc đẩy
                                                                 tăng trưởng theo yêu cầu của người nuôi mà không làm cá
                                                                 mập do mỡ. Phù hợp khẩu vị của cá và thức ăn thừa có
-                                                                chứa Hikari-Germ™ giúp cải thiện chất lượng nước đồng
+                                                                chứa Hoang-Germ™ giúp cải thiện chất lượng nước đồng
                                                                 thời giảm chi phí bảo trì lọc nước.</p>
                                                             <h3 id="chon-be-co-kich-thuoc-phu-hop" class="ftwp-heading"
                                                                 style="text-align: justify;"><strong>Chọn bể có kích
@@ -7587,7 +7587,7 @@
                                                                         đúng cách. Hy vọng bài viết trên đã mang đến cho
                                                                         bạn thêm nhiều kiến thức hữu ích về cách chăm
                                                                         sóc và lựa chọn cá chép Phi Tần. Đừng quên
-                                                                        thường xuyên truy cập website Hikari Pet Food để
+                                                                        thường xuyên truy cập website Hoang Pet Food để
                                                                         khám phá thêm nhiều thông tin bổ ích về các loài
                                                                         cá!</span></p>
                                                                 <p><span style="font-weight: 400;">Nếu bạn cần giải đáp
