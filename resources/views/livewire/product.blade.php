@@ -2,7 +2,7 @@
 
 
     <head>
-        <title>Hikari Economy - Hikari Pet Food - Thức ăn thú cưng cao cấp đến từ Nhật Bản</title>
+        <title>Hikari Economy - Vina Koi - Thức ăn thú cưng cao cấp đến từ Nhật Bản</title>
         @livewire('inc.css.product')
     </head>
 
@@ -38,7 +38,7 @@
                                                             <div class="elementor-widget-container">
                                                                 <nav class="woocommerce-breadcrumb"><a href="/">Trang
                                                                         chủ</a>&nbsp;&#47;&nbsp;<a
-                                                                        href="https://hikaripetfood.com/thuc-an-ca-koi/">Thức
+                                                                        href="/products?category=1">Thức
                                                                         ăn cá Koi</a>&nbsp;&#47;&nbsp;Hikari Economy
                                                                 </nav>
                                                             </div>
@@ -64,14 +64,14 @@
                                                                     style="opacity: 0; transition: opacity .25s ease-in-out;">
                                                                     <div class="woocommerce-product-gallery__wrapper">
                                                                         <div data-thumb="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg-100x100.jpg"
-                                                                            data-thumb-alt="Hikari Economy - 4kg"
+                                                                            data-thumb-alt="VinaKoi Economy - 4kg"
                                                                             class="woocommerce-product-gallery__image">
                                                                             <a
                                                                                 href="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"><img
                                                                                     width="600" height="600"
                                                                                     src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg-600x600.jpg"
                                                                                     class="wp-post-image"
-                                                                                    alt="Hikari Economy - 4kg"
+                                                                                    alt="VinaKoi Economy - 4kg"
                                                                                     decoding="async"
                                                                                     title="Hikari Economy - 4kg"
                                                                                     data-caption=""
@@ -542,7 +542,7 @@
                                                                     }
                                                                 </style>
                                                                 <div class="elementor-facebook-widget fb-comments"
-                                                                    data-href="https://hikaripetfood.com?p=1893"
+                                                                    data-href="https://vinakoi.com?p=1893"
                                                                     data-width="100%" data-numposts="10"
                                                                     data-order-by="social" style="min-height: 1px">
                                                                 </div>
@@ -594,11 +594,11 @@
                                                                     <div class="jet-woo-product-thumbnail">
 
                                                                         <a
-                                                                            href="https://hikaripetfood.com/hikari-friend/"><img
+                                                                            href="/product/vinakoi-friend/"><img
                                                                                 width="500" height="500"
                                                                                 src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                 class="attachment-full size-full"
-                                                                                alt="Hikari Friend Medium 10kg"
+                                                                                alt="VinaKoi Friend Medium 10kg"
                                                                                 decoding="async"
                                                                                 sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                         <div class="jet-woo-product-img-overlay"></div>
@@ -606,7 +606,7 @@
 
                                                                     </div>
                                                                     <h3 class="jet-woo-product-title"><a
-                                                                            href="https://hikaripetfood.com/hikari-friend/">Hikari
+                                                                            href="/product/vinakoi-friend/">Hikari
                                                                             Friend</a></h3>
                                                                     <div class="jet-woo-product-price">
                                                                         <span class="price"><span
@@ -619,85 +619,17 @@
 
                                                             </div>
                                                             <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1306">
+                                                                data-product-id="1077">
                                                                 <div class="jet-woo-products__inner-box">
 
                                                                     <div class="jet-woo-product-thumbnail">
 
                                                                         <a
-                                                                            href="https://hikaripetfood.com/saki-hikari-pure-white/"><img
-                                                                                width="800" height="640"
-                                                                                src="/assets/wp-content/uploads/2023/06/Saki-Hikari-Pure-White.jpg"
-                                                                                class="attachment-full size-full"
-                                                                                alt="Saki Hikari Pure White"
-                                                                                decoding="async"
-                                                                                sizes="(max-width: 800px) 100vw, 800px" /></a>
-                                                                        <div class="jet-woo-product-img-overlay"></div>
-
-
-                                                                    </div>
-                                                                    <h3 class="jet-woo-product-title"><a
-                                                                            href="https://hikaripetfood.com/saki-hikari-pure-white/">Saki
-                                                                            Hikari Pure White</a></h3>
-                                                                    <div class="jet-woo-product-price">
-                                                                        <span class="price"><span
-                                                                                class="woocommerce-Price-amount amount"><bdi>2.340.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                            &ndash; <span
-                                                                                class="woocommerce-Price-amount amount"><bdi>8.541.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                    </div>
-                                                                    <div class="jet-woo-products-cqw-wrapper">
-                                                                    </div>
-                                                                </div>
-
-                                                            </div>
-                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1360">
-                                                                <div class="jet-woo-products__inner-box">
-
-                                                                    <div class="jet-woo-product-thumbnail">
-
-                                                                        <a
-                                                                            href="https://hikaripetfood.com/saki-hikari-deep-red/"><img
-                                                                                width="800" height="640"
-                                                                                src="/assets/wp-content/uploads/2023/06/Saki-Hikari-Deep-Red.jpg"
-                                                                                class="attachment-full size-full"
-                                                                                alt="Saki Hikari - Deep Red L"
-                                                                                decoding="async"
-                                                                                sizes="(max-width: 800px) 100vw, 800px" /></a>
-                                                                        <div class="jet-woo-product-img-overlay"></div>
-
-
-                                                                    </div>
-                                                                    <h3 class="jet-woo-product-title"><a
-                                                                            href="https://hikaripetfood.com/saki-hikari-deep-red/">Saki
-                                                                            Hikari &#8211; Deep Red</a></h3>
-                                                                    <div class="jet-woo-product-price">
-                                                                        <span class="price"><span
-                                                                                class="woocommerce-Price-amount amount"><bdi>4.154.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                            &ndash; <span
-                                                                                class="woocommerce-Price-amount amount"><bdi>11.642.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                    </div>
-                                                                    <div class="jet-woo-products-cqw-wrapper">
-                                                                    </div>
-                                                                </div>
-
-                                                            </div>
-                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1898">
-                                                                <div class="jet-woo-products__inner-box">
-
-                                                                    <div class="jet-woo-product-thumbnail">
-
-                                                                        <a
-                                                                            href="https://hikaripetfood.com/hikari-gold/"><img
+                                                                            href="/product/vinakoi-friend/"><img
                                                                                 width="500" height="500"
-                                                                                src="/assets/wp-content/uploads/2023/08/hikari-gold.jpg"
+                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                 class="attachment-full size-full"
-                                                                                alt="Hikari Gold - Cám cá Koi giúp tăng màu cải thiện tốc độ tăng trưởng"
+                                                                                alt="VinaKoi Friend Medium 10kg"
                                                                                 decoding="async"
                                                                                 sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                         <div class="jet-woo-product-img-overlay"></div>
@@ -705,14 +637,11 @@
 
                                                                     </div>
                                                                     <h3 class="jet-woo-product-title"><a
-                                                                            href="https://hikaripetfood.com/hikari-gold/">Hikari
-                                                                            Gold</a></h3>
+                                                                            href="/product/vinakoi-friend/">Hikari
+                                                                            Friend</a></h3>
                                                                     <div class="jet-woo-product-price">
                                                                         <span class="price"><span
-                                                                                class="woocommerce-Price-amount amount"><bdi>150.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                            &ndash; <span
-                                                                                class="woocommerce-Price-amount amount"><bdi>2.282.000<span
+                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                     </div>
                                                                     <div class="jet-woo-products-cqw-wrapper">
@@ -721,32 +650,29 @@
 
                                                             </div>
                                                             <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1889">
+                                                                data-product-id="1077">
                                                                 <div class="jet-woo-products__inner-box">
 
                                                                     <div class="jet-woo-product-thumbnail">
 
                                                                         <a
-                                                                            href="https://hikaripetfood.com/hikari-staple/"><img
-                                                                                width="1701" height="1701"
-                                                                                src="/assets/wp-content/uploads/2023/08/Hikari-Staple-5kg-1.jpg"
+                                                                            href="/product/vinakoi-friend/"><img
+                                                                                width="500" height="500"
+                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                 class="attachment-full size-full"
-                                                                                alt="Hikari Staple - 5kg"
+                                                                                alt="VinaKoi Friend Medium 10kg"
                                                                                 decoding="async"
-                                                                                sizes="(max-width: 1701px) 100vw, 1701px" /></a>
+                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                         <div class="jet-woo-product-img-overlay"></div>
 
 
                                                                     </div>
                                                                     <h3 class="jet-woo-product-title"><a
-                                                                            href="https://hikaripetfood.com/hikari-staple/">Hikari
-                                                                            Staple</a></h3>
+                                                                            href="/product/vinakoi-friend/">Hikari
+                                                                            Friend</a></h3>
                                                                     <div class="jet-woo-product-price">
                                                                         <span class="price"><span
-                                                                                class="woocommerce-Price-amount amount"><bdi>385.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                            &ndash; <span
-                                                                                class="woocommerce-Price-amount amount"><bdi>1.697.000<span
+                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                     </div>
                                                                     <div class="jet-woo-products-cqw-wrapper">
@@ -755,29 +681,29 @@
 
                                                             </div>
                                                             <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1885">
+                                                                data-product-id="1077">
                                                                 <div class="jet-woo-products__inner-box">
 
                                                                     <div class="jet-woo-product-thumbnail">
 
                                                                         <a
-                                                                            href="https://hikaripetfood.com/hikari-spirulina/"><img
-                                                                                width="1701" height="1701"
-                                                                                src="/assets/wp-content/uploads/2023/08/Hikari-Spirulina-500g.jpg"
+                                                                            href="/product/vinakoi-friend/"><img
+                                                                                width="500" height="500"
+                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                 class="attachment-full size-full"
-                                                                                alt="Hikari Spirulina - 500g"
+                                                                                alt="VinaKoi Friend Medium 10kg"
                                                                                 decoding="async"
-                                                                                sizes="(max-width: 1701px) 100vw, 1701px" /></a>
+                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                         <div class="jet-woo-product-img-overlay"></div>
 
 
                                                                     </div>
                                                                     <h3 class="jet-woo-product-title"><a
-                                                                            href="https://hikaripetfood.com/hikari-spirulina/">Hikari
-                                                                            Spirulina</a></h3>
+                                                                            href="/product/vinakoi-friend/">Hikari
+                                                                            Friend</a></h3>
                                                                     <div class="jet-woo-product-price">
                                                                         <span class="price"><span
-                                                                                class="woocommerce-Price-amount amount"><bdi>240.000<span
+                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                     </div>
                                                                     <div class="jet-woo-products-cqw-wrapper">
@@ -786,62 +712,29 @@
 
                                                             </div>
                                                             <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1883">
+                                                                data-product-id="1077">
                                                                 <div class="jet-woo-products__inner-box">
 
                                                                     <div class="jet-woo-product-thumbnail">
 
                                                                         <a
-                                                                            href="https://hikaripetfood.com/hikari-excel/"><img
-                                                                                width="1701" height="1701"
-                                                                                src="/assets/wp-content/uploads/2023/08/Hikari-Excel-5kg.jpg"
+                                                                            href="/product/vinakoi-friend/"><img
+                                                                                width="500" height="500"
+                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                 class="attachment-full size-full"
-                                                                                alt="Hikari Excel-5kg" decoding="async"
-                                                                                sizes="(max-width: 1701px) 100vw, 1701px" /></a>
-                                                                        <div class="jet-woo-product-img-overlay"></div>
-
-
-                                                                    </div>
-                                                                    <h3 class="jet-woo-product-title"><a
-                                                                            href="https://hikaripetfood.com/hikari-excel/">Hikari
-                                                                            Excel</a></h3>
-                                                                    <div class="jet-woo-product-price">
-                                                                        <span class="price"><span
-                                                                                class="woocommerce-Price-amount amount"><bdi>2.100.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                    </div>
-                                                                    <div class="jet-woo-products-cqw-wrapper">
-                                                                    </div>
-                                                                </div>
-
-                                                            </div>
-                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1146">
-                                                                <div class="jet-woo-products__inner-box">
-
-                                                                    <div class="jet-woo-product-thumbnail">
-
-                                                                        <a
-                                                                            href="https://hikaripetfood.com/saki-hikari-color-enhancing/"><img
-                                                                                width="600" height="600"
-                                                                                src="/assets/wp-content/uploads/2023/06/saki-hikari-color-enhancing-5kg.jpg"
-                                                                                class="attachment-full size-full"
-                                                                                alt="Saki-Hikari Color Enhancing 5kg"
+                                                                                alt="VinaKoi Friend Medium 10kg"
                                                                                 decoding="async"
-                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
+                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                         <div class="jet-woo-product-img-overlay"></div>
 
 
                                                                     </div>
                                                                     <h3 class="jet-woo-product-title"><a
-                                                                            href="https://hikaripetfood.com/saki-hikari-color-enhancing/">Saki-Hikari
-                                                                            Color Enhancing</a></h3>
+                                                                            href="/product/vinakoi-friend/">Hikari
+                                                                            Friend</a></h3>
                                                                     <div class="jet-woo-product-price">
                                                                         <span class="price"><span
-                                                                                class="woocommerce-Price-amount amount"><bdi>872.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                            &ndash; <span
-                                                                                class="woocommerce-Price-amount amount"><bdi>6.950.000<span
+                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                     </div>
                                                                     <div class="jet-woo-products-cqw-wrapper">
@@ -849,137 +742,7 @@
                                                                 </div>
 
                                                             </div>
-                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1129">
-                                                                <div class="jet-woo-products__inner-box">
 
-                                                                    <div class="jet-woo-product-thumbnail">
-
-                                                                        <a
-                                                                            href="https://hikaripetfood.com/saki-hikari-r-balance/"><img
-                                                                                width="600" height="600"
-                                                                                src="/assets/wp-content/uploads/2023/06/saki-hikari-r-balance.jpg"
-                                                                                class="attachment-full size-full"
-                                                                                alt="Saki-Hikari R Balance"
-                                                                                decoding="async"
-                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                        <div class="jet-woo-product-img-overlay"></div>
-
-
-                                                                    </div>
-                                                                    <h3 class="jet-woo-product-title"><a
-                                                                            href="https://hikaripetfood.com/saki-hikari-r-balance/">Saki-Hikari
-                                                                            R Balance</a></h3>
-                                                                    <div class="jet-woo-product-price">
-                                                                        <span class="price"><span
-                                                                                class="woocommerce-Price-amount amount"><bdi>5.090.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                            &ndash; <span
-                                                                                class="woocommerce-Price-amount amount"><bdi>6.552.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                    </div>
-                                                                    <div class="jet-woo-products-cqw-wrapper">
-                                                                    </div>
-                                                                </div>
-
-                                                            </div>
-                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1122">
-                                                                <div class="jet-woo-products__inner-box">
-
-                                                                    <div class="jet-woo-product-thumbnail">
-
-                                                                        <a
-                                                                            href="https://hikaripetfood.com/saki-hikari-r-multi-season/"><img
-                                                                                width="600" height="600"
-                                                                                src="/assets/wp-content/uploads/2023/06/saki-hikari-r-multi-season.jpg"
-                                                                                class="attachment-full size-full"
-                                                                                alt="Cám cá Koi Saki-Hikari R Multi Season"
-                                                                                decoding="async"
-                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                        <div class="jet-woo-product-img-overlay"></div>
-
-
-                                                                    </div>
-                                                                    <h3 class="jet-woo-product-title"><a
-                                                                            href="https://hikaripetfood.com/saki-hikari-r-multi-season/">Saki-Hikari
-                                                                            R Multi Season</a></h3>
-                                                                    <div class="jet-woo-product-price">
-                                                                        <span class="price"><span
-                                                                                class="woocommerce-Price-amount amount"><bdi>1.157.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                            &ndash; <span
-                                                                                class="woocommerce-Price-amount amount"><bdi>7.137.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                    </div>
-                                                                    <div class="jet-woo-products-cqw-wrapper">
-                                                                    </div>
-                                                                </div>
-
-                                                            </div>
-                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1119">
-                                                                <div class="jet-woo-products__inner-box">
-
-                                                                    <div class="jet-woo-product-thumbnail">
-
-                                                                        <a
-                                                                            href="https://hikaripetfood.com/saki-hikari-multi-season/"><img
-                                                                                width="800" height="640"
-                                                                                src="/assets/wp-content/uploads/2023/05/saki-hikari-multi-season.jpg"
-                                                                                class="attachment-full size-full"
-                                                                                alt="Saki-Hikari Multi Season"
-                                                                                decoding="async"
-                                                                                sizes="(max-width: 800px) 100vw, 800px" /></a>
-                                                                        <div class="jet-woo-product-img-overlay"></div>
-
-
-                                                                    </div>
-                                                                    <h3 class="jet-woo-product-title"><a
-                                                                            href="https://hikaripetfood.com/saki-hikari-multi-season/">Saki-Hikari
-                                                                            Multi Season</a></h3>
-                                                                    <div class="jet-woo-product-price">
-                                                                        <span class="price">Liên hệ</span>
-                                                                    </div>
-                                                                    <div class="jet-woo-products-cqw-wrapper">
-                                                                    </div>
-                                                                </div>
-
-                                                            </div>
-                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1110">
-                                                                <div class="jet-woo-products__inner-box">
-
-                                                                    <div class="jet-woo-product-thumbnail">
-
-                                                                        <a
-                                                                            href="https://hikaripetfood.com/wheat-germ-formula/"><img
-                                                                                width="1000" height="1000"
-                                                                                src="/assets/wp-content/uploads/2023/05/wheat-germ-formula.jpg"
-                                                                                class="attachment-full size-full"
-                                                                                alt="Wheat-Germ Formula"
-                                                                                decoding="async"
-                                                                                sizes="(max-width: 1000px) 100vw, 1000px" /></a>
-                                                                        <div class="jet-woo-product-img-overlay"></div>
-
-
-                                                                    </div>
-                                                                    <h3 class="jet-woo-product-title"><a
-                                                                            href="https://hikaripetfood.com/wheat-germ-formula/">Wheat-Germ
-                                                                            Formula</a></h3>
-                                                                    <div class="jet-woo-product-price">
-                                                                        <span class="price"><span
-                                                                                class="woocommerce-Price-amount amount"><bdi>1.280.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                            &ndash; <span
-                                                                                class="woocommerce-Price-amount amount"><bdi>3.000.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                    </div>
-                                                                    <div class="jet-woo-products-cqw-wrapper">
-                                                                    </div>
-                                                                </div>
-
-                                                            </div>
                                                         </div>
                                                         <div class="prev-arrow jet-swiper-button-prev jet-arrow"><i
                                                                 aria-hidden="true" class="fas fa-angle-left"></i></div>
@@ -1005,8 +768,7 @@
                                             data-id="d4ecb8d" data-element_type="widget"
                                             data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
-                                                <h2 class="elementor-heading-title elementor-size-default">Kiến thức –
-                                                    chăn sóc thú cưng</h2>
+                                                <h2 class="elementor-heading-title elementor-size-default">Tin tức mới nhất</h2>
                                             </div>
                                         </div>
                                         <div class="elementor-element elementor-element-5160dcd elementor-widget elementor-widget-jet-posts"
@@ -1040,7 +802,7 @@
                                                             <div class="jet-posts__item">
                                                                 <div class="jet-posts__inner-box">
                                                                     <div class="post-thumbnail"><a
-                                                                            href="https://hikaripetfood.com/ca-chep-phi-tan/"
+                                                                            href="/blog/ca-chep-phi-tan/"
                                                                             class="post-thumbnail__link"><img
                                                                                 class="post-thumbnail__img wp-post-image"
                                                                                 src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
@@ -1049,7 +811,7 @@
                                                                                 height="450"></a></div>
                                                                     <div class="jet-posts__inner-content">
                                                                         <h3 class="entry-title"><a
-                                                                                href="https://hikaripetfood.com/ca-chep-phi-tan/"
+                                                                                href="/blog/ca-chep-phi-tan/"
                                                                                 target="">Cá Chép Phi Tần: Cách Nuôi,
                                                                                 Setup Bể Nuôi Chi Tiết Nhất</a></h3>
                                                                         <div class="post-meta"></div>
@@ -1062,66 +824,21 @@
                                                             <div class="jet-posts__item">
                                                                 <div class="jet-posts__inner-box">
                                                                     <div class="post-thumbnail"><a
-                                                                            href="https://hikaripetfood.com/ca-chep-phung/"
+                                                                            href="/blog/ca-chep-phi-tan/"
                                                                             class="post-thumbnail__link"><img
                                                                                 class="post-thumbnail__img wp-post-image"
-                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phung-1.jpg"
-                                                                                alt="Khám Phá Cá Chép phụng Cách Chọn Cách Nuôi Chăm Sóc Chi Tiết"
+                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
+                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
                                                                                 loading="lazy" width="800"
                                                                                 height="450"></a></div>
                                                                     <div class="jet-posts__inner-content">
                                                                         <h3 class="entry-title"><a
-                                                                                href="https://hikaripetfood.com/ca-chep-phung/"
-                                                                                target="">Khám Phá Cá Chép phụng Cách
-                                                                                Chọn Cách Nuôi Chăm Sóc Chi Tiết</a>
-                                                                        </h3>
+                                                                                href="/blog/ca-chep-phi-tan/"
+                                                                                target="">Cá Chép Phi Tần: Cách Nuôi,
+                                                                                Setup Bể Nuôi Chi Tiết Nhất</a></h3>
                                                                         <div class="post-meta"></div>
-                                                                        <div class="entry-excerpt">Khác biệt so với cá
-                                                                            chép thông thường, cá chép phụng nổi
-                                                                            bật&hellip;</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="jet-posts__item">
-                                                                <div class="jet-posts__inner-box">
-                                                                    <div class="post-thumbnail"><a
-                                                                            href="https://hikaripetfood.com/dau-hieu-ca-ket-panda-sap-de/"
-                                                                            class="post-thumbnail__link"><img
-                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                src="/assets/wp-content/uploads/2025/03/dau-hieu-ca-ket-panda-sap-de.jpg"
-                                                                                alt="Dấu Hiệu Cá Két Panda Sắp Đẻ, Trứng Cá Két Bao Lâu Thì Nở"
-                                                                                loading="lazy" width="800"
-                                                                                height="450"></a></div>
-                                                                    <div class="jet-posts__inner-content">
-                                                                        <h3 class="entry-title"><a
-                                                                                href="https://hikaripetfood.com/dau-hieu-ca-ket-panda-sap-de/"
-                                                                                target="">Dấu Hiệu Cá Két Panda Sắp Đẻ,
-                                                                                Trứng Cá Két Bao Lâu Thì Nở</a></h3>
-                                                                        <div class="post-meta"></div>
-                                                                        <div class="entry-excerpt">Dấu hiệu cá két Panda
-                                                                            sắp đẻ là gì? Trứng cá mất&hellip;</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="jet-posts__item">
-                                                                <div class="jet-posts__inner-box">
-                                                                    <div class="post-thumbnail"><a
-                                                                            href="https://hikaripetfood.com/ca-ket-panda-nuoi-chung-voi-ca-gi/"
-                                                                            class="post-thumbnail__link"><img
-                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                src="/assets/wp-content/uploads/2025/02/ca-ket-panda-nuoi-chung-voi-ca-gi.jpg"
-                                                                                alt="Cá Két Panda Nuôi Chung Với Cá Gì? 8 Loại Cá Có Thể Và Không Thể"
-                                                                                loading="lazy" width="800"
-                                                                                height="450"></a></div>
-                                                                    <div class="jet-posts__inner-content">
-                                                                        <h3 class="entry-title"><a
-                                                                                href="https://hikaripetfood.com/ca-ket-panda-nuoi-chung-voi-ca-gi/"
-                                                                                target="">Cá Két Panda Nuôi Chung Với Cá
-                                                                                Gì? 8 Loại Cá Có Thể Và Không Thể</a>
-                                                                        </h3>
-                                                                        <div class="post-meta"></div>
-                                                                        <div class="entry-excerpt">Cá Két Panda nổi bật
-                                                                            không chỉ nhờ vào tính cách hiền&hellip;
+                                                                        <div class="entry-excerpt">Cá chép Phi Tần mang
+                                                                            một nét đẹp riêng, khó có loài cá&hellip;
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1129,64 +846,21 @@
                                                             <div class="jet-posts__item">
                                                                 <div class="jet-posts__inner-box">
                                                                     <div class="post-thumbnail"><a
-                                                                            href="https://hikaripetfood.com/ca-ket-panda/"
+                                                                            href="/blog/ca-chep-phi-tan/"
                                                                             class="post-thumbnail__link"><img
                                                                                 class="post-thumbnail__img wp-post-image"
-                                                                                src="/assets/wp-content/uploads/2025/01/ca-ket-panda.jpg"
-                                                                                alt="Cá Két Panda - Tổng Quan Nguồn Gốc, Cách Nuôi Và Chăm Sóc"
+                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
+                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
                                                                                 loading="lazy" width="800"
                                                                                 height="450"></a></div>
                                                                     <div class="jet-posts__inner-content">
                                                                         <h3 class="entry-title"><a
-                                                                                href="https://hikaripetfood.com/ca-ket-panda/"
-                                                                                target="">Cá Két Panda - Tổng Quan Nguồn
-                                                                                Gốc, Cách Nuôi Và Chăm Sóc</a></h3>
+                                                                                href="/blog/ca-chep-phi-tan/"
+                                                                                target="">Cá Chép Phi Tần: Cách Nuôi,
+                                                                                Setup Bể Nuôi Chi Tiết Nhất</a></h3>
                                                                         <div class="post-meta"></div>
-                                                                        <div class="entry-excerpt">Khác với cá hồng két
-                                                                            thông thường, cá Két Panda nổi bật nhờ
-                                                                            màu&hellip;</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="jet-posts__item">
-                                                                <div class="jet-posts__inner-box">
-                                                                    <div class="post-thumbnail"><a
-                                                                            href="https://hikaripetfood.com/ca-hong-ket-an-gi/"
-                                                                            class="post-thumbnail__link"><img
-                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                src="/assets/wp-content/uploads/2025/02/ca-hong-ket-an-gi.jpg"
-                                                                                alt="Cá Hồng Két Ăn Gì? Cách Nuôi Cá Hồng Két Lên Màu Chi Tiết"
-                                                                                loading="lazy" width="800"
-                                                                                height="450"></a></div>
-                                                                    <div class="jet-posts__inner-content">
-                                                                        <h3 class="entry-title"><a
-                                                                                href="https://hikaripetfood.com/ca-hong-ket-an-gi/"
-                                                                                target="">Cá Hồng Két Ăn Gì? Cách Nuôi
-                                                                                Cá Hồng Két Lên Màu Chi Tiết</a></h3>
-                                                                        <div class="post-meta"></div>
-                                                                        <div class="entry-excerpt">Cá hồng két ăn gì? Cá
-                                                                            hồng két ăn gì lên màu?&hellip;</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="jet-posts__item">
-                                                                <div class="jet-posts__inner-box">
-                                                                    <div class="post-thumbnail"><a
-                                                                            href="https://hikaripetfood.com/trung-ca-hong-ket-bao-lau-thi-no/"
-                                                                            class="post-thumbnail__link"><img
-                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                src="/assets/wp-content/uploads/2024/12/trung-ca-hong-ket-bao-lau-thi-no-1.jpg"
-                                                                                alt="Trứng Cá Hồng Két Bao Lâu Thì Nở? Cách Nuôi Trứng Cá Hồng Két"
-                                                                                loading="lazy" width="800"
-                                                                                height="450"></a></div>
-                                                                    <div class="jet-posts__inner-content">
-                                                                        <h3 class="entry-title"><a
-                                                                                href="https://hikaripetfood.com/trung-ca-hong-ket-bao-lau-thi-no/"
-                                                                                target="">Trứng Cá Hồng Két Bao Lâu Thì
-                                                                                Nở? Cách Nuôi Trứng Cá Hồng Két</a></h3>
-                                                                        <div class="post-meta"></div>
-                                                                        <div class="entry-excerpt">Kính chào các bạn hôm
-                                                                            nay hãy cùng Hikari Pet Food tìm&hellip;
+                                                                        <div class="entry-excerpt">Cá chép Phi Tần mang
+                                                                            một nét đẹp riêng, khó có loài cá&hellip;
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1194,21 +868,21 @@
                                                             <div class="jet-posts__item">
                                                                 <div class="jet-posts__inner-box">
                                                                     <div class="post-thumbnail"><a
-                                                                            href="https://hikaripetfood.com/ca-hong-ket-bi-nam-trang/"
+                                                                            href="/blog/ca-chep-phi-tan/"
                                                                             class="post-thumbnail__link"><img
                                                                                 class="post-thumbnail__img wp-post-image"
-                                                                                src="/assets/wp-content/uploads/2024/12/ca-hong-ket-bi-nam-trang.jpg"
-                                                                                alt="Cá Hồng Két Bị Nấm Trắng, Nguyên Nhân Và Thuốc Trị Bệnh"
+                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
+                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
                                                                                 loading="lazy" width="800"
                                                                                 height="450"></a></div>
                                                                     <div class="jet-posts__inner-content">
                                                                         <h3 class="entry-title"><a
-                                                                                href="https://hikaripetfood.com/ca-hong-ket-bi-nam-trang/"
-                                                                                target="">Cá Hồng Két Bị Nấm Trắng,
-                                                                                Nguyên Nhân Và Thuốc Trị Bệnh</a></h3>
+                                                                                href="/blog/ca-chep-phi-tan/"
+                                                                                target="">Cá Chép Phi Tần: Cách Nuôi,
+                                                                                Setup Bể Nuôi Chi Tiết Nhất</a></h3>
                                                                         <div class="post-meta"></div>
-                                                                        <div class="entry-excerpt">Làm sao để nhận biết
-                                                                            cá hồng két bị nấm trắng? Nếu phát&hellip;
+                                                                        <div class="entry-excerpt">Cá chép Phi Tần mang
+                                                                            một nét đẹp riêng, khó có loài cá&hellip;
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1216,22 +890,21 @@
                                                             <div class="jet-posts__item">
                                                                 <div class="jet-posts__inner-box">
                                                                     <div class="post-thumbnail"><a
-                                                                            href="https://hikaripetfood.com/ca-hong-ket/"
+                                                                            href="/blog/ca-chep-phi-tan/"
                                                                             class="post-thumbnail__link"><img
                                                                                 class="post-thumbnail__img wp-post-image"
-                                                                                src="/assets/wp-content/uploads/2025/01/ca-hong-ket.jpg"
-                                                                                alt="Cá Hồng Két - Nguồn Gốc, Cách Nuôi Cá Khỏe Lên Màu Chi Tiết Nhất"
+                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
+                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
                                                                                 loading="lazy" width="800"
                                                                                 height="450"></a></div>
                                                                     <div class="jet-posts__inner-content">
                                                                         <h3 class="entry-title"><a
-                                                                                href="https://hikaripetfood.com/ca-hong-ket/"
-                                                                                target="">Cá Hồng Két - Nguồn Gốc, Cách
-                                                                                Nuôi Cá Khỏe Lên Màu Chi Tiết Nhất</a>
-                                                                        </h3>
+                                                                                href="/blog/ca-chep-phi-tan/"
+                                                                                target="">Cá Chép Phi Tần: Cách Nuôi,
+                                                                                Setup Bể Nuôi Chi Tiết Nhất</a></h3>
                                                                         <div class="post-meta"></div>
-                                                                        <div class="entry-excerpt">Cá Hồng Két là một
-                                                                            trong những loài cá cảnh quen thuộc,&hellip;
+                                                                        <div class="entry-excerpt">Cá chép Phi Tần mang
+                                                                            một nét đẹp riêng, khó có loài cá&hellip;
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1239,69 +912,26 @@
                                                             <div class="jet-posts__item">
                                                                 <div class="jet-posts__inner-box">
                                                                     <div class="post-thumbnail"><a
-                                                                            href="https://hikaripetfood.com/ca-hong-ket-nuoi-chung-voi-ca-gi/"
+                                                                            href="/blog/ca-chep-phi-tan/"
                                                                             class="post-thumbnail__link"><img
                                                                                 class="post-thumbnail__img wp-post-image"
-                                                                                src="/assets/wp-content/uploads/2025/01/ca-hong-ket-nuoi-chung-voi-ca-gi.jpg"
-                                                                                alt="Cá Hồng Két Nuôi Chung Với Cá Gì? 15 Loại Cá Nuôi Chung Phù Hợp Nhất"
+                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
+                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
                                                                                 loading="lazy" width="800"
                                                                                 height="450"></a></div>
                                                                     <div class="jet-posts__inner-content">
                                                                         <h3 class="entry-title"><a
-                                                                                href="https://hikaripetfood.com/ca-hong-ket-nuoi-chung-voi-ca-gi/"
-                                                                                target="">Cá Hồng Két Nuôi Chung Với Cá
-                                                                                Gì? 15 Loại Cá Nuôi Chung Phù Hợp
-                                                                                Nhất</a></h3>
+                                                                                href="/blog/ca-chep-phi-tan/"
+                                                                                target="">Cá Chép Phi Tần: Cách Nuôi,
+                                                                                Setup Bể Nuôi Chi Tiết Nhất</a></h3>
                                                                         <div class="post-meta"></div>
-                                                                        <div class="entry-excerpt">Cá hồng két là loài
-                                                                            cá cảnh hiền lành, dễ nuôi và&hellip;</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="jet-posts__item">
-                                                                <div class="jet-posts__inner-box">
-                                                                    <div class="post-thumbnail"><a
-                                                                            href="https://hikaripetfood.com/ca-vang-bi-stress/"
-                                                                            class="post-thumbnail__link"><img
-                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                src="/assets/wp-content/uploads/2025/01/ca-vang-bi-stress.jpg"
-                                                                                alt="Cá Vàng Bị Stress Phải Làm Sao? 7 Cách Chữa Trị Tại Nhà"
-                                                                                loading="lazy" width="800"
-                                                                                height="450"></a></div>
-                                                                    <div class="jet-posts__inner-content">
-                                                                        <h3 class="entry-title"><a
-                                                                                href="https://hikaripetfood.com/ca-vang-bi-stress/"
-                                                                                target="">Cá Vàng Bị Stress Phải Làm
-                                                                                Sao? 7 Cách Chữa Trị Tại Nhà</a></h3>
-                                                                        <div class="post-meta"></div>
-                                                                        <div class="entry-excerpt">Cá vàng dù không dễ
-                                                                            mắc các bệnh nguy hiểm, nhưng khi&hellip;
+                                                                        <div class="entry-excerpt">Cá chép Phi Tần mang
+                                                                            một nét đẹp riêng, khó có loài cá&hellip;
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                            <div class="jet-posts__item">
-                                                                <div class="jet-posts__inner-box">
-                                                                    <div class="post-thumbnail"><a
-                                                                            href="https://hikaripetfood.com/cach-nuoi-ca-ba-duoi/"
-                                                                            class="post-thumbnail__link"><img
-                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                src="/assets/wp-content/uploads/2024/12/cach-nuoi-ca-ba-duoi.jpg"
-                                                                                alt="Cách Nuôi Cá Ba Đuôi Không Chết Sống Lâu Sống Khỏe Đơn Giản"
-                                                                                loading="lazy" width="800"
-                                                                                height="450"></a></div>
-                                                                    <div class="jet-posts__inner-content">
-                                                                        <h3 class="entry-title"><a
-                                                                                href="https://hikaripetfood.com/cach-nuoi-ca-ba-duoi/"
-                                                                                target="">Cách Nuôi Cá Ba Đuôi Không
-                                                                                Chết Sống Lâu Sống Khỏe Đơn Giản</a>
-                                                                        </h3>
-                                                                        <div class="post-meta"></div>
-                                                                        <div class="entry-excerpt">Cách nuôi cá ba đuôi
-                                                                            không chết là mối quan tâm của&hellip;</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
+
                                                         </div>
                                                     </div>
                                                 </div>

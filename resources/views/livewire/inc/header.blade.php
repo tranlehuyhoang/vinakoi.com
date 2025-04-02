@@ -16,14 +16,14 @@
                                     itemscope="itemscope">
                                     <h1 class="site-logo-img"><a href="/" class="custom-logo-link" rel="home"
                                             aria-current="page"><img width="85" height="56"
-                                                src="/assets/wp-content/uploads/2023/05/logo-thuc-an-hikari-blue-85x56.png"
+                                                src="/logo.png"
                                                 class="custom-logo"
-                                                alt="Hikari Pet Food &#8211; Thức ăn thú cưng cao cấp đến từ Nhật Bản"
+                                                alt="VinaKoi Pet Food &#8211; Thức ăn thú cưng cao cấp đến từ Nhật Bản"
                                                 decoding="async" sizes="(max-width: 85px) 100vw, 85px" /></a></h1>
                                     <div class="ast-site-title-wrap">
                                         <h1 class="site-title" itemprop="name">
                                             <a href="/" rel="home" itemprop="url">
-                                                Hikari Pet Food - Thức ăn thú cưng cao cấp đến từ Nhật Bản
+                                                Vina Koi - Thức ăn thú cưng cao cấp đến từ Nhật Bản
                                             </a>
                                         </h1>
 
@@ -57,7 +57,7 @@
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-jet-ajax-search jet-search">
                                                                     <div class="jet-ajax-search"
-                                                                        data-settings="{&quot;symbols_for_start_searching&quot;:2,&quot;search_by_empty_value&quot;:&quot;&quot;,&quot;submit_on_enter&quot;:&quot;&quot;,&quot;search_source&quot;:[&quot;product&quot;],&quot;search_logging&quot;:&quot;&quot;,&quot;search_results_url&quot;:&quot;&quot;,&quot;search_taxonomy&quot;:&quot;&quot;,&quot;include_terms_ids&quot;:[],&quot;exclude_terms_ids&quot;:[],&quot;exclude_posts_ids&quot;:[],&quot;custom_fields_source&quot;:&quot;&quot;,&quot;limit_query&quot;:5,&quot;limit_query_tablet&quot;:&quot;&quot;,&quot;limit_query_mobile&quot;:&quot;&quot;,&quot;limit_query_in_result_area&quot;:25,&quot;results_order_by&quot;:&quot;relevance&quot;,&quot;results_order&quot;:&quot;asc&quot;,&quot;sentence&quot;:&quot;&quot;,&quot;search_in_taxonomy&quot;:&quot;&quot;,&quot;search_in_taxonomy_source&quot;:&quot;&quot;,&quot;results_area_width_by&quot;:&quot;form&quot;,&quot;results_area_custom_width&quot;:&quot;&quot;,&quot;results_area_custom_position&quot;:&quot;&quot;,&quot;thumbnail_visible&quot;:&quot;yes&quot;,&quot;thumbnail_size&quot;:&quot;thumbnail&quot;,&quot;thumbnail_placeholder&quot;:{&quot;url&quot;:&quot;https:\/\/hikaripetfood.com\/wp-content\/plugins\/elementor\/assets\/images\/placeholder.png&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;post_content_source&quot;:&quot;content&quot;,&quot;post_content_custom_field_key&quot;:&quot;&quot;,&quot;post_content_length&quot;:0,&quot;show_product_price&quot;:&quot;yes&quot;,&quot;show_product_rating&quot;:&quot;&quot;,&quot;show_result_new_tab&quot;:&quot;&quot;,&quot;highlight_searched_text&quot;:&quot;&quot;,&quot;bullet_pagination&quot;:&quot;&quot;,&quot;number_pagination&quot;:&quot;&quot;,&quot;navigation_arrows&quot;:&quot;in_header&quot;,&quot;navigation_arrows_type&quot;:&quot;angle&quot;,&quot;show_title_related_meta&quot;:&quot;&quot;,&quot;meta_title_related_position&quot;:&quot;&quot;,&quot;title_related_meta&quot;:&quot;&quot;,&quot;show_content_related_meta&quot;:&quot;&quot;,&quot;meta_content_related_position&quot;:&quot;&quot;,&quot;content_related_meta&quot;:&quot;&quot;,&quot;negative_search&quot;:&quot;Xin l\u1ed7i, nh\u01b0ng kh\u00f4ng c\u00f3 g\u00ec ph\u00f9 h\u1ee3p v\u1edbi \u0111i\u1ec1u ki\u1ec7n t\u00ecm ki\u1ebfm c\u1ee7a b\u1ea1n.&quot;,&quot;server_error&quot;:&quot;Xin l\u1ed7i, nh\u01b0ng ch\u00fang t\u00f4i kh\u00f4ng th\u1ec3 x\u1eed l\u00fd truy v\u1ea5n t\u00ecm ki\u1ebfm c\u1ee7a b\u1ea1n b\u00e2y gi\u1edd. Vui l\u00f2ng th\u1eed l\u1ea1i sau!&quot;,&quot;catalog_visibility&quot;:&quot;&quot;}">
+                                                                        data-settings="{&quot;symbols_for_start_searching&quot;:2,&quot;search_by_empty_value&quot;:&quot;&quot;,&quot;submit_on_enter&quot;:&quot;&quot;,&quot;search_source&quot;:[&quot;product&quot;],&quot;search_logging&quot;:&quot;&quot;,&quot;search_results_url&quot;:&quot;&quot;,&quot;search_taxonomy&quot;:&quot;&quot;,&quot;include_terms_ids&quot;:[],&quot;exclude_terms_ids&quot;:[],&quot;exclude_posts_ids&quot;:[],&quot;custom_fields_source&quot;:&quot;&quot;,&quot;limit_query&quot;:5,&quot;limit_query_tablet&quot;:&quot;&quot;,&quot;limit_query_mobile&quot;:&quot;&quot;,&quot;limit_query_in_result_area&quot;:25,&quot;results_order_by&quot;:&quot;relevance&quot;,&quot;results_order&quot;:&quot;asc&quot;,&quot;sentence&quot;:&quot;&quot;,&quot;search_in_taxonomy&quot;:&quot;&quot;,&quot;search_in_taxonomy_source&quot;:&quot;&quot;,&quot;results_area_width_by&quot;:&quot;form&quot;,&quot;results_area_custom_width&quot;:&quot;&quot;,&quot;results_area_custom_position&quot;:&quot;&quot;,&quot;thumbnail_visible&quot;:&quot;yes&quot;,&quot;thumbnail_size&quot;:&quot;thumbnail&quot;,&quot;thumbnail_placeholder&quot;:{&quot;url&quot;:&quot;https:\/\/vinakoi.com\/wp-content\/plugins\/elementor\/assets\/images\/placeholder.png&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;post_content_source&quot;:&quot;content&quot;,&quot;post_content_custom_field_key&quot;:&quot;&quot;,&quot;post_content_length&quot;:0,&quot;show_product_price&quot;:&quot;yes&quot;,&quot;show_product_rating&quot;:&quot;&quot;,&quot;show_result_new_tab&quot;:&quot;&quot;,&quot;highlight_searched_text&quot;:&quot;&quot;,&quot;bullet_pagination&quot;:&quot;&quot;,&quot;number_pagination&quot;:&quot;&quot;,&quot;navigation_arrows&quot;:&quot;in_header&quot;,&quot;navigation_arrows_type&quot;:&quot;angle&quot;,&quot;show_title_related_meta&quot;:&quot;&quot;,&quot;meta_title_related_position&quot;:&quot;&quot;,&quot;title_related_meta&quot;:&quot;&quot;,&quot;show_content_related_meta&quot;:&quot;&quot;,&quot;meta_content_related_position&quot;:&quot;&quot;,&quot;content_related_meta&quot;:&quot;&quot;,&quot;negative_search&quot;:&quot;Xin l\u1ed7i, nh\u01b0ng kh\u00f4ng c\u00f3 g\u00ec ph\u00f9 h\u1ee3p v\u1edbi \u0111i\u1ec1u ki\u1ec7n t\u00ecm ki\u1ebfm c\u1ee7a b\u1ea1n.&quot;,&quot;server_error&quot;:&quot;Xin l\u1ed7i, nh\u01b0ng ch\u00fang t\u00f4i kh\u00f4ng th\u1ec3 x\u1eed l\u00fd truy v\u1ea5n t\u00ecm ki\u1ebfm c\u1ee7a b\u1ea1n b\u00e2y gi\u1edd. Vui l\u00f2ng th\u1eed l\u1ea1i sau!&quot;,&quot;catalog_visibility&quot;:&quot;&quot;}">
                                                                         <form class="jet-ajax-search__form" method="get"
                                                                             action="/" role="search" target="">
                                                                             <div class="jet-ajax-search__fields-holder">
@@ -161,7 +161,7 @@
 
                                     <a class="ast-header-account-link ast-header-account-type-icon ast-account-action-link"
                                         aria-label="Account icon link"
-                                        href=/assets/wp-login.php?itsec-hb-token=food-backend&#038;redirect_to=https%3A%2F%2Fhikaripetfood.com
+                                        href=/assets/wp-login.php?itsec-hb-token=food-backend&#038;redirect_to=https%3A%2F%2Fvinakoi.com
                                         target=_self>
                                         <span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg version='1.1'
                                                 class='account-icon' xmlns='http://www.w3.org/2000/svg'
@@ -449,15 +449,15 @@
                                 itemscope="itemscope">
                                 <h1 class="site-logo-img"><a href="/" class="custom-logo-link" rel="home"
                                         aria-current="page"><img width="85" height="56"
-                                            src="/assets/wp-content/uploads/2023/05/logo-thuc-an-hikari-blue-85x56.png"
+                                            src="/logo.png"
                                             class="custom-logo"
-                                            alt="Hikari Pet Food &#8211; Thức ăn thú cưng cao cấp đến từ Nhật Bản"
+                                            alt="VinaKoi Pet Food &#8211; Thức ăn thú cưng cao cấp đến từ Nhật Bản"
                                             decoding="async" sizes="(max-width: 85px) 100vw, 85px" /></a>
                                 </h1>
                                 <div class="ast-site-title-wrap">
                                     <h1 class="site-title" itemprop="name">
                                         <a href="/" rel="home" itemprop="url">
-                                            Hikari Pet Food - Thức ăn thú cưng cao cấp đến từ Nhật Bản
+                                            Vina Koi - Thức ăn thú cưng cao cấp đến từ Nhật Bản
                                         </a>
                                     </h1>
 
@@ -474,7 +474,7 @@
 
                                 <a class="ast-header-account-link ast-header-account-type-icon ast-account-action-link"
                                     aria-label="Account icon link"
-                                    href=/assets/wp-login.php?itsec-hb-token=food-backend&#038;redirect_to=https%3A%2F%2Fhikaripetfood.com
+                                    href=/assets/wp-login.php?itsec-hb-token=food-backend&#038;redirect_to=https%3A%2F%2Fvinakoi.com
                                     target=_self>
                                     <span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg version='1.1'
                                             class='account-icon' xmlns='http://www.w3.org/2000/svg'
@@ -576,14 +576,14 @@
                                         itemtype="https://schema.org/Organization" itemscope="itemscope">
                                         <h1 class="site-logo-img"><a href="/" class="custom-logo-link" rel="home"
                                                 aria-current="page"><img width="85" height="56"
-                                                    src="/assets/wp-content/uploads/2023/05/logo-thuc-an-hikari-blue-85x56.png"
+                                                    src="/logo.png"
                                                     class="custom-logo"
-                                                    alt="Hikari Pet Food &#8211; Thức ăn thú cưng cao cấp đến từ Nhật Bản"
+                                                    alt="VinaKoi Pet Food &#8211; Thức ăn thú cưng cao cấp đến từ Nhật Bản"
                                                     decoding="async" sizes="(max-width: 85px) 100vw, 85px" /></a></h1>
                                         <div class="ast-site-title-wrap">
                                             <h1 class="site-title" itemprop="name">
                                                 <a href="/" rel="home" itemprop="url">
-                                                    Hikari Pet Food - Thức ăn thú cưng cao cấp đến từ Nhật
+                                                    Vina Koi - Thức ăn thú cưng cao cấp đến từ Nhật
                                                     Bản
                                                 </a>
                                             </h1>
@@ -619,7 +619,7 @@
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-jet-ajax-search jet-search">
                                                                         <div class="jet-ajax-search"
-                                                                            data-settings="{&quot;symbols_for_start_searching&quot;:2,&quot;search_by_empty_value&quot;:&quot;&quot;,&quot;submit_on_enter&quot;:&quot;&quot;,&quot;search_source&quot;:[&quot;product&quot;],&quot;search_logging&quot;:&quot;&quot;,&quot;search_results_url&quot;:&quot;&quot;,&quot;search_taxonomy&quot;:&quot;&quot;,&quot;include_terms_ids&quot;:[],&quot;exclude_terms_ids&quot;:[],&quot;exclude_posts_ids&quot;:[],&quot;custom_fields_source&quot;:&quot;&quot;,&quot;limit_query&quot;:5,&quot;limit_query_tablet&quot;:&quot;&quot;,&quot;limit_query_mobile&quot;:&quot;&quot;,&quot;limit_query_in_result_area&quot;:25,&quot;results_order_by&quot;:&quot;relevance&quot;,&quot;results_order&quot;:&quot;asc&quot;,&quot;sentence&quot;:&quot;&quot;,&quot;search_in_taxonomy&quot;:&quot;&quot;,&quot;search_in_taxonomy_source&quot;:&quot;&quot;,&quot;results_area_width_by&quot;:&quot;form&quot;,&quot;results_area_custom_width&quot;:&quot;&quot;,&quot;results_area_custom_position&quot;:&quot;&quot;,&quot;thumbnail_visible&quot;:&quot;yes&quot;,&quot;thumbnail_size&quot;:&quot;thumbnail&quot;,&quot;thumbnail_placeholder&quot;:{&quot;url&quot;:&quot;https:\/\/hikaripetfood.com\/wp-content\/plugins\/elementor\/assets\/images\/placeholder.png&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;post_content_source&quot;:&quot;content&quot;,&quot;post_content_custom_field_key&quot;:&quot;&quot;,&quot;post_content_length&quot;:0,&quot;show_product_price&quot;:&quot;yes&quot;,&quot;show_product_rating&quot;:&quot;&quot;,&quot;show_result_new_tab&quot;:&quot;&quot;,&quot;highlight_searched_text&quot;:&quot;&quot;,&quot;bullet_pagination&quot;:&quot;&quot;,&quot;number_pagination&quot;:&quot;&quot;,&quot;navigation_arrows&quot;:&quot;in_header&quot;,&quot;navigation_arrows_type&quot;:&quot;angle&quot;,&quot;show_title_related_meta&quot;:&quot;&quot;,&quot;meta_title_related_position&quot;:&quot;&quot;,&quot;title_related_meta&quot;:&quot;&quot;,&quot;show_content_related_meta&quot;:&quot;&quot;,&quot;meta_content_related_position&quot;:&quot;&quot;,&quot;content_related_meta&quot;:&quot;&quot;,&quot;negative_search&quot;:&quot;Xin l\u1ed7i, nh\u01b0ng kh\u00f4ng c\u00f3 g\u00ec ph\u00f9 h\u1ee3p v\u1edbi \u0111i\u1ec1u ki\u1ec7n t\u00ecm ki\u1ebfm c\u1ee7a b\u1ea1n.&quot;,&quot;server_error&quot;:&quot;Xin l\u1ed7i, nh\u01b0ng ch\u00fang t\u00f4i kh\u00f4ng th\u1ec3 x\u1eed l\u00fd truy v\u1ea5n t\u00ecm ki\u1ebfm c\u1ee7a b\u1ea1n b\u00e2y gi\u1edd. Vui l\u00f2ng th\u1eed l\u1ea1i sau!&quot;,&quot;catalog_visibility&quot;:&quot;&quot;}">
+                                                                            data-settings="{&quot;symbols_for_start_searching&quot;:2,&quot;search_by_empty_value&quot;:&quot;&quot;,&quot;submit_on_enter&quot;:&quot;&quot;,&quot;search_source&quot;:[&quot;product&quot;],&quot;search_logging&quot;:&quot;&quot;,&quot;search_results_url&quot;:&quot;&quot;,&quot;search_taxonomy&quot;:&quot;&quot;,&quot;include_terms_ids&quot;:[],&quot;exclude_terms_ids&quot;:[],&quot;exclude_posts_ids&quot;:[],&quot;custom_fields_source&quot;:&quot;&quot;,&quot;limit_query&quot;:5,&quot;limit_query_tablet&quot;:&quot;&quot;,&quot;limit_query_mobile&quot;:&quot;&quot;,&quot;limit_query_in_result_area&quot;:25,&quot;results_order_by&quot;:&quot;relevance&quot;,&quot;results_order&quot;:&quot;asc&quot;,&quot;sentence&quot;:&quot;&quot;,&quot;search_in_taxonomy&quot;:&quot;&quot;,&quot;search_in_taxonomy_source&quot;:&quot;&quot;,&quot;results_area_width_by&quot;:&quot;form&quot;,&quot;results_area_custom_width&quot;:&quot;&quot;,&quot;results_area_custom_position&quot;:&quot;&quot;,&quot;thumbnail_visible&quot;:&quot;yes&quot;,&quot;thumbnail_size&quot;:&quot;thumbnail&quot;,&quot;thumbnail_placeholder&quot;:{&quot;url&quot;:&quot;https:\/\/vinakoi.com\/wp-content\/plugins\/elementor\/assets\/images\/placeholder.png&quot;,&quot;id&quot;:&quot;&quot;,&quot;size&quot;:&quot;&quot;},&quot;post_content_source&quot;:&quot;content&quot;,&quot;post_content_custom_field_key&quot;:&quot;&quot;,&quot;post_content_length&quot;:0,&quot;show_product_price&quot;:&quot;yes&quot;,&quot;show_product_rating&quot;:&quot;&quot;,&quot;show_result_new_tab&quot;:&quot;&quot;,&quot;highlight_searched_text&quot;:&quot;&quot;,&quot;bullet_pagination&quot;:&quot;&quot;,&quot;number_pagination&quot;:&quot;&quot;,&quot;navigation_arrows&quot;:&quot;in_header&quot;,&quot;navigation_arrows_type&quot;:&quot;angle&quot;,&quot;show_title_related_meta&quot;:&quot;&quot;,&quot;meta_title_related_position&quot;:&quot;&quot;,&quot;title_related_meta&quot;:&quot;&quot;,&quot;show_content_related_meta&quot;:&quot;&quot;,&quot;meta_content_related_position&quot;:&quot;&quot;,&quot;content_related_meta&quot;:&quot;&quot;,&quot;negative_search&quot;:&quot;Xin l\u1ed7i, nh\u01b0ng kh\u00f4ng c\u00f3 g\u00ec ph\u00f9 h\u1ee3p v\u1edbi \u0111i\u1ec1u ki\u1ec7n t\u00ecm ki\u1ebfm c\u1ee7a b\u1ea1n.&quot;,&quot;server_error&quot;:&quot;Xin l\u1ed7i, nh\u01b0ng ch\u00fang t\u00f4i kh\u00f4ng th\u1ec3 x\u1eed l\u00fd truy v\u1ea5n t\u00ecm ki\u1ebfm c\u1ee7a b\u1ea1n b\u00e2y gi\u1edd. Vui l\u00f2ng th\u1eed l\u1ea1i sau!&quot;,&quot;catalog_visibility&quot;:&quot;&quot;}">
                                                                             <form class="jet-ajax-search__form"
                                                                                 method="get" action="/" role="search"
                                                                                 target="">
@@ -729,7 +729,7 @@
 
                                         <a class="ast-header-account-link ast-header-account-type-icon ast-account-action-link"
                                             aria-label="Account icon link"
-                                            href=/assets/wp-login.php?itsec-hb-token=food-backend&#038;redirect_to=https%3A%2F%2Fhikaripetfood.com
+                                            href=/assets/wp-login.php?itsec-hb-token=food-backend&#038;redirect_to=https%3A%2F%2Fvinakoi.com
                                             target=_self>
                                             <span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg
                                                     version='1.1' class='account-icon'
@@ -856,7 +856,7 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1656">
-                                                            <a href="https://hikaripetfood.com/thuc-an-ca-koi/"
+                                                            <a href="https://vinakoi.com/thuc-an-ca-koi/"
                                                                 class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                         class="ast-arrow-svg"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -872,7 +872,7 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-728">
-                                                            <a href="https://hikaripetfood.com/thuc-an-ca-vang/"
+                                                            <a href="https://vinakoi.com/thuc-an-ca-vang/"
                                                                 class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                         class="ast-arrow-svg"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -888,7 +888,7 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-729">
-                                                            <a href="https://hikaripetfood.com/thuc-an-ca-nhiet-doi/"
+                                                            <a href="https://vinakoi.com/thuc-an-ca-nhiet-doi/"
                                                                 class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                         class="ast-arrow-svg"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -904,7 +904,7 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-731">
-                                                            <a href="https://hikaripetfood.com/thuc-an-bo-sat/"
+                                                            <a href="https://vinakoi.com/thuc-an-bo-sat/"
                                                                 class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                         class="ast-arrow-svg"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -920,7 +920,7 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-733">
-                                                            <a href="https://hikaripetfood.com/thuc-an-chim/"
+                                                            <a href="https://vinakoi.com/thuc-an-chim/"
                                                                 class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                         class="ast-arrow-svg"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -935,7 +935,7 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-732">
-                                                            <a href="https://hikaripetfood.com/thuc-an-dong-vat-nho/"
+                                                            <a href="https://vinakoi.com/thuc-an-dong-vat-nho/"
                                                                 class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                         class="ast-arrow-svg"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -951,7 +951,7 @@
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-794">
-                                                            <a href="https://hikaripetfood.com/blog/"
+                                                            <a href="https://vinakoi.com/blog/"
                                                                 class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                         class="ast-arrow-svg"
                                                                         xmlns="http://www.w3.org/2000/svg"
@@ -999,7 +999,7 @@
                                                             <ul class="sub-menu">
                                                                 <li
                                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-795">
-                                                                    <a href="https://hikaripetfood.com/blog/chu-de-ca-koi/"
+                                                                    <a href="https://vinakoi.com/blog/chu-de-ca-koi/"
                                                                         class="menu-link"><span
                                                                             class="ast-icon icon-arrow"><svg
                                                                                 class="ast-arrow-svg"
@@ -1018,7 +1018,7 @@
                                                                 </li>
                                                                 <li
                                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-797">
-                                                                    <a href="https://hikaripetfood.com/blog/chu-de-ca-vang/"
+                                                                    <a href="https://vinakoi.com/blog/chu-de-ca-vang/"
                                                                         class="menu-link"><span
                                                                             class="ast-icon icon-arrow"><svg
                                                                                 class="ast-arrow-svg"
@@ -1037,7 +1037,7 @@
                                                                 </li>
                                                                 <li
                                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-796">
-                                                                    <a href="https://hikaripetfood.com/blog/chu-de-ca-nhiet-doi/"
+                                                                    <a href="https://vinakoi.com/blog/chu-de-ca-nhiet-doi/"
                                                                         class="menu-link"><span
                                                                             class="ast-icon icon-arrow"><svg
                                                                                 class="ast-arrow-svg"
@@ -1056,7 +1056,7 @@
                                                                 </li>
                                                                 <li
                                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-799">
-                                                                    <a href="https://hikaripetfood.com/blog/chu-de-ve-bo-sat/"
+                                                                    <a href="https://vinakoi.com/blog/chu-de-ve-bo-sat/"
                                                                         class="menu-link"><span
                                                                             class="ast-icon icon-arrow"><svg
                                                                                 class="ast-arrow-svg"
@@ -1075,7 +1075,7 @@
                                                                 </li>
                                                                 <li
                                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-800">
-                                                                    <a href="https://hikaripetfood.com/blog/chu-de-ve-chim/"
+                                                                    <a href="https://vinakoi.com/blog/chu-de-ve-chim/"
                                                                         class="menu-link"><span
                                                                             class="ast-icon icon-arrow"><svg
                                                                                 class="ast-arrow-svg"
@@ -1094,7 +1094,7 @@
                                                                 </li>
                                                                 <li
                                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-798">
-                                                                    <a href="https://hikaripetfood.com/blog/chu-de-dong-vat-nho/"
+                                                                    <a href="https://vinakoi.com/blog/chu-de-dong-vat-nho/"
                                                                         class="menu-link"><span
                                                                             class="ast-icon icon-arrow"><svg
                                                                                 class="ast-arrow-svg"
@@ -1184,14 +1184,14 @@
                                     itemscope="itemscope">
                                     <h1 class="site-logo-img"><a href="/" class="custom-logo-link" rel="home"
                                             aria-current="page"><img width="85" height="56"
-                                                src="/assets/wp-content/uploads/2023/05/logo-thuc-an-hikari-blue-85x56.png"
+                                                src="/logo.png"
                                                 class="custom-logo"
-                                                alt="Hikari Pet Food &#8211; Thức ăn thú cưng cao cấp đến từ Nhật Bản"
+                                                alt="VinaKoi Pet Food &#8211; Thức ăn thú cưng cao cấp đến từ Nhật Bản"
                                                 decoding="async" sizes="(max-width: 85px) 100vw, 85px" /></a></h1>
                                     <div class="ast-site-title-wrap">
                                         <h1 class="site-title" itemprop="name">
                                             <a href="/" rel="home" itemprop="url">
-                                                Hikari Pet Food - Thức ăn thú cưng cao cấp đến từ Nhật Bản
+                                                Vina Koi - Thức ăn thú cưng cao cấp đến từ Nhật Bản
                                             </a>
                                         </h1>
 
@@ -1209,7 +1209,7 @@
 
                                     <a class="ast-header-account-link ast-header-account-type-icon ast-account-action-link"
                                         aria-label="Account icon link"
-                                        href=/assets/wp-login.php?itsec-hb-token=food-backend&#038;redirect_to=https%3A%2F%2Fhikaripetfood.com
+                                        href=/assets/wp-login.php?itsec-hb-token=food-backend&#038;redirect_to=https%3A%2F%2Fvinakoi.com
                                         target=_self>
                                         <span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg version='1.1'
                                                 class='account-icon' xmlns='http://www.w3.org/2000/svg'

@@ -195,17 +195,17 @@
                                                     <li>
 
                                                         <a
-                                                            href="/product/hikari-tropical-vibra-bites/">
+                                                            href="/product/vinakoi-tropical-vibra-bites/">
                                                             <img loading="lazy"
                                                                 width="300"
                                                                 height="300"
-                                                                src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
+                                                                src="/assets/wp-content/uploads/2023/06/product.jpg"
                                                                 class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                                alt="Hikari Tropical Vibra Bites - 73g"
+                                                                alt="VinaKoi Tropical Vibra Bites - 73g"
 
                                                                />
                                                             <span
-                                                                class="product-title">Hikari®
+                                                                class="product-title">VinaKoi®
                                                                 Tropical Vibra
                                                                 Bites™</span>
                                                         </a>
@@ -226,17 +226,17 @@
                                                     <li>
 
                                                         <a
-                                                            href="/product/hikari-tropical-vibra-bites/">
+                                                            href="/product/vinakoi-tropical-vibra-bites/">
                                                             <img loading="lazy"
                                                                 width="300"
                                                                 height="300"
-                                                                src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
+                                                                src="/assets/wp-content/uploads/2023/06/product.jpg"
                                                                 class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                                alt="Hikari Tropical Vibra Bites - 73g"
+                                                                alt="VinaKoi Tropical Vibra Bites - 73g"
 
                                                                />
                                                             <span
-                                                                class="product-title">Hikari®
+                                                                class="product-title">VinaKoi®
                                                                 Tropical Vibra
                                                                 Bites™</span>
                                                         </a>
@@ -257,17 +257,17 @@
                                                     <li>
 
                                                         <a
-                                                            href="/product/hikari-tropical-vibra-bites/">
+                                                            href="/product/vinakoi-tropical-vibra-bites/">
                                                             <img loading="lazy"
                                                                 width="300"
                                                                 height="300"
-                                                                src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
+                                                                src="/assets/wp-content/uploads/2023/06/product.jpg"
                                                                 class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                                alt="Hikari Tropical Vibra Bites - 73g"
+                                                                alt="VinaKoi Tropical Vibra Bites - 73g"
 
                                                                />
                                                             <span
-                                                                class="product-title">Hikari®
+                                                                class="product-title">VinaKoi®
                                                                 Tropical Vibra
                                                                 Bites™</span>
                                                         </a>
@@ -288,17 +288,17 @@
                                                     <li>
 
                                                         <a
-                                                            href="/product/hikari-tropical-vibra-bites/">
+                                                            href="/product/vinakoi-tropical-vibra-bites/">
                                                             <img loading="lazy"
                                                                 width="300"
                                                                 height="300"
-                                                                src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
+                                                                src="/assets/wp-content/uploads/2023/06/product.jpg"
                                                                 class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                                alt="Hikari Tropical Vibra Bites - 73g"
+                                                                alt="VinaKoi Tropical Vibra Bites - 73g"
 
                                                                />
                                                             <span
-                                                                class="product-title">Hikari®
+                                                                class="product-title">VinaKoi®
                                                                 Tropical Vibra
                                                                 Bites™</span>
                                                         </a>
@@ -319,17 +319,17 @@
                                                     <li>
 
                                                         <a
-                                                            href="/product/hikari-tropical-vibra-bites/">
+                                                            href="/product/vinakoi-tropical-vibra-bites/">
                                                             <img loading="lazy"
                                                                 width="300"
                                                                 height="300"
-                                                                src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
+                                                                src="/assets/wp-content/uploads/2023/06/product.jpg"
                                                                 class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                                alt="Hikari Tropical Vibra Bites - 73g"
+                                                                alt="VinaKoi Tropical Vibra Bites - 73g"
 
                                                                />
                                                             <span
-                                                                class="product-title">Hikari®
+                                                                class="product-title">VinaKoi®
                                                                 Tropical Vibra
                                                                 Bites™</span>
                                                         </a>
@@ -350,17 +350,17 @@
                                                     <li>
 
                                                         <a
-                                                            href="/product/hikari-tropical-vibra-bites/">
+                                                            href="/product/vinakoi-tropical-vibra-bites/">
                                                             <img loading="lazy"
                                                                 width="300"
                                                                 height="300"
-                                                                src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
+                                                                src="/assets/wp-content/uploads/2023/06/product.jpg"
                                                                 class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                                alt="Hikari Tropical Vibra Bites - 73g"
+                                                                alt="VinaKoi Tropical Vibra Bites - 73g"
 
                                                                />
                                                             <span
-                                                                class="product-title">Hikari®
+                                                                class="product-title">VinaKoi®
                                                                 Tropical Vibra
                                                                 Bites™</span>
                                                         </a>

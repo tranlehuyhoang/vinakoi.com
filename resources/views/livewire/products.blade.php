@@ -1,7 +1,7 @@
 <div>
 
     <head>
-        <title>Thức ăn cá Koi - Hikari Pet Food - Thức ăn thú cưng cao cấp đến từ Nhật Bản</title>
+        <title>Thức ăn cá Koi - Vina Koi - Thức ăn thú cưng cao cấp đến từ Nhật Bản</title>
        @livewire('inc.css.products')
     </head>
 
@@ -163,11 +163,11 @@
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="/product/hikari-economy/"><img
+                                                                                        href="/product/vinakoi-economy/"><img
                                                                                             width="1701" height="1701"
                                                                                             src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Hikari Economy - 4kg"
+                                                                                            alt="VinaKoi Economy - 4kg"
                                                                                            /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
@@ -176,7 +176,7 @@
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        href="/product/vinakoi-economy/">Hikari
                                                                                         Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
@@ -199,11 +199,11 @@
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="/product/hikari-economy/"><img
+                                                                                        href="/product/vinakoi-economy/"><img
                                                                                             width="1701" height="1701"
                                                                                             src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Hikari Economy - 4kg"
+                                                                                            alt="VinaKoi Economy - 4kg"
                                                                                            /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
@@ -212,7 +212,7 @@
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        href="/product/vinakoi-economy/">Hikari
                                                                                         Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
@@ -235,11 +235,11 @@
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="/product/hikari-economy/"><img
+                                                                                        href="/product/vinakoi-economy/"><img
                                                                                             width="1701" height="1701"
                                                                                             src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Hikari Economy - 4kg"
+                                                                                            alt="VinaKoi Economy - 4kg"
                                                                                            /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
@@ -248,7 +248,7 @@
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        href="/product/vinakoi-economy/">Hikari
                                                                                         Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
@@ -271,11 +271,11 @@
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="/product/hikari-economy/"><img
+                                                                                        href="/product/vinakoi-economy/"><img
                                                                                             width="1701" height="1701"
                                                                                             src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Hikari Economy - 4kg"
+                                                                                            alt="VinaKoi Economy - 4kg"
                                                                                            /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
@@ -284,7 +284,7 @@
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        href="/product/vinakoi-economy/">Hikari
                                                                                         Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
@@ -307,11 +307,11 @@
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="/product/hikari-economy/"><img
+                                                                                        href="/product/vinakoi-economy/"><img
                                                                                             width="1701" height="1701"
                                                                                             src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Hikari Economy - 4kg"
+                                                                                            alt="VinaKoi Economy - 4kg"
                                                                                            /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
@@ -320,7 +320,7 @@
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        href="/product/vinakoi-economy/">Hikari
                                                                                         Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
@@ -343,11 +343,11 @@
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="/product/hikari-economy/"><img
+                                                                                        href="/product/vinakoi-economy/"><img
                                                                                             width="1701" height="1701"
                                                                                             src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Hikari Economy - 4kg"
+                                                                                            alt="VinaKoi Economy - 4kg"
                                                                                            /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
@@ -356,7 +356,7 @@
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        href="/product/vinakoi-economy/">Hikari
                                                                                         Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
@@ -379,11 +379,11 @@
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="/product/hikari-economy/"><img
+                                                                                        href="/product/vinakoi-economy/"><img
                                                                                             width="1701" height="1701"
                                                                                             src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Hikari Economy - 4kg"
+                                                                                            alt="VinaKoi Economy - 4kg"
                                                                                            /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
@@ -392,7 +392,7 @@
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        href="/product/vinakoi-economy/">Hikari
                                                                                         Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
@@ -415,11 +415,11 @@
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="/product/hikari-economy/"><img
+                                                                                        href="/product/vinakoi-economy/"><img
                                                                                             width="1701" height="1701"
                                                                                             src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Hikari Economy - 4kg"
+                                                                                            alt="VinaKoi Economy - 4kg"
                                                                                            /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
@@ -428,7 +428,7 @@
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        href="/product/vinakoi-economy/">Hikari
                                                                                         Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
@@ -451,11 +451,11 @@
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="/product/hikari-economy/"><img
+                                                                                        href="/product/vinakoi-economy/"><img
                                                                                             width="1701" height="1701"
                                                                                             src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Hikari Economy - 4kg"
+                                                                                            alt="VinaKoi Economy - 4kg"
                                                                                            /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
@@ -464,7 +464,7 @@
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        href="/product/vinakoi-economy/">Hikari
                                                                                         Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
@@ -487,11 +487,11 @@
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="/product/hikari-economy/"><img
+                                                                                        href="/product/vinakoi-economy/"><img
                                                                                             width="1701" height="1701"
                                                                                             src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Hikari Economy - 4kg"
+                                                                                            alt="VinaKoi Economy - 4kg"
                                                                                            /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
@@ -500,7 +500,7 @@
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        href="/product/vinakoi-economy/">Hikari
                                                                                         Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
@@ -523,11 +523,11 @@
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="/product/hikari-economy/"><img
+                                                                                        href="/product/vinakoi-economy/"><img
                                                                                             width="1701" height="1701"
                                                                                             src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Hikari Economy - 4kg"
+                                                                                            alt="VinaKoi Economy - 4kg"
                                                                                            /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
@@ -536,7 +536,7 @@
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        href="/product/vinakoi-economy/">Hikari
                                                                                         Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
@@ -559,11 +559,11 @@
                                                                                 <div class="jet-woo-product-thumbnail">
 
                                                                                     <a
-                                                                                        href="/product/hikari-economy/"><img
+                                                                                        href="/product/vinakoi-economy/"><img
                                                                                             width="1701" height="1701"
                                                                                             src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
                                                                                             class="attachment-full size-full"
-                                                                                            alt="Hikari Economy - 4kg"
+                                                                                            alt="VinaKoi Economy - 4kg"
                                                                                            /></a>
                                                                                     <div
                                                                                         class="jet-woo-product-img-overlay">
@@ -572,7 +572,7 @@
 
                                                                                 </div>
                                                                                 <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/hikari-economy/">Hikari
+                                                                                        href="/product/vinakoi-economy/">Hikari
                                                                                         Economy</a></h2>
                                                                                 <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
