@@ -22,7 +22,8 @@ class Product extends Model
         'image',       // Đường dẫn tới hình ảnh
         'is_featured', // Nổi bật
         'is_latest',   // Mới nhất
-        'is_discounted' // Giảm giá
+        'is_discounted', // Giảm giá
+        'buy_many', // Mua nhiều
     ];
 
     public function category()

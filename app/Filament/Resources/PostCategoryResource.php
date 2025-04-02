@@ -2,9 +2,9 @@
 
 namespace App\Filament\Resources;
 
-use App\Filament\Resources\ProductCategoryResource\Pages;
-use App\Filament\Resources\ProductCategoryResource\RelationManagers;
-use App\Models\ProductCategory;
+use App\Filament\Resources\PostCategoryResource\Pages;
+use App\Filament\Resources\PostCategoryResource\RelationManagers;
+use App\Models\PostCategory;
 use Filament\Forms;
 use Filament\Forms\Form;
 use Filament\Resources\Resource;
@@ -13,18 +13,19 @@ use Filament\Tables\Table;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
 
-class ProductCategoryResource extends Resource
+class PostCategoryResource extends Resource
 {
-    protected static ?string $model = ProductCategory::class;
+    protected static ?string $model = PostCategory::class;
 
     protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
-    protected static ?string $navigationLabel = 'Danh mục sản phẩm';
-    protected static ?string $navigationGroup = 'Quản lý sản phẩm';
-
+    protected static ?string $navigationLabel = 'Danh mục tin tức';
+    protected static ?string $navigationGroup = 'Quản lý nội dung';
     public static function getPluralModelLabel(): string
     {
-        return 'Danh mục sản phẩm';
-    }    public static function form(Form $form): Form
+        return 'Danh mục tin tức';
+    }
+
+    public static function form(Form $form): Form
     {
         return $form
             ->schema([
@@ -73,6 +74,7 @@ class ProductCategoryResource extends Resource
     {
         return static::getModel()::count();
     }
+
     public static function getRelations(): array
     {
         return [
@@ -83,10 +85,10 @@ class ProductCategoryResource extends Resource
     public static function getPages(): array
     {
         return [
-            'index' => Pages\ListProductCategories::route('/'),
-            'create' => Pages\CreateProductCategory::route('/create'),
-            'view' => Pages\ViewProductCategory::route('/{record}'),
-            'edit' => Pages\EditProductCategory::route('/{record}/edit'),
+            'index' => Pages\ListPostCategories::route('/'),
+            'create' => Pages\CreatePostCategory::route('/create'),
+            'view' => Pages\ViewPostCategory::route('/{record}'),
+            'edit' => Pages\EditPostCategory::route('/{record}/edit'),
         ];
     }
 }
