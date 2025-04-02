@@ -6265,8 +6265,6 @@ flexibility(document.documentElement);
                 </filter>
             </defs>
         </svg>
-        <a class="skip-link screen-reader-text" href="#content" role="link" title="Skip to content">
-            Skip to content</a>
 
         <div class="hfeed site" id="page">
          @livewire('inc.header')

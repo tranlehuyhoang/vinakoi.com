@@ -6206,8 +6206,6 @@ flexibility(document.documentElement);
                 </filter>
             </defs>
         </svg>
-        <a class="skip-link screen-reader-text" href="#content" role="link" title="Skip to content">
-            Skip to content</a>
 
         <div class="hfeed site" id="page">
             @livewire('inc.header')
@@ -6640,7 +6638,7 @@ flexibility(document.documentElement);
                                                             <div class="elementor-widget-container">
                                                                 <h2
                                                                     class="elementor-heading-title elementor-size-default">
-                                                                    Sản Phẩm bán chạy tại HIKARI</h2>
+                                                                    Sản Phẩm bán chạy</h2>
                                                             </div>
                                                         </div>
                                                         <div class="elementor-element elementor-element-95ab12a elementor-widget elementor-widget-jet-woo-products"
@@ -6663,7 +6661,7 @@ flexibility(document.documentElement);
                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                         <a
-                                                                                            href="https://hikaripetfood.com/saki-hikari-fancy-goldfish-balance/"><img
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/"><img
                                                                                                 loading="lazy"
                                                                                                 width="600" height="600"
                                                                                                 src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
@@ -6678,7 +6676,7 @@ flexibility(document.documentElement);
 
                                                                                     </div>
                                                                                     <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/saki-hikari-fancy-goldfish-balance/">Saki-Hikari
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/">Saki-Hikari
                                                                                             Fancy Goldfish Balance</a>
                                                                                     </h3>
                                                                                     <div class="jet-woo-product-price">
@@ -6696,7 +6694,7 @@ flexibility(document.documentElement);
 
                                                                             </div>
                                                                             <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1301">
+                                                                                data-product-id="1173">
                                                                                 <div
                                                                                     class="jet-woo-products__inner-box">
 
@@ -6704,12 +6702,12 @@ flexibility(document.documentElement);
                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                         <a
-                                                                                            href="https://hikaripetfood.com/hikari-cichlid-cichlid-staple/"><img
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/"><img
                                                                                                 loading="lazy"
                                                                                                 width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/06/Hikari-Cichlid-Cichlid-Staple-250g.jpg"
+                                                                                                src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
                                                                                                 class="attachment-full size-full"
-                                                                                                alt="Hikari-Cichlid-Cichlid-Staple-250g"
+                                                                                                alt="Saki-Hikari Fancy Goldfish Balance 200gram"
                                                                                                 decoding="async"
                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                         <div
@@ -6719,124 +6717,15 @@ flexibility(document.documentElement);
 
                                                                                     </div>
                                                                                     <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/hikari-cichlid-cichlid-staple/">Hikari
-                                                                                            Cichlid Cichlid Staple</a>
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/">Saki-Hikari
+                                                                                            Fancy Goldfish Balance</a>
                                                                                     </h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>80.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1351">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/saki-hikari-marine-herbivore/"><img
-                                                                                                loading="lazy"
-                                                                                                width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/06/Saki-Hikari®-Marine-Herbivore-90g.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Saki-Hikari® Marine Herbivore-90g"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/saki-hikari-marine-herbivore/">Saki-Hikari®
-                                                                                            Marine Herbivore</a></h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>120.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1885">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/hikari-spirulina/"><img
-                                                                                                loading="lazy"
-                                                                                                width="1701"
-                                                                                                height="1701"
-                                                                                                src="/assets/wp-content/uploads/2023/08/Hikari-Spirulina-500g.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Hikari Spirulina - 500g"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 1701px) 100vw, 1701px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/hikari-spirulina/">Hikari
-                                                                                            Spirulina</a></h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>240.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1161">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/hikari-oranda-gold-min/"><img
-                                                                                                loading="lazy"
-                                                                                                width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/06/hikari-oranda-gold-min.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Hikari Oranda Gold Min"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/hikari-oranda-gold-min/">Hikari
-                                                                                            Oranda Gold Min</a></h3>
                                                                                     <div class="jet-woo-product-price">
                                                                                         <span class="price"><span
                                                                                                 class="woocommerce-Price-amount amount"><bdi>206.000<span
+                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                            &ndash; <span
+                                                                                                class="woocommerce-Price-amount amount"><bdi>815.000<span
                                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                     </div>
                                                                                     <div
@@ -6846,7 +6735,7 @@ flexibility(document.documentElement);
 
                                                                             </div>
                                                                             <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1334">
+                                                                                data-product-id="1173">
                                                                                 <div
                                                                                     class="jet-woo-products__inner-box">
 
@@ -6854,12 +6743,12 @@ flexibility(document.documentElement);
                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                         <a
-                                                                                            href="https://hikaripetfood.com/hikari-marine-marine-a/"><img
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/"><img
                                                                                                 loading="lazy"
                                                                                                 width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/06/Hikari-Marine-MARINE-A-110g.jpg"
+                                                                                                src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
                                                                                                 class="attachment-full size-full"
-                                                                                                alt="Hikari-Marine-MARINE-A-110g"
+                                                                                                alt="Saki-Hikari Fancy Goldfish Balance 200gram"
                                                                                                 decoding="async"
                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                         <div
@@ -6869,90 +6758,15 @@ flexibility(document.documentElement);
 
                                                                                     </div>
                                                                                     <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/hikari-marine-marine-a/">Hikari
-                                                                                            Marine MARINE A</a></h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>157.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1132">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/saki-hikari-balance-floating/"><img
-                                                                                                loading="lazy"
-                                                                                                width="800" height="640"
-                                                                                                src="/assets/wp-content/uploads/2023/06/saki-hikari-balance.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Saki-Hikari Balance Floating"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 800px) 100vw, 800px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/saki-hikari-balance-floating/">Saki-Hikari
-                                                                                            Balance Floating</a></h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>1.416.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                            &ndash; <span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>3.443.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1227">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/hikari-tropical-micro-wafers/"><img
-                                                                                                loading="lazy"
-                                                                                                width="2560"
-                                                                                                height="2560"
-                                                                                                src="/assets/wp-content/uploads/2023/06/hikari-tropical-micro-wafers-45g-scaled.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Hikari Tropical MICRO WAFERS 45g"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 2560px) 100vw, 2560px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/hikari-tropical-micro-wafers/">Hikari
-                                                                                            Tropical MICRO WAFERS</a>
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/">Saki-Hikari
+                                                                                            Fancy Goldfish Balance</a>
                                                                                     </h3>
                                                                                     <div class="jet-woo-product-price">
                                                                                         <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>69.000<span
+                                                                                                class="woocommerce-Price-amount amount"><bdi>206.000<span
+                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                            &ndash; <span
+                                                                                                class="woocommerce-Price-amount amount"><bdi>815.000<span
                                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                     </div>
                                                                                     <div
@@ -6962,7 +6776,7 @@ flexibility(document.documentElement);
 
                                                                             </div>
                                                                             <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1284">
+                                                                                data-product-id="1173">
                                                                                 <div
                                                                                     class="jet-woo-products__inner-box">
 
@@ -6970,12 +6784,12 @@ flexibility(document.documentElement);
                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                         <a
-                                                                                            href="https://hikaripetfood.com/hikari-tropical-discus-bio-gold/"><img
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/"><img
                                                                                                 loading="lazy"
                                                                                                 width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/06/Hikari-Tropical-DISCUS-Bio-Gold-80g.jpg"
+                                                                                                src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
                                                                                                 class="attachment-full size-full"
-                                                                                                alt="Hikari-Tropical-DISCUS-Bio-Gold-80g"
+                                                                                                alt="Saki-Hikari Fancy Goldfish Balance 200gram"
                                                                                                 decoding="async"
                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                         <div
@@ -6985,15 +6799,15 @@ flexibility(document.documentElement);
 
                                                                                     </div>
                                                                                     <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/hikari-tropical-discus-bio-gold/">Hikari
-                                                                                            Tropical DISCUS Bio-Gold</a>
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/">Saki-Hikari
+                                                                                            Fancy Goldfish Balance</a>
                                                                                     </h3>
                                                                                     <div class="jet-woo-product-price">
                                                                                         <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>179.000<span
+                                                                                                class="woocommerce-Price-amount amount"><bdi>206.000<span
                                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                                                                             &ndash; <span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>1.560.000<span
+                                                                                                class="woocommerce-Price-amount amount"><bdi>815.000<span
                                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                     </div>
                                                                                     <div
@@ -7003,7 +6817,7 @@ flexibility(document.documentElement);
 
                                                                             </div>
                                                                             <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1295">
+                                                                                data-product-id="1173">
                                                                                 <div
                                                                                     class="jet-woo-products__inner-box">
 
@@ -7011,12 +6825,12 @@ flexibility(document.documentElement);
                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                         <a
-                                                                                            href="https://hikaripetfood.com/hikari-cichlid-sinking-cichlid-excel/"><img
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/"><img
                                                                                                 loading="lazy"
                                                                                                 width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/06/Hikari-Cichlid-Sinking-Cichlid-Excel-342g.jpg"
+                                                                                                src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
                                                                                                 class="attachment-full size-full"
-                                                                                                alt="Hikari-Cichlid-Sinking-Cichlid-Excel-342g"
+                                                                                                alt="Saki-Hikari Fancy Goldfish Balance 200gram"
                                                                                                 decoding="async"
                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                         <div
@@ -7026,12 +6840,15 @@ flexibility(document.documentElement);
 
                                                                                     </div>
                                                                                     <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/hikari-cichlid-sinking-cichlid-excel/">Hikari
-                                                                                            Cichlid Sinking Cichlid
-                                                                                            Excel</a></h3>
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/">Saki-Hikari
+                                                                                            Fancy Goldfish Balance</a>
+                                                                                    </h3>
                                                                                     <div class="jet-woo-product-price">
                                                                                         <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>189.000<span
+                                                                                                class="woocommerce-Price-amount amount"><bdi>206.000<span
+                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                            &ndash; <span
+                                                                                                class="woocommerce-Price-amount amount"><bdi>815.000<span
                                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                     </div>
                                                                                     <div
@@ -7040,80 +6857,7 @@ flexibility(document.documentElement);
                                                                                 </div>
 
                                                                             </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1279">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
 
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/hikari-tropical-jumbo-carnisticks/"><img
-                                                                                                loading="lazy"
-                                                                                                width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/06/Hikari-Tropical-JUMBO-CARNISTICKS-500g-1.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Hikari-Tropical-JUMBO-CARNISTICKS-500g"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/hikari-tropical-jumbo-carnisticks/">Hikari
-                                                                                            Tropical JUMBO
-                                                                                            CARNISTICKS</a></h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>561.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1694">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/leopa-delite/"><img
-                                                                                                loading="lazy"
-                                                                                                width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/07/Leopa-Delite-65g.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Leopa Delite-65g"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/leopa-delite/">Leopa
-                                                                                            Delite</a></h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price">Liên
-                                                                                            hệ</span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
                                                                         </div>
                                                                         <div
                                                                             class="prev-arrow jet-swiper-button-prev jet-arrow">
@@ -7157,7 +6901,7 @@ flexibility(document.documentElement);
                                                                             <div class="elementor-widget-container">
                                                                                 <h2
                                                                                     class="elementor-heading-title elementor-size-default">
-                                                                                    Thức ăn Cho cá Koi tại Hikari</h2>
+                                                                                    Thức ăn Cho cá Koi</h2>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -7195,7 +6939,7 @@ flexibility(document.documentElement);
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/hikari-friend/"><img
+                                                                                                            href="/product/hikari-friend/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="500"
                                                                                                                 height="500"
@@ -7213,7 +6957,7 @@ flexibility(document.documentElement);
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/hikari-friend/">Hikari
+                                                                                                            href="/product/hikari-friend/">Hikari
                                                                                                             Friend</a>
                                                                                                     </h3>
                                                                                                     <div
@@ -7230,7 +6974,7 @@ flexibility(document.documentElement);
 
                                                                                             </div>
                                                                                             <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1306">
+                                                                                                data-product-id="1077">
                                                                                                 <div
                                                                                                     class="jet-woo-products__inner-box">
 
@@ -7238,110 +6982,13 @@ flexibility(document.documentElement);
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/saki-hikari-pure-white/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="800"
-                                                                                                                height="640"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/Saki-Hikari-Pure-White.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="Saki Hikari Pure White"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 800px) 100vw, 800px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/saki-hikari-pure-white/">Saki
-                                                                                                            Hikari Pure
-                                                                                                            White</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>2.340.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                                            &ndash;
-                                                                                                            <span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>8.541.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1360">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/saki-hikari-deep-red/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="800"
-                                                                                                                height="640"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/Saki-Hikari-Deep-Red.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="Saki Hikari - Deep Red L"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 800px) 100vw, 800px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/saki-hikari-deep-red/">Saki
-                                                                                                            Hikari
-                                                                                                            &#8211; Deep
-                                                                                                            Red</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>4.154.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                                            &ndash;
-                                                                                                            <span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>11.642.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1898">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/hikari-gold/"><img
+                                                                                                            href="/product/hikari-friend/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="500"
                                                                                                                 height="500"
-                                                                                                                src="/assets/wp-content/uploads/2023/08/hikari-gold.jpg"
+                                                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="Hikari Gold - Cám cá Koi giúp tăng màu cải thiện tốc độ tăng trưởng"
+                                                                                                                alt="Hikari Friend Medium 10kg"
                                                                                                                 decoding="async"
                                                                                                                 sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                                                         <div
@@ -7353,18 +7000,14 @@ flexibility(document.documentElement);
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/hikari-gold/">Hikari
-                                                                                                            Gold</a>
+                                                                                                            href="/product/hikari-friend/">Hikari
+                                                                                                            Friend</a>
                                                                                                     </h3>
                                                                                                     <div
                                                                                                         class="jet-woo-product-price">
                                                                                                         <span
                                                                                                             class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>150.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                                            &ndash;
-                                                                                                            <span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>2.282.000<span
+                                                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
                                                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                                     </div>
                                                                                                     <div
@@ -7374,7 +7017,7 @@ flexibility(document.documentElement);
 
                                                                                             </div>
                                                                                             <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1893">
+                                                                                                data-product-id="1077">
                                                                                                 <div
                                                                                                     class="jet-woo-products__inner-box">
 
@@ -7382,15 +7025,15 @@ flexibility(document.documentElement);
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/hikari-economy/"><img
+                                                                                                            href="/product/hikari-friend/"><img
                                                                                                                 loading="lazy"
-                                                                                                                width="1701"
-                                                                                                                height="1701"
-                                                                                                                src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
+                                                                                                                width="500"
+                                                                                                                height="500"
+                                                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="Hikari Economy - 4kg"
+                                                                                                                alt="Hikari Friend Medium 10kg"
                                                                                                                 decoding="async"
-                                                                                                                sizes="(max-width: 1701px) 100vw, 1701px" /></a>
+                                                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                                                         <div
                                                                                                             class="jet-woo-product-img-overlay">
                                                                                                         </div>
@@ -7400,18 +7043,14 @@ flexibility(document.documentElement);
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/hikari-economy/">Hikari
-                                                                                                            Economy</a>
+                                                                                                            href="/product/hikari-friend/">Hikari
+                                                                                                            Friend</a>
                                                                                                     </h3>
                                                                                                     <div
                                                                                                         class="jet-woo-product-price">
                                                                                                         <span
                                                                                                             class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>440.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                                            &ndash;
-                                                                                                            <span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>1.760.000<span
+                                                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
                                                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                                     </div>
                                                                                                     <div
@@ -7421,7 +7060,7 @@ flexibility(document.documentElement);
 
                                                                                             </div>
                                                                                             <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1889">
+                                                                                                data-product-id="1077">
                                                                                                 <div
                                                                                                     class="jet-woo-products__inner-box">
 
@@ -7429,15 +7068,15 @@ flexibility(document.documentElement);
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/hikari-staple/"><img
+                                                                                                            href="/product/hikari-friend/"><img
                                                                                                                 loading="lazy"
-                                                                                                                width="1701"
-                                                                                                                height="1701"
-                                                                                                                src="/assets/wp-content/uploads/2023/08/Hikari-Staple-5kg-1.jpg"
+                                                                                                                width="500"
+                                                                                                                height="500"
+                                                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="Hikari Staple - 5kg"
+                                                                                                                alt="Hikari Friend Medium 10kg"
                                                                                                                 decoding="async"
-                                                                                                                sizes="(max-width: 1701px) 100vw, 1701px" /></a>
+                                                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                                                         <div
                                                                                                             class="jet-woo-product-img-overlay">
                                                                                                         </div>
@@ -7447,18 +7086,14 @@ flexibility(document.documentElement);
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/hikari-staple/">Hikari
-                                                                                                            Staple</a>
+                                                                                                            href="/product/hikari-friend/">Hikari
+                                                                                                            Friend</a>
                                                                                                     </h3>
                                                                                                     <div
                                                                                                         class="jet-woo-product-price">
                                                                                                         <span
                                                                                                             class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>385.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                                            &ndash;
-                                                                                                            <span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>1.697.000<span
+                                                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
                                                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                                     </div>
                                                                                                     <div
@@ -7468,7 +7103,7 @@ flexibility(document.documentElement);
 
                                                                                             </div>
                                                                                             <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1885">
+                                                                                                data-product-id="1077">
                                                                                                 <div
                                                                                                     class="jet-woo-products__inner-box">
 
@@ -7476,15 +7111,15 @@ flexibility(document.documentElement);
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/hikari-spirulina/"><img
+                                                                                                            href="/product/hikari-friend/"><img
                                                                                                                 loading="lazy"
-                                                                                                                width="1701"
-                                                                                                                height="1701"
-                                                                                                                src="/assets/wp-content/uploads/2023/08/Hikari-Spirulina-500g.jpg"
+                                                                                                                width="500"
+                                                                                                                height="500"
+                                                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="Hikari Spirulina - 500g"
+                                                                                                                alt="Hikari Friend Medium 10kg"
                                                                                                                 decoding="async"
-                                                                                                                sizes="(max-width: 1701px) 100vw, 1701px" /></a>
+                                                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                                                         <div
                                                                                                             class="jet-woo-product-img-overlay">
                                                                                                         </div>
@@ -7494,14 +7129,14 @@ flexibility(document.documentElement);
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/hikari-spirulina/">Hikari
-                                                                                                            Spirulina</a>
+                                                                                                            href="/product/hikari-friend/">Hikari
+                                                                                                            Friend</a>
                                                                                                     </h3>
                                                                                                     <div
                                                                                                         class="jet-woo-product-price">
                                                                                                         <span
                                                                                                             class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>240.000<span
+                                                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
                                                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                                     </div>
                                                                                                     <div
@@ -7510,236 +7145,7 @@ flexibility(document.documentElement);
                                                                                                 </div>
 
                                                                                             </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1883">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
 
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/hikari-excel/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="1701"
-                                                                                                                height="1701"
-                                                                                                                src="/assets/wp-content/uploads/2023/08/Hikari-Excel-5kg.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="Hikari Excel-5kg"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 1701px) 100vw, 1701px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/hikari-excel/">Hikari
-                                                                                                            Excel</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>2.100.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1862">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/vi-sinh-genki-water/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="700"
-                                                                                                                height="700"
-                                                                                                                src="/assets/wp-content/uploads/2023/08/vi-sinh-genki-water-1l.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="Vi Sinh Genki Water 1 lít"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 700px) 100vw, 700px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/vi-sinh-genki-water/">Vi
-                                                                                                            Sinh Genki
-                                                                                                            Water</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>400.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                                            &ndash;
-                                                                                                            <span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>6.000.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1860">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/vo-hau-ion/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="512"
-                                                                                                                height="512"
-                                                                                                                src="/assets/wp-content/uploads/2023/08/vo-hau-ion-hikari.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="Vỏ Hàu Ion"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 512px) 100vw, 512px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/vo-hau-ion/">Vỏ
-                                                                                                            Hàu Ion</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>100.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1202">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/saki-hikari-growth-floating/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="1000"
-                                                                                                                height="1000"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/saki-hikari-growth-floating-5kg.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="Saki Hikari Growth Floating Medium pellets Fish Food 5kg size M"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 1000px) 100vw, 1000px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/saki-hikari-growth-floating/">Saki-Hikari
-                                                                                                            Growth
-                                                                                                            Floating</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>778.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                                            &ndash;
-                                                                                                            <span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>5.899.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1146">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/saki-hikari-color-enhancing/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="600"
-                                                                                                                height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/saki-hikari-color-enhancing-5kg.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="Saki-Hikari Color Enhancing 5kg"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/saki-hikari-color-enhancing/">Saki-Hikari
-                                                                                                            Color
-                                                                                                            Enhancing</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>872.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                                            &ndash;
-                                                                                                            <span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>6.950.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
                                                                                         </div>
                                                                                         <div
                                                                                             class="prev-arrow jet-swiper-button-prev jet-arrow">
@@ -7787,76 +7193,12 @@ flexibility(document.documentElement);
                                                                             <div class="elementor-widget-container">
                                                                                 <h2
                                                                                     class="elementor-heading-title elementor-size-default">
-                                                                                    Thức ăn Cho cá cảnh tại Hikari</h2>
+                                                                                    Thức ăn Cho cá cảnh</h2>
                                                                             </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1f78493"
-                                                                    data-id="1f78493" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-bf521de elementor-nav-menu__align-end elementor-nav-menu--dropdown-none css_menu elementor-widget elementor-widget-nav-menu"
-                                                                            data-id="bf521de" data-element_type="widget"
-                                                                            data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}"
-                                                                            data-widget_type="nav-menu.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <link rel="stylesheet"
-                                                                                    href="/assets/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">
-                                                                                <nav
-                                                                                    class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-                                                                                    <ul id="menu-1-bf521de"
-                                                                                        class="elementor-nav-menu">
-                                                                                        <li
-                                                                                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2321">
-                                                                                            <a href="https://hikaripetfood.com/thuc-an-ca-koi/"
-                                                                                                class="elementor-item menu-link">Cá
-                                                                                                Koi</a>
-                                                                                        </li>
-                                                                                        <li
-                                                                                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-845">
-                                                                                            <a href="https://hikaripetfood.com/thuc-an-ca-vang/"
-                                                                                                class="elementor-item menu-link">Cá
-                                                                                                vàng</a>
-                                                                                        </li>
-                                                                                        <li
-                                                                                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-846">
-                                                                                            <a href="https://hikaripetfood.com/thuc-an-ca-nhiet-doi/"
-                                                                                                class="elementor-item menu-link">Cá
-                                                                                                nhiệt đới</a>
-                                                                                        </li>
-                                                                                    </ul>
-                                                                                </nav>
-                                                                                <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
-                                                                                    aria-hidden="true">
-                                                                                    <ul id="menu-2-bf521de"
-                                                                                        class="elementor-nav-menu">
-                                                                                        <li
-                                                                                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2321">
-                                                                                            <a href="https://hikaripetfood.com/thuc-an-ca-koi/"
-                                                                                                class="elementor-item menu-link"
-                                                                                                tabindex="-1">Cá Koi</a>
-                                                                                        </li>
-                                                                                        <li
-                                                                                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-845">
-                                                                                            <a href="https://hikaripetfood.com/thuc-an-ca-vang/"
-                                                                                                class="elementor-item menu-link"
-                                                                                                tabindex="-1">Cá
-                                                                                                vàng</a>
-                                                                                        </li>
-                                                                                        <li
-                                                                                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-846">
-                                                                                            <a href="https://hikaripetfood.com/thuc-an-ca-nhiet-doi/"
-                                                                                                class="elementor-item menu-link"
-                                                                                                tabindex="-1">Cá nhiệt
-                                                                                                đới</a>
-                                                                                        </li>
-                                                                                    </ul>
-                                                                                </nav>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
+
                                                             </div>
                                                         </section>
                                                         <section
@@ -7890,7 +7232,7 @@ flexibility(document.documentElement);
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/blood-red-parrot/"><img
+                                                                                                            href="/product/blood-red-parrot/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="600"
                                                                                                                 height="600"
@@ -7908,7 +7250,7 @@ flexibility(document.documentElement);
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/blood-red-parrot/">Blood-Red
+                                                                                                            href="/product/blood-red-parrot/">Blood-Red
                                                                                                             Parrot+</a>
                                                                                                     </h3>
                                                                                                     <div
@@ -7925,7 +7267,7 @@ flexibility(document.documentElement);
 
                                                                                             </div>
                                                                                             <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1303">
+                                                                                                data-product-id="1312">
                                                                                                 <div
                                                                                                     class="jet-woo-products__inner-box">
 
@@ -7933,13 +7275,13 @@ flexibility(document.documentElement);
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/hikari-sinking-cichlid-gold/"><img
+                                                                                                            href="/product/blood-red-parrot/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="600"
                                                                                                                 height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/Hikari-Cichlid-Cichlid-Gold-Sinking-342g.jpg"
+                                                                                                                src="/assets/wp-content/uploads/2023/06/blood-red-parrot-thuc-an-cho-ca-hong-ket.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="Hikari Cichlid Sinking Gold"
+                                                                                                                alt=""
                                                                                                                 decoding="async"
                                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                                         <div
@@ -7951,20 +7293,14 @@ flexibility(document.documentElement);
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/hikari-sinking-cichlid-gold/">Hikari
-                                                                                                            Sinking
-                                                                                                            Cichlid
-                                                                                                            Gold</a>
+                                                                                                            href="/product/blood-red-parrot/">Blood-Red
+                                                                                                            Parrot+</a>
                                                                                                     </h3>
                                                                                                     <div
                                                                                                         class="jet-woo-product-price">
                                                                                                         <span
                                                                                                             class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>49.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                                            &ndash;
-                                                                                                            <span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>144.000<span
+                                                                                                                class="woocommerce-Price-amount amount"><bdi>238.000<span
                                                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                                     </div>
                                                                                                     <div
@@ -7974,7 +7310,7 @@ flexibility(document.documentElement);
 
                                                                                             </div>
                                                                                             <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1284">
+                                                                                                data-product-id="1312">
                                                                                                 <div
                                                                                                     class="jet-woo-products__inner-box">
 
@@ -7982,13 +7318,13 @@ flexibility(document.documentElement);
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/hikari-tropical-discus-bio-gold/"><img
+                                                                                                            href="/product/blood-red-parrot/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="600"
                                                                                                                 height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/Hikari-Tropical-DISCUS-Bio-Gold-80g.jpg"
+                                                                                                                src="/assets/wp-content/uploads/2023/06/blood-red-parrot-thuc-an-cho-ca-hong-ket.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="Hikari-Tropical-DISCUS-Bio-Gold-80g"
+                                                                                                                alt=""
                                                                                                                 decoding="async"
                                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                                         <div
@@ -8000,20 +7336,14 @@ flexibility(document.documentElement);
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/hikari-tropical-discus-bio-gold/">Hikari
-                                                                                                            Tropical
-                                                                                                            DISCUS
-                                                                                                            Bio-Gold</a>
+                                                                                                            href="/product/blood-red-parrot/">Blood-Red
+                                                                                                            Parrot+</a>
                                                                                                     </h3>
                                                                                                     <div
                                                                                                         class="jet-woo-product-price">
                                                                                                         <span
                                                                                                             class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>179.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                                            &ndash;
-                                                                                                            <span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>1.560.000<span
+                                                                                                                class="woocommerce-Price-amount amount"><bdi>238.000<span
                                                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                                     </div>
                                                                                                     <div
@@ -8023,7 +7353,7 @@ flexibility(document.documentElement);
 
                                                                                             </div>
                                                                                             <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1351">
+                                                                                                data-product-id="1312">
                                                                                                 <div
                                                                                                     class="jet-woo-products__inner-box">
 
@@ -8031,13 +7361,13 @@ flexibility(document.documentElement);
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/saki-hikari-marine-herbivore/"><img
+                                                                                                            href="/product/blood-red-parrot/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="600"
                                                                                                                 height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/Saki-Hikari®-Marine-Herbivore-90g.jpg"
+                                                                                                                src="/assets/wp-content/uploads/2023/06/blood-red-parrot-thuc-an-cho-ca-hong-ket.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="Saki-Hikari® Marine Herbivore-90g"
+                                                                                                                alt=""
                                                                                                                 decoding="async"
                                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                                         <div
@@ -8049,15 +7379,14 @@ flexibility(document.documentElement);
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/saki-hikari-marine-herbivore/">Saki-Hikari®
-                                                                                                            Marine
-                                                                                                            Herbivore</a>
+                                                                                                            href="/product/blood-red-parrot/">Blood-Red
+                                                                                                            Parrot+</a>
                                                                                                     </h3>
                                                                                                     <div
                                                                                                         class="jet-woo-product-price">
                                                                                                         <span
                                                                                                             class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>120.000<span
+                                                                                                                class="woocommerce-Price-amount amount"><bdi>238.000<span
                                                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                                     </div>
                                                                                                     <div
@@ -8067,7 +7396,7 @@ flexibility(document.documentElement);
 
                                                                                             </div>
                                                                                             <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1349">
+                                                                                                data-product-id="1312">
                                                                                                 <div
                                                                                                     class="jet-woo-products__inner-box">
 
@@ -8075,13 +7404,13 @@ flexibility(document.documentElement);
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/saki-hikari-marine-carnivore/"><img
+                                                                                                            href="/product/blood-red-parrot/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="600"
                                                                                                                 height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/Saki-Hikari®-Marine-Carnivore-40g.jpg"
+                                                                                                                src="/assets/wp-content/uploads/2023/06/blood-red-parrot-thuc-an-cho-ca-hong-ket.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="Saki-Hikari®-Marine-Carnivore-40g"
+                                                                                                                alt=""
                                                                                                                 decoding="async"
                                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                                         <div
@@ -8093,15 +7422,14 @@ flexibility(document.documentElement);
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="https://hikaripetfood.com/saki-hikari-marine-carnivore/">Saki-Hikari®
-                                                                                                            Marine
-                                                                                                            Carnivore</a>
+                                                                                                            href="/product/blood-red-parrot/">Blood-Red
+                                                                                                            Parrot+</a>
                                                                                                     </h3>
                                                                                                     <div
                                                                                                         class="jet-woo-product-price">
                                                                                                         <span
                                                                                                             class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>70.000<span
+                                                                                                                class="woocommerce-Price-amount amount"><bdi>238.000<span
                                                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
                                                                                                     </div>
                                                                                                     <div
@@ -8110,318 +7438,7 @@ flexibility(document.documentElement);
                                                                                                 </div>
 
                                                                                             </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1344">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
 
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/hikari-marine-seaweed-extreme/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="600"
-                                                                                                                height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/Hikari-Marine-SEAWEED-EXTREME-250g.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="Hikari-Marine-SEAWEED-EXTREME-250g"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/hikari-marine-seaweed-extreme/">Hikari
-                                                                                                            Marine
-                                                                                                            SEAWEED
-                                                                                                            EXTREME</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>64.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                                            &ndash;
-                                                                                                            <span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>251.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1339">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/hikari-marine-marine-s/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="600"
-                                                                                                                height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/Hikari-Marine-MARINE-S-50g.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="Hikari-Marine-MARINE-S-50g"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/hikari-marine-marine-s/">Hikari
-                                                                                                            Marine
-                                                                                                            MARINE S</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>84.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1334">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/hikari-marine-marine-a/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="600"
-                                                                                                                height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/Hikari-Marine-MARINE-A-110g.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="Hikari-Marine-MARINE-A-110g"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/hikari-marine-marine-a/">Hikari
-                                                                                                            Marine
-                                                                                                            MARINE A</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>157.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1329">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/crest-freak-redval/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="600"
-                                                                                                                height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/Crest-Freak-Redval.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="Crest Freak Redval"
-                                                                                                                decoding="async" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/crest-freak-redval/">Crest
-                                                                                                            Freak
-                                                                                                            Redval</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price">Liên
-                                                                                                            hệ</span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1325">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/hikari-tropical-betta-bio-gold/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="600"
-                                                                                                                height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/Hikari-Tropical-Betta-Bio-Gold-20g.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="Hikari-Tropical-Betta-Bio-Gold-20g"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/hikari-tropical-betta-bio-gold/">Hikari
-                                                                                                            Tropical
-                                                                                                            Betta
-                                                                                                            Bio-Gold</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price">Liên
-                                                                                                            hệ</span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1320">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/hikari-bio-pure-fd-blood-worms/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="600"
-                                                                                                                height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/Hikari-Bio-Pure-FD-BLOOD-WORMS-12g.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="Hikari-Bio-Pure-FD-BLOOD-WORMS-12g"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/hikari-bio-pure-fd-blood-worms/">Hikari
-                                                                                                            Bio-Pure FD
-                                                                                                            BLOOD
-                                                                                                            WORMS</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price">Liên
-                                                                                                            hệ</span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1317">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/hikari-tropical-shrimp-cuisine/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="600"
-                                                                                                                height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/Hikari-Tropical-Shrimp-Cuisine-10g.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="Hikari-Tropical-Shrimp-Cuisine-10g"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="https://hikaripetfood.com/hikari-tropical-shrimp-cuisine/">Hikari
-                                                                                                            Tropical
-                                                                                                            Shrimp
-                                                                                                            Cuisine</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>62.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
                                                                                         </div>
                                                                                         <div
                                                                                             class="prev-arrow jet-swiper-button-prev jet-arrow">
@@ -8584,741 +7601,8 @@ flexibility(document.documentElement);
                                                 </div>
                                             </div>
                                         </section>
-                                        <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-88bc88e elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                            data-id="88bc88e" data-element_type="section"
-                                            data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-                                            <div class="elementor-container elementor-column-gap-default">
-                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-641dac9"
-                                                    data-id="641dac9" data-element_type="column">
-                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div class="elementor-element elementor-element-63aa4d2 elementor-widget elementor-widget-heading"
-                                                            data-id="63aa4d2" data-element_type="widget"
-                                                            data-widget_type="heading.default">
-                                                            <div class="elementor-widget-container">
-                                                                <h2
-                                                                    class="elementor-heading-title elementor-size-default">
-                                                                    Thức ăn cho bò sát</h2>
-                                                            </div>
-                                                        </div>
-                                                        <div class="elementor-element elementor-element-84ec8d0 elementor-widget elementor-widget-jet-woo-products"
-                                                            data-id="84ec8d0" data-element_type="widget"
-                                                            data-settings="{&quot;columns_tablet&quot;:&quot;3&quot;,&quot;columns_mobile&quot;:&quot;2&quot;,&quot;columns&quot;:4,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;space_between_slides&quot;:10}"
-                                                            data-widget_type="jet-woo-products.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div class="elementor-jet-woo-products jet-woo-builder">
-                                                                    <div class="jet-woo-carousel swiper-container horizontal"
-                                                                        data-slider_options="{&quot;direction&quot;:&quot;horizontal&quot;,&quot;slidesPerGroup&quot;:1,&quot;simulateTouch&quot;:true,&quot;loop&quot;:true,&quot;freeMode&quot;:false,&quot;centeredSlides&quot;:false,&quot;speed&quot;:500,&quot;paginationEnable&quot;:false,&quot;navigationEnable&quot;:true,&quot;autoplay&quot;:{&quot;delay&quot;:5000,&quot;disableOnInteraction&quot;:false}}"
-                                                                        dir="ltr">
-                                                                        <div class="jet-woo-products jet-woo-products--preset-1 swiper-wrapper  jet-equal-cols"
-                                                                            data-mobile-hover="">
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1694">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
 
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
 
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/leopa-delite/"><img
-                                                                                                loading="lazy"
-                                                                                                width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/07/Leopa-Delite-65g.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Leopa Delite-65g"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/leopa-delite/">Leopa
-                                                                                            Delite</a></h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price">Liên
-                                                                                            hệ</span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1691">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/hikari-reptile-turtle-sticks/"><img
-                                                                                                loading="lazy"
-                                                                                                width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/07/Hikari-Reptile-Turtle-Sticks.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Hikari Reptile Turtle Sticks-120g"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/hikari-reptile-turtle-sticks/">Hikari
-                                                                                            Reptile Turtle Sticks</a>
-                                                                                    </h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>140.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1684">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/saki-hikari-turtle/"><img
-                                                                                                loading="lazy"
-                                                                                                width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/07/Saki-Hikari-Turtle-200g.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Saki Hikari Turtle-200g"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/saki-hikari-turtle/">Saki-Hikari
-                                                                                            Turtle</a></h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>70.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                            &ndash; <span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>300.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1663">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/dragon-delite/"><img
-                                                                                                loading="lazy"
-                                                                                                width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/06/dragon-delite-thuc-an-cho-bo-sat.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Dragon delite - Thức ăn cho rồng cảnh"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/dragon-delite/">Dragon
-                                                                                            Delite</a></h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>252.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1660">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/dragongel/"><img
-                                                                                                loading="lazy"
-                                                                                                width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/06/dragon-gel.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="DRAGONGEL - Thức ăn cho tắc kè thằn lằn rồng"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/dragongel/">DRAGONGEL</a>
-                                                                                    </h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>158.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1397">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/rick-jelly/"><img
-                                                                                                loading="lazy"
-                                                                                                width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/06/rick-jelly-thuc-an-cho-rua.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Rick Jelly - Thức ăn cho rùa"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/rick-jelly/">Rick
-                                                                                            Jelly</a></h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="amount">Liên
-                                                                                                hệ</span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1377">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/leopagel/"><img
-                                                                                                loading="lazy"
-                                                                                                width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/06/leopagel-60g.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="leopagel-60g"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/leopagel/">Leopagel</a>
-                                                                                    </h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>181.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                        </div>
-                                                                        <div
-                                                                            class="prev-arrow jet-swiper-button-prev jet-arrow">
-                                                                            <i aria-hidden="true"
-                                                                                class="fas fa-angle-left"></i>
-                                                                        </div>
-                                                                        <div
-                                                                            class="next-arrow jet-swiper-button-next jet-arrow">
-                                                                            <i aria-hidden="true"
-                                                                                class="fas fa-angle-right"></i>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </section>
-                                        <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-b301840 elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                            data-id="b301840" data-element_type="section"
-                                            data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-                                            <div class="elementor-container elementor-column-gap-default">
-                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a31cda7"
-                                                    data-id="a31cda7" data-element_type="column">
-                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div class="elementor-element elementor-element-f463f62 elementor-widget elementor-widget-heading"
-                                                            data-id="f463f62" data-element_type="widget"
-                                                            data-widget_type="heading.default">
-                                                            <div class="elementor-widget-container">
-                                                                <h2
-                                                                    class="elementor-heading-title elementor-size-default">
-                                                                    Thức ăn động vật nhỏ</h2>
-                                                            </div>
-                                                        </div>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-27f9c98 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="27f9c98" data-element_type="section"
-                                                            data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-dbab197"
-                                                                    data-id="dbab197" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-ac470a5 elementor-widget elementor-widget-image"
-                                                                            data-id="ac470a5" data-element_type="widget"
-                                                                            data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img loading="lazy" decoding="async"
-                                                                                    width="500" height="500"
-                                                                                    src="/assets/wp-content/uploads/2023/09/harinezu.webp"
-                                                                                    class="attachment-large size-large wp-image-1967"
-                                                                                    alt="Ha Ri Ne Zu thức ăn cho nhím"
-                                                                                    sizes="(max-width: 500px) 100vw, 500px" />
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0740ac7"
-                                                                    data-id="0740ac7" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-ab56f70 elementor-widget elementor-widget-image"
-                                                                            data-id="ab56f70" data-element_type="widget"
-                                                                            data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img loading="lazy" decoding="async"
-                                                                                    width="500" height="500"
-                                                                                    src="/assets/wp-content/uploads/2023/09/chichilala.webp"
-                                                                                    class="attachment-large size-large wp-image-1968"
-                                                                                    alt="Chi Chi La La thức ăn cho chuột"
-                                                                                    sizes="(max-width: 500px) 100vw, 500px" />
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-639a2de"
-                                                                    data-id="639a2de" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-0f7229b elementor-widget elementor-widget-image"
-                                                                            data-id="0f7229b" data-element_type="widget"
-                                                                            data-widget_type="image.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <img loading="lazy" decoding="async"
-                                                                                    width="500" height="500"
-                                                                                    src="/assets/wp-content/uploads/2023/09/hamhammix.webp"
-                                                                                    class="attachment-large size-large wp-image-1966"
-                                                                                    alt="Ham Ham Mix thức ăn cho chuột Hamster"
-                                                                                    sizes="(max-width: 500px) 100vw, 500px" />
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </section>
-                                        <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-3182753 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                            data-id="3182753" data-element_type="section"
-                                            data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-                                            <div class="elementor-container elementor-column-gap-default">
-                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-89641ea"
-                                                    data-id="89641ea" data-element_type="column">
-                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div class="elementor-element elementor-element-b18c21a elementor-widget elementor-widget-heading"
-                                                            data-id="b18c21a" data-element_type="widget"
-                                                            data-widget_type="heading.default">
-                                                            <div class="elementor-widget-container">
-                                                                <h2
-                                                                    class="elementor-heading-title elementor-size-default">
-                                                                    Thức ăn chim</h2>
-                                                            </div>
-                                                        </div>
-                                                        <div class="elementor-element elementor-element-7cc3365 elementor-widget elementor-widget-jet-woo-products"
-                                                            data-id="7cc3365" data-element_type="widget"
-                                                            data-settings="{&quot;columns_tablet&quot;:&quot;3&quot;,&quot;columns_mobile&quot;:&quot;2&quot;,&quot;columns&quot;:4,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;space_between_slides&quot;:10}"
-                                                            data-widget_type="jet-woo-products.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div class="elementor-jet-woo-products jet-woo-builder">
-                                                                    <div class="jet-woo-carousel swiper-container horizontal"
-                                                                        data-slider_options="{&quot;direction&quot;:&quot;horizontal&quot;,&quot;slidesPerGroup&quot;:1,&quot;simulateTouch&quot;:true,&quot;loop&quot;:true,&quot;freeMode&quot;:false,&quot;centeredSlides&quot;:false,&quot;speed&quot;:500,&quot;paginationEnable&quot;:false,&quot;navigationEnable&quot;:true,&quot;autoplay&quot;:{&quot;delay&quot;:5000,&quot;disableOnInteraction&quot;:false}}"
-                                                                        dir="ltr">
-                                                                        <div class="jet-woo-products jet-woo-products--preset-1 swiper-wrapper  jet-equal-cols"
-                                                                            data-mobile-hover="">
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1431">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/kirapipi-baby/"><img
-                                                                                                loading="lazy"
-                                                                                                width="520" height="520"
-                                                                                                src="/assets/wp-content/uploads/2023/06/kirapipi-baby.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Kirapipi Baby là thức ăn dinh dưỡng chứa &quot;vi khuẩn Hikari&quot;"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 520px) 100vw, 520px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/kirapipi-baby/">Kirapipi
-                                                                                            Baby</a></h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="amount">Liên
-                                                                                                hệ</span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1428">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/kirapipi-finch/"><img
-                                                                                                loading="lazy"
-                                                                                                width="500" height="500"
-                                                                                                src="/assets/wp-content/uploads/2023/06/kirapipi-finch.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Kirapipi Finch là thức ăn dinh dưỡng chứa sâu bột"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/kirapipi-finch/">Kirapipi
-                                                                                            Finch</a></h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="amount">Liên
-                                                                                                hệ</span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1425">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/kirapipi-parakeet-small/"><img
-                                                                                                loading="lazy"
-                                                                                                width="520" height="520"
-                                                                                                src="/assets/wp-content/uploads/2023/06/kirapipi-parakeet-small.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Kirapipi Parakeet Small vẹt đuôi dài sẽ thích."
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 520px) 100vw, 520px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/kirapipi-parakeet-small/">Kirapipi
-                                                                                            Parakeet Small</a></h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="amount">Liên
-                                                                                                hệ</span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1422">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/kirapipi-parakeet-medium-grain/"><img
-                                                                                                loading="lazy"
-                                                                                                width="520" height="520"
-                                                                                                src="/assets/wp-content/uploads/2023/06/kirapipi-parakeet-medium-grain.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Kirapipi Parakeet Medium Grain giúp tăng cường độ bóng cho lông chim"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 520px) 100vw, 520px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/kirapipi-parakeet-medium-grain/">Kirapipi
-                                                                                            Parakeet Medium Grain</a>
-                                                                                    </h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="amount">Liên
-                                                                                                hệ</span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1419">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="https://hikaripetfood.com/kirapipi-large-parakeet/"><img
-                                                                                                loading="lazy"
-                                                                                                width="520" height="520"
-                                                                                                src="/assets/wp-content/uploads/2023/06/kirapipi-large-parakeet.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Kirapipi Large Parakeet giúp dưỡng đuôi Vẹt to dài đẹp"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 520px) 100vw, 520px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="https://hikaripetfood.com/kirapipi-large-parakeet/">Kirapipi
-                                                                                            Large Parakeet</a></h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="amount">Liên
-                                                                                                hệ</span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                        </div>
-                                                                        <div
-                                                                            class="prev-arrow jet-swiper-button-prev jet-arrow">
-                                                                            <i aria-hidden="true"
-                                                                                class="fas fa-angle-left"></i>
-                                                                        </div>
-                                                                        <div
-                                                                            class="next-arrow jet-swiper-button-next jet-arrow">
-                                                                            <i aria-hidden="true"
-                                                                                class="fas fa-angle-right"></i>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </section>
-                                        <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-22771b4 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                            data-id="22771b4" data-element_type="section"
-                                            data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-                                            <div class="elementor-container elementor-column-gap-default">
-                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c76f1e4"
-                                                    data-id="c76f1e4" data-element_type="column">
-                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div class="elementor-element elementor-element-84dde49 elementor-widget elementor-widget-heading"
-                                                            data-id="84dde49" data-element_type="widget"
-                                                            data-widget_type="heading.default">
-                                                            <div class="elementor-widget-container">
-                                                                <h2
-                                                                    class="elementor-heading-title elementor-size-default">
-                                                                    Hình ảnh thú cưng khi sử dụng thức ăn Hikari</h2>
-                                                            </div>
-                                                        </div>
-                                                        <div class="elementor-element elementor-element-d4ab27e elementor-arrows-position-inside elementor-widget elementor-widget-image-carousel"
-                                                            data-id="d4ab27e" data-element_type="widget"
-                                                            data-settings="{&quot;slides_to_show&quot;:&quot;4&quot;,&quot;navigation&quot;:&quot;arrows&quot;,&quot;slides_to_show_mobile&quot;:&quot;2&quot;,&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}"
-                                                            data-widget_type="image-carousel.default">
-                                                            <div class="elementor-widget-container">
-                                                                <style>
-                                                                    /*! elementor - v3.20.0 - 11-03-2024 */
-                                                                    .elementor-widget-image-carousel .swiper,
-                                                                    .elementor-widget-image-carousel .swiper-container {
-                                                                        position: static
-                                                                    }
-
-                                                                    .elementor-widget-image-carousel .swiper-container .swiper-slide figure,
-                                                                    .elementor-widget-image-carousel .swiper .swiper-slide figure {
-                                                                        line-height: inherit
-                                                                    }
-
-                                                                    .elementor-widget-image-carousel .swiper-slide {
-                                                                        text-align: center
-                                                                    }
-
-                                                                    .elementor-image-carousel-wrapper:not(.swiper-container-initialized):not(.swiper-initialized) .swiper-slide {
-                                                                        max-width: calc(100% / var(--e-image-carousel-slides-to-show, 3))
-                                                                    }
-                                                                </style>
-                                                                <div class="elementor-image-carousel-wrapper swiper"
-                                                                    dir="ltr">
-                                                                    <div class="elementor-image-carousel swiper-wrapper"
-                                                                        aria-live="off">
-                                                                        <div class="swiper-slide" role="group"
-                                                                            aria-roledescription="slide"
-                                                                            aria-label="1 of 5">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    decoding="async"
-                                                                                    class="swiper-slide-image"
-                                                                                    src="/assets/wp-content/uploads/2023/06/banner-ca-koi-1-1.jpg"
-                                                                                    alt="banner-ca-koi-1" /></figure>
-                                                                        </div>
-                                                                        <div class="swiper-slide" role="group"
-                                                                            aria-roledescription="slide"
-                                                                            aria-label="2 of 5">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    decoding="async"
-                                                                                    class="swiper-slide-image"
-                                                                                    src="/assets/wp-content/uploads/2023/06/banner-ca-koi-3-1.jpg"
-                                                                                    alt="banner-ca-koi-3" /></figure>
-                                                                        </div>
-                                                                        <div class="swiper-slide" role="group"
-                                                                            aria-roledescription="slide"
-                                                                            aria-label="3 of 5">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    decoding="async"
-                                                                                    class="swiper-slide-image"
-                                                                                    src="/assets/wp-content/uploads/2023/06/banner-ca-koi-2-1.jpg"
-                                                                                    alt="banner-ca-koi-2" /></figure>
-                                                                        </div>
-                                                                        <div class="swiper-slide" role="group"
-                                                                            aria-roledescription="slide"
-                                                                            aria-label="4 of 5">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    decoding="async"
-                                                                                    class="swiper-slide-image"
-                                                                                    src="/assets/wp-content/uploads/2023/06/banner-ca-koi-4.jpg"
-                                                                                    alt="banner-ca-koi-4" /></figure>
-                                                                        </div>
-                                                                        <div class="swiper-slide" role="group"
-                                                                            aria-roledescription="slide"
-                                                                            aria-label="5 of 5">
-                                                                            <figure class="swiper-slide-inner"><img
-                                                                                    decoding="async"
-                                                                                    class="swiper-slide-image"
-                                                                                    src="/assets/wp-content/uploads/2023/11/banner-ca-koi-6.jpg"
-                                                                                    alt="banner-ca-koi-6" /></figure>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="elementor-swiper-button elementor-swiper-button-prev"
-                                                                        role="button" tabindex="0">
-                                                                        <i aria-hidden="true"
-                                                                            class="eicon-chevron-left"></i>
-                                                                    </div>
-                                                                    <div class="elementor-swiper-button elementor-swiper-button-next"
-                                                                        role="button" tabindex="0">
-                                                                        <i aria-hidden="true"
-                                                                            class="eicon-chevron-right"></i>
-                                                                    </div>
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </section>
                                         <section
                                             class="elementor-section elementor-top-section elementor-element elementor-element-e3e1c2c elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                             data-id="e3e1c2c" data-element_type="section"
@@ -9333,7 +7617,7 @@ flexibility(document.documentElement);
                                                             <div class="elementor-widget-container">
                                                                 <h2
                                                                     class="elementor-heading-title elementor-size-default">
-                                                                    Hướng dẫn chăm sóc thú cưng</h2>
+                                                                    Dịch vụ nổi bật</h2>
                                                             </div>
                                                         </div>
                                                         <div class="elementor-element elementor-element-8cb45a0 elementor-widget elementor-widget-jet-posts"
@@ -9369,7 +7653,7 @@ flexibility(document.documentElement);
                                                                             <div class="jet-posts__item">
                                                                                 <div class="jet-posts__inner-box">
                                                                                     <div class="post-thumbnail"><a
-                                                                                            href="https://hikaripetfood.com/ca-chep-phi-tan/"
+                                                                                            href="/service/ca-chep-phi-tan/"
                                                                                             class="post-thumbnail__link"><img
                                                                                                 loading="lazy"
                                                                                                 decoding="async"
@@ -9382,7 +7666,7 @@ flexibility(document.documentElement);
                                                                                     <div
                                                                                         class="jet-posts__inner-content">
                                                                                         <h3 class="entry-title"><a
-                                                                                                href="https://hikaripetfood.com/ca-chep-phi-tan/"
+                                                                                                href="/service/ca-chep-phi-tan/"
                                                                                                 target="">Cá Chép Phi
                                                                                                 Tần: Cách Nuôi, Setup Bể
                                                                                                 Nuôi Chi Tiết Nhất</a>
@@ -9403,366 +7687,140 @@ flexibility(document.documentElement);
                                                                             <div class="jet-posts__item">
                                                                                 <div class="jet-posts__inner-box">
                                                                                     <div class="post-thumbnail"><a
-                                                                                            href="https://hikaripetfood.com/ca-chep-phung/"
+                                                                                            href="/service/ca-chep-phi-tan/"
                                                                                             class="post-thumbnail__link"><img
                                                                                                 loading="lazy"
                                                                                                 decoding="async"
                                                                                                 class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phung-1.jpg"
-                                                                                                alt="Khám Phá Cá Chép phụng Cách Chọn Cách Nuôi Chăm Sóc Chi Tiết"
+                                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
+                                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
                                                                                                 loading="lazy"
                                                                                                 width="800"
                                                                                                 height="450"></a></div>
                                                                                     <div
                                                                                         class="jet-posts__inner-content">
                                                                                         <h3 class="entry-title"><a
-                                                                                                href="https://hikaripetfood.com/ca-chep-phung/"
-                                                                                                target="">Khám Phá Cá
-                                                                                                Chép phụng Cách Chọn
-                                                                                                Cách Nuôi Chăm Sóc Chi
-                                                                                                Tiết</a></h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">20
-                                                                                                Tháng Ba, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Khác
-                                                                                            biệt so với cá chép thông
-                                                                                            thường, cá chép phụng nổi
-                                                                                            bật với vẻ đẹp độc đáo và
-                                                                                            những đặc&hellip;</div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="https://hikaripetfood.com/dau-hieu-ca-ket-panda-sap-de/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/03/dau-hieu-ca-ket-panda-sap-de.jpg"
-                                                                                                alt="Dấu Hiệu Cá Két Panda Sắp Đẻ, Trứng Cá Két Bao Lâu Thì Nở"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="https://hikaripetfood.com/dau-hieu-ca-ket-panda-sap-de/"
-                                                                                                target="">Dấu Hiệu Cá
-                                                                                                Két Panda Sắp Đẻ, Trứng
-                                                                                                Cá Két Bao Lâu Thì
-                                                                                                Nở</a></h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">5
-                                                                                                Tháng Ba, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Dấu
-                                                                                            hiệu cá két Panda sắp đẻ là
-                                                                                            gì? Trứng cá mất bao lâu để
-                                                                                            nở? Làm thế nào để&hellip;
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="https://hikaripetfood.com/ca-ket-panda-nuoi-chung-voi-ca-gi/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/02/ca-ket-panda-nuoi-chung-voi-ca-gi.jpg"
-                                                                                                alt="Cá Két Panda Nuôi Chung Với Cá Gì? 8 Loại Cá Có Thể Và Không Thể"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="https://hikaripetfood.com/ca-ket-panda-nuoi-chung-voi-ca-gi/"
-                                                                                                target="">Cá Két Panda
-                                                                                                Nuôi Chung Với Cá Gì? 8
-                                                                                                Loại Cá Có Thể Và Không
-                                                                                                Thể</a></h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">27
-                                                                                                Tháng Hai, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Cá
-                                                                                            Két Panda nổi bật không chỉ
-                                                                                            nhờ vào tính cách hiền hòa
-                                                                                            mà còn bởi màu sắc đẹp
-                                                                                            mắt.&hellip;</div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="https://hikaripetfood.com/ca-ket-panda/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/01/ca-ket-panda.jpg"
-                                                                                                alt="Cá Két Panda - Tổng Quan Nguồn Gốc, Cách Nuôi Và Chăm Sóc"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="https://hikaripetfood.com/ca-ket-panda/"
-                                                                                                target="">Cá Két Panda -
-                                                                                                Tổng Quan Nguồn Gốc,
-                                                                                                Cách Nuôi Và Chăm
-                                                                                                Sóc</a></h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">27
-                                                                                                Tháng Hai, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Khác
-                                                                                            với cá hồng két thông
-                                                                                            thường, cá Két Panda nổi bật
-                                                                                            nhờ màu sắc độc đáo với các
-                                                                                            họa tiết sọc&hellip;</div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="https://hikaripetfood.com/ca-hong-ket-an-gi/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/02/ca-hong-ket-an-gi.jpg"
-                                                                                                alt="Cá Hồng Két Ăn Gì? Cách Nuôi Cá Hồng Két Lên Màu Chi Tiết"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="https://hikaripetfood.com/ca-hong-ket-an-gi/"
-                                                                                                target="">Cá Hồng Két Ăn
-                                                                                                Gì? Cách Nuôi Cá Hồng
-                                                                                                Két Lên Màu Chi Tiết</a>
+                                                                                                href="/service/ca-chep-phi-tan/"
+                                                                                                target="">Cá Chép Phi
+                                                                                                Tần: Cách Nuôi, Setup Bể
+                                                                                                Nuôi Chi Tiết Nhất</a>
                                                                                         </h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">13
-                                                                                                Tháng Hai, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Cá
-                                                                                            hồng két ăn gì? Cá hồng két
-                                                                                            ăn gì lên màu? Cách nuôi cá
-                                                                                            hồng két lên màu?
-                                                                                            Đây&hellip;</div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="https://hikaripetfood.com/trung-ca-hong-ket-bao-lau-thi-no/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2024/12/trung-ca-hong-ket-bao-lau-thi-no-1.jpg"
-                                                                                                alt="Trứng Cá Hồng Két Bao Lâu Thì Nở? Cách Nuôi Trứng Cá Hồng Két"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="https://hikaripetfood.com/trung-ca-hong-ket-bao-lau-thi-no/"
-                                                                                                target="">Trứng Cá Hồng
-                                                                                                Két Bao Lâu Thì Nở? Cách
-                                                                                                Nuôi Trứng Cá Hồng
-                                                                                                Két</a></h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">8
-                                                                                                Tháng Hai, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Kính
-                                                                                            chào các bạn hôm nay hãy
-                                                                                            cùng Hikari Pet Food tìm
-                                                                                            hiểu về chủ đề cá hồng két
-                                                                                            sinh&hellip;</div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="https://hikaripetfood.com/ca-hong-ket-bi-nam-trang/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2024/12/ca-hong-ket-bi-nam-trang.jpg"
-                                                                                                alt="Cá Hồng Két Bị Nấm Trắng, Nguyên Nhân Và Thuốc Trị Bệnh"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="https://hikaripetfood.com/ca-hong-ket-bi-nam-trang/"
-                                                                                                target="">Cá Hồng Két Bị
-                                                                                                Nấm Trắng, Nguyên Nhân
-                                                                                                Và Thuốc Trị Bệnh</a>
-                                                                                        </h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">4
-                                                                                                Tháng Hai, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Làm
-                                                                                            sao để nhận biết cá hồng két
-                                                                                            bị nấm trắng? Nếu phát hiện
-                                                                                            cá hồng két bị nấm trắng
-                                                                                            cần&hellip;</div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="https://hikaripetfood.com/ca-hong-ket/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/01/ca-hong-ket.jpg"
-                                                                                                alt="Cá Hồng Két - Nguồn Gốc, Cách Nuôi Cá Khỏe Lên Màu Chi Tiết Nhất"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="https://hikaripetfood.com/ca-hong-ket/"
-                                                                                                target="">Cá Hồng Két -
-                                                                                                Nguồn Gốc, Cách Nuôi Cá
-                                                                                                Khỏe Lên Màu Chi Tiết
-                                                                                                Nhất</a></h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">26
-                                                                                                Tháng Hai, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Cá
-                                                                                            Hồng Két là một trong những
-                                                                                            loài cá cảnh quen thuộc,
-                                                                                            được nhiều người yêu thích
-                                                                                            và lựa chọn&hellip;</div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="https://hikaripetfood.com/ca-hong-ket-nuoi-chung-voi-ca-gi/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/01/ca-hong-ket-nuoi-chung-voi-ca-gi.jpg"
-                                                                                                alt="Cá Hồng Két Nuôi Chung Với Cá Gì? 15 Loại Cá Nuôi Chung Phù Hợp Nhất"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="https://hikaripetfood.com/ca-hong-ket-nuoi-chung-voi-ca-gi/"
-                                                                                                target="">Cá Hồng Két
-                                                                                                Nuôi Chung Với Cá Gì? 15
-                                                                                                Loại Cá Nuôi Chung Phù
-                                                                                                Hợp Nhất</a></h3>
                                                                                         <div class="post-meta"><span
                                                                                                 class="post__modified_date post-meta__item">21
-                                                                                                Tháng Một, 2025</span>
+                                                                                                Tháng Ba, 2025</span>
                                                                                         </div>
                                                                                         <div class="entry-excerpt">Cá
-                                                                                            hồng két là loài cá cảnh
-                                                                                            hiền lành, dễ nuôi và được
-                                                                                            yêu thích nhờ vẻ ngoài nổi
-                                                                                            bật.&hellip;</div>
+                                                                                            chép Phi Tần mang một nét
+                                                                                            đẹp riêng, khó có loài cá
+                                                                                            nào sánh được. Chúng thường
+                                                                                            được nuôi trong&hellip;
+                                                                                        </div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
                                                                             <div class="jet-posts__item">
                                                                                 <div class="jet-posts__inner-box">
                                                                                     <div class="post-thumbnail"><a
-                                                                                            href="https://hikaripetfood.com/ca-vang-bi-stress/"
+                                                                                            href="/service/ca-chep-phi-tan/"
                                                                                             class="post-thumbnail__link"><img
                                                                                                 loading="lazy"
                                                                                                 decoding="async"
                                                                                                 class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/01/ca-vang-bi-stress.jpg"
-                                                                                                alt="Cá Vàng Bị Stress Phải Làm Sao? 7 Cách Chữa Trị Tại Nhà"
+                                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
+                                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
                                                                                                 loading="lazy"
                                                                                                 width="800"
                                                                                                 height="450"></a></div>
                                                                                     <div
                                                                                         class="jet-posts__inner-content">
                                                                                         <h3 class="entry-title"><a
-                                                                                                href="https://hikaripetfood.com/ca-vang-bi-stress/"
-                                                                                                target="">Cá Vàng Bị
-                                                                                                Stress Phải Làm Sao? 7
-                                                                                                Cách Chữa Trị Tại
-                                                                                                Nhà</a></h3>
+                                                                                                href="/service/ca-chep-phi-tan/"
+                                                                                                target="">Cá Chép Phi
+                                                                                                Tần: Cách Nuôi, Setup Bể
+                                                                                                Nuôi Chi Tiết Nhất</a>
+                                                                                        </h3>
                                                                                         <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">14
-                                                                                                Tháng Một, 2025</span>
+                                                                                                class="post__modified_date post-meta__item">21
+                                                                                                Tháng Ba, 2025</span>
                                                                                         </div>
                                                                                         <div class="entry-excerpt">Cá
-                                                                                            vàng dù không dễ mắc các
-                                                                                            bệnh nguy hiểm, nhưng khi bị
-                                                                                            stress lại trở nên yếu đi
-                                                                                            và&hellip;</div>
+                                                                                            chép Phi Tần mang một nét
+                                                                                            đẹp riêng, khó có loài cá
+                                                                                            nào sánh được. Chúng thường
+                                                                                            được nuôi trong&hellip;
+                                                                                        </div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
                                                                             <div class="jet-posts__item">
                                                                                 <div class="jet-posts__inner-box">
                                                                                     <div class="post-thumbnail"><a
-                                                                                            href="https://hikaripetfood.com/cach-nuoi-ca-ba-duoi/"
+                                                                                            href="/service/ca-chep-phi-tan/"
                                                                                             class="post-thumbnail__link"><img
                                                                                                 loading="lazy"
                                                                                                 decoding="async"
                                                                                                 class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2024/12/cach-nuoi-ca-ba-duoi.jpg"
-                                                                                                alt="Cách Nuôi Cá Ba Đuôi Không Chết Sống Lâu Sống Khỏe Đơn Giản"
+                                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
+                                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
                                                                                                 loading="lazy"
                                                                                                 width="800"
                                                                                                 height="450"></a></div>
                                                                                     <div
                                                                                         class="jet-posts__inner-content">
                                                                                         <h3 class="entry-title"><a
-                                                                                                href="https://hikaripetfood.com/cach-nuoi-ca-ba-duoi/"
-                                                                                                target="">Cách Nuôi Cá
-                                                                                                Ba Đuôi Không Chết Sống
-                                                                                                Lâu Sống Khỏe Đơn
-                                                                                                Giản</a></h3>
+                                                                                                href="/service/ca-chep-phi-tan/"
+                                                                                                target="">Cá Chép Phi
+                                                                                                Tần: Cách Nuôi, Setup Bể
+                                                                                                Nuôi Chi Tiết Nhất</a>
+                                                                                        </h3>
                                                                                         <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">26
-                                                                                                Tháng Mười Hai,
-                                                                                                2024</span></div>
-                                                                                        <div class="entry-excerpt">Cách
-                                                                                            nuôi cá ba đuôi không chết
-                                                                                            là mối quan tâm của nhiều
-                                                                                            người yêu thích cá cảnh. Mặc
-                                                                                            dù&hellip;</div>
+                                                                                                class="post__modified_date post-meta__item">21
+                                                                                                Tháng Ba, 2025</span>
+                                                                                        </div>
+                                                                                        <div class="entry-excerpt">Cá
+                                                                                            chép Phi Tần mang một nét
+                                                                                            đẹp riêng, khó có loài cá
+                                                                                            nào sánh được. Chúng thường
+                                                                                            được nuôi trong&hellip;
+                                                                                        </div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
+                                                                            <div class="jet-posts__item">
+                                                                                <div class="jet-posts__inner-box">
+                                                                                    <div class="post-thumbnail"><a
+                                                                                            href="/service/ca-chep-phi-tan/"
+                                                                                            class="post-thumbnail__link"><img
+                                                                                                loading="lazy"
+                                                                                                decoding="async"
+                                                                                                class="post-thumbnail__img wp-post-image"
+                                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
+                                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
+                                                                                                loading="lazy"
+                                                                                                width="800"
+                                                                                                height="450"></a></div>
+                                                                                    <div
+                                                                                        class="jet-posts__inner-content">
+                                                                                        <h3 class="entry-title"><a
+                                                                                                href="/service/ca-chep-phi-tan/"
+                                                                                                target="">Cá Chép Phi
+                                                                                                Tần: Cách Nuôi, Setup Bể
+                                                                                                Nuôi Chi Tiết Nhất</a>
+                                                                                        </h3>
+                                                                                        <div class="post-meta"><span
+                                                                                                class="post__modified_date post-meta__item">21
+                                                                                                Tháng Ba, 2025</span>
+                                                                                        </div>
+                                                                                        <div class="entry-excerpt">Cá
+                                                                                            chép Phi Tần mang một nét
+                                                                                            đẹp riêng, khó có loài cá
+                                                                                            nào sánh được. Chúng thường
+                                                                                            được nuôi trong&hellip;
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+
                                                                         </div>
                                                                     </div>
                                                                 </div>

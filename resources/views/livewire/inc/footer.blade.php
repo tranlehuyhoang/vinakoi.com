@@ -179,72 +179,81 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                             <ul class="product_list_widget">
                                 <li>
 
-                                    <a href="https://hikaripetfood.com/blood-red-parrot/">
+                                    <a href="/product/hikari-tropical-vibra-bites/">
                                         <img width="300" height="300"
-                                            src="/assets/wp-content/uploads/2023/06/blood-red-parrot-thuc-an-cho-ca-hong-ket-300x300.jpg"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                            alt="" decoding="async"
+                                            alt="Hikari Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Blood-Red Parrot+</span>
+                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
                                             <strong class="rating">0</strong> 5 sao</span></div>
-                                    <span class="woocommerce-Price-amount amount"><bdi>238.000<span
-                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                </li>
-                                <li>
-
-                                    <a href="https://hikaripetfood.com/hikari-goldfish-staple/">
-                                        <img width="300" height="300"
-                                            src="/assets/wp-content/uploads/2023/06/Hikari-Goldfish-Gold-Baby-300x300.jpg"
-                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                            alt="Hikari Goldfish Staple Baby Pellet" decoding="async"
-                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari Goldfish Staple Baby
-                                            Pellet</span>
-                                    </a>
-
-                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
-                                            <strong class="rating">0</strong> 5 sao</span></div>
-                                    <span class="woocommerce-Price-amount amount"><bdi>132.000<span
-                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                </li>
-                                <li>
-
-                                    <a href="https://hikaripetfood.com/hikari-sinking-cichlid-gold/">
-                                        <img width="300" height="300"
-                                            src="/assets/wp-content/uploads/2023/06/Hikari-Cichlid-Cichlid-Gold-Sinking-342g-300x300.jpg"
-                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                            alt="Hikari Cichlid Sinking Gold" decoding="async"
-                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari Sinking Cichlid Gold</span>
-                                    </a>
-
-                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
-                                            <strong class="rating">0</strong> 5 sao</span></div>
-                                    <span class="woocommerce-Price-amount amount"><bdi>49.000<span
+                                    <span class="woocommerce-Price-amount amount"><bdi>98.000<span
                                                 class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                     &ndash; <span
-                                        class="woocommerce-Price-amount amount"><bdi>144.000<span
+                                        class="woocommerce-Price-amount amount"><bdi>858.000<span
                                                 class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                 </li>
                                 <li>
 
-                                    <a href="https://hikaripetfood.com/hikari-friend/">
+                                    <a href="/product/hikari-tropical-vibra-bites/">
                                         <img width="300" height="300"
-                                            src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg-300x300.jpg"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                            alt="Hikari Friend Medium 10kg" decoding="async"
+                                            alt="Hikari Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari Friend</span>
+                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
                                             <strong class="rating">0</strong> 5 sao</span></div>
-                                    <span class="woocommerce-Price-amount amount"><bdi>1.035.000<span
+                                    <span class="woocommerce-Price-amount amount"><bdi>98.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                    &ndash; <span
+                                        class="woocommerce-Price-amount amount"><bdi>858.000<span
                                                 class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                 </li>
+                                <li>
+
+                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Hikari Tropical Vibra Bites - 73g" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>98.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                    &ndash; <span
+                                        class="woocommerce-Price-amount amount"><bdi>858.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+                                <li>
+
+                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Hikari Tropical Vibra Bites - 73g" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>98.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                    &ndash; <span
+                                        class="woocommerce-Price-amount amount"><bdi>858.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+
                             </ul>
                         </div>
                     </div>
@@ -277,7 +286,7 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                             <ul class="product_list_widget">
                                 <li>
 
-                                    <a href="https://hikaripetfood.com/hikari-tropical-vibra-bites/">
+                                    <a href="/product/hikari-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
@@ -296,60 +305,62 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                                 </li>
                                 <li>
 
-                                    <a
-                                        href="https://hikaripetfood.com/hikari-cichlid-cichlid-bio-gold/">
+                                    <a href="/product/hikari-tropical-vibra-bites/">
                                         <img width="300" height="300"
-                                            src="/assets/wp-content/uploads/2023/06/Hikari-Cichlid-Cichlid-Bio-Gold250g-300x300.jpg"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                            alt="Hikari-Cichlid-Cichlid-Bio-Gold250g" decoding="async"
+                                            alt="Hikari Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari Cichlid Cichlid
-                                            Bio-Gold+</span>
+                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
                                             <strong class="rating">0</strong> 5 sao</span></div>
-                                    <span class="woocommerce-Price-amount amount"><bdi>193.000<span
+                                    <span class="woocommerce-Price-amount amount"><bdi>98.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                    &ndash; <span
+                                        class="woocommerce-Price-amount amount"><bdi>858.000<span
                                                 class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                 </li>
                                 <li>
 
-                                    <a href="https://hikaripetfood.com/saki-hikari-growth-floating/">
+                                    <a href="/product/hikari-tropical-vibra-bites/">
                                         <img width="300" height="300"
-                                            src="/assets/wp-content/uploads/2023/06/saki-hikari-growth-floating-5kg-300x300.jpg"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                            alt="Saki Hikari Growth Floating Medium pellets Fish Food 5kg size M"
-                                            decoding="async" sizes="(max-width: 300px) 100vw, 300px" />
-                                        <span class="product-title">Saki-Hikari Growth Floating</span>
+                                            alt="Hikari Tropical Vibra Bites - 73g" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
                                             <strong class="rating">0</strong> 5 sao</span></div>
-                                    <span class="woocommerce-Price-amount amount"><bdi>778.000<span
+                                    <span class="woocommerce-Price-amount amount"><bdi>98.000<span
                                                 class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                     &ndash; <span
-                                        class="woocommerce-Price-amount amount"><bdi>5.899.000<span
+                                        class="woocommerce-Price-amount amount"><bdi>858.000<span
                                                 class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                 </li>
                                 <li>
 
-                                    <a href="https://hikaripetfood.com/hikari-gold/">
+                                    <a href="/product/hikari-tropical-vibra-bites/">
                                         <img width="300" height="300"
-                                            src="/assets/wp-content/uploads/2023/08/hikari-gold-300x300.jpg"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                            alt="Hikari Gold - Cám cá Koi giúp tăng màu cải thiện tốc độ tăng trưởng"
-                                            decoding="async" sizes="(max-width: 300px) 100vw, 300px" />
-                                        <span class="product-title">Hikari Gold</span>
+                                            alt="Hikari Tropical Vibra Bites - 73g" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
                                             <strong class="rating">0</strong> 5 sao</span></div>
-                                    <span class="woocommerce-Price-amount amount"><bdi>150.000<span
+                                    <span class="woocommerce-Price-amount amount"><bdi>98.000<span
                                                 class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                     &ndash; <span
-                                        class="woocommerce-Price-amount amount"><bdi>2.282.000<span
+                                        class="woocommerce-Price-amount amount"><bdi>858.000<span
                                                 class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                 </li>
+
                             </ul>
                         </div>
                     </div>
@@ -382,94 +393,98 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                             <ul class="product_list_widget">
                                 <li>
 
-                                    <a href="https://hikaripetfood.com/hikari-planlton/">
+                                    <a href="/product/hikari-tropical-vibra-bites/">
                                         <img width="300" height="300"
-                                            src="/assets/wp-content/uploads/2023/05/plankton-middle-300x300.jpg"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                            alt="Hikari PLANKTON MIDDLE" decoding="async"
+                                            alt="Hikari Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari Planlton</span>
+                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
                                             <strong class="rating">0</strong> 5 sao</span></div>
-                                    <span class="woocommerce-Price-amount amount"><bdi>310.000<span
-                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                </li>
-                                <li>
-
-                                    <a href="https://hikaripetfood.com/saki-hikari-growth-floating/">
-                                        <img width="300" height="300"
-                                            src="/assets/wp-content/uploads/2023/06/saki-hikari-growth-floating-5kg-300x300.jpg"
-                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                            alt="Saki Hikari Growth Floating Medium pellets Fish Food 5kg size M"
-                                            decoding="async" sizes="(max-width: 300px) 100vw, 300px" />
-                                        <span class="product-title">Saki-Hikari Growth Floating</span>
-                                    </a>
-
-                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
-                                            <strong class="rating">0</strong> 5 sao</span></div>
-                                    <span class="woocommerce-Price-amount amount"><bdi>778.000<span
+                                    <span class="woocommerce-Price-amount amount"><bdi>98.000<span
                                                 class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                     &ndash; <span
-                                        class="woocommerce-Price-amount amount"><bdi>5.899.000<span
+                                        class="woocommerce-Price-amount amount"><bdi>858.000<span
                                                 class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                 </li>
                                 <li>
 
-                                    <a
-                                        href="https://hikaripetfood.com/saki-hikari-fancy-goldfish-color-enhancing/">
+                                    <a href="/product/hikari-tropical-vibra-bites/">
                                         <img width="300" height="300"
-                                            src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-color-enhancing-200g-300x300.jpg"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                            alt="" decoding="async"
+                                            alt="Hikari Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Saki-Hikari Fancy Goldfish Color
-                                            Enhancing</span>
+                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
                                             <strong class="rating">0</strong> 5 sao</span></div>
-                                    <span class="woocommerce-Price-amount amount"><bdi>219.000<span
+                                    <span class="woocommerce-Price-amount amount"><bdi>98.000<span
                                                 class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                     &ndash; <span
-                                        class="woocommerce-Price-amount amount"><bdi>848.000<span
+                                        class="woocommerce-Price-amount amount"><bdi>858.000<span
                                                 class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                 </li>
                                 <li>
 
-                                    <a href="https://hikaripetfood.com/hikari-goldfish-staple/">
+                                    <a href="/product/hikari-tropical-vibra-bites/">
                                         <img width="300" height="300"
-                                            src="/assets/wp-content/uploads/2023/06/Hikari-Goldfish-Gold-Baby-300x300.jpg"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                            alt="Hikari Goldfish Staple Baby Pellet" decoding="async"
+                                            alt="Hikari Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari Goldfish Staple Baby
-                                            Pellet</span>
+                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
                                             <strong class="rating">0</strong> 5 sao</span></div>
-                                    <span class="woocommerce-Price-amount amount"><bdi>132.000<span
+                                    <span class="woocommerce-Price-amount amount"><bdi>98.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                    &ndash; <span
+                                        class="woocommerce-Price-amount amount"><bdi>858.000<span
                                                 class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                 </li>
+                                <li>
+
+                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Hikari Tropical Vibra Bites - 73g" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>98.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                    &ndash; <span
+                                        class="woocommerce-Price-amount amount"><bdi>858.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+
                             </ul>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1d7433a"
-            data-id="1d7433a" data-element_type="column">
+        <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1e90c85"
+            data-id="1e90c85" data-element_type="column">
             <div class="elementor-widget-wrap elementor-element-populated">
-                <div class="elementor-element elementor-element-c589d5e elementor-widget elementor-widget-heading"
-                    data-id="c589d5e" data-element_type="widget" data-widget_type="heading.default">
+                <div class="elementor-element elementor-element-75f05d2 elementor-widget elementor-widget-heading"
+                    data-id="75f05d2" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                        <span class="elementor-heading-title elementor-size-default">Giảm Giá</span>
+                        <span class="elementor-heading-title elementor-size-default">Giảm giá</span>
                     </div>
                 </div>
-                <div class="elementor-element elementor-element-bb1c186 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                    data-id="bb1c186" data-element_type="widget" data-widget_type="divider.default">
+                <div class="elementor-element elementor-element-3f8d19d elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                    data-id="3f8d19d" data-element_type="widget" data-widget_type="divider.default">
                     <div class="elementor-widget-container">
                         <div class="elementor-divider">
                             <span class="elementor-divider-separator">
@@ -477,8 +492,96 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                         </div>
                     </div>
                 </div>
+                <div class="elementor-element elementor-element-bb6fc81 elementor-widget elementor-widget-wp-widget-woocommerce_products"
+                    data-id="bb6fc81" data-element_type="widget"
+                    data-widget_type="wp-widget-woocommerce_products.default">
+                    <div class="elementor-widget-container">
+                        <div class="woocommerce widget_products">
+                            <ul class="product_list_widget">
+                                <li>
+
+                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Hikari Tropical Vibra Bites - 73g" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>98.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                    &ndash; <span
+                                        class="woocommerce-Price-amount amount"><bdi>858.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+                                <li>
+
+                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Hikari Tropical Vibra Bites - 73g" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>98.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                    &ndash; <span
+                                        class="woocommerce-Price-amount amount"><bdi>858.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+                                <li>
+
+                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Hikari Tropical Vibra Bites - 73g" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>98.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                    &ndash; <span
+                                        class="woocommerce-Price-amount amount"><bdi>858.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+                                <li>
+
+                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                        <img width="300" height="300"
+                                            src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
+                                            class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                            alt="Hikari Tropical Vibra Bites - 73g" decoding="async"
+                                            sizes="(max-width: 300px) 100vw, 300px" /> <span
+                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                    </a>
+
+                                    <div class="star-rating"><span style="width:0%">Được xếp hạng
+                                            <strong class="rating">0</strong> 5 sao</span></div>
+                                    <span class="woocommerce-Price-amount amount"><bdi>98.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                    &ndash; <span
+                                        class="woocommerce-Price-amount amount"><bdi>858.000<span
+                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
+
     </div>
 </section>
 <section
@@ -539,13 +642,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                     data-id="56dce87" data-element_type="widget" data-widget_type="text-editor.default">
                     <div class="elementor-widget-container">
                         <p><span style="color: #ffffff;"><a style="color: #ffffff;"
-                                    href="https://hikaripetfood.com/chinh-sach/">Chính sách bảo
+                                    href="/chinh-sach/">Chính sách bảo
                                     hành</a></span></p>
                         <p><span style="color: #ffffff;"><a style="color: #ffffff;"
-                                    href="https://hikaripetfood.com/chinh-sach/">Chính sách đổi trả
+                                    href="/chinh-sach/">Chính sách đổi trả
                                 </a></span></p>
                         <p><span style="color: #ffffff;"><a style="color: #ffffff;"
-                                    href="https://hikaripetfood.com/chinh-sach/">Chính sách bảo
+                                    href="/chinh-sach/">Chính sách bảo
                                     mật</a></span></p>
                         <p><a href="/contact"><span
                                     style="color: #ffffff;">Thông tin liên hệ</span></a></p>
