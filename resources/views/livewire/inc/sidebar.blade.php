@@ -415,7 +415,7 @@
                                                 <article
                                                     class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width desktop-align-left tablet-align-left mobile-align-left ast-width-md-12 ast-archive-post ast-product-gallery-layout-horizontal-slider">
                                                     <a class="elementor-post__thumbnail__link"
-                                                        href="/blog/tin-tuc-hikari/"
+                                                        href="/blog/tin-tuc/"
                                                         tabindex="-1">
                                                         <div
                                                             class="elementor-post__thumbnail">
@@ -432,7 +432,7 @@
                                                         <h3
                                                             class="elementor-post__title">
                                                             <a
-                                                                href="/blog/tin-tuc-hikari/">
+                                                                href="/blog/tin-tuc/">
                                                                 Cá Chép Phi Tần:
                                                                 Cách Nuôi, Setup Bể
                                                                 Nuôi Chi Tiết Nhất
@@ -460,7 +460,7 @@
                                                 <article
                                                     class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width desktop-align-left tablet-align-left mobile-align-left ast-width-md-12 ast-archive-post ast-product-gallery-layout-horizontal-slider">
                                                     <a class="elementor-post__thumbnail__link"
-                                                        href="/blog/tin-tuc-hikari/"
+                                                        href="/blog/tin-tuc/"
                                                         tabindex="-1">
                                                         <div
                                                             class="elementor-post__thumbnail">
@@ -477,7 +477,7 @@
                                                         <h3
                                                             class="elementor-post__title">
                                                             <a
-                                                                href="/blog/tin-tuc-hikari/">
+                                                                href="/blog/tin-tuc/">
                                                                 Cá Chép Phi Tần:
                                                                 Cách Nuôi, Setup Bể
                                                                 Nuôi Chi Tiết Nhất
@@ -505,7 +505,7 @@
                                                 <article
                                                     class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width desktop-align-left tablet-align-left mobile-align-left ast-width-md-12 ast-archive-post ast-product-gallery-layout-horizontal-slider">
                                                     <a class="elementor-post__thumbnail__link"
-                                                        href="/blog/tin-tuc-hikari/"
+                                                        href="/blog/tin-tuc/"
                                                         tabindex="-1">
                                                         <div
                                                             class="elementor-post__thumbnail">
@@ -522,7 +522,7 @@
                                                         <h3
                                                             class="elementor-post__title">
                                                             <a
-                                                                href="/blog/tin-tuc-hikari/">
+                                                                href="/blog/tin-tuc/">
                                                                 Cá Chép Phi Tần:
                                                                 Cách Nuôi, Setup Bể
                                                                 Nuôi Chi Tiết Nhất
@@ -550,7 +550,7 @@
                                                 <article
                                                     class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width desktop-align-left tablet-align-left mobile-align-left ast-width-md-12 ast-archive-post ast-product-gallery-layout-horizontal-slider">
                                                     <a class="elementor-post__thumbnail__link"
-                                                        href="/blog/tin-tuc-hikari/"
+                                                        href="/blog/tin-tuc/"
                                                         tabindex="-1">
                                                         <div
                                                             class="elementor-post__thumbnail">
@@ -567,7 +567,7 @@
                                                         <h3
                                                             class="elementor-post__title">
                                                             <a
-                                                                href="/blog/tin-tuc-hikari/">
+                                                                href="/blog/tin-tuc/">
                                                                 Cá Chép Phi Tần:
                                                                 Cách Nuôi, Setup Bể
                                                                 Nuôi Chi Tiết Nhất
@@ -595,7 +595,7 @@
                                                 <article
                                                     class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width desktop-align-left tablet-align-left mobile-align-left ast-width-md-12 ast-archive-post ast-product-gallery-layout-horizontal-slider">
                                                     <a class="elementor-post__thumbnail__link"
-                                                        href="/blog/tin-tuc-hikari/"
+                                                        href="/blog/tin-tuc/"
                                                         tabindex="-1">
                                                         <div
                                                             class="elementor-post__thumbnail">
@@ -612,7 +612,7 @@
                                                         <h3
                                                             class="elementor-post__title">
                                                             <a
-                                                                href="/blog/tin-tuc-hikari/">
+                                                                href="/blog/tin-tuc/">
                                                                 Cá Chép Phi Tần:
                                                                 Cách Nuôi, Setup Bể
                                                                 Nuôi Chi Tiết Nhất
@@ -640,7 +640,7 @@
                                                 <article
                                                     class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width desktop-align-left tablet-align-left mobile-align-left ast-width-md-12 ast-archive-post ast-product-gallery-layout-horizontal-slider">
                                                     <a class="elementor-post__thumbnail__link"
-                                                        href="/blog/tin-tuc-hikari/"
+                                                        href="/blog/tin-tuc/"
                                                         tabindex="-1">
                                                         <div
                                                             class="elementor-post__thumbnail">
@@ -657,7 +657,7 @@
                                                         <h3
                                                             class="elementor-post__title">
                                                             <a
-                                                                href="/blog/tin-tuc-hikari/">
+                                                                href="/blog/tin-tuc/">
                                                                 Cá Chép Phi Tần:
                                                                 Cách Nuôi, Setup Bể
                                                                 Nuôi Chi Tiết Nhất

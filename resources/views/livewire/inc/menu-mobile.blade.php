@@ -287,7 +287,7 @@
                                         </li>
                                         <li
                                             class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-794">
-                                            <a href="https://hikaripetfood.com/blog/" class="menu-link"><span
+                                            <a href="/blog/" class="menu-link"><span
                                                     class="ast-icon icon-arrow"><svg class="ast-arrow-svg"
                                                         xmlns="http://www.w3.org/2000/svg"
                                                         xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px"
@@ -327,7 +327,7 @@
                                             <ul class="sub-menu">
                                                 <li
                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-795">
-                                                    <a href="https://hikaripetfood.com/blog/chu-de-ca-koi/"
+                                                    <a href="/blog/chu-de-ca-koi/"
                                                         class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                 class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg"
                                                                 xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
@@ -342,7 +342,7 @@
                                                 </li>
                                                 <li
                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-797">
-                                                    <a href="https://hikaripetfood.com/blog/chu-de-ca-vang/"
+                                                    <a href="/blog/chu-de-ca-vang/"
                                                         class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                 class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg"
                                                                 xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
@@ -357,7 +357,7 @@
                                                 </li>
                                                 <li
                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-796">
-                                                    <a href="https://hikaripetfood.com/blog/chu-de-ca-nhiet-doi/"
+                                                    <a href="/blog/chu-de-ca-nhiet-doi/"
                                                         class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                 class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg"
                                                                 xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
@@ -372,7 +372,7 @@
                                                 </li>
                                                 <li
                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-799">
-                                                    <a href="https://hikaripetfood.com/blog/chu-de-ve-bo-sat/"
+                                                    <a href="/blog/chu-de-ve-bo-sat/"
                                                         class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                 class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg"
                                                                 xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
@@ -387,7 +387,7 @@
                                                 </li>
                                                 <li
                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-800">
-                                                    <a href="https://hikaripetfood.com/blog/chu-de-ve-chim/"
+                                                    <a href="/blog/chu-de-ve-chim/"
                                                         class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                 class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg"
                                                                 xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
@@ -402,7 +402,7 @@
                                                 </li>
                                                 <li
                                                     class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-798">
-                                                    <a href="https://hikaripetfood.com/blog/chu-de-dong-vat-nho/"
+                                                    <a href="/blog/chu-de-dong-vat-nho/"
                                                         class="menu-link"><span class="ast-icon icon-arrow"><svg
                                                                 class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg"
                                                                 xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"

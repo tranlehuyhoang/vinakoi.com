@@ -179,13 +179,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                             <ul class="product_list_widget">
                                 <li>
 
-                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                    <a href="/product/vinakoi-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                             alt="VinaKoi Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                            class="product-title">VinaKoi® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
@@ -198,13 +198,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                                 </li>
                                 <li>
 
-                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                    <a href="/product/vinakoi-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                             alt="VinaKoi Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                            class="product-title">VinaKoi® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
@@ -217,13 +217,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                                 </li>
                                 <li>
 
-                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                    <a href="/product/vinakoi-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                             alt="VinaKoi Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                            class="product-title">VinaKoi® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
@@ -236,13 +236,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                                 </li>
                                 <li>
 
-                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                    <a href="/product/vinakoi-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                             alt="VinaKoi Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                            class="product-title">VinaKoi® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
@@ -286,13 +286,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                             <ul class="product_list_widget">
                                 <li>
 
-                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                    <a href="/product/vinakoi-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                             alt="VinaKoi Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                            class="product-title">VinaKoi® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
@@ -305,13 +305,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                                 </li>
                                 <li>
 
-                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                    <a href="/product/vinakoi-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                             alt="VinaKoi Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                            class="product-title">VinaKoi® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
@@ -324,13 +324,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                                 </li>
                                 <li>
 
-                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                    <a href="/product/vinakoi-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                             alt="VinaKoi Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                            class="product-title">VinaKoi® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
@@ -343,13 +343,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                                 </li>
                                 <li>
 
-                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                    <a href="/product/vinakoi-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                             alt="VinaKoi Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                            class="product-title">VinaKoi® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
@@ -393,13 +393,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                             <ul class="product_list_widget">
                                 <li>
 
-                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                    <a href="/product/vinakoi-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                             alt="VinaKoi Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                            class="product-title">VinaKoi® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
@@ -412,13 +412,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                                 </li>
                                 <li>
 
-                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                    <a href="/product/vinakoi-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                             alt="VinaKoi Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                            class="product-title">VinaKoi® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
@@ -431,13 +431,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                                 </li>
                                 <li>
 
-                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                    <a href="/product/vinakoi-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                             alt="VinaKoi Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                            class="product-title">VinaKoi® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
@@ -450,13 +450,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                                 </li>
                                 <li>
 
-                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                    <a href="/product/vinakoi-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                             alt="VinaKoi Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                            class="product-title">VinaKoi® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
@@ -500,13 +500,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                             <ul class="product_list_widget">
                                 <li>
 
-                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                    <a href="/product/vinakoi-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                             alt="VinaKoi Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                            class="product-title">VinaKoi® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
@@ -519,13 +519,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                                 </li>
                                 <li>
 
-                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                    <a href="/product/vinakoi-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                             alt="VinaKoi Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                            class="product-title">VinaKoi® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
@@ -538,13 +538,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                                 </li>
                                 <li>
 
-                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                    <a href="/product/vinakoi-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                             alt="VinaKoi Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                            class="product-title">VinaKoi® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
@@ -557,13 +557,13 @@ class="elementor elementor-321 elementor-location-footer" data-elementor-post-ty
                                 </li>
                                 <li>
 
-                                    <a href="/product/hikari-tropical-vibra-bites/">
+                                    <a href="/product/vinakoi-tropical-vibra-bites/">
                                         <img width="300" height="300"
                                             src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
                                             class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                             alt="VinaKoi Tropical Vibra Bites - 73g" decoding="async"
                                             sizes="(max-width: 300px) 100vw, 300px" /> <span
-                                            class="product-title">Hikari® Tropical Vibra Bites™</span>
+                                            class="product-title">VinaKoi® Tropical Vibra Bites™</span>
                                     </a>
 
                                     <div class="star-rating"><span style="width:0%">Được xếp hạng
