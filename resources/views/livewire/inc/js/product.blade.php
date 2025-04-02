@@ -1111,9 +1111,6 @@
     <script
         src='/assets/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.20.0'
         id='elementor-frontend-modules-js'></script>
-    <script id='elementor-pro-frontend-js-before'>
-        var ElementorProFrontendConfig = { "ajaxurl": "https:\/\/hikaripetfood.com\/wp-admin\/admin-ajax.php", "nonce": "4b713724ab", "urls": { "assets": "https:\/\/hikaripetfood.com\/wp-content\/plugins\/elementor-pro\/assets\/", "rest": "https:\/\/hikaripetfood.com\/wp-json\/" }, "shareButtonsNetworks": { "facebook": { "title": "Facebook", "has_counter": true }, "twitter": { "title": "Twitter" }, "linkedin": { "title": "LinkedIn", "has_counter": true }, "pinterest": { "title": "Pinterest", "has_counter": true }, "reddit": { "title": "Reddit", "has_counter": true }, "vk": { "title": "VK", "has_counter": true }, "odnoklassniki": { "title": "OK", "has_counter": true }, "tumblr": { "title": "Tumblr" }, "digg": { "title": "Digg" }, "skype": { "title": "Skype" }, "stumbleupon": { "title": "StumbleUpon", "has_counter": true }, "mix": { "title": "Mix" }, "telegram": { "title": "Telegram" }, "pocket": { "title": "Pocket", "has_counter": true }, "xing": { "title": "XING", "has_counter": true }, "whatsapp": { "title": "WhatsApp" }, "email": { "title": "Email" }, "print": { "title": "Print" }, "x-twitter": { "title": "X" }, "threads": { "title": "Threads" } }, "woocommerce": { "menu_cart": { "cart_page_url": "https:\/\/hikaripetfood.com\/cart\/", "checkout_page_url": "https:\/\/hikaripetfood.com\/checkout\/", "fragments_nonce": "5a8ce03021" } }, "facebook_sdk": { "lang": "vi", "app_id": "" }, "lottie": { "defaultAnimationUrl": "https:\/\/hikaripetfood.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json" } };
-    </script>
     <script src='/assets/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.20.0'
         id='elementor-pro-frontend-js'></script>
     <script
@@ -1129,14 +1126,8 @@
     <script
         src='/assets/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.20.0'
         id='pro-elements-handlers-js'></script>
-    <script id='jet-elements-js-extra'>
-        var jetElements = { "ajaxUrl": "https:\/\/hikaripetfood.com\/wp-admin\/admin-ajax.php", "isMobile": "false", "templateApiUrl": "https:\/\/hikaripetfood.com\/wp-json\/jet-elements-api\/v1\/elementor-template", "devMode": "false", "messages": { "invalidMail": "Please specify a valid e-mail" } };
-    </script>
     <script src='/assets/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.6.16'
         id='jet-elements-js'></script>
-    <script id='jet-woo-builder-js-extra'>
-        var jetWooBuilderData = { "ajax_url": "https:\/\/hikaripetfood.com\/wp-admin\/admin-ajax.php", "products": "{\"page\":0,\"name\":\"hikari-economy\",\"product\":\"hikari-economy\",\"post_type\":\"product\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"posts_per_page\":6,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}", "single_ajax_add_to_cart": "" };
-    </script>
     <script src='/assets/wp-content/plugins/jet-woo-builder/assets/js/frontend.min.js?ver=2.1.10'
         id='jet-woo-builder-js'></script>
     <script>

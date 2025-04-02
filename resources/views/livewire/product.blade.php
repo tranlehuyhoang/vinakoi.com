@@ -2,7 +2,7 @@
 
 
     <head>
-        <title>Hikari Economy - Hikari Pet Food - Thức ăn thú cưng cao cấp đến từ Nhật Bản</title>
+        <title>Thức ăn thú cưng cao cấp đến từ Nhật Bản</title>
         @livewire('inc.css.product')
     </head>
 
@@ -38,8 +38,8 @@
                                                             <div class="elementor-widget-container">
                                                                 <nav class="woocommerce-breadcrumb"><a href="/">Trang
                                                                         chủ</a>&nbsp;&#47;&nbsp;<a
-                                                                        href="https://hikaripetfood.com/thuc-an-ca-koi/">Thức
-                                                                        ăn cá Koi</a>&nbsp;&#47;&nbsp;Hikari Economy
+                                                                        href="/products?category=1">Thức
+                                                                        ăn cá Koi</a>&nbsp;&#47;&nbsp;VinaKoi Economy
                                                                 </nav>
                                                             </div>
                                                         </div>
@@ -126,7 +126,7 @@
                                                                 </style>
                                                                 <h1
                                                                     class="product_title entry-title elementor-heading-title elementor-size-default">
-                                                                    Hikari Economy</h1>
+                                                                    VinaKoi Economy</h1>
                                                             </div>
                                                         </div>
                                                         <div class="elementor-element elementor-element-36c5e65 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
@@ -306,14 +306,14 @@
                                                             <div class="elementor-widget-container">
                                                                 <div
                                                                     class="woocommerce-product-details__short-description">
-                                                                    <p>Hikari Economy là một chế độ ăn cơ bản hàng ngày
+                                                                    <p>VinaKoi Economy là một chế độ ăn cơ bản hàng ngày
                                                                         dành cho cá koi mang lại chất lượng và giá trị
                                                                         mà chỉ người dẫn đầu thị trường mới có thể phát
                                                                         triển.</p>
                                                                     <ul>
-                                                                        <li class="features">Hikari Economy &#8211;
+                                                                        <li class="features">VinaKoi Economy &#8211;
                                                                             38478 &#8211; 4kg</li>
-                                                                        <li>Hikari Economy &#8211; 38478 &#8211; 16kg
+                                                                        <li>VinaKoi Economy &#8211; 38478 &#8211; 16kg
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -443,14 +443,14 @@
                                                             data-widget_type="woocommerce-product-content.default">
                                                             <div class="elementor-widget-container">
                                                                 <div id="ftwp-postcontent">
-                                                                    <p>Hikari Economy là một chế độ ăn cơ bản hàng ngày
+                                                                    <p>VinaKoi Economy là một chế độ ăn cơ bản hàng ngày
                                                                         dành cho cá koi mang lại chất lượng và giá trị
                                                                         mà chỉ người dẫn đầu thị trường mới có thể phát
                                                                         triển.</p>
 
                                                                     <h2 id="ftoc-heading-1"
                                                                         class="ftwp-heading ftwp-heading ftwp-heading ftwp-heading">
-                                                                        Mô tả chi tiết Hikari Economy</h2>
+                                                                        Mô tả chi tiết VinaKoi Economy</h2>
                                                                     <ol class="list-ol">
                                                                         <li>Hỗn hợp dinh dưỡng cân bằng độc đáo cung cấp
                                                                             các thành phần dinh dưỡng cơ bản mà thú cưng
@@ -591,7 +591,7 @@
 
                                                                     </div>
                                                                     <h3 class="jet-woo-product-title"><a
-                                                                            href="/product/vinakoi-friend/">Hikari
+                                                                            href="/product/vinakoi-friend/">VinaKoi
                                                                             Friend</a></h3>
                                                                     <div class="jet-woo-product-price">
                                                                         <span class="price"><span
@@ -622,7 +622,7 @@
 
                                                                     </div>
                                                                     <h3 class="jet-woo-product-title"><a
-                                                                            href="/product/vinakoi-friend/">Hikari
+                                                                            href="/product/vinakoi-friend/">VinaKoi
                                                                             Friend</a></h3>
                                                                     <div class="jet-woo-product-price">
                                                                         <span class="price"><span
@@ -653,7 +653,7 @@
 
                                                                     </div>
                                                                     <h3 class="jet-woo-product-title"><a
-                                                                            href="/product/vinakoi-friend/">Hikari
+                                                                            href="/product/vinakoi-friend/">VinaKoi
                                                                             Friend</a></h3>
                                                                     <div class="jet-woo-product-price">
                                                                         <span class="price"><span
@@ -684,7 +684,7 @@
 
                                                                     </div>
                                                                     <h3 class="jet-woo-product-title"><a
-                                                                            href="/product/vinakoi-friend/">Hikari
+                                                                            href="/product/vinakoi-friend/">VinaKoi
                                                                             Friend</a></h3>
                                                                     <div class="jet-woo-product-price">
                                                                         <span class="price"><span
@@ -715,7 +715,7 @@
 
                                                                     </div>
                                                                     <h3 class="jet-woo-product-title"><a
-                                                                            href="/product/vinakoi-friend/">Hikari
+                                                                            href="/product/vinakoi-friend/">VinaKoi
                                                                             Friend</a></h3>
                                                                     <div class="jet-woo-product-price">
                                                                         <span class="price"><span
@@ -746,7 +746,7 @@
 
                                                                     </div>
                                                                     <h3 class="jet-woo-product-title"><a
-                                                                            href="/product/vinakoi-friend/">Hikari
+                                                                            href="/product/vinakoi-friend/">VinaKoi
                                                                             Friend</a></h3>
                                                                     <div class="jet-woo-product-price">
                                                                         <span class="price"><span

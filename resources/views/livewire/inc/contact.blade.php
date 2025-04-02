@@ -17,7 +17,7 @@
                 <div class="phone-vr">
                     <div class="phone-vr-circle-fill"></div>
                     <div class="phone-vr-img-circle">
-                        <a target="_blank" href="https://zalo.me/0962980263">
+                        <a target="_blank" href="https://zalo.me/0999999999">
                             <img alt="Zalo" src="/assets/wp-content/plugins/button-contact-vr/img/zalo.png" />
                         </a>
                     </div>
@@ -31,7 +31,7 @@
                 <div class="phone-vr">
                     <div class="phone-vr-circle-fill"></div>
                     <div class="phone-vr-img-circle">
-                        <a href="tel:0962980263">
+                        <a href="tel:0999999999">
                             <img alt="Phone" src="/assets/wp-content/plugins/button-contact-vr/img/phone.png" />
                         </a>
                     </div>

@@ -1,7 +1,7 @@
 <div>
 
     <head>
-        <title>Hikari Pet Food - Thức ăn thú cưng cao cấp đến từ Nhật Bản</title>
+        <title>VinaKoi - Thức ăn thú cưng cao cấp đến từ Nhật Bản</title>
         @livewire('inc.css.home')
 
 
@@ -364,7 +364,7 @@
                                                                 </style>
                                                                 <h2
                                                                     class="elementor-heading-title elementor-size-default">
-                                                                    THỨC ĂN HIKARI - Thức ăn thú cưng cao cấp đến từ
+                                                                    THỨC ĂN VINAKOI - Thức ăn thú cưng cao cấp đến từ
                                                                     Nhật Bản</h2>
                                                             </div>
                                                         </div>
@@ -463,12 +463,12 @@
                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                         <a
-                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/"><img
+                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/"><img
                                                                                                 loading="lazy"
                                                                                                 width="600" height="600"
                                                                                                 src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
                                                                                                 class="attachment-full size-full"
-                                                                                                alt="Saki-Hikari Fancy Goldfish Balance 200gram"
+                                                                                                alt="Saki-VinaKoi Fancy Goldfish Balance 200gram"
                                                                                                 decoding="async"
                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                         <div
@@ -478,7 +478,7 @@
 
                                                                                     </div>
                                                                                     <h3 class="jet-woo-product-title"><a
-                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/">Saki-Hikari
+                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/">Saki-VinaKoi
                                                                                             Fancy Goldfish Balance</a>
                                                                                     </h3>
                                                                                     <div class="jet-woo-product-price">
@@ -504,12 +504,12 @@
                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                         <a
-                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/"><img
+                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/"><img
                                                                                                 loading="lazy"
                                                                                                 width="600" height="600"
                                                                                                 src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
                                                                                                 class="attachment-full size-full"
-                                                                                                alt="Saki-Hikari Fancy Goldfish Balance 200gram"
+                                                                                                alt="Saki-VinaKoi Fancy Goldfish Balance 200gram"
                                                                                                 decoding="async"
                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                         <div
@@ -519,7 +519,7 @@
 
                                                                                     </div>
                                                                                     <h3 class="jet-woo-product-title"><a
-                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/">Saki-Hikari
+                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/">Saki-VinaKoi
                                                                                             Fancy Goldfish Balance</a>
                                                                                     </h3>
                                                                                     <div class="jet-woo-product-price">
@@ -545,12 +545,12 @@
                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                         <a
-                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/"><img
+                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/"><img
                                                                                                 loading="lazy"
                                                                                                 width="600" height="600"
                                                                                                 src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
                                                                                                 class="attachment-full size-full"
-                                                                                                alt="Saki-Hikari Fancy Goldfish Balance 200gram"
+                                                                                                alt="Saki-VinaKoi Fancy Goldfish Balance 200gram"
                                                                                                 decoding="async"
                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                         <div
@@ -560,7 +560,7 @@
 
                                                                                     </div>
                                                                                     <h3 class="jet-woo-product-title"><a
-                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/">Saki-Hikari
+                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/">Saki-VinaKoi
                                                                                             Fancy Goldfish Balance</a>
                                                                                     </h3>
                                                                                     <div class="jet-woo-product-price">
@@ -586,12 +586,12 @@
                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                         <a
-                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/"><img
+                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/"><img
                                                                                                 loading="lazy"
                                                                                                 width="600" height="600"
                                                                                                 src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
                                                                                                 class="attachment-full size-full"
-                                                                                                alt="Saki-Hikari Fancy Goldfish Balance 200gram"
+                                                                                                alt="Saki-VinaKoi Fancy Goldfish Balance 200gram"
                                                                                                 decoding="async"
                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                         <div
@@ -601,7 +601,7 @@
 
                                                                                     </div>
                                                                                     <h3 class="jet-woo-product-title"><a
-                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/">Saki-Hikari
+                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/">Saki-VinaKoi
                                                                                             Fancy Goldfish Balance</a>
                                                                                     </h3>
                                                                                     <div class="jet-woo-product-price">
@@ -627,12 +627,12 @@
                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                         <a
-                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/"><img
+                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/"><img
                                                                                                 loading="lazy"
                                                                                                 width="600" height="600"
                                                                                                 src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
                                                                                                 class="attachment-full size-full"
-                                                                                                alt="Saki-Hikari Fancy Goldfish Balance 200gram"
+                                                                                                alt="Saki-VinaKoi Fancy Goldfish Balance 200gram"
                                                                                                 decoding="async"
                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                         <div
@@ -642,7 +642,7 @@
 
                                                                                     </div>
                                                                                     <h3 class="jet-woo-product-title"><a
-                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/">Saki-Hikari
+                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/">Saki-VinaKoi
                                                                                             Fancy Goldfish Balance</a>
                                                                                     </h3>
                                                                                     <div class="jet-woo-product-price">
@@ -741,13 +741,13 @@
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="/product/hikari-friend/"><img
+                                                                                                            href="/product/vinakoi-friend/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="500"
                                                                                                                 height="500"
                                                                                                                 src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="Hikari Friend Medium 10kg"
+                                                                                                                alt="VinaKoi Friend Medium 10kg"
                                                                                                                 decoding="async"
                                                                                                                 sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                                                         <div
@@ -759,7 +759,7 @@
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="/product/hikari-friend/">Hikari
+                                                                                                            href="/product/vinakoi-friend/">VinaKoi
                                                                                                             Friend</a>
                                                                                                     </h3>
                                                                                                     <div
@@ -784,13 +784,13 @@
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="/product/hikari-friend/"><img
+                                                                                                            href="/product/vinakoi-friend/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="500"
                                                                                                                 height="500"
                                                                                                                 src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="Hikari Friend Medium 10kg"
+                                                                                                                alt="VinaKoi Friend Medium 10kg"
                                                                                                                 decoding="async"
                                                                                                                 sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                                                         <div
@@ -802,7 +802,7 @@
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="/product/hikari-friend/">Hikari
+                                                                                                            href="/product/vinakoi-friend/">VinaKoi
                                                                                                             Friend</a>
                                                                                                     </h3>
                                                                                                     <div
@@ -827,13 +827,13 @@
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="/product/hikari-friend/"><img
+                                                                                                            href="/product/vinakoi-friend/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="500"
                                                                                                                 height="500"
                                                                                                                 src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="Hikari Friend Medium 10kg"
+                                                                                                                alt="VinaKoi Friend Medium 10kg"
                                                                                                                 decoding="async"
                                                                                                                 sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                                                         <div
@@ -845,7 +845,7 @@
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="/product/hikari-friend/">Hikari
+                                                                                                            href="/product/vinakoi-friend/">VinaKoi
                                                                                                             Friend</a>
                                                                                                     </h3>
                                                                                                     <div
@@ -870,13 +870,13 @@
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="/product/hikari-friend/"><img
+                                                                                                            href="/product/vinakoi-friend/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="500"
                                                                                                                 height="500"
                                                                                                                 src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="Hikari Friend Medium 10kg"
+                                                                                                                alt="VinaKoi Friend Medium 10kg"
                                                                                                                 decoding="async"
                                                                                                                 sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                                                         <div
@@ -888,7 +888,7 @@
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="/product/hikari-friend/">Hikari
+                                                                                                            href="/product/vinakoi-friend/">VinaKoi
                                                                                                             Friend</a>
                                                                                                     </h3>
                                                                                                     <div
@@ -913,13 +913,13 @@
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="/product/hikari-friend/"><img
+                                                                                                            href="/product/vinakoi-friend/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="500"
                                                                                                                 height="500"
                                                                                                                 src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="Hikari Friend Medium 10kg"
+                                                                                                                alt="VinaKoi Friend Medium 10kg"
                                                                                                                 decoding="async"
                                                                                                                 sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                                                         <div
@@ -931,7 +931,7 @@
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="/product/hikari-friend/">Hikari
+                                                                                                            href="/product/vinakoi-friend/">VinaKoi
                                                                                                             Friend</a>
                                                                                                     </h3>
                                                                                                     <div
@@ -1303,7 +1303,7 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <p
                                                                                     class="elementor-heading-title elementor-size-default">
-                                                                                    Liên hệ với Hikari Pet Food để được
+                                                                                    Liên hệ với Vinakoi Pet Food để được
                                                                                     tư vấn về sức khỏe cũng như chế độ
                                                                                     ăn giúp thú cưng khỏe mạnh và phát
                                                                                     triển toàn diện nhất</p>
@@ -1331,7 +1331,7 @@
                                                                                                 <div
                                                                                                     class="elementor-button-wrapper">
                                                                                                     <a class="elementor-button elementor-button-link elementor-size-xs"
-                                                                                                        href="tel:0962980263"
+                                                                                                        href="tel:0999999999"
                                                                                                         target="_blank">
                                                                                                         <span
                                                                                                             class="elementor-button-content-wrapper">
@@ -1364,9 +1364,9 @@
                                                                                             <div
                                                                                                 class="elementor-widget-container">
                                                                                                 <img decoding="async"
-                                                                                                    src="/assets/wp-content/uploads/elementor/thumbs/zalo-hikari-qaatcfz17fjtx8zw12yrsnqqv73saztzq0ssi1wv0k.jpg"
-                                                                                                    title="zalo-hikari"
-                                                                                                    alt="zalo-hikari"
+                                                                                                    src="/assets/wp-content/uploads/elementor/thumbs/zalo-vinakoi-qaatcfz17fjtx8zw12yrsnqqv73saztzq0ssi1wv0k.jpg"
+                                                                                                    title="zalo-vinakoi"
+                                                                                                    alt="zalo-vinakoi"
                                                                                                     loading="lazy" />
                                                                                             </div>
                                                                                         </div>
