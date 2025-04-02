@@ -6070,7 +6070,6 @@
             "ratingCount": "2"
         }
     }</script>
-        <link rel="pingback" href="https://hikaripetfood.com/xmlrpc.php">
         <noscript>
             <style>
                 .woocommerce-product-gallery {

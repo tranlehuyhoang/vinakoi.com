@@ -16,7 +16,7 @@
                                     itemscope="itemscope">
                                     <h1 class="site-logo-img"><a href="/" class="custom-logo-link" rel="home"
                                             aria-current="page"><img width="85" height="56"
-                                                src="/assets/wp-content/uploads/2023/05/logo-thuc-an-hikari-blue-85x56.png"
+                                                src="/logo.png"
                                                 class="custom-logo"
                                                 alt="Hikari Pet Food &#8211; Thức ăn thú cưng cao cấp đến từ Nhật Bản"
                                                 decoding="async" sizes="(max-width: 85px) 100vw, 85px" /></a></h1>
@@ -449,7 +449,7 @@
                                 itemscope="itemscope">
                                 <h1 class="site-logo-img"><a href="/" class="custom-logo-link" rel="home"
                                         aria-current="page"><img width="85" height="56"
-                                            src="/assets/wp-content/uploads/2023/05/logo-thuc-an-hikari-blue-85x56.png"
+                                            src="/logo.png"
                                             class="custom-logo"
                                             alt="Hikari Pet Food &#8211; Thức ăn thú cưng cao cấp đến từ Nhật Bản"
                                             decoding="async" sizes="(max-width: 85px) 100vw, 85px" /></a>
@@ -576,7 +576,7 @@
                                         itemtype="https://schema.org/Organization" itemscope="itemscope">
                                         <h1 class="site-logo-img"><a href="/" class="custom-logo-link" rel="home"
                                                 aria-current="page"><img width="85" height="56"
-                                                    src="/assets/wp-content/uploads/2023/05/logo-thuc-an-hikari-blue-85x56.png"
+                                                    src="/logo.png"
                                                     class="custom-logo"
                                                     alt="Hikari Pet Food &#8211; Thức ăn thú cưng cao cấp đến từ Nhật Bản"
                                                     decoding="async" sizes="(max-width: 85px) 100vw, 85px" /></a></h1>
@@ -1184,7 +1184,7 @@
                                     itemscope="itemscope">
                                     <h1 class="site-logo-img"><a href="/" class="custom-logo-link" rel="home"
                                             aria-current="page"><img width="85" height="56"
-                                                src="/assets/wp-content/uploads/2023/05/logo-thuc-an-hikari-blue-85x56.png"
+                                                src="/logo.png"
                                                 class="custom-logo"
                                                 alt="Hikari Pet Food &#8211; Thức ăn thú cưng cao cấp đến từ Nhật Bản"
                                                 decoding="async" sizes="(max-width: 85px) 100vw, 85px" /></a></h1>
