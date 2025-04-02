@@ -2,7 +2,7 @@
     <head>
         <title>Chi tiết dịch vụ</title>
         <script>
-            window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "\/assets\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2" } };
+            window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/hikaripetfood.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2" } };
             /*! This file is auto-generated */
             !function (e, a, t) { var n, r, o, i = a.createElement("canvas"), p = i.getContext && i.getContext("2d"); function s(e, t) { p.clearRect(0, 0, i.width, i.height), p.fillText(e, 0, 0); e = i.toDataURL(); return p.clearRect(0, 0, i.width, i.height), p.fillText(t, 0, 0), e === i.toDataURL() } function c(e) { var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t) } for (o = Array("flag", "emoji"), t.supports = { everything: !0, everythingExceptFlag: !0 }, r = 0; r < o.length; r++)t.supports[o[r]] = function (e) { if (p && p.fillText) switch (p.textBaseline = "top", p.font = "600 32px Arial", e) { case "flag": return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !1 : !s("\ud83c\uddfa\ud83c\uddf3", "\ud83c\uddfa\u200b\ud83c\uddf3") && !s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f", "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f"); case "emoji": return !s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff", "\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff") }return !1 }(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function () { t.DOMReady = !0 }, t.supports.everything || (n = function () { t.readyCallback() }, a.addEventListener ? (a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)) : (e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function () { "complete" === a.readyState && t.readyCallback() })), (e = t.source || {}).concatemoji ? c(e.concatemoji) : e.wpemoji && e.twemoji && (c(e.twemoji), c(e.wpemoji))) }(window, document, window._wpemojiSettings);
         </script>
@@ -6040,15 +6040,15 @@
             id='imagesLoaded-js'></script>
         <link rel="https://api.w.org/" href="/assets/wp-json/" />
         <link rel="alternate" type="application/json" href="/assets/wp-json/wp/v2/posts/3498" />
-        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://hikaripetfood.com/xmlrpc.php?rsd" />
         <link rel="wlwmanifest" type="application/wlwmanifest+xml"
             href="/assets/wp-includes/wlwmanifest.xml" />
         <meta name="generator" content="WordPress 6.2.2" />
-        <link rel='shortlink' href='https://vinakoi.com/?p=3498' />
+        <link rel='shortlink' href='https://hikaripetfood.com/?p=3498' />
         <link rel="alternate" type="application/json+oembed"
-            href="/assets/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvinakoi.com%2Fca-chep-phi-tan%2F" />
+            href="/assets/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhikaripetfood.com%2Fca-chep-phi-tan%2F" />
         <link rel="alternate" type="text/xml+oembed"
-            href="/assets/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvinakoi.com%2Fca-chep-phi-tan%2F&#038;format=xml" />
+            href="/assets/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhikaripetfood.com%2Fca-chep-phi-tan%2F&#038;format=xml" />
         <!-- Google Tag Manager -->
         <script>(function (w, d, s, l, i) {
                 w[l] = w[l] || []; w[l].push({
@@ -6070,7 +6070,7 @@
             "ratingCount": "2"
         }
     }</script>
-        <link rel="pingback" href="/xmlrpc.php">
+        <link rel="pingback" href="https://hikaripetfood.com/xmlrpc.php">
         <noscript>
             <style>
                 .woocommerce-product-gallery {
@@ -6677,7 +6677,7 @@
                                                                 <span
                                                                     class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
                                                                     <span class="elementor-post-info__terms-list">
-                                                                        <a href="/blog/chu-de-ca-koi/"
+                                                                        <a href="https://hikaripetfood.com/blog/chu-de-ca-koi/"
                                                                             class="elementor-post-info__terms-list-item">Chủ
                                                                             đề cá Koi</a> </span>
                                                                 </span>
@@ -6735,7 +6735,7 @@
                                                             class="elementor-inline-items elementor-icon-list-items elementor-post-info">
                                                             <li class="elementor-icon-list-item elementor-repeater-item-8366f3f elementor-inline-item"
                                                                 itemprop="datePublished">
-                                                                <a href="/2025/03/21/">
+                                                                <a href="https://hikaripetfood.com/2025/03/21/">
                                                                     <span class="elementor-icon-list-icon">
                                                                         <i aria-hidden="true"
                                                                             class="far fa-calendar-alt"></i> </span>
@@ -6746,7 +6746,7 @@
                                                             </li>
                                                             <li class="elementor-icon-list-item elementor-repeater-item-cf7feaa elementor-inline-item"
                                                                 itemprop="author">
-                                                                <a href="/author/ctv2/">
+                                                                <a href="https://hikaripetfood.com/author/ctv2/">
                                                                     <span class="elementor-icon-list-icon">
                                                                         <i aria-hidden="true" class="far fa-user"></i>
                                                                     </span>
@@ -6794,7 +6794,7 @@
                                                     <div class="elementor-widget-container">
                                                         <div id="ftwp-postcontent">
                                                             <p style="text-align: justify;"><a
-                                                                    href="/ca-chep-phi-tan/"><strong>Cá
+                                                                    href="https://hikaripetfood.com/ca-chep-phi-tan/"><strong>Cá
                                                                         chép Phi Tần</strong></a><span
                                                                     style="font-weight: 400;"> mang một nét đẹp riêng,
                                                                     khó có loài cá nào sánh được. Chúng thường được nuôi
@@ -6985,7 +6985,7 @@
                                                                 class="ftwp-heading" style="text-align: justify;">
                                                                 <strong>Đặc điểm và nguồn gốc cá chép Phi Tần</strong>
                                                             </h2>
-                                                            <p>Trước tiên cùng Vina Koi tìm hiểu về nguồn gốc
+                                                            <p>Trước tiên cùng Hikari Pet Food tìm hiểu về nguồn gốc
                                                                 cũng như đặc điểm của cá chép Phi Tần, rồi từ đó chúng
                                                                 ta sẽ xác định được cách nuôi cá khỏe mạnh, lên màu đẹp
                                                                 cho cá nhé!</p>
@@ -7387,7 +7387,7 @@
                                                             <p style="text-align: justify;">Thức ăn cám cho cá chép Phi
                                                                 Tần rất cần thiết cho bạn khi bận rộn không có thời gian
                                                                 chuẩn bị đồ ăn tươi sống, bạn có thể tham khảo các dòng
-                                                                <a href="/thuc-an-ca-koi/">cám
+                                                                <a href="https://hikaripetfood.com/thuc-an-ca-koi/">cám
                                                                     cho cá Chép Hikari</a> có bổ sung đầy đủ các chất
                                                                 dinh dưỡng như protein, chất xơ, vitamin cũng như là
                                                                 khoáng chất đáp ứng các nhu cầu dinh dưỡng cá chép, đặc
@@ -7528,7 +7528,7 @@
                                                             <p style="text-align: justify;">Hiện nay có nhiều cách chữa
                                                                 bệnh cho cá chép phi tần bị nấm trắng cho cá chép Phi
                                                                 Tần như sử dụng Bio Kock 2, <a
-                                                                    href="/cach-su-dung-tetracyclin-cho-ca/">Tetra
+                                                                    href="https://hikaripetfood.com/cach-su-dung-tetracyclin-cho-ca/">Tetra
                                                                     Nhật</a>, Pimafix hoặc thậm chí muối hột cũng được
                                                                 chứng minh là một phương pháp điều trị khá hiệu
                                                                 quả.<span style="font-weight: 400;"> Phòng ngừa bệnh
@@ -7585,14 +7585,14 @@
                                                                         đúng cách. Hy vọng bài viết trên đã mang đến cho
                                                                         bạn thêm nhiều kiến thức hữu ích về cách chăm
                                                                         sóc và lựa chọn cá chép Phi Tần. Đừng quên
-                                                                        thường xuyên truy cập website Vina Koi để
+                                                                        thường xuyên truy cập website Hikari Pet Food để
                                                                         khám phá thêm nhiều thông tin bổ ích về các loài
                                                                         cá!</span></p>
                                                                 <p><span style="font-weight: 400;">Nếu bạn cần giải đáp
                                                                         thắc mắc về cách chăm sóc cá chép Phi Tần lên
                                                                         màu đẹp và <span data-sheets-root="1">cách nuôi
                                                                             cá chép Phi Tần </span>xin liên hệ Zalo: <a
-                                                                            href="https://zalo.me/0999999999"
+                                                                            href="https://zalo.me/0962980263"
                                                                             rel="nofollow noopener" target="_blank">0962
                                                                             980 263</a> để được tư vấn cụ thể cho từng
                                                                         loại trường hợp nhé!</span></p>
@@ -7774,7 +7774,7 @@
                                                             <article
                                                                 class="elementor-post elementor-grid-item post-3507 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi post-ftoc">
                                                                 <a class="elementor-post__thumbnail__link"
-                                                                    href="/ca-chep-phung/"
+                                                                    href="https://hikaripetfood.com/ca-chep-phung/"
                                                                     tabindex="-1">
                                                                     <div class="elementor-post__thumbnail"><img
                                                                             width="800" height="450"
@@ -7786,7 +7786,7 @@
                                                                 <div class="elementor-post__text">
                                                                     <h3 class="elementor-post__title">
                                                                         <a
-                                                                            href="/ca-chep-phung/">
+                                                                            href="https://hikaripetfood.com/ca-chep-phung/">
                                                                             Khám Phá Cá Chép phụng Cách Chọn Cách Nuôi
                                                                             Chăm Sóc Chi Tiết </a>
                                                                     </h3>
@@ -7795,7 +7795,7 @@
                                                             <article
                                                                 class="elementor-post elementor-grid-item post-2924 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi post-ftoc">
                                                                 <a class="elementor-post__thumbnail__link"
-                                                                    href="/vietnam-koi-show-2024/"
+                                                                    href="https://hikaripetfood.com/vietnam-koi-show-2024/"
                                                                     tabindex="-1">
                                                                     <div class="elementor-post__thumbnail"><img
                                                                             width="800" height="450"
@@ -7806,7 +7806,7 @@
                                                                 <div class="elementor-post__text">
                                                                     <h3 class="elementor-post__title">
                                                                         <a
-                                                                            href="/vietnam-koi-show-2024/">
+                                                                            href="https://hikaripetfood.com/vietnam-koi-show-2024/">
                                                                             Vietnam Koi Show 2024 </a>
                                                                     </h3>
                                                                 </div>
@@ -7814,7 +7814,7 @@
                                                             <article
                                                                 class="elementor-post elementor-grid-item post-2053 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi category-blog post-ftoc">
                                                                 <a class="elementor-post__thumbnail__link"
-                                                                    href="/young-koi-show/"
+                                                                    href="https://hikaripetfood.com/young-koi-show/"
                                                                     tabindex="-1">
                                                                     <div class="elementor-post__thumbnail"><img
                                                                             width="800" height="450"
@@ -7826,7 +7826,7 @@
                                                                 <div class="elementor-post__text">
                                                                     <h3 class="elementor-post__title">
                                                                         <a
-                                                                            href="/young-koi-show/">
+                                                                            href="https://hikaripetfood.com/young-koi-show/">
                                                                             Young Koi Show 2023 </a>
                                                                     </h3>
                                                                 </div>
@@ -7834,7 +7834,7 @@
                                                             <article
                                                                 class="elementor-post elementor-grid-item post-1795 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi category-blog post-ftoc">
                                                                 <a class="elementor-post__thumbnail__link"
-                                                                    href="/vietnam-koi-show-2023/"
+                                                                    href="https://hikaripetfood.com/vietnam-koi-show-2023/"
                                                                     tabindex="-1">
                                                                     <div class="elementor-post__thumbnail"><img
                                                                             width="800" height="450"
@@ -7845,7 +7845,7 @@
                                                                 <div class="elementor-post__text">
                                                                     <h3 class="elementor-post__title">
                                                                         <a
-                                                                            href="/vietnam-koi-show-2023/">
+                                                                            href="https://hikaripetfood.com/vietnam-koi-show-2023/">
                                                                             Vietnam Koi Show 2023 </a>
                                                                     </h3>
                                                                 </div>
@@ -7888,7 +7888,7 @@
                                                                             }
                                                                         </style>
                                                                         <div class="elementor-facebook-widget fb-comments"
-                                                                            data-href="https://vinakoi.com?p=3498"
+                                                                            data-href="https://hikaripetfood.com?p=3498"
                                                                             data-width="100%" data-numposts="10"
                                                                             data-order-by="social"
                                                                             style="min-height: 1px"></div>
@@ -8838,7 +8838,7 @@
         <script src='/assets/wp-includes/js/comment-reply.min.js?ver=6.2.2'
             id='comment-reply-js'></script>
         <script id='astra-theme-js-js-extra'>
-            var astra = { "break_point": "921", "isRtl": "", "is_scroll_to_id": "1", "is_scroll_to_top": "1", "is_header_footer_builder_active": "1", "edit_post_url": "https:\/\/vinakoi.com\/wp-admin\/post.php?post=id&action=edit", "ajax_url": "https:\/\/vinakoi.com\/wp-admin\/admin-ajax.php", "infinite_count": "2", "infinite_total": "0", "pagination": "number", "infinite_scroll_event": "scroll", "no_more_post_message": "No more posts to show.", "grid_layout": "1", "site_url": "https:\/\/vinakoi.com", "show_comments": "Hi\u1ec7n b\u00ecnh lu\u1eadn", "masonryEnabled": "", "blogMasonryBreakPoint": "921", "shop_infinite_count": "2", "shop_infinite_total": "0", "shop_pagination": "number", "shop_infinite_scroll_event": "scroll", "shop_no_more_post_message": "No more products to show.", "checkout_prev_text": "Back to my details", "checkout_next_text": "Proceed to payment", "shop_quick_view_enable": "disabled", "shop_quick_view_stick_cart": "", "shop_quick_view_auto_height": "1", "woo_cart_empty_featured_product": "1", "single_product_qty_ajax_nonce": "57d5266a49", "single_product_ajax_add_to_cart": "", "is_cart": "", "is_single_product": "", "view_cart": "View cart", "cart_url": "https:\/\/vinakoi.com\/cart\/", "checkout_url": "https:\/\/vinakoi.com\/checkout\/", "add_to_cart_options_single": "default", "is_astra_pro": "1" };
+            var astra = { "break_point": "921", "isRtl": "", "is_scroll_to_id": "1", "is_scroll_to_top": "1", "is_header_footer_builder_active": "1", "edit_post_url": "https:\/\/hikaripetfood.com\/wp-admin\/post.php?post=id&action=edit", "ajax_url": "https:\/\/hikaripetfood.com\/wp-admin\/admin-ajax.php", "infinite_count": "2", "infinite_total": "0", "pagination": "number", "infinite_scroll_event": "scroll", "no_more_post_message": "No more posts to show.", "grid_layout": "1", "site_url": "https:\/\/hikaripetfood.com", "show_comments": "Hi\u1ec7n b\u00ecnh lu\u1eadn", "masonryEnabled": "", "blogMasonryBreakPoint": "921", "shop_infinite_count": "2", "shop_infinite_total": "0", "shop_pagination": "number", "shop_infinite_scroll_event": "scroll", "shop_no_more_post_message": "No more products to show.", "checkout_prev_text": "Back to my details", "checkout_next_text": "Proceed to payment", "shop_quick_view_enable": "disabled", "shop_quick_view_stick_cart": "", "shop_quick_view_auto_height": "1", "woo_cart_empty_featured_product": "1", "single_product_qty_ajax_nonce": "57d5266a49", "single_product_ajax_add_to_cart": "", "is_cart": "", "is_single_product": "", "view_cart": "View cart", "cart_url": "https:\/\/hikaripetfood.com\/cart\/", "checkout_url": "https:\/\/hikaripetfood.com\/checkout\/", "add_to_cart_options_single": "default", "is_astra_pro": "1" };
         </script>
         <script src='/assets/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.1.5'
             id='astra-theme-js-js'></script>
@@ -8860,16 +8860,16 @@
             src='/assets/wp-content/plugins/jet-search/assets/lib/jet-plugins/jet-plugins.js?ver=1.0.0'
             id='jet-plugins-js'></script>
         <script id='jet-search-js-extra'>
-            var jetSearchSettings = { "rest_api_url": "https:\/\/vinakoi.com\/wp-json\/jet-search\/v1\/search-posts", "action": "jet_ajax_search", "nonce": "83626d94a8", "sumbitOnEnter": "1", "searchSuggestions": { "ajaxurl": "https:\/\/vinakoi.com\/wp-admin\/admin-ajax.php", "get_suggestions_rest_api_url": "https:\/\/vinakoi.com\/wp-json\/jet-search\/v1\/get-suggestions", "add_suggestions_rest_api_url": "https:\/\/vinakoi.com\/wp-json\/jet-search\/v1\/form-add-suggestion", "get_action": "get_form_suggestions", "add_action": "add_form_suggestion", "nonce_rest": "5fe55b0316", "use_session": false } };
-            var jetSearchSettings = { "rest_api_url": "https:\/\/vinakoi.com\/wp-json\/jet-search\/v1\/search-posts", "action": "jet_ajax_search", "nonce": "83626d94a8", "sumbitOnEnter": "1", "searchSuggestions": { "ajaxurl": "https:\/\/vinakoi.com\/wp-admin\/admin-ajax.php", "get_suggestions_rest_api_url": "https:\/\/vinakoi.com\/wp-json\/jet-search\/v1\/get-suggestions", "add_suggestions_rest_api_url": "https:\/\/vinakoi.com\/wp-json\/jet-search\/v1\/form-add-suggestion", "get_action": "get_form_suggestions", "add_action": "add_form_suggestion", "nonce_rest": "5fe55b0316", "use_session": false } };
-            var jetSearchSettings = { "rest_api_url": "https:\/\/vinakoi.com\/wp-json\/jet-search\/v1\/search-posts", "action": "jet_ajax_search", "nonce": "83626d94a8", "sumbitOnEnter": "1", "searchSuggestions": { "ajaxurl": "https:\/\/vinakoi.com\/wp-admin\/admin-ajax.php", "get_suggestions_rest_api_url": "https:\/\/vinakoi.com\/wp-json\/jet-search\/v1\/get-suggestions", "add_suggestions_rest_api_url": "https:\/\/vinakoi.com\/wp-json\/jet-search\/v1\/form-add-suggestion", "get_action": "get_form_suggestions", "add_action": "add_form_suggestion", "nonce_rest": "5fe55b0316", "use_session": false } };
-            var jetSearchSettings = { "rest_api_url": "https:\/\/vinakoi.com\/wp-json\/jet-search\/v1\/search-posts", "action": "jet_ajax_search", "nonce": "83626d94a8", "sumbitOnEnter": "1", "searchSuggestions": { "ajaxurl": "https:\/\/vinakoi.com\/wp-admin\/admin-ajax.php", "get_suggestions_rest_api_url": "https:\/\/vinakoi.com\/wp-json\/jet-search\/v1\/get-suggestions", "add_suggestions_rest_api_url": "https:\/\/vinakoi.com\/wp-json\/jet-search\/v1\/form-add-suggestion", "get_action": "get_form_suggestions", "add_action": "add_form_suggestion", "nonce_rest": "5fe55b0316", "use_session": false } };
-            var jetSearchSettings = { "rest_api_url": "https:\/\/vinakoi.com\/wp-json\/jet-search\/v1\/search-posts", "action": "jet_ajax_search", "nonce": "83626d94a8", "sumbitOnEnter": "1", "searchSuggestions": { "ajaxurl": "https:\/\/vinakoi.com\/wp-admin\/admin-ajax.php", "get_suggestions_rest_api_url": "https:\/\/vinakoi.com\/wp-json\/jet-search\/v1\/get-suggestions", "add_suggestions_rest_api_url": "https:\/\/vinakoi.com\/wp-json\/jet-search\/v1\/form-add-suggestion", "get_action": "get_form_suggestions", "add_action": "add_form_suggestion", "nonce_rest": "5fe55b0316", "use_session": false } };
+            var jetSearchSettings = { "rest_api_url": "https:\/\/hikaripetfood.com\/wp-json\/jet-search\/v1\/search-posts", "action": "jet_ajax_search", "nonce": "83626d94a8", "sumbitOnEnter": "1", "searchSuggestions": { "ajaxurl": "https:\/\/hikaripetfood.com\/wp-admin\/admin-ajax.php", "get_suggestions_rest_api_url": "https:\/\/hikaripetfood.com\/wp-json\/jet-search\/v1\/get-suggestions", "add_suggestions_rest_api_url": "https:\/\/hikaripetfood.com\/wp-json\/jet-search\/v1\/form-add-suggestion", "get_action": "get_form_suggestions", "add_action": "add_form_suggestion", "nonce_rest": "5fe55b0316", "use_session": false } };
+            var jetSearchSettings = { "rest_api_url": "https:\/\/hikaripetfood.com\/wp-json\/jet-search\/v1\/search-posts", "action": "jet_ajax_search", "nonce": "83626d94a8", "sumbitOnEnter": "1", "searchSuggestions": { "ajaxurl": "https:\/\/hikaripetfood.com\/wp-admin\/admin-ajax.php", "get_suggestions_rest_api_url": "https:\/\/hikaripetfood.com\/wp-json\/jet-search\/v1\/get-suggestions", "add_suggestions_rest_api_url": "https:\/\/hikaripetfood.com\/wp-json\/jet-search\/v1\/form-add-suggestion", "get_action": "get_form_suggestions", "add_action": "add_form_suggestion", "nonce_rest": "5fe55b0316", "use_session": false } };
+            var jetSearchSettings = { "rest_api_url": "https:\/\/hikaripetfood.com\/wp-json\/jet-search\/v1\/search-posts", "action": "jet_ajax_search", "nonce": "83626d94a8", "sumbitOnEnter": "1", "searchSuggestions": { "ajaxurl": "https:\/\/hikaripetfood.com\/wp-admin\/admin-ajax.php", "get_suggestions_rest_api_url": "https:\/\/hikaripetfood.com\/wp-json\/jet-search\/v1\/get-suggestions", "add_suggestions_rest_api_url": "https:\/\/hikaripetfood.com\/wp-json\/jet-search\/v1\/form-add-suggestion", "get_action": "get_form_suggestions", "add_action": "add_form_suggestion", "nonce_rest": "5fe55b0316", "use_session": false } };
+            var jetSearchSettings = { "rest_api_url": "https:\/\/hikaripetfood.com\/wp-json\/jet-search\/v1\/search-posts", "action": "jet_ajax_search", "nonce": "83626d94a8", "sumbitOnEnter": "1", "searchSuggestions": { "ajaxurl": "https:\/\/hikaripetfood.com\/wp-admin\/admin-ajax.php", "get_suggestions_rest_api_url": "https:\/\/hikaripetfood.com\/wp-json\/jet-search\/v1\/get-suggestions", "add_suggestions_rest_api_url": "https:\/\/hikaripetfood.com\/wp-json\/jet-search\/v1\/form-add-suggestion", "get_action": "get_form_suggestions", "add_action": "add_form_suggestion", "nonce_rest": "5fe55b0316", "use_session": false } };
+            var jetSearchSettings = { "rest_api_url": "https:\/\/hikaripetfood.com\/wp-json\/jet-search\/v1\/search-posts", "action": "jet_ajax_search", "nonce": "83626d94a8", "sumbitOnEnter": "1", "searchSuggestions": { "ajaxurl": "https:\/\/hikaripetfood.com\/wp-admin\/admin-ajax.php", "get_suggestions_rest_api_url": "https:\/\/hikaripetfood.com\/wp-json\/jet-search\/v1\/get-suggestions", "add_suggestions_rest_api_url": "https:\/\/hikaripetfood.com\/wp-json\/jet-search\/v1\/form-add-suggestion", "get_action": "get_form_suggestions", "add_action": "add_form_suggestion", "nonce_rest": "5fe55b0316", "use_session": false } };
         </script>
         <script src='/assets/wp-content/plugins/jet-search/assets/js/jet-search.js?ver=3.3.0'
             id='jet-search-js'></script>
         <script id='kk-star-ratings-js-extra'>
-            var kk_star_ratings = { "action": "kk-star-ratings", "endpoint": "https:\/\/vinakoi.com\/wp-admin\/admin-ajax.php", "nonce": "34b52ee614" };
+            var kk_star_ratings = { "action": "kk-star-ratings", "endpoint": "https:\/\/hikaripetfood.com\/wp-admin\/admin-ajax.php", "nonce": "34b52ee614" };
         </script>
         <script
             src='/assets/wp-content/plugins/kk-star-ratings/src/core/public/js/kk-star-ratings.min.js?ver=5.4.7'
@@ -8878,7 +8878,7 @@
             src='/assets/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.1.1'
             id='jquery-blockui-js'></script>
         <script id='wc-add-to-cart-js-extra'>
-            var wc_add_to_cart_params = { "ajax_url": "\/wp-admin\/admin-ajax.php", "wc_ajax_url": "\/?wc-ajax=%%endpoint%%", "i18n_view_cart": "Xem gi\u1ecf h\u00e0ng", "cart_url": "https:\/\/vinakoi.com\/cart\/", "is_cart": "", "cart_redirect_after_add": "no" };
+            var wc_add_to_cart_params = { "ajax_url": "\/wp-admin\/admin-ajax.php", "wc_ajax_url": "\/?wc-ajax=%%endpoint%%", "i18n_view_cart": "Xem gi\u1ecf h\u00e0ng", "cart_url": "https:\/\/hikaripetfood.com\/cart\/", "is_cart": "", "cart_redirect_after_add": "no" };
         </script>
         <script
             src='/assets/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.1.1'
@@ -8893,7 +8893,7 @@
             src='/assets/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.1.1'
             id='woocommerce-js'></script>
         <script id='wp-api-request-js-extra'>
-            var wpApiSettings = { "root": "https:\/\/vinakoi.com\/wp-json\/", "nonce": "5fe55b0316", "versionString": "wp\/v2\/" };
+            var wpApiSettings = { "root": "https:\/\/hikaripetfood.com\/wp-json\/", "nonce": "5fe55b0316", "versionString": "wp\/v2\/" };
         </script>
         <script src='/assets/wp-includes/js/api-request.min.js?ver=6.2.2'
             id='wp-api-request-js'></script>
@@ -8929,7 +8929,7 @@
             wp.apiFetch.nonceEndpoint = "/assets/wp-admin/admin-ajax.php?action=rest-nonce";
         </script>
         <script id='woo-variation-swatches-js-extra'>
-            var woo_variation_swatches_options = { "show_variation_label": "1", "clear_on_reselect": "", "variation_label_separator": ":", "is_mobile": "", "show_variation_stock": "", "stock_label_threshold": "5", "cart_redirect_after_add": "no", "enable_ajax_add_to_cart": "yes", "cart_url": "https:\/\/vinakoi.com\/cart\/", "is_cart": "" };
+            var woo_variation_swatches_options = { "show_variation_label": "1", "clear_on_reselect": "", "variation_label_separator": ":", "is_mobile": "", "show_variation_stock": "", "stock_label_threshold": "5", "cart_redirect_after_add": "no", "enable_ajax_add_to_cart": "yes", "cart_url": "https:\/\/hikaripetfood.com\/cart\/", "is_cart": "" };
         </script>
         <script
             src='/assets/wp-content/plugins/woo-variation-swatches/assets/js/frontend.min.js?ver=1710229339'
@@ -8968,7 +8968,7 @@
             src='/assets/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.20.0'
             id='elementor-frontend-modules-js'></script>
         <script id='elementor-pro-frontend-js-before'>
-            var ElementorProFrontendConfig = { "ajaxurl": "https:\/\/vinakoi.com\/wp-admin\/admin-ajax.php", "nonce": "4b713724ab", "urls": { "assets": "https:\/\/vinakoi.com\/wp-content\/plugins\/elementor-pro\/assets\/", "rest": "https:\/\/vinakoi.com\/wp-json\/" }, "shareButtonsNetworks": { "facebook": { "title": "Facebook", "has_counter": true }, "twitter": { "title": "Twitter" }, "linkedin": { "title": "LinkedIn", "has_counter": true }, "pinterest": { "title": "Pinterest", "has_counter": true }, "reddit": { "title": "Reddit", "has_counter": true }, "vk": { "title": "VK", "has_counter": true }, "odnoklassniki": { "title": "OK", "has_counter": true }, "tumblr": { "title": "Tumblr" }, "digg": { "title": "Digg" }, "skype": { "title": "Skype" }, "stumbleupon": { "title": "StumbleUpon", "has_counter": true }, "mix": { "title": "Mix" }, "telegram": { "title": "Telegram" }, "pocket": { "title": "Pocket", "has_counter": true }, "xing": { "title": "XING", "has_counter": true }, "whatsapp": { "title": "WhatsApp" }, "email": { "title": "Email" }, "print": { "title": "Print" }, "x-twitter": { "title": "X" }, "threads": { "title": "Threads" } }, "woocommerce": { "menu_cart": { "cart_page_url": "https:\/\/vinakoi.com\/cart\/", "checkout_page_url": "https:\/\/vinakoi.com\/checkout\/", "fragments_nonce": "5a8ce03021" } }, "facebook_sdk": { "lang": "vi", "app_id": "" }, "lottie": { "defaultAnimationUrl": "https:\/\/vinakoi.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json" } };
+            var ElementorProFrontendConfig = { "ajaxurl": "https:\/\/hikaripetfood.com\/wp-admin\/admin-ajax.php", "nonce": "4b713724ab", "urls": { "assets": "https:\/\/hikaripetfood.com\/wp-content\/plugins\/elementor-pro\/assets\/", "rest": "https:\/\/hikaripetfood.com\/wp-json\/" }, "shareButtonsNetworks": { "facebook": { "title": "Facebook", "has_counter": true }, "twitter": { "title": "Twitter" }, "linkedin": { "title": "LinkedIn", "has_counter": true }, "pinterest": { "title": "Pinterest", "has_counter": true }, "reddit": { "title": "Reddit", "has_counter": true }, "vk": { "title": "VK", "has_counter": true }, "odnoklassniki": { "title": "OK", "has_counter": true }, "tumblr": { "title": "Tumblr" }, "digg": { "title": "Digg" }, "skype": { "title": "Skype" }, "stumbleupon": { "title": "StumbleUpon", "has_counter": true }, "mix": { "title": "Mix" }, "telegram": { "title": "Telegram" }, "pocket": { "title": "Pocket", "has_counter": true }, "xing": { "title": "XING", "has_counter": true }, "whatsapp": { "title": "WhatsApp" }, "email": { "title": "Email" }, "print": { "title": "Print" }, "x-twitter": { "title": "X" }, "threads": { "title": "Threads" } }, "woocommerce": { "menu_cart": { "cart_page_url": "https:\/\/hikaripetfood.com\/cart\/", "checkout_page_url": "https:\/\/hikaripetfood.com\/checkout\/", "fragments_nonce": "5a8ce03021" } }, "facebook_sdk": { "lang": "vi", "app_id": "" }, "lottie": { "defaultAnimationUrl": "https:\/\/hikaripetfood.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json" } };
         </script>
         <script src='/assets/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.20.0'
             id='elementor-pro-frontend-js'></script>
@@ -8978,7 +8978,7 @@
         <script src='/assets/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2'
             id='jquery-ui-core-js'></script>
         <script id='elementor-frontend-js-before'>
-            var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Chia s\u1ebb tr\u00ean Facebook", "shareOnTwitter": "Chia s\u1ebb tr\u00ean Twitter", "pinIt": "Ghim n\u00f3", "download": "T\u1ea3i xu\u1ed1ng", "downloadImage": "T\u1ea3i h\u00ecnh \u1ea3nh", "fullscreen": "To\u00e0n m\u00e0n h\u00ecnh", "zoom": "Thu ph\u00f3ng", "share": "Chia s\u1ebb", "playVideo": "Ch\u01a1i Video", "previous": "Previous", "next": "Next", "close": "\u0110\u00f3ng", "a11yCarouselWrapperAriaLabel": "Carousel | Horizontal scrolling: Arrow Left & Right", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } } }, "version": "3.20.0", "is_static": false, "experimentalFeatures": { "e_optimized_assets_loading": true, "e_optimized_css_loading": true, "additional_custom_breakpoints": true, "e_swiper_latest": true, "theme_builder_v2": true, "block_editor_assets_optimize": true, "ai-layout": true, "landing-pages": true, "e_image_loading_optimization": true, "notes": true, "form-submissions": true }, "urls": { "assets": "https:\/\/vinakoi.com\/wp-content\/plugins\/elementor\/assets\/" }, "swiperClass": "swiper", "settings": { "page": [], "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description", "woocommerce_notices_elements": [] }, "post": { "id": 3498, "title": "C%C3%A1%20Ch%C3%A9p%20Phi%20T%E1%BA%A7n%3A%20C%C3%A1ch%20Nu%C3%B4i%2C%20Setup%20B%E1%BB%83%20Nu%C3%B4i%20Chi%20Ti%E1%BA%BFt%20Nh%E1%BA%A5t%202025", "excerpt": "", "featuredImage": "https:\/\/vinakoi.com\/wp-content\/uploads\/2025\/03\/ca-chep-phi-tan.jpg" } };
+            var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Chia s\u1ebb tr\u00ean Facebook", "shareOnTwitter": "Chia s\u1ebb tr\u00ean Twitter", "pinIt": "Ghim n\u00f3", "download": "T\u1ea3i xu\u1ed1ng", "downloadImage": "T\u1ea3i h\u00ecnh \u1ea3nh", "fullscreen": "To\u00e0n m\u00e0n h\u00ecnh", "zoom": "Thu ph\u00f3ng", "share": "Chia s\u1ebb", "playVideo": "Ch\u01a1i Video", "previous": "Previous", "next": "Next", "close": "\u0110\u00f3ng", "a11yCarouselWrapperAriaLabel": "Carousel | Horizontal scrolling: Arrow Left & Right", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } } }, "version": "3.20.0", "is_static": false, "experimentalFeatures": { "e_optimized_assets_loading": true, "e_optimized_css_loading": true, "additional_custom_breakpoints": true, "e_swiper_latest": true, "theme_builder_v2": true, "block_editor_assets_optimize": true, "ai-layout": true, "landing-pages": true, "e_image_loading_optimization": true, "notes": true, "form-submissions": true }, "urls": { "assets": "https:\/\/hikaripetfood.com\/wp-content\/plugins\/elementor\/assets\/" }, "swiperClass": "swiper", "settings": { "page": [], "editorPreferences": [] }, "kit": { "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description", "woocommerce_notices_elements": [] }, "post": { "id": 3498, "title": "C%C3%A1%20Ch%C3%A9p%20Phi%20T%E1%BA%A7n%3A%20C%C3%A1ch%20Nu%C3%B4i%2C%20Setup%20B%E1%BB%83%20Nu%C3%B4i%20Chi%20Ti%E1%BA%BFt%20Nh%E1%BA%A5t%202025", "excerpt": "", "featuredImage": "https:\/\/hikaripetfood.com\/wp-content\/uploads\/2025\/03\/ca-chep-phi-tan.jpg" } };
         </script>
         <script src='/assets/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.0'
             id='elementor-frontend-js'></script>
@@ -8986,12 +8986,12 @@
             src='/assets/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.20.0'
             id='pro-elements-handlers-js'></script>
         <script id='jet-elements-js-extra'>
-            var jetElements = { "ajaxUrl": "https:\/\/vinakoi.com\/wp-admin\/admin-ajax.php", "isMobile": "false", "templateApiUrl": "https:\/\/vinakoi.com\/wp-json\/jet-elements-api\/v1\/elementor-template", "devMode": "false", "messages": { "invalidMail": "Please specify a valid e-mail" } };
+            var jetElements = { "ajaxUrl": "https:\/\/hikaripetfood.com\/wp-admin\/admin-ajax.php", "isMobile": "false", "templateApiUrl": "https:\/\/hikaripetfood.com\/wp-json\/jet-elements-api\/v1\/elementor-template", "devMode": "false", "messages": { "invalidMail": "Please specify a valid e-mail" } };
         </script>
         <script src='/assets/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.6.16'
             id='jet-elements-js'></script>
         <script id='jet-woo-builder-js-extra'>
-            var jetWooBuilderData = { "ajax_url": "https:\/\/vinakoi.com\/wp-admin\/admin-ajax.php", "products": "{\"page\":0,\"name\":\"ca-chep-phi-tan\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"post_type\":[\"post\",\"page\",\"e-landing-page\"],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"posts_per_page\":6,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}", "single_ajax_add_to_cart": "" };
+            var jetWooBuilderData = { "ajax_url": "https:\/\/hikaripetfood.com\/wp-admin\/admin-ajax.php", "products": "{\"page\":0,\"name\":\"ca-chep-phi-tan\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"post_type\":[\"post\",\"page\",\"e-landing-page\"],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"posts_per_page\":6,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}", "single_ajax_add_to_cart": "" };
         </script>
         <script src='/assets/wp-content/plugins/jet-woo-builder/assets/js/frontend.min.js?ver=2.1.10'
             id='jet-woo-builder-js'></script>

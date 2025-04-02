@@ -1,7 +1,7 @@
 <div>
 
     <head>
-        <title>Vina Koi - Thức ăn thú cưng cao cấp đến từ Nhật Bản</title>
+        <title>Hikari Pet Food - Thức ăn thú cưng cao cấp đến từ Nhật Bản</title>
         @livewire('inc.css.home')
 
 
@@ -364,7 +364,7 @@
                                                                 </style>
                                                                 <h2
                                                                     class="elementor-heading-title elementor-size-default">
-                                                                    THỨC ĂN VINAKOI - Thức ăn thú cưng cao cấp đến từ
+                                                                    THỨC ĂN HIKARI - Thức ăn thú cưng cao cấp đến từ
                                                                     Nhật Bản</h2>
                                                             </div>
                                                         </div>
@@ -463,12 +463,12 @@
                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                         <a
-                                                                                            href="/product/vinakoi-fancy-goldfish-balance/"><img
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/"><img
                                                                                                 loading="lazy"
                                                                                                 width="600" height="600"
                                                                                                 src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
                                                                                                 class="attachment-full size-full"
-                                                                                                alt="VinaKoi Fancy Goldfish Balance 200gram"
+                                                                                                alt="Saki-Hikari Fancy Goldfish Balance 200gram"
                                                                                                 decoding="async"
                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                         <div
@@ -478,7 +478,7 @@
 
                                                                                     </div>
                                                                                     <h3 class="jet-woo-product-title"><a
-                                                                                            href="/product/vinakoi-fancy-goldfish-balance/">Vina-Koi
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/">Saki-Hikari
                                                                                             Fancy Goldfish Balance</a>
                                                                                     </h3>
                                                                                     <div class="jet-woo-product-price">
@@ -504,12 +504,12 @@
                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                         <a
-                                                                                            href="/product/vinakoi-fancy-goldfish-balance/"><img
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/"><img
                                                                                                 loading="lazy"
                                                                                                 width="600" height="600"
                                                                                                 src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
                                                                                                 class="attachment-full size-full"
-                                                                                                alt="VinaKoi Fancy Goldfish Balance 200gram"
+                                                                                                alt="Saki-Hikari Fancy Goldfish Balance 200gram"
                                                                                                 decoding="async"
                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                         <div
@@ -519,7 +519,7 @@
 
                                                                                     </div>
                                                                                     <h3 class="jet-woo-product-title"><a
-                                                                                            href="/product/vinakoi-fancy-goldfish-balance/">Vina-Koi
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/">Saki-Hikari
                                                                                             Fancy Goldfish Balance</a>
                                                                                     </h3>
                                                                                     <div class="jet-woo-product-price">
@@ -545,12 +545,12 @@
                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                         <a
-                                                                                            href="/product/vinakoi-fancy-goldfish-balance/"><img
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/"><img
                                                                                                 loading="lazy"
                                                                                                 width="600" height="600"
                                                                                                 src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
                                                                                                 class="attachment-full size-full"
-                                                                                                alt="VinaKoi Fancy Goldfish Balance 200gram"
+                                                                                                alt="Saki-Hikari Fancy Goldfish Balance 200gram"
                                                                                                 decoding="async"
                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                         <div
@@ -560,7 +560,7 @@
 
                                                                                     </div>
                                                                                     <h3 class="jet-woo-product-title"><a
-                                                                                            href="/product/vinakoi-fancy-goldfish-balance/">Vina-Koi
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/">Saki-Hikari
                                                                                             Fancy Goldfish Balance</a>
                                                                                     </h3>
                                                                                     <div class="jet-woo-product-price">
@@ -586,12 +586,12 @@
                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                         <a
-                                                                                            href="/product/vinakoi-fancy-goldfish-balance/"><img
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/"><img
                                                                                                 loading="lazy"
                                                                                                 width="600" height="600"
                                                                                                 src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
                                                                                                 class="attachment-full size-full"
-                                                                                                alt="VinaKoi Fancy Goldfish Balance 200gram"
+                                                                                                alt="Saki-Hikari Fancy Goldfish Balance 200gram"
                                                                                                 decoding="async"
                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                         <div
@@ -601,7 +601,7 @@
 
                                                                                     </div>
                                                                                     <h3 class="jet-woo-product-title"><a
-                                                                                            href="/product/vinakoi-fancy-goldfish-balance/">Vina-Koi
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/">Saki-Hikari
                                                                                             Fancy Goldfish Balance</a>
                                                                                     </h3>
                                                                                     <div class="jet-woo-product-price">
@@ -627,12 +627,12 @@
                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                         <a
-                                                                                            href="/product/vinakoi-fancy-goldfish-balance/"><img
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/"><img
                                                                                                 loading="lazy"
                                                                                                 width="600" height="600"
                                                                                                 src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
                                                                                                 class="attachment-full size-full"
-                                                                                                alt="VinaKoi Fancy Goldfish Balance 200gram"
+                                                                                                alt="Saki-Hikari Fancy Goldfish Balance 200gram"
                                                                                                 decoding="async"
                                                                                                 sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                         <div
@@ -642,7 +642,7 @@
 
                                                                                     </div>
                                                                                     <h3 class="jet-woo-product-title"><a
-                                                                                            href="/product/vinakoi-fancy-goldfish-balance/">Vina-Koi
+                                                                                            href="/product/saki-hikari-fancy-goldfish-balance/">Saki-Hikari
                                                                                             Fancy Goldfish Balance</a>
                                                                                     </h3>
                                                                                     <div class="jet-woo-product-price">
@@ -741,13 +741,13 @@
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="/product/vinakoi-friend/"><img
+                                                                                                            href="/product/hikari-friend/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="500"
                                                                                                                 height="500"
                                                                                                                 src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="VinaKoi Friend Medium 10kg"
+                                                                                                                alt="Hikari Friend Medium 10kg"
                                                                                                                 decoding="async"
                                                                                                                 sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                                                         <div
@@ -759,7 +759,7 @@
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="/product/vinakoi-friend/">VinaKoi
+                                                                                                            href="/product/hikari-friend/">Hikari
                                                                                                             Friend</a>
                                                                                                     </h3>
                                                                                                     <div
@@ -784,13 +784,13 @@
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="/product/vinakoi-friend/"><img
+                                                                                                            href="/product/hikari-friend/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="500"
                                                                                                                 height="500"
                                                                                                                 src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="VinaKoi Friend Medium 10kg"
+                                                                                                                alt="Hikari Friend Medium 10kg"
                                                                                                                 decoding="async"
                                                                                                                 sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                                                         <div
@@ -802,7 +802,7 @@
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="/product/vinakoi-friend/">VinaKoi
+                                                                                                            href="/product/hikari-friend/">Hikari
                                                                                                             Friend</a>
                                                                                                     </h3>
                                                                                                     <div
@@ -827,13 +827,13 @@
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="/product/vinakoi-friend/"><img
+                                                                                                            href="/product/hikari-friend/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="500"
                                                                                                                 height="500"
                                                                                                                 src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="VinaKoi Friend Medium 10kg"
+                                                                                                                alt="Hikari Friend Medium 10kg"
                                                                                                                 decoding="async"
                                                                                                                 sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                                                         <div
@@ -845,7 +845,7 @@
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="/product/vinakoi-friend/">VinaKoi
+                                                                                                            href="/product/hikari-friend/">Hikari
                                                                                                             Friend</a>
                                                                                                     </h3>
                                                                                                     <div
@@ -870,13 +870,13 @@
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="/product/vinakoi-friend/"><img
+                                                                                                            href="/product/hikari-friend/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="500"
                                                                                                                 height="500"
                                                                                                                 src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="VinaKoi Friend Medium 10kg"
+                                                                                                                alt="Hikari Friend Medium 10kg"
                                                                                                                 decoding="async"
                                                                                                                 sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                                                         <div
@@ -888,7 +888,7 @@
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="/product/vinakoi-friend/">VinaKoi
+                                                                                                            href="/product/hikari-friend/">Hikari
                                                                                                             Friend</a>
                                                                                                     </h3>
                                                                                                     <div
@@ -913,13 +913,13 @@
                                                                                                         class="jet-woo-product-thumbnail">
 
                                                                                                         <a
-                                                                                                            href="/product/vinakoi-friend/"><img
+                                                                                                            href="/product/hikari-friend/"><img
                                                                                                                 loading="lazy"
                                                                                                                 width="500"
                                                                                                                 height="500"
                                                                                                                 src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
                                                                                                                 class="attachment-full size-full"
-                                                                                                                alt="VinaKoi Friend Medium 10kg"
+                                                                                                                alt="Hikari Friend Medium 10kg"
                                                                                                                 decoding="async"
                                                                                                                 sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                                                         <div
@@ -931,7 +931,7 @@
                                                                                                     <h3
                                                                                                         class="jet-woo-product-title">
                                                                                                         <a
-                                                                                                            href="/product/vinakoi-friend/">VinaKoi
+                                                                                                            href="/product/hikari-friend/">Hikari
                                                                                                             Friend</a>
                                                                                                     </h3>
                                                                                                     <div
@@ -1303,7 +1303,7 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <p
                                                                                     class="elementor-heading-title elementor-size-default">
-                                                                                    Liên hệ với Vina Koi để được
+                                                                                    Liên hệ với Hikari Pet Food để được
                                                                                     tư vấn về sức khỏe cũng như chế độ
                                                                                     ăn giúp thú cưng khỏe mạnh và phát
                                                                                     triển toàn diện nhất</p>
@@ -1331,7 +1331,7 @@
                                                                                                 <div
                                                                                                     class="elementor-button-wrapper">
                                                                                                     <a class="elementor-button elementor-button-link elementor-size-xs"
-                                                                                                        href="tel:0999999999"
+                                                                                                        href="tel:0962980263"
                                                                                                         target="_blank">
                                                                                                         <span
                                                                                                             class="elementor-button-content-wrapper">
@@ -1365,8 +1365,8 @@
                                                                                                 class="elementor-widget-container">
                                                                                                 <img decoding="async"
                                                                                                     src="/assets/wp-content/uploads/elementor/thumbs/zalo-hikari-qaatcfz17fjtx8zw12yrsnqqv73saztzq0ssi1wv0k.jpg"
-                                                                                                    title="zalo-vinakoi"
-                                                                                                    alt="zalo-vinakoi"
+                                                                                                    title="zalo-hikari"
+                                                                                                    alt="zalo-hikari"
                                                                                                     loading="lazy" />
                                                                                             </div>
                                                                                         </div>
@@ -1420,233 +1420,6 @@
                                                                 <h2
                                                                     class="elementor-heading-title elementor-size-default">
                                                                     Dịch vụ nổi bật</h2>
-                                                            </div>
-                                                        </div>
-                                                        <div class="elementor-element elementor-element-8cb45a0 elementor-widget elementor-widget-jet-posts"
-                                                            data-id="8cb45a0" data-element_type="widget"
-                                                            data-settings="{&quot;columns&quot;:&quot;4&quot;,&quot;columns_tablet&quot;:&quot;3&quot;,&quot;columns_mobile&quot;:&quot;1&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;}"
-                                                            data-widget_type="jet-posts.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div class="elementor-jet-posts jet-elements">
-                                                                    <div class="jet-carousel elementor-slick-slider"
-                                                                        data-slider_options="{&quot;autoplaySpeed&quot;:5000,&quot;autoplay&quot;:false,&quot;infinite&quot;:true,&quot;pauseOnHover&quot;:false,&quot;speed&quot;:500,&quot;arrows&quot;:true,&quot;dots&quot;:false,&quot;slidesToScroll&quot;:1,&quot;prevArrow&quot;:&quot;.jet-posts__prev-arrow-8cb45a0&quot;,&quot;nextArrow&quot;:&quot;.jet-posts__next-arrow-8cb45a0&quot;,&quot;rtl&quot;:false}"
-                                                                        dir="ltr">
-                                                                        <div class="jet-posts col-row  jet-equal-cols">
-                                                                            <div
-                                                                                class="jet-posts__prev-arrow-8cb45a0 jet-arrow prev-arrow">
-                                                                                <svg xmlns="http://www.w3.org/2000/svg"
-                                                                                    width="24" height="24"
-                                                                                    viewBox="0 0 24 24" fill="none">
-                                                                                    <path
-                                                                                        d="M14.7099 8.12001L10.8299 12L14.7099 15.88C14.8025 15.9726 14.876 16.0825 14.9261 16.2035C14.9762 16.3244 15.002 16.4541 15.002 16.585C15.002 16.7159 14.9762 16.8456 14.9261 16.9666C14.876 17.0875 14.8025 17.1974 14.7099 17.29C14.6174 17.3826 14.5074 17.456 14.3865 17.5061C14.2655 17.5562 14.1359 17.582 14.0049 17.582C13.874 17.582 13.7444 17.5562 13.6234 17.5061C13.5024 17.456 13.3925 17.3826 13.2999 17.29L8.70993 12.7C8.31993 12.31 8.31993 11.68 8.70993 11.29L13.2999 6.70001C13.3924 6.60731 13.5023 6.53376 13.6233 6.48358C13.7443 6.4334 13.874 6.40757 14.0049 6.40757C14.1359 6.40757 14.2656 6.4334 14.3866 6.48358C14.5075 6.53376 14.6174 6.60731 14.7099 6.70001C15.0899 7.09001 15.0999 7.73001 14.7099 8.12001Z"
-                                                                                        fill="#191919"></path>
-                                                                                </svg>
-                                                                            </div>
-                                                                            <div
-                                                                                class="jet-posts__next-arrow-8cb45a0 jet-arrow next-arrow">
-                                                                                <svg xmlns="http://www.w3.org/2000/svg"
-                                                                                    width="24" height="24"
-                                                                                    viewBox="0 0 24 24" fill="none">
-                                                                                    <path
-                                                                                        d="M9.29007 15.88L13.1701 12L9.29007 8.11999C9.19749 8.02741 9.12405 7.9175 9.07394 7.79653C9.02384 7.67557 8.99805 7.54592 8.99805 7.41499C8.99805 7.28406 9.02384 7.15441 9.07394 7.03345C9.12405 6.91248 9.19749 6.80257 9.29007 6.70999C9.38265 6.61741 9.49256 6.54397 9.61352 6.49386C9.73449 6.44376 9.86414 6.41797 9.99507 6.41797C10.126 6.41797 10.2556 6.44376 10.3766 6.49386C10.4976 6.54397 10.6075 6.61741 10.7001 6.70999L15.2901 11.3C15.6801 11.69 15.6801 12.32 15.2901 12.71L10.7001 17.3C10.6076 17.3927 10.4977 17.4662 10.3767 17.5164C10.2557 17.5666 10.126 17.5924 9.99507 17.5924C9.8641 17.5924 9.73442 17.5666 9.61344 17.5164C9.49247 17.4662 9.38258 17.3927 9.29007 17.3C8.91007 16.91 8.90007 16.27 9.29007 15.88Z"
-                                                                                        fill="#191919"></path>
-                                                                                </svg>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="/service/ca-chep-phi-tan/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
-                                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="/service/ca-chep-phi-tan/"
-                                                                                                target="">Cá Chép Phi
-                                                                                                Tần: Cách Nuôi, Setup Bể
-                                                                                                Nuôi Chi Tiết Nhất</a>
-                                                                                        </h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">21
-                                                                                                Tháng Ba, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Cá
-                                                                                            chép Phi Tần mang một nét
-                                                                                            đẹp riêng, khó có loài cá
-                                                                                            nào sánh được. Chúng thường
-                                                                                            được nuôi trong&hellip;
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="/service/ca-chep-phi-tan/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
-                                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="/service/ca-chep-phi-tan/"
-                                                                                                target="">Cá Chép Phi
-                                                                                                Tần: Cách Nuôi, Setup Bể
-                                                                                                Nuôi Chi Tiết Nhất</a>
-                                                                                        </h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">21
-                                                                                                Tháng Ba, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Cá
-                                                                                            chép Phi Tần mang một nét
-                                                                                            đẹp riêng, khó có loài cá
-                                                                                            nào sánh được. Chúng thường
-                                                                                            được nuôi trong&hellip;
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="/service/ca-chep-phi-tan/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
-                                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="/service/ca-chep-phi-tan/"
-                                                                                                target="">Cá Chép Phi
-                                                                                                Tần: Cách Nuôi, Setup Bể
-                                                                                                Nuôi Chi Tiết Nhất</a>
-                                                                                        </h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">21
-                                                                                                Tháng Ba, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Cá
-                                                                                            chép Phi Tần mang một nét
-                                                                                            đẹp riêng, khó có loài cá
-                                                                                            nào sánh được. Chúng thường
-                                                                                            được nuôi trong&hellip;
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="/service/ca-chep-phi-tan/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
-                                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="/service/ca-chep-phi-tan/"
-                                                                                                target="">Cá Chép Phi
-                                                                                                Tần: Cách Nuôi, Setup Bể
-                                                                                                Nuôi Chi Tiết Nhất</a>
-                                                                                        </h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">21
-                                                                                                Tháng Ba, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Cá
-                                                                                            chép Phi Tần mang một nét
-                                                                                            đẹp riêng, khó có loài cá
-                                                                                            nào sánh được. Chúng thường
-                                                                                            được nuôi trong&hellip;
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="/service/ca-chep-phi-tan/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
-                                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="/service/ca-chep-phi-tan/"
-                                                                                                target="">Cá Chép Phi
-                                                                                                Tần: Cách Nuôi, Setup Bể
-                                                                                                Nuôi Chi Tiết Nhất</a>
-                                                                                        </h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">21
-                                                                                                Tháng Ba, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Cá
-                                                                                            chép Phi Tần mang một nét
-                                                                                            đẹp riêng, khó có loài cá
-                                                                                            nào sánh được. Chúng thường
-                                                                                            được nuôi trong&hellip;
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </section>
-                                        <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-e3e1c2c elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                            data-id="e3e1c2c" data-element_type="section"
-                                            data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-                                            <div class="elementor-container elementor-column-gap-default">
-                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b6a9619"
-                                                    data-id="b6a9619" data-element_type="column">
-                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div class="elementor-element elementor-element-f0edbe1 elementor-widget elementor-widget-heading"
-                                                            data-id="f0edbe1" data-element_type="widget"
-                                                            data-widget_type="heading.default">
-                                                            <div class="elementor-widget-container">
-                                                                <h2
-                                                                    class="elementor-heading-title elementor-size-default">
-                                                                    Tin tức mới nhất</h2>
                                                             </div>
                                                         </div>
                                                         <div class="elementor-element elementor-element-8cb45a0 elementor-widget elementor-widget-jet-posts"

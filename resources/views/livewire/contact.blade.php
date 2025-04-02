@@ -2,12 +2,137 @@
 
 
     <head>
-        <title>Liên Hệ Vina Koi</title>
+        <title>Liên Hệ Hikari Pet Food</title>
       @livewire('inc.css.contact')
     </head>
 
-    <body
+    <body itemtype='https://schema.org/WebPage' itemscope='itemscope'
         class="page-template page-template-elementor_header_footer page page-id-801 wp-custom-logo theme-astra woocommerce-no-js woo-variation-swatches wvs-behavior-blur wvs-theme-astra-child wvs-show-label wvs-tooltip ast-desktop ast-page-builder-template ast-no-sidebar astra-4.1.5 group-blog ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-full-width-layout ast-inherit-site-logo-sticky ast-primary-sticky-enabled elementor-default elementor-template-full-width elementor-kit-7 elementor-page elementor-page-801 astra-addon-4.1.5">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWPXB99" height="0" width="0"
+                style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) --><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0"
+            height="0" focusable="false" role="none"
+            style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+            <defs>
+                <filter id="wp-duotone-dark-grayscale">
+                    <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                        values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                    <feComponentTransfer color-interpolation-filters="sRGB">
+                        <feFuncR type="table" tableValues="0 0.49803921568627" />
+                        <feFuncG type="table" tableValues="0 0.49803921568627" />
+                        <feFuncB type="table" tableValues="0 0.49803921568627" />
+                        <feFuncA type="table" tableValues="1 1" />
+                    </feComponentTransfer>
+                    <feComposite in2="SourceGraphic" operator="in" />
+                </filter>
+            </defs>
+        </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+            role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+            <defs>
+                <filter id="wp-duotone-grayscale">
+                    <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                        values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                    <feComponentTransfer color-interpolation-filters="sRGB">
+                        <feFuncR type="table" tableValues="0 1" />
+                        <feFuncG type="table" tableValues="0 1" />
+                        <feFuncB type="table" tableValues="0 1" />
+                        <feFuncA type="table" tableValues="1 1" />
+                    </feComponentTransfer>
+                    <feComposite in2="SourceGraphic" operator="in" />
+                </filter>
+            </defs>
+        </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+            role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+            <defs>
+                <filter id="wp-duotone-purple-yellow">
+                    <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                        values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                    <feComponentTransfer color-interpolation-filters="sRGB">
+                        <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
+                        <feFuncG type="table" tableValues="0 1" />
+                        <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
+                        <feFuncA type="table" tableValues="1 1" />
+                    </feComponentTransfer>
+                    <feComposite in2="SourceGraphic" operator="in" />
+                </filter>
+            </defs>
+        </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+            role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+            <defs>
+                <filter id="wp-duotone-blue-red">
+                    <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                        values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                    <feComponentTransfer color-interpolation-filters="sRGB">
+                        <feFuncR type="table" tableValues="0 1" />
+                        <feFuncG type="table" tableValues="0 0.27843137254902" />
+                        <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
+                        <feFuncA type="table" tableValues="1 1" />
+                    </feComponentTransfer>
+                    <feComposite in2="SourceGraphic" operator="in" />
+                </filter>
+            </defs>
+        </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+            role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+            <defs>
+                <filter id="wp-duotone-midnight">
+                    <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                        values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                    <feComponentTransfer color-interpolation-filters="sRGB">
+                        <feFuncR type="table" tableValues="0 0" />
+                        <feFuncG type="table" tableValues="0 0.64705882352941" />
+                        <feFuncB type="table" tableValues="0 1" />
+                        <feFuncA type="table" tableValues="1 1" />
+                    </feComponentTransfer>
+                    <feComposite in2="SourceGraphic" operator="in" />
+                </filter>
+            </defs>
+        </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+            role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+            <defs>
+                <filter id="wp-duotone-magenta-yellow">
+                    <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                        values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                    <feComponentTransfer color-interpolation-filters="sRGB">
+                        <feFuncR type="table" tableValues="0.78039215686275 1" />
+                        <feFuncG type="table" tableValues="0 0.94901960784314" />
+                        <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
+                        <feFuncA type="table" tableValues="1 1" />
+                    </feComponentTransfer>
+                    <feComposite in2="SourceGraphic" operator="in" />
+                </filter>
+            </defs>
+        </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+            role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+            <defs>
+                <filter id="wp-duotone-purple-green">
+                    <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                        values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                    <feComponentTransfer color-interpolation-filters="sRGB">
+                        <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
+                        <feFuncG type="table" tableValues="0 1" />
+                        <feFuncB type="table" tableValues="0.44705882352941 0.4" />
+                        <feFuncA type="table" tableValues="1 1" />
+                    </feComponentTransfer>
+                    <feComposite in2="SourceGraphic" operator="in" />
+                </filter>
+            </defs>
+        </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false"
+            role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
+            <defs>
+                <filter id="wp-duotone-blue-orange">
+                    <feColorMatrix color-interpolation-filters="sRGB" type="matrix"
+                        values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
+                    <feComponentTransfer color-interpolation-filters="sRGB">
+                        <feFuncR type="table" tableValues="0.098039215686275 1" />
+                        <feFuncG type="table" tableValues="0 0.66274509803922" />
+                        <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
+                        <feFuncA type="table" tableValues="1 1" />
+                    </feComponentTransfer>
+                    <feComposite in2="SourceGraphic" operator="in" />
+                </filter>
+            </defs>
+        </svg>
 
         <div class="hfeed site" id="page">
             @livewire('inc.header')
@@ -61,7 +186,7 @@
                                                         display: inline-block
                                                     }
                                                 </style>
-                                                <h1 style="text-align: center;"><strong>Liên Hệ Vina Koi &#8211; Thức ăn
+                                                <h1 style="text-align: center;"><strong>Liên Hệ Hikari &#8211; Thức ăn
                                                         thú cưng cao cấp đến từ Nhật Bản</strong></h1>
                                             </div>
                                         </div>
@@ -79,11 +204,12 @@
                                                             <span class="elementor-icon-list-icon">
                                                                 <i aria-hidden="true"
                                                                     class="fas fa-search-location"></i> </span>
-                                                            <span class="elementor-icon-list-text">Địa chỉ: Q12, TP.HCM</span>
+                                                            <span class="elementor-icon-list-text">Địa chỉ: 1 Dương Văn
+                                                                Dương, Sơn Kỳ, Tân Phú, TP.HCM</span>
                                                         </a>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
-                                                        <a href="tel:0999999999">
+                                                        <a href="tel:0962980263">
 
                                                             <span class="elementor-icon-list-icon">
                                                                 <i aria-hidden="true" class="fas fa-phone-alt"></i>
@@ -93,13 +219,13 @@
                                                         </a>
                                                     </li>
                                                     <li class="elementor-icon-list-item">
-                                                        <a href="mailto:vinakoi@gmail.com">
+                                                        <a href="mailto:hikaripetfood@gmail.com">
 
                                                             <span class="elementor-icon-list-icon">
                                                                 <i aria-hidden="true" class="fas fa-mail-bulk"></i>
                                                             </span>
                                                             <span class="elementor-icon-list-text">Email:
-                                                                vinakoi@gmail.com</span>
+                                                                hikaripetfood@gmail.com</span>
                                                         </a>
                                                     </li>
                                                 </ul>
