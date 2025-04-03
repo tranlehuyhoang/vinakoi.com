@@ -454,211 +454,49 @@
                                                                         dir="ltr">
                                                                         <div class="jet-woo-products jet-woo-products--preset-1 swiper-wrapper  jet-equal-cols"
                                                                             data-mobile-hover="">
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1173">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
+                                                                            @foreach($products as $product)
+                                                                                <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
+                                                                                     data-product-id="{{$product->id}}">
                                                                                     <div
-                                                                                        class="jet-woo-product-thumbnail">
+                                                                                        class="jet-woo-products__inner-box">
 
-                                                                                        <a
-                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/"><img
-                                                                                                loading="lazy"
-                                                                                                width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Saki-VinaKoi Fancy Goldfish Balance 200gram"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                         <div
-                                                                                            class="jet-woo-product-img-overlay">
+                                                                                            class="jet-woo-product-thumbnail">
+
+                                                                                            <a
+                                                                                                href="/product/{{$product->slug}}"><img
+                                                                                                    loading="lazy"
+                                                                                                    width="600" height="600"
+                                                                                                    src="{{\Illuminate\Support\Facades\Storage::url($product->image)}}"
+                                                                                                    class="attachment-full size-full"
+                                                                                                    alt="Saki-VinaKoi Fancy Goldfish Balance 200gram"
+                                                                                                    decoding="async"
+                                                                                                    sizes="(max-width: 600px) 100vw, 600px" /></a>
+                                                                                            <div
+                                                                                                class="jet-woo-product-img-overlay">
+                                                                                            </div>
+
+
                                                                                         </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/">Saki-VinaKoi
-                                                                                            Fancy Goldfish Balance</a>
-                                                                                    </h3>
-                                                                                    <div class="jet-woo-product-price">
+                                                                                        <h3 class="jet-woo-product-title"><a
+                                                                                                href="/product/{{$product->slug}}/">{{$product->name}}</a>
+                                                                                        </h3>
+                                                                                        <div class="jet-woo-product-price">
                                                                                         <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>206.000<span
+                                                                                                class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->min_price, 0, ',', '.') }}<span
                                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                                                                             &ndash; <span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>815.000<span
                                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1173">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/"><img
-                                                                                                loading="lazy"
-                                                                                                width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Saki-VinaKoi Fancy Goldfish Balance 200gram"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
                                                                                         </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/">Saki-VinaKoi
-                                                                                            Fancy Goldfish Balance</a>
-                                                                                    </h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>206.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                            &ndash; <span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>815.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1173">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/"><img
-                                                                                                loading="lazy"
-                                                                                                width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Saki-VinaKoi Fancy Goldfish Balance 200gram"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                         <div
-                                                                                            class="jet-woo-product-img-overlay">
+                                                                                            class="jet-woo-products-cqw-wrapper">
                                                                                         </div>
+                                                                                    </div>
 
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/">Saki-VinaKoi
-                                                                                            Fancy Goldfish Balance</a>
-                                                                                    </h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>206.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                            &ndash; <span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>815.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
                                                                                 </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1173">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/"><img
-                                                                                                loading="lazy"
-                                                                                                width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Saki-VinaKoi Fancy Goldfish Balance 200gram"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
+                                                                            @endforeach
 
 
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/">Saki-VinaKoi
-                                                                                            Fancy Goldfish Balance</a>
-                                                                                    </h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>206.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                            &ndash; <span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>815.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
-                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                data-product-id="1173">
-                                                                                <div
-                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                    <div
-                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                        <a
-                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/"><img
-                                                                                                loading="lazy"
-                                                                                                width="600" height="600"
-                                                                                                src="/assets/wp-content/uploads/2023/06/saki-hikari-fancy-goldfish-balance-200g.jpg"
-                                                                                                class="attachment-full size-full"
-                                                                                                alt="Saki-VinaKoi Fancy Goldfish Balance 200gram"
-                                                                                                decoding="async"
-                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                        <div
-                                                                                            class="jet-woo-product-img-overlay">
-                                                                                        </div>
-
-
-                                                                                    </div>
-                                                                                    <h3 class="jet-woo-product-title"><a
-                                                                                            href="/product/saki-vinakoi-fancy-goldfish-balance/">Saki-VinaKoi
-                                                                                            Fancy Goldfish Balance</a>
-                                                                                    </h3>
-                                                                                    <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>206.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                            &ndash; <span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>815.000<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                    </div>
-                                                                                    <div
-                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                    </div>
-                                                                                </div>
-
-                                                                            </div>
 
                                                                         </div>
                                                                         <div
@@ -732,221 +570,49 @@
                                                                                         dir="ltr">
                                                                                         <div class="jet-woo-products jet-woo-products--preset-1 swiper-wrapper  jet-equal-cols"
                                                                                             data-mobile-hover="">
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1077">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
+                                                                                            @foreach($productsCoi as $product)
+                                                                                                <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
+                                                                                                     data-product-id="{{$product->id}}">
                                                                                                     <div
-                                                                                                        class="jet-woo-product-thumbnail">
+                                                                                                        class="jet-woo-products__inner-box">
 
-                                                                                                        <a
-                                                                                                            href="/product/vinakoi-friend/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="500"
-                                                                                                                height="500"
-                                                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="VinaKoi Friend Medium 10kg"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
                                                                                                         <div
-                                                                                                            class="jet-woo-product-img-overlay">
+                                                                                                            class="jet-woo-product-thumbnail">
+
+                                                                                                            <a
+                                                                                                                href="/product/{{$product->slug}}"><img
+                                                                                                                    loading="lazy"
+                                                                                                                    width="600" height="600"
+                                                                                                                    src="{{\Illuminate\Support\Facades\Storage::url($product->image)}}"
+                                                                                                                    class="attachment-full size-full"
+                                                                                                                    alt="Saki-VinaKoi Fancy Goldfish Balance 200gram"
+                                                                                                                    decoding="async"
+                                                                                                                    sizes="(max-width: 600px) 100vw, 600px" /></a>
+                                                                                                            <div
+                                                                                                                class="jet-woo-product-img-overlay">
+                                                                                                            </div>
+
+
                                                                                                         </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="/product/vinakoi-friend/">VinaKoi
-                                                                                                            Friend</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1077">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="/product/vinakoi-friend/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="500"
-                                                                                                                height="500"
-                                                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="VinaKoi Friend Medium 10kg"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
+                                                                                                        <h3 class="jet-woo-product-title"><a
+                                                                                                                href="/product/{{$product->slug}}/">{{$product->name}}</a>
+                                                                                                        </h3>
+                                                                                                        <div class="jet-woo-product-price">
+                                                                                        <span class="price"><span
+                                                                                                class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->min_price, 0, ',', '.') }}<span
+                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                            &ndash; <span
+                                                                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+                                                                                                        </div>
                                                                                                         <div
-                                                                                                            class="jet-woo-product-img-overlay">
+                                                                                                            class="jet-woo-products-cqw-wrapper">
                                                                                                         </div>
+                                                                                                    </div>
 
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="/product/vinakoi-friend/">VinaKoi
-                                                                                                            Friend</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
                                                                                                 </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1077">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="/product/vinakoi-friend/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="500"
-                                                                                                                height="500"
-                                                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="VinaKoi Friend Medium 10kg"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
+                                                                                            @endforeach
 
 
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="/product/vinakoi-friend/">VinaKoi
-                                                                                                            Friend</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1077">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="/product/vinakoi-friend/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="500"
-                                                                                                                height="500"
-                                                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="VinaKoi Friend Medium 10kg"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="/product/vinakoi-friend/">VinaKoi
-                                                                                                            Friend</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1077">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="/product/vinakoi-friend/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="500"
-                                                                                                                height="500"
-                                                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt="VinaKoi Friend Medium 10kg"
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="/product/vinakoi-friend/">VinaKoi
-                                                                                                            Friend</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
 
                                                                                         </div>
                                                                                         <div
@@ -1025,221 +691,47 @@
                                                                                         dir="ltr">
                                                                                         <div class="jet-woo-products jet-woo-products--preset-1 swiper-wrapper  jet-equal-cols"
                                                                                             data-mobile-hover="">
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1312">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
+                                                                                            @foreach($productsCanh as $product)
+                                                                                                <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
+                                                                                                     data-product-id="{{$product->id}}">
                                                                                                     <div
-                                                                                                        class="jet-woo-product-thumbnail">
+                                                                                                        class="jet-woo-products__inner-box">
 
-                                                                                                        <a
-                                                                                                            href="/product/blood-red-parrot/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="600"
-                                                                                                                height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/blood-red-parrot-thuc-an-cho-ca-hong-ket.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt=""
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                                         <div
-                                                                                                            class="jet-woo-product-img-overlay">
+                                                                                                            class="jet-woo-product-thumbnail">
+
+                                                                                                            <a
+                                                                                                                href="/product/{{$product->slug}}"><img
+                                                                                                                    loading="lazy"
+                                                                                                                    width="600" height="600"
+                                                                                                                    src="{{\Illuminate\Support\Facades\Storage::url($product->image)}}"
+                                                                                                                    class="attachment-full size-full"
+                                                                                                                    alt="Saki-VinaKoi Fancy Goldfish Balance 200gram"
+                                                                                                                    decoding="async"
+                                                                                                                    sizes="(max-width: 600px) 100vw, 600px" /></a>
+                                                                                                            <div
+                                                                                                                class="jet-woo-product-img-overlay">
+                                                                                                            </div>
+
+
                                                                                                         </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="/product/blood-red-parrot/">Blood-Red
-                                                                                                            Parrot+</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>238.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1312">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="/product/blood-red-parrot/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="600"
-                                                                                                                height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/blood-red-parrot-thuc-an-cho-ca-hong-ket.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt=""
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
+                                                                                                        <h3 class="jet-woo-product-title"><a
+                                                                                                                href="/product/{{$product->slug}}/">{{$product->name}}</a>
+                                                                                                        </h3>
+                                                                                                        <div class="jet-woo-product-price">
+                                                                                        <span class="price"><span
+                                                                                                class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->min_price, 0, ',', '.') }}<span
+                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                            &ndash; <span
+                                                                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+                                                                                                        </div>
                                                                                                         <div
-                                                                                                            class="jet-woo-product-img-overlay">
+                                                                                                            class="jet-woo-products-cqw-wrapper">
                                                                                                         </div>
+                                                                                                    </div>
 
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="/product/blood-red-parrot/">Blood-Red
-                                                                                                            Parrot+</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>238.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
                                                                                                 </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1312">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="/product/blood-red-parrot/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="600"
-                                                                                                                height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/blood-red-parrot-thuc-an-cho-ca-hong-ket.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt=""
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="/product/blood-red-parrot/">Blood-Red
-                                                                                                            Parrot+</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>238.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1312">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="/product/blood-red-parrot/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="600"
-                                                                                                                height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/blood-red-parrot-thuc-an-cho-ca-hong-ket.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt=""
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="/product/blood-red-parrot/">Blood-Red
-                                                                                                            Parrot+</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>238.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
-                                                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                data-product-id="1312">
-                                                                                                <div
-                                                                                                    class="jet-woo-products__inner-box">
-
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-thumbnail">
-
-                                                                                                        <a
-                                                                                                            href="/product/blood-red-parrot/"><img
-                                                                                                                loading="lazy"
-                                                                                                                width="600"
-                                                                                                                height="600"
-                                                                                                                src="/assets/wp-content/uploads/2023/06/blood-red-parrot-thuc-an-cho-ca-hong-ket.jpg"
-                                                                                                                class="attachment-full size-full"
-                                                                                                                alt=""
-                                                                                                                decoding="async"
-                                                                                                                sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-img-overlay">
-                                                                                                        </div>
-
-
-                                                                                                    </div>
-                                                                                                    <h3
-                                                                                                        class="jet-woo-product-title">
-                                                                                                        <a
-                                                                                                            href="/product/blood-red-parrot/">Blood-Red
-                                                                                                            Parrot+</a>
-                                                                                                    </h3>
-                                                                                                    <div
-                                                                                                        class="jet-woo-product-price">
-                                                                                                        <span
-                                                                                                            class="price"><span
-                                                                                                                class="woocommerce-Price-amount amount"><bdi>238.000<span
-                                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                                    </div>
-                                                                                                    <div
-                                                                                                        class="jet-woo-products-cqw-wrapper">
-                                                                                                    </div>
-                                                                                                </div>
-
-                                                                                            </div>
+                                                                                            @endforeach
 
                                                                                         </div>
                                                                                         <div
@@ -1452,176 +944,36 @@
                                                                                         fill="#191919"></path>
                                                                                 </svg>
                                                                             </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="/service/ca-chep-phi-tan/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
-                                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="/service/ca-chep-phi-tan/"
-                                                                                                target="">Cá Chép Phi
-                                                                                                Tần: Cách Nuôi, Setup Bể
-                                                                                                Nuôi Chi Tiết Nhất</a>
-                                                                                        </h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">21
-                                                                                                Tháng Ba, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Cá
-                                                                                            chép Phi Tần mang một nét
-                                                                                            đẹp riêng, khó có loài cá
-                                                                                            nào sánh được. Chúng thường
-                                                                                            được nuôi trong&hellip;
+                                                                            @foreach($services as $service)
+                                                                                <div class="jet-posts__item">
+                                                                                    <div class="jet-posts__inner-box">
+                                                                                        <div class="post-thumbnail"><a
+                                                                                                href="/service/{{$service->slug}}"
+                                                                                                class="post-thumbnail__link"><img
+                                                                                                    loading="lazy"
+                                                                                                    decoding="async"
+                                                                                                    class="post-thumbnail__img wp-post-image"
+                                                                                                    src="{{\Illuminate\Support\Facades\Storage::url($service->banner)}}"
+                                                                                                    alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
+                                                                                                    loading="lazy"
+                                                                                                    width="800"
+                                                                                                    height="450"></a></div>
+                                                                                        <div
+                                                                                            class="jet-posts__inner-content">
+                                                                                            <h3 class="entry-title"><a
+                                                                                                    href="/service/{{$service->slug}}"
+                                                                                                    target="">{{$service->title}}</a>
+                                                                                            </h3>
+                                                                                            <div class="post-meta"><span
+                                                                                                    class="post__modified_date post-meta__item">{{$service->created_at}}</span>
+                                                                                            </div>
+                                                                                            <div class="entry-excerpt">{!! $service->short_desc !!}
+                                                                                            </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="/service/ca-chep-phi-tan/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
-                                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="/service/ca-chep-phi-tan/"
-                                                                                                target="">Cá Chép Phi
-                                                                                                Tần: Cách Nuôi, Setup Bể
-                                                                                                Nuôi Chi Tiết Nhất</a>
-                                                                                        </h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">21
-                                                                                                Tháng Ba, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Cá
-                                                                                            chép Phi Tần mang một nét
-                                                                                            đẹp riêng, khó có loài cá
-                                                                                            nào sánh được. Chúng thường
-                                                                                            được nuôi trong&hellip;
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="/service/ca-chep-phi-tan/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
-                                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="/service/ca-chep-phi-tan/"
-                                                                                                target="">Cá Chép Phi
-                                                                                                Tần: Cách Nuôi, Setup Bể
-                                                                                                Nuôi Chi Tiết Nhất</a>
-                                                                                        </h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">21
-                                                                                                Tháng Ba, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Cá
-                                                                                            chép Phi Tần mang một nét
-                                                                                            đẹp riêng, khó có loài cá
-                                                                                            nào sánh được. Chúng thường
-                                                                                            được nuôi trong&hellip;
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="/service/ca-chep-phi-tan/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
-                                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="/service/ca-chep-phi-tan/"
-                                                                                                target="">Cá Chép Phi
-                                                                                                Tần: Cách Nuôi, Setup Bể
-                                                                                                Nuôi Chi Tiết Nhất</a>
-                                                                                        </h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">21
-                                                                                                Tháng Ba, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Cá
-                                                                                            chép Phi Tần mang một nét
-                                                                                            đẹp riêng, khó có loài cá
-                                                                                            nào sánh được. Chúng thường
-                                                                                            được nuôi trong&hellip;
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="jet-posts__item">
-                                                                                <div class="jet-posts__inner-box">
-                                                                                    <div class="post-thumbnail"><a
-                                                                                            href="/service/ca-chep-phi-tan/"
-                                                                                            class="post-thumbnail__link"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
-                                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
-                                                                                                loading="lazy"
-                                                                                                width="800"
-                                                                                                height="450"></a></div>
-                                                                                    <div
-                                                                                        class="jet-posts__inner-content">
-                                                                                        <h3 class="entry-title"><a
-                                                                                                href="/service/ca-chep-phi-tan/"
-                                                                                                target="">Cá Chép Phi
-                                                                                                Tần: Cách Nuôi, Setup Bể
-                                                                                                Nuôi Chi Tiết Nhất</a>
-                                                                                        </h3>
-                                                                                        <div class="post-meta"><span
-                                                                                                class="post__modified_date post-meta__item">21
-                                                                                                Tháng Ba, 2025</span>
-                                                                                        </div>
-                                                                                        <div class="entry-excerpt">Cá
-                                                                                            chép Phi Tần mang một nét
-                                                                                            đẹp riêng, khó có loài cá
-                                                                                            nào sánh được. Chúng thường
-                                                                                            được nuôi trong&hellip;
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
+                                                                            @endforeach
+
 
                                                                         </div>
                                                                     </div>

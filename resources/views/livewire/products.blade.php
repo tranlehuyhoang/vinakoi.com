@@ -156,453 +156,73 @@
                                                                 <div class="elementor-jet-woo-products jet-woo-builder">
                                                                     <div class="jet-woo-products jet-woo-products--preset-1 col-row  jet-equal-cols"
                                                                         data-mobile-hover="">
-                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1893">
-                                                                            <div class="jet-woo-products__inner-box">
+                                                                        @foreach($products as $product)
+                                                                            <div class="jet-woo-products__item jet-woo-builder-product"
+                                                                                 data-product-id="{{$product->id}}">
+                                                                                <div class="jet-woo-products__inner-box">
 
-                                                                                <div class="jet-woo-product-thumbnail">
+                                                                                    <div class="jet-woo-product-thumbnail">
 
-                                                                                    <a
-                                                                                        href="/product/vinakoi-economy/"><img
-                                                                                            width="1701" height="1701"
-                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
-                                                                                            class="attachment-full size-full"
-                                                                                            alt="VinaKoi Economy - 4kg"
-                                                                                           /></a>
-                                                                                    <div
-                                                                                        class="jet-woo-product-img-overlay">
+                                                                                        <a
+                                                                                            href="/product/{{$product->slug}}"><img
+                                                                                                width="1701" height="1701"
+                                                                                                src="{{\Illuminate\Support\Facades\Storage::url($product->image)}}"
+                                                                                                class="attachment-full size-full"
+                                                                                                alt="VinaKoi Economy - 4kg"
+                                                                                            /></a>
+                                                                                        <div
+                                                                                            class="jet-woo-product-img-overlay">
+                                                                                        </div>
+
+
                                                                                     </div>
-
-
-                                                                                </div>
-                                                                                <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/vinakoi-economy/">VinaKoi
-                                                                                        Economy</a></h2>
-                                                                                <div class="jet-woo-product-price">
+                                                                                    <h2 class="jet-woo-product-title"><a
+                                                                                            href="/product/{{$product->slug}}">VinaKoi
+                                                                                            Economy</a></h2>
+                                                                                    <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->min_price, 0, ',', '.') }}<span
                                                                                                     class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                                                                         &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
+                                                                                            class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->max_price, 0, ',', '.') }}<span
                                                                                                     class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="jet-woo-products-cqw-wrapper">
-                                                                                </div>
-                                                                            </div>
-
-                                                                        </div>
-                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1893">
-                                                                            <div class="jet-woo-products__inner-box">
-
-                                                                                <div class="jet-woo-product-thumbnail">
-
-                                                                                    <a
-                                                                                        href="/product/vinakoi-economy/"><img
-                                                                                            width="1701" height="1701"
-                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
-                                                                                            class="attachment-full size-full"
-                                                                                            alt="VinaKoi Economy - 4kg"
-                                                                                           /></a>
-                                                                                    <div
-                                                                                        class="jet-woo-product-img-overlay">
                                                                                     </div>
-
-
-                                                                                </div>
-                                                                                <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/vinakoi-economy/">VinaKoi
-                                                                                        Economy</a></h2>
-                                                                                <div class="jet-woo-product-price">
-                                                                                    <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                        &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="jet-woo-products-cqw-wrapper">
-                                                                                </div>
-                                                                            </div>
-
-                                                                        </div>
-                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1893">
-                                                                            <div class="jet-woo-products__inner-box">
-
-                                                                                <div class="jet-woo-product-thumbnail">
-
-                                                                                    <a
-                                                                                        href="/product/vinakoi-economy/"><img
-                                                                                            width="1701" height="1701"
-                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
-                                                                                            class="attachment-full size-full"
-                                                                                            alt="VinaKoi Economy - 4kg"
-                                                                                           /></a>
                                                                                     <div
-                                                                                        class="jet-woo-product-img-overlay">
+                                                                                        class="jet-woo-products-cqw-wrapper">
                                                                                     </div>
+                                                                                </div>
 
-
-                                                                                </div>
-                                                                                <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/vinakoi-economy/">VinaKoi
-                                                                                        Economy</a></h2>
-                                                                                <div class="jet-woo-product-price">
-                                                                                    <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                        &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="jet-woo-products-cqw-wrapper">
-                                                                                </div>
                                                                             </div>
-
-                                                                        </div>
-                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1893">
-                                                                            <div class="jet-woo-products__inner-box">
-
-                                                                                <div class="jet-woo-product-thumbnail">
-
-                                                                                    <a
-                                                                                        href="/product/vinakoi-economy/"><img
-                                                                                            width="1701" height="1701"
-                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
-                                                                                            class="attachment-full size-full"
-                                                                                            alt="VinaKoi Economy - 4kg"
-                                                                                           /></a>
-                                                                                    <div
-                                                                                        class="jet-woo-product-img-overlay">
-                                                                                    </div>
+                                                                        @endforeach
 
 
-                                                                                </div>
-                                                                                <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/vinakoi-economy/">VinaKoi
-                                                                                        Economy</a></h2>
-                                                                                <div class="jet-woo-product-price">
-                                                                                    <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                        &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="jet-woo-products-cqw-wrapper">
-                                                                                </div>
-                                                                            </div>
-
-                                                                        </div>
-                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1893">
-                                                                            <div class="jet-woo-products__inner-box">
-
-                                                                                <div class="jet-woo-product-thumbnail">
-
-                                                                                    <a
-                                                                                        href="/product/vinakoi-economy/"><img
-                                                                                            width="1701" height="1701"
-                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
-                                                                                            class="attachment-full size-full"
-                                                                                            alt="VinaKoi Economy - 4kg"
-                                                                                           /></a>
-                                                                                    <div
-                                                                                        class="jet-woo-product-img-overlay">
-                                                                                    </div>
-
-
-                                                                                </div>
-                                                                                <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/vinakoi-economy/">VinaKoi
-                                                                                        Economy</a></h2>
-                                                                                <div class="jet-woo-product-price">
-                                                                                    <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                        &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="jet-woo-products-cqw-wrapper">
-                                                                                </div>
-                                                                            </div>
-
-                                                                        </div>
-                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1893">
-                                                                            <div class="jet-woo-products__inner-box">
-
-                                                                                <div class="jet-woo-product-thumbnail">
-
-                                                                                    <a
-                                                                                        href="/product/vinakoi-economy/"><img
-                                                                                            width="1701" height="1701"
-                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
-                                                                                            class="attachment-full size-full"
-                                                                                            alt="VinaKoi Economy - 4kg"
-                                                                                           /></a>
-                                                                                    <div
-                                                                                        class="jet-woo-product-img-overlay">
-                                                                                    </div>
-
-
-                                                                                </div>
-                                                                                <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/vinakoi-economy/">VinaKoi
-                                                                                        Economy</a></h2>
-                                                                                <div class="jet-woo-product-price">
-                                                                                    <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                        &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="jet-woo-products-cqw-wrapper">
-                                                                                </div>
-                                                                            </div>
-
-                                                                        </div>
-                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1893">
-                                                                            <div class="jet-woo-products__inner-box">
-
-                                                                                <div class="jet-woo-product-thumbnail">
-
-                                                                                    <a
-                                                                                        href="/product/vinakoi-economy/"><img
-                                                                                            width="1701" height="1701"
-                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
-                                                                                            class="attachment-full size-full"
-                                                                                            alt="VinaKoi Economy - 4kg"
-                                                                                           /></a>
-                                                                                    <div
-                                                                                        class="jet-woo-product-img-overlay">
-                                                                                    </div>
-
-
-                                                                                </div>
-                                                                                <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/vinakoi-economy/">VinaKoi
-                                                                                        Economy</a></h2>
-                                                                                <div class="jet-woo-product-price">
-                                                                                    <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                        &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="jet-woo-products-cqw-wrapper">
-                                                                                </div>
-                                                                            </div>
-
-                                                                        </div>
-                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1893">
-                                                                            <div class="jet-woo-products__inner-box">
-
-                                                                                <div class="jet-woo-product-thumbnail">
-
-                                                                                    <a
-                                                                                        href="/product/vinakoi-economy/"><img
-                                                                                            width="1701" height="1701"
-                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
-                                                                                            class="attachment-full size-full"
-                                                                                            alt="VinaKoi Economy - 4kg"
-                                                                                           /></a>
-                                                                                    <div
-                                                                                        class="jet-woo-product-img-overlay">
-                                                                                    </div>
-
-
-                                                                                </div>
-                                                                                <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/vinakoi-economy/">VinaKoi
-                                                                                        Economy</a></h2>
-                                                                                <div class="jet-woo-product-price">
-                                                                                    <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                        &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="jet-woo-products-cqw-wrapper">
-                                                                                </div>
-                                                                            </div>
-
-                                                                        </div>
-                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1893">
-                                                                            <div class="jet-woo-products__inner-box">
-
-                                                                                <div class="jet-woo-product-thumbnail">
-
-                                                                                    <a
-                                                                                        href="/product/vinakoi-economy/"><img
-                                                                                            width="1701" height="1701"
-                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
-                                                                                            class="attachment-full size-full"
-                                                                                            alt="VinaKoi Economy - 4kg"
-                                                                                           /></a>
-                                                                                    <div
-                                                                                        class="jet-woo-product-img-overlay">
-                                                                                    </div>
-
-
-                                                                                </div>
-                                                                                <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/vinakoi-economy/">VinaKoi
-                                                                                        Economy</a></h2>
-                                                                                <div class="jet-woo-product-price">
-                                                                                    <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                        &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="jet-woo-products-cqw-wrapper">
-                                                                                </div>
-                                                                            </div>
-
-                                                                        </div>
-                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1893">
-                                                                            <div class="jet-woo-products__inner-box">
-
-                                                                                <div class="jet-woo-product-thumbnail">
-
-                                                                                    <a
-                                                                                        href="/product/vinakoi-economy/"><img
-                                                                                            width="1701" height="1701"
-                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
-                                                                                            class="attachment-full size-full"
-                                                                                            alt="VinaKoi Economy - 4kg"
-                                                                                           /></a>
-                                                                                    <div
-                                                                                        class="jet-woo-product-img-overlay">
-                                                                                    </div>
-
-
-                                                                                </div>
-                                                                                <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/vinakoi-economy/">VinaKoi
-                                                                                        Economy</a></h2>
-                                                                                <div class="jet-woo-product-price">
-                                                                                    <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                        &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="jet-woo-products-cqw-wrapper">
-                                                                                </div>
-                                                                            </div>
-
-                                                                        </div>
-                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1893">
-                                                                            <div class="jet-woo-products__inner-box">
-
-                                                                                <div class="jet-woo-product-thumbnail">
-
-                                                                                    <a
-                                                                                        href="/product/vinakoi-economy/"><img
-                                                                                            width="1701" height="1701"
-                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
-                                                                                            class="attachment-full size-full"
-                                                                                            alt="VinaKoi Economy - 4kg"
-                                                                                           /></a>
-                                                                                    <div
-                                                                                        class="jet-woo-product-img-overlay">
-                                                                                    </div>
-
-
-                                                                                </div>
-                                                                                <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/vinakoi-economy/">VinaKoi
-                                                                                        Economy</a></h2>
-                                                                                <div class="jet-woo-product-price">
-                                                                                    <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                        &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="jet-woo-products-cqw-wrapper">
-                                                                                </div>
-                                                                            </div>
-
-                                                                        </div>
-                                                                        <div class="jet-woo-products__item jet-woo-builder-product"
-                                                                            data-product-id="1893">
-                                                                            <div class="jet-woo-products__inner-box">
-
-                                                                                <div class="jet-woo-product-thumbnail">
-
-                                                                                    <a
-                                                                                        href="/product/vinakoi-economy/"><img
-                                                                                            width="1701" height="1701"
-                                                                                            src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"
-                                                                                            class="attachment-full size-full"
-                                                                                            alt="VinaKoi Economy - 4kg"
-                                                                                           /></a>
-                                                                                    <div
-                                                                                        class="jet-woo-product-img-overlay">
-                                                                                    </div>
-
-
-                                                                                </div>
-                                                                                <h2 class="jet-woo-product-title"><a
-                                                                                        href="/product/vinakoi-economy/">VinaKoi
-                                                                                        Economy</a></h2>
-                                                                                <div class="jet-woo-product-price">
-                                                                                    <span class="price"><span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>440.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                        &ndash; <span
-                                                                                            class="woocommerce-Price-amount amount"><bdi>1.760.000<span
-                                                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="jet-woo-products-cqw-wrapper">
-                                                                                </div>
-                                                                            </div>
-
-                                                                        </div>
 
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                         </div>
+                                                        <style>
+                                                            .elementor-pagination .page-numbers{
+                                                                border-color:#000 !important;
+                                                            }
+                                                            .elementor-pagination {
+                                                                display: flex;
+                                                                justify-content: center;
+                                                                align-items: center;
+                                                                margin: 20px 0;
+                                                            }
+                                                        </style>
                                                         <div class="elementor-element elementor-element-dccd479 elementor-widget elementor-widget-jet-smart-filters-pagination"
                                                             data-id="dccd479" data-element_type="widget"
                                                             data-widget_type="jet-smart-filters-pagination.default">
                                                             <div class="elementor-widget-container">
-                                                                <div class="jet-smart-filters-pagination jet-filter"
-                                                                    data-apply-provider="jet-woo-products-grid"
-                                                                    data-content-provider="jet-woo-products-grid"
-                                                                    data-query-id="id_sp"
-                                                                    data-controls="{&quot;items_enabled&quot;:true,&quot;pages_mid_size&quot;:2,&quot;pages_end_size&quot;:1,&quot;nav_enabled&quot;:false,&quot;load_more_enabled&quot;:false,&quot;provider_top_offset&quot;:0}"
-                                                                    data-apply-type="ajax"></div>
+                                                                <nav class="elementor-pagination" aria-label="Pagination">
+                                                                    @foreach ($products->getUrlRange(1, $products->lastPage()) as $page => $url)
+                                                                        <a style="color:#000 !important;margin: 0 5px" class="page-numbers{{ $page == $products->currentPage() ? ' current' : '' }}" href="{{ $url }}">
+                                                                            <span class="elementor-screen-only">Page</span>{{ $page }}
+                                                                        </a>
+                                                                    @endforeach
+                                                                </nav>
                                                             </div>
                                                         </div>
                                                     </div>

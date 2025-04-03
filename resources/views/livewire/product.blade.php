@@ -2,7 +2,7 @@
 
 
     <head>
-        <title>Thức ăn thú cưng cao cấp đến từ Nhật Bản</title>
+        <title>{{$product->name}}</title>
         @livewire('inc.css.product')
     </head>
 
@@ -39,7 +39,7 @@
                                                                 <nav class="woocommerce-breadcrumb"><a href="/">Trang
                                                                         chủ</a>&nbsp;&#47;&nbsp;<a
                                                                         href="/products?category=1">Thức
-                                                                        ăn cá Koi</a>&nbsp;&#47;&nbsp;VinaKoi Economy
+                                                                        ăn cá Koi</a>&nbsp;&#47;&nbsp;{{$product->name}}
                                                                 </nav>
                                                             </div>
                                                         </div>
@@ -67,9 +67,9 @@
                                                                             data-thumb-alt="VinaKoi Economy - 4kg"
                                                                             class="woocommerce-product-gallery__image">
                                                                             <a
-                                                                                href="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg.jpg"><img
+                                                                                href="{{\Illuminate\Support\Facades\Storage::url($product->image)}}"><img
                                                                                     width="600" height="600"
-                                                                                    src="/assets/wp-content/uploads/2023/08/Hikari-Economy-4kg-600x600.jpg"
+                                                                                    src="{{\Illuminate\Support\Facades\Storage::url($product->image)}}"
                                                                                     class="wp-post-image"
                                                                                     alt="VinaKoi Economy - 4kg"
                                                                                     decoding="async"
@@ -126,7 +126,7 @@
                                                                 </style>
                                                                 <h1
                                                                     class="product_title entry-title elementor-heading-title elementor-size-default">
-                                                                    VinaKoi Economy</h1>
+                                                                    {{$product->name}}</h1>
                                                             </div>
                                                         </div>
                                                         <div class="elementor-element elementor-element-36c5e65 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
@@ -292,10 +292,10 @@
                                                             data-widget_type="woocommerce-product-price.default">
                                                             <div class="elementor-widget-container">
                                                                 <p class="price"><span
-                                                                        class="woocommerce-Price-amount amount"><bdi>440.000<span
+                                                                        class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->min_price, 0, ',', '.') }}<span
                                                                                 class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                                                     &ndash; <span
-                                                                        class="woocommerce-Price-amount amount"><bdi>1.760.000<span
+                                                                        class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->max_price, 0, ',', '.') }}<span
                                                                                 class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
                                                                 </p>
                                                             </div>
@@ -306,16 +306,8 @@
                                                             <div class="elementor-widget-container">
                                                                 <div
                                                                     class="woocommerce-product-details__short-description">
-                                                                    <p>VinaKoi Economy là một chế độ ăn cơ bản hàng ngày
-                                                                        dành cho cá koi mang lại chất lượng và giá trị
-                                                                        mà chỉ người dẫn đầu thị trường mới có thể phát
-                                                                        triển.</p>
-                                                                    <ul>
-                                                                        <li class="features">VinaKoi Economy &#8211;
-                                                                            38478 &#8211; 4kg</li>
-                                                                        <li>VinaKoi Economy &#8211; 38478 &#8211; 16kg
-                                                                        </li>
-                                                                    </ul>
+                                                                    <p>{!! $product->short_desc !!}</p>
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -328,7 +320,7 @@
                                                                     class="elementor-add-to-cart elementor-product-variable">
 
                                                                     <form class="variations_form cart">
-                                                                        <div data-product_id="1893"
+                                                                        <div data-product_id="{{$product->id}}"
                                                                             data-threshold_min="30"
                                                                             data-threshold_max="100" data-total="2">
 
@@ -341,9 +333,9 @@
                                                                                     class="woocommerce-variation-add-to-cart variations_button">
 
 
-                                                                                    <button type="submit"
+                                                                                    <a href="/contact" type="submit"
                                                                                         class=" button alt">Liên hệ để
-                                                                                        mua hàng</button>
+                                                                                        mua hàng</a>
 
                                                                                     <style>
                                                                                         .devvn-quickbuy button.single_add_to_cart_button.loading:after {
@@ -399,10 +391,10 @@
 
                                                                                     <input type="hidden"
                                                                                         name="add-to-cart"
-                                                                                        value="1893" />
+                                                                                        value="{{$product->id}}" />
                                                                                     <input type="hidden"
                                                                                         name="product_id"
-                                                                                        value="1893" />
+                                                                                        value="{{$product->id}}" />
                                                                                     <input type="hidden"
                                                                                         name="variation_id"
                                                                                         class="variation_id"
@@ -443,62 +435,8 @@
                                                             data-widget_type="woocommerce-product-content.default">
                                                             <div class="elementor-widget-container">
                                                                 <div id="ftwp-postcontent">
-                                                                    <p>VinaKoi Economy là một chế độ ăn cơ bản hàng ngày
-                                                                        dành cho cá koi mang lại chất lượng và giá trị
-                                                                        mà chỉ người dẫn đầu thị trường mới có thể phát
-                                                                        triển.</p>
+                                                                   {!! $product->description !!}
 
-                                                                    <h2 id="ftoc-heading-1"
-                                                                        class="ftwp-heading ftwp-heading ftwp-heading ftwp-heading">
-                                                                        Mô tả chi tiết VinaKoi Economy</h2>
-                                                                    <ol class="list-ol">
-                                                                        <li>Hỗn hợp dinh dưỡng cân bằng độc đáo cung cấp
-                                                                            các thành phần dinh dưỡng cơ bản mà thú cưng
-                                                                            trong ao của bạn cần để phát triển với tốc
-                                                                            độ có thể dự đoán được.</li>
-                                                                        <li>Bao gồm Tinh chất dinh dưỡng Alfalfa có chứa
-                                                                            Carotenoids tự nhiên được chứng minh là ngăn
-                                                                            ngừa phai màu đồng thời hỗ trợ cải thiện độ
-                                                                            sáng.</li>
-                                                                        <li>Một viên nổi, không có màu sắc và hương vị
-                                                                            nhân tạo, mang lại cho bạn giá trị tuyệt vời
-                                                                            và nguồn dinh dưỡng cần thiết cho thú cưng
-                                                                            dưới nước của bạn.</li>
-                                                                    </ol>
-                                                                    <h2 id="ftoc-heading-2-2"
-                                                                        class="ftwp-heading ftwp-heading ftwp-heading ftwp-heading">
-                                                                        Lượng thức ăn cho một lần</h2>
-                                                                    <p>Cẩn thận cho ăn lượng cá sẽ tiêu thụ hết trong
-                                                                        vòng vài phút, dựa trên nhiệt độ nước, điều kiện
-                                                                        ao và mức độ hoạt động của cá. Khuyên dùng cho
-                                                                        tất cả các loại cá koi và cá ao khi tốc độ tăng
-                                                                        trưởng và màu sắc vượt trội không phải là yêu
-                                                                        cầu chính.</p>
-                                                                    <h2 id="ftoc-heading-8"
-                                                                        class="ftwp-heading ftwp-heading ftwp-heading ftwp-heading ftwp-heading">
-                                                                        Thành phần chính</h2>
-                                                                    <table class="guarantee-table">
-                                                                        <thead>
-                                                                            <tr>
-                                                                                <th>Chất đạm thô</th>
-                                                                                <th>Chất béo thô</th>
-                                                                                <th>sợi thô</th>
-                                                                                <th>Độ ẩm</th>
-                                                                                <th>Tro</th>
-                                                                                <th>Phốt pho</th>
-                                                                            </tr>
-                                                                        </thead>
-                                                                        <tbody>
-                                                                            <tr>
-                                                                                <td>phút. 28%</td>
-                                                                                <td>tối thiểu 3,0%</td>
-                                                                                <td>tối đa. 4,0%</td>
-                                                                                <td>tối đa. 10%</td>
-                                                                                <td>tối đa. 8,0%</td>
-                                                                                <td>tối thiểu 0,5%</td>
-                                                                            </tr>
-                                                                        </tbody>
-                                                                    </table>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -572,192 +510,43 @@
                                                         dir="ltr">
                                                         <div class="jet-woo-products jet-woo-products--preset-1 swiper-wrapper  jet-equal-cols"
                                                             data-mobile-hover="">
-                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1077">
-                                                                <div class="jet-woo-products__inner-box">
+                                                            @foreach($otherProducts as $product1)
+                                                                <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
+                                                                     data-product-id="{{$product1->id}}">
+                                                                    <div class="jet-woo-products__inner-box">
 
-                                                                    <div class="jet-woo-product-thumbnail">
+                                                                        <div class="jet-woo-product-thumbnail">
 
-                                                                        <a
-                                                                            href="/product/vinakoi-friend/"><img
-                                                                                width="500" height="500"
-                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
-                                                                                class="attachment-full size-full"
-                                                                                alt="VinaKoi Friend Medium 10kg"
-                                                                                decoding="async"
-                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
-                                                                        <div class="jet-woo-product-img-overlay"></div>
+                                                                            <a
+                                                                                href="/product/{{$product1->slug}}"><img
+                                                                                    width="500" height="500"
+                                                                                    src="{{\Illuminate\Support\Facades\Storage::url($product1->image)}}"
+                                                                                    class="attachment-full size-full"
+                                                                                    alt="VinaKoi Friend Medium 10kg"
+                                                                                    decoding="async"
+                                                                                    sizes="(max-width: 500px) 100vw, 500px" /></a>
+                                                                            <div class="jet-woo-product-img-overlay"></div>
 
 
-                                                                    </div>
-                                                                    <h3 class="jet-woo-product-title"><a
-                                                                            href="/product/vinakoi-friend/">VinaKoi
-                                                                            Friend</a></h3>
-                                                                    <div class="jet-woo-product-price">
+                                                                        </div>
+                                                                        <h3 class="jet-woo-product-title"><a
+                                                                                href="/product/{{$product1->slug}}/">{{$product1->name}}</a></h3>
+                                                                        <div class="jet-woo-product-price">
                                                                         <span class="price"><span
-                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
+                                                                                class="woocommerce-Price-amount amount"><bdi>{{ number_format($product1->min_price, 0, ',', '.') }}<span
+                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                        &ndash; <span
+                                                                                class="woocommerce-Price-amount amount"><bdi>{{ number_format($product1->max_price, 0, ',', '.') }}<span
                                                                                         class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+                                                                        </div>
+                                                                        <div class="jet-woo-products-cqw-wrapper">
+                                                                        </div>
                                                                     </div>
-                                                                    <div class="jet-woo-products-cqw-wrapper">
-                                                                    </div>
+
                                                                 </div>
-
-                                                            </div>
-                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1077">
-                                                                <div class="jet-woo-products__inner-box">
-
-                                                                    <div class="jet-woo-product-thumbnail">
-
-                                                                        <a
-                                                                            href="/product/vinakoi-friend/"><img
-                                                                                width="500" height="500"
-                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
-                                                                                class="attachment-full size-full"
-                                                                                alt="VinaKoi Friend Medium 10kg"
-                                                                                decoding="async"
-                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
-                                                                        <div class="jet-woo-product-img-overlay"></div>
+                                                            @endforeach
 
 
-                                                                    </div>
-                                                                    <h3 class="jet-woo-product-title"><a
-                                                                            href="/product/vinakoi-friend/">VinaKoi
-                                                                            Friend</a></h3>
-                                                                    <div class="jet-woo-product-price">
-                                                                        <span class="price"><span
-                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                    </div>
-                                                                    <div class="jet-woo-products-cqw-wrapper">
-                                                                    </div>
-                                                                </div>
-
-                                                            </div>
-                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1077">
-                                                                <div class="jet-woo-products__inner-box">
-
-                                                                    <div class="jet-woo-product-thumbnail">
-
-                                                                        <a
-                                                                            href="/product/vinakoi-friend/"><img
-                                                                                width="500" height="500"
-                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
-                                                                                class="attachment-full size-full"
-                                                                                alt="VinaKoi Friend Medium 10kg"
-                                                                                decoding="async"
-                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
-                                                                        <div class="jet-woo-product-img-overlay"></div>
-
-
-                                                                    </div>
-                                                                    <h3 class="jet-woo-product-title"><a
-                                                                            href="/product/vinakoi-friend/">VinaKoi
-                                                                            Friend</a></h3>
-                                                                    <div class="jet-woo-product-price">
-                                                                        <span class="price"><span
-                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                    </div>
-                                                                    <div class="jet-woo-products-cqw-wrapper">
-                                                                    </div>
-                                                                </div>
-
-                                                            </div>
-                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1077">
-                                                                <div class="jet-woo-products__inner-box">
-
-                                                                    <div class="jet-woo-product-thumbnail">
-
-                                                                        <a
-                                                                            href="/product/vinakoi-friend/"><img
-                                                                                width="500" height="500"
-                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
-                                                                                class="attachment-full size-full"
-                                                                                alt="VinaKoi Friend Medium 10kg"
-                                                                                decoding="async"
-                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
-                                                                        <div class="jet-woo-product-img-overlay"></div>
-
-
-                                                                    </div>
-                                                                    <h3 class="jet-woo-product-title"><a
-                                                                            href="/product/vinakoi-friend/">VinaKoi
-                                                                            Friend</a></h3>
-                                                                    <div class="jet-woo-product-price">
-                                                                        <span class="price"><span
-                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                    </div>
-                                                                    <div class="jet-woo-products-cqw-wrapper">
-                                                                    </div>
-                                                                </div>
-
-                                                            </div>
-                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1077">
-                                                                <div class="jet-woo-products__inner-box">
-
-                                                                    <div class="jet-woo-product-thumbnail">
-
-                                                                        <a
-                                                                            href="/product/vinakoi-friend/"><img
-                                                                                width="500" height="500"
-                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
-                                                                                class="attachment-full size-full"
-                                                                                alt="VinaKoi Friend Medium 10kg"
-                                                                                decoding="async"
-                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
-                                                                        <div class="jet-woo-product-img-overlay"></div>
-
-
-                                                                    </div>
-                                                                    <h3 class="jet-woo-product-title"><a
-                                                                            href="/product/vinakoi-friend/">VinaKoi
-                                                                            Friend</a></h3>
-                                                                    <div class="jet-woo-product-price">
-                                                                        <span class="price"><span
-                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                    </div>
-                                                                    <div class="jet-woo-products-cqw-wrapper">
-                                                                    </div>
-                                                                </div>
-
-                                                            </div>
-                                                            <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                data-product-id="1077">
-                                                                <div class="jet-woo-products__inner-box">
-
-                                                                    <div class="jet-woo-product-thumbnail">
-
-                                                                        <a
-                                                                            href="/product/vinakoi-friend/"><img
-                                                                                width="500" height="500"
-                                                                                src="/assets/wp-content/uploads/2024/04/hikari-friend-medium-10kg.jpg"
-                                                                                class="attachment-full size-full"
-                                                                                alt="VinaKoi Friend Medium 10kg"
-                                                                                decoding="async"
-                                                                                sizes="(max-width: 500px) 100vw, 500px" /></a>
-                                                                        <div class="jet-woo-product-img-overlay"></div>
-
-
-                                                                    </div>
-                                                                    <h3 class="jet-woo-product-title"><a
-                                                                            href="/product/vinakoi-friend/">VinaKoi
-                                                                            Friend</a></h3>
-                                                                    <div class="jet-woo-product-price">
-                                                                        <span class="price"><span
-                                                                                class="woocommerce-Price-amount amount"><bdi>1.035.000<span
-                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-                                                                    </div>
-                                                                    <div class="jet-woo-products-cqw-wrapper">
-                                                                    </div>
-                                                                </div>
-
-                                                            </div>
 
                                                         </div>
                                                         <div class="prev-arrow jet-swiper-button-prev jet-arrow"><i
@@ -816,116 +605,30 @@
                                                                         fill="#191919"></path>
                                                                 </svg>
                                                             </div>
-                                                            <div class="jet-posts__item">
-                                                                <div class="jet-posts__inner-box">
-                                                                    <div class="post-thumbnail"><a
-                                                                            href="/blog/ca-chep-phi-tan/"
-                                                                            class="post-thumbnail__link"><img
-                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
-                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
-                                                                                loading="lazy" width="800"
-                                                                                height="450"></a></div>
-                                                                    <div class="jet-posts__inner-content">
-                                                                        <h3 class="entry-title"><a
-                                                                                href="/blog/ca-chep-phi-tan/"
-                                                                                target="">Cá Chép Phi Tần: Cách Nuôi,
-                                                                                Setup Bể Nuôi Chi Tiết Nhất</a></h3>
-                                                                        <div class="post-meta"></div>
-                                                                        <div class="entry-excerpt">Cá chép Phi Tần mang
-                                                                            một nét đẹp riêng, khó có loài cá&hellip;
+                                                            @foreach($otherNews as $new)
+                                                                <div class="jet-posts__item">
+                                                                    <div class="jet-posts__inner-box">
+                                                                        <div class="post-thumbnail"><a
+                                                                                href="/blog/{{$new->slug}}"
+                                                                                class="post-thumbnail__link"><img
+                                                                                    class="post-thumbnail__img wp-post-image"
+                                                                                    src="{{\Illuminate\Support\Facades\Storage::url($new->banner)}}"
+                                                                                    alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
+                                                                                    loading="lazy" width="800"
+                                                                                    height="450"></a></div>
+                                                                        <div class="jet-posts__inner-content">
+                                                                            <h3 class="entry-title"><a
+                                                                                    href="/blog/{{$new->slug}}"
+                                                                                    target="">{{$new->title}}</a></h3>
+                                                                            <div class="post-meta"></div>
+                                                                            <div class="entry-excerpt">{{$new->title}}&hellip;
+                                                                            </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                            </div>
-                                                            <div class="jet-posts__item">
-                                                                <div class="jet-posts__inner-box">
-                                                                    <div class="post-thumbnail"><a
-                                                                            href="/blog/ca-chep-phi-tan/"
-                                                                            class="post-thumbnail__link"><img
-                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
-                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
-                                                                                loading="lazy" width="800"
-                                                                                height="450"></a></div>
-                                                                    <div class="jet-posts__inner-content">
-                                                                        <h3 class="entry-title"><a
-                                                                                href="/blog/ca-chep-phi-tan/"
-                                                                                target="">Cá Chép Phi Tần: Cách Nuôi,
-                                                                                Setup Bể Nuôi Chi Tiết Nhất</a></h3>
-                                                                        <div class="post-meta"></div>
-                                                                        <div class="entry-excerpt">Cá chép Phi Tần mang
-                                                                            một nét đẹp riêng, khó có loài cá&hellip;
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="jet-posts__item">
-                                                                <div class="jet-posts__inner-box">
-                                                                    <div class="post-thumbnail"><a
-                                                                            href="/blog/ca-chep-phi-tan/"
-                                                                            class="post-thumbnail__link"><img
-                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
-                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
-                                                                                loading="lazy" width="800"
-                                                                                height="450"></a></div>
-                                                                    <div class="jet-posts__inner-content">
-                                                                        <h3 class="entry-title"><a
-                                                                                href="/blog/ca-chep-phi-tan/"
-                                                                                target="">Cá Chép Phi Tần: Cách Nuôi,
-                                                                                Setup Bể Nuôi Chi Tiết Nhất</a></h3>
-                                                                        <div class="post-meta"></div>
-                                                                        <div class="entry-excerpt">Cá chép Phi Tần mang
-                                                                            một nét đẹp riêng, khó có loài cá&hellip;
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="jet-posts__item">
-                                                                <div class="jet-posts__inner-box">
-                                                                    <div class="post-thumbnail"><a
-                                                                            href="/blog/ca-chep-phi-tan/"
-                                                                            class="post-thumbnail__link"><img
-                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
-                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
-                                                                                loading="lazy" width="800"
-                                                                                height="450"></a></div>
-                                                                    <div class="jet-posts__inner-content">
-                                                                        <h3 class="entry-title"><a
-                                                                                href="/blog/ca-chep-phi-tan/"
-                                                                                target="">Cá Chép Phi Tần: Cách Nuôi,
-                                                                                Setup Bể Nuôi Chi Tiết Nhất</a></h3>
-                                                                        <div class="post-meta"></div>
-                                                                        <div class="entry-excerpt">Cá chép Phi Tần mang
-                                                                            một nét đẹp riêng, khó có loài cá&hellip;
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="jet-posts__item">
-                                                                <div class="jet-posts__inner-box">
-                                                                    <div class="post-thumbnail"><a
-                                                                            href="/blog/ca-chep-phi-tan/"
-                                                                            class="post-thumbnail__link"><img
-                                                                                class="post-thumbnail__img wp-post-image"
-                                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
-                                                                                alt="Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
-                                                                                loading="lazy" width="800"
-                                                                                height="450"></a></div>
-                                                                    <div class="jet-posts__inner-content">
-                                                                        <h3 class="entry-title"><a
-                                                                                href="/blog/ca-chep-phi-tan/"
-                                                                                target="">Cá Chép Phi Tần: Cách Nuôi,
-                                                                                Setup Bể Nuôi Chi Tiết Nhất</a></h3>
-                                                                        <div class="post-meta"></div>
-                                                                        <div class="entry-excerpt">Cá chép Phi Tần mang
-                                                                            một nét đẹp riêng, khó có loài cá&hellip;
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
+                                                            @endforeach
+
+
 
                                                         </div>
                                                     </div>
