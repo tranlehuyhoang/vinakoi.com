@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Apr 03, 2025 at 10:31 AM
--- Server version: 10.4.32-MariaDB
--- PHP Version: 8.2.28
+-- Generation Time: Apr 03, 2025 at 06:37 PM
+-- Server version: 10.4.28-MariaDB
+-- PHP Version: 8.2.4
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -38,10 +38,10 @@ CREATE TABLE `cache` (
 --
 
 INSERT INTO `cache` (`key`, `value`, `expiration`) VALUES
-('da4b9237bacccdf19c0760cab7aec4a8359010b0', 'i:1;', 1743672323),
-('da4b9237bacccdf19c0760cab7aec4a8359010b0:timer', 'i:1743672323;', 1743672323),
-('livewire-rate-limiter:a17961fa74e9275d529f489537f179c05d50c2f3', 'i:1;', 1743669741),
-('livewire-rate-limiter:a17961fa74e9275d529f489537f179c05d50c2f3:timer', 'i:1743669741;', 1743669741);
+('da4b9237bacccdf19c0760cab7aec4a8359010b0', 'i:1;', 1743698222),
+('da4b9237bacccdf19c0760cab7aec4a8359010b0:timer', 'i:1743698222;', 1743698222),
+('livewire-rate-limiter:a17961fa74e9275d529f489537f179c05d50c2f3', 'i:1;', 1743690255),
+('livewire-rate-limiter:a17961fa74e9275d529f489537f179c05d50c2f3:timer', 'i:1743690255;', 1743690255);
 
 -- --------------------------------------------------------
 
@@ -159,7 +159,17 @@ CREATE TABLE `news` (
 --
 
 INSERT INTO `news` (`id`, `category_id`, `slug`, `title`, `view`, `short_desc`, `description`, `banner`, `created_at`, `updated_at`) VALUES
-(1, 1, 'toi-thu-phu-ca-koi-o-nhat-ban', 'Tới thủ phủ cá koi ở Nhật Bản', 0, '<p>&nbsp;Nhật Bản không chỉ nổi tiếng với văn hóa đặc sắc mà còn là quê hương của những chú cá koi tuyệt đẹp. Thủ phủ cá koi, nằm ở thành phố Niigata, là điểm đến lý tưởng cho những ai yêu thích loài cá này.&nbsp;</p><p><br></p>', '<h3>Khám Phá Vẻ Đẹp Từ Cá Koi</h3><p>Nhật Bản không chỉ nổi tiếng với văn hóa đặc sắc mà còn là quê hương của những chú cá koi tuyệt đẹp. Thủ phủ cá koi, nằm ở thành phố Niigata, là điểm đến lý tưởng cho những ai yêu thích loài cá này.</p><h3>Lịch Sử và Ý Nghĩa</h3><p>Cá koi đã được nuôi dưỡng ở Nhật Bản từ hàng thế kỷ trước, mang trong mình nhiều ý nghĩa biểu tượng như sự kiên nhẫn và tinh thần vượt khó. Ở Niigata, bạn sẽ tìm thấy nhiều trang trại cá koi lớn, nơi các nghệ nhân tận tâm chăm sóc và nuôi dưỡng những chú cá với màu sắc và hình dáng độc đáo.</p><h3>Trải Nghiệm Đặc Biệt</h3><p>Khi đến đây, du khách có cơ hội tham gia vào các tour tham quan trang trại, tìm hiểu quy trình chăm sóc cá, và thậm chí có thể thử sức trong việc nuôi cá koi. Bên cạnh đó, các lễ hội diễn ra quanh năm cũng là dịp để bạn chiêm ngưỡng những mẫu cá đẹp nhất và thưởng thức các món ăn đặc sản địa phương.</p><h3>Kết Luận</h3><p>Thủ phủ cá koi ở Nhật Bản không chỉ là nơi để chiêm ngưỡng vẻ đẹp của loài cá này mà còn là một trải nghiệm văn hóa phong phú. Nếu bạn yêu thích thiên nhiên và muốn tìm hiểu sâu hơn về văn hóa Nhật Bản, đây chắc chắn là điểm đến không thể bỏ qua.</p><p><br></p><p><br></p>', '01JQV9400PAK75NKKHRGJBTV3E.png', '2025-04-02 12:55:18', '2025-04-02 12:55:18');
+(1, 1, 'toi-thu-phu-ca-koi-o-nhat-ban', 'Tới thủ phủ cá koi ở Nhật Bản', 0, '<p>&nbsp;Nhật Bản không chỉ nổi tiếng với văn hóa đặc sắc mà còn là quê hương của những chú cá koi tuyệt đẹp. Thủ phủ cá koi, nằm ở thành phố Niigata, là điểm đến lý tưởng cho những ai yêu thích loài cá này.&nbsp;</p><p><br></p>', '<h3>Khám Phá Vẻ Đẹp Từ Cá Koi</h3><p>Nhật Bản không chỉ nổi tiếng với văn hóa đặc sắc mà còn là quê hương của những chú cá koi tuyệt đẹp. Thủ phủ cá koi, nằm ở thành phố Niigata, là điểm đến lý tưởng cho những ai yêu thích loài cá này.</p><h3>Lịch Sử và Ý Nghĩa</h3><p>Cá koi đã được nuôi dưỡng ở Nhật Bản từ hàng thế kỷ trước, mang trong mình nhiều ý nghĩa biểu tượng như sự kiên nhẫn và tinh thần vượt khó. Ở Niigata, bạn sẽ tìm thấy nhiều trang trại cá koi lớn, nơi các nghệ nhân tận tâm chăm sóc và nuôi dưỡng những chú cá với màu sắc và hình dáng độc đáo.</p><h3>Trải Nghiệm Đặc Biệt</h3><p>Khi đến đây, du khách có cơ hội tham gia vào các tour tham quan trang trại, tìm hiểu quy trình chăm sóc cá, và thậm chí có thể thử sức trong việc nuôi cá koi. Bên cạnh đó, các lễ hội diễn ra quanh năm cũng là dịp để bạn chiêm ngưỡng những mẫu cá đẹp nhất và thưởng thức các món ăn đặc sản địa phương.</p><h3>Kết Luận</h3><p>Thủ phủ cá koi ở Nhật Bản không chỉ là nơi để chiêm ngưỡng vẻ đẹp của loài cá này mà còn là một trải nghiệm văn hóa phong phú. Nếu bạn yêu thích thiên nhiên và muốn tìm hiểu sâu hơn về văn hóa Nhật Bản, đây chắc chắn là điểm đến không thể bỏ qua.</p><p><br></p><p><br></p>', '01JQV9400PAK75NKKHRGJBTV3E.png', '2025-04-02 12:55:18', '2025-04-02 12:55:18'),
+(2, 1, 'toi-thu-phu-ca-koi-o-nh', 'Tôi Thủ Phù Cá Koi Ở Hàn Quốc', 100, '<p>&nbsp;Nhật Bản không chỉ nổi tiếng với văn hóa...&nbsp;</p>', '<p>Khám Phá Vẻ Đẹp Từ Cá Koi</p><p>Nhật Bản không chỉ nổi tiếng với văn hóa...</p>', '01JQY7R297F1GA45Z2KHR987WP.jpg', '2025-04-03 16:29:02', '2025-04-03 16:29:31'),
+(3, 1, 'huong-dan-chon-ca-koi-chat-luong', 'Hướng Dẫn Chọn Cá Koi Chất Lượng', 0, '<p>&nbsp;Cách lựa chọn cá koi đẹp và khỏe mạnh...&nbsp;</p>', '<p>&nbsp;Cách lựa chọn cá koi đẹp và khỏe mạnh...&nbsp;</p>', '01JQY7T2KTGVWTEEK0PW5ZJ4AB.jpg', '2025-04-03 16:30:07', '2025-04-03 16:30:07'),
+(4, 1, 'cac-loai-ca-koi-pho-bien', 'Các Loại Cá Koi Phổ Biến', 0, '<p>&nbsp;Giới thiệu các giống cá koi phổ biến trên thị trường...&nbsp;</p>', '<p>&nbsp;Giới thiệu các giống cá koi phổ biến trên thị trường...&nbsp;</p>', '01JQY7V604MNRY0E72A10TGAAD.jpg', '2025-04-03 16:30:44', '2025-04-03 16:30:44'),
+(5, 1, 'cham-soc-ca-koi-trong-ho', 'Chăm Sóc Cá Koi Trong Hồ', 20, '<p>&nbsp;Những lưu ý quan trọng khi chăm sóc cá koi...&nbsp;</p>', '<p>&nbsp;Những lưu ý quan trọng khi chăm sóc cá koi...&nbsp;</p>', '01JQY7WFT3P1W0YEXK6CMSYWJ2.jpg', '2025-04-03 16:31:27', '2025-04-03 16:31:27'),
+(6, 1, 'ca-koi-va-van-hoa-nhat-ban', 'Cá Koi Và Văn Hóa Nhật Bản', 200, '<p>&nbsp;Cá koi có ý nghĩa sâu sắc trong văn hóa Nhật Bản...&nbsp;</p>', '<p>&nbsp;Cá koi có ý nghĩa sâu sắc trong văn hóa Nhật Bản...&nbsp;</p>', '01JQY7XWJJH2SEXDZ7ZSTCW3S3.jpg', '2025-04-03 16:32:12', '2025-04-03 16:32:12'),
+(7, 1, 'ca-koi-bieu-tuong-cua-su-binh-an', 'Cá Koi: Biểu Tượng Của Sự Bình An', 20, '<p>&nbsp;Cá koi mang trong mình thông điệp về sự bình an và thịnh vượng...&nbsp;</p>', '<p>&nbsp;Cá koi mang trong mình thông điệp về sự bình an và thịnh vượng...&nbsp;</p>', '01JQY7Z7A0Y612JA4Y7EKTXHNZ.webp', '2025-04-03 16:32:56', '2025-04-03 16:32:56'),
+(8, 1, 'cach-thiet-ke-ho-ca-koi', 'Cách Thiết Kế Hồ Cá Koi', 400, '<p>&nbsp;Hướng dẫn thiết kế hồ cá koi đẹp và phù hợp...&nbsp;</p>', '<p>&nbsp;Hướng dẫn thiết kế hồ cá koi đẹp và phù hợp...&nbsp;</p>', '01JQY80FFS03YT47JAWCH4MP8R.webp', '2025-04-03 16:33:37', '2025-04-03 16:33:37'),
+(9, 1, 'ca-koi-va-thu-choi-ca-canh', 'Cá Koi Và Thú Chơi Cá Cảnh', 25, '<p>&nbsp;Cá koi được xem là một phần không thể thiếu trong thú chơi cá cảnh...&nbsp;</p>', '<p>&nbsp;Cá koi được xem là một phần không thể thiếu trong thú chơi cá cảnh...&nbsp;</p>', '01JQY81Y3CVFXHRDTZ17ZZH0ND.jpg', '2025-04-03 16:34:25', '2025-04-03 16:34:25'),
+(10, 1, 'nuoi-ca-koi-trong-mua-dong', 'Nuôi Cá Koi Trong Mùa Đông', 25, '<p>&nbsp;Cách chăm sóc cá koi trong mùa đông để giữ cho chúng khỏe mạnh...&nbsp;</p>', '<p>&nbsp;Cách chăm sóc cá koi trong mùa đông để giữ cho chúng khỏe mạnh...&nbsp;</p>', '01JQY836D5CN38KB6W6Y0NW66P.jpg', '2025-04-03 16:35:06', '2025-04-03 16:35:06'),
+(11, 1, 'cach-cho-ca-an', 'Cách cho cá ăn', 50, '<p>Cách cho cá ăn ...</p>', '<p>Cách cho cá ăn ...</p>', '01JQY84Z0VDZEV0N05SRRBVVP0.webp', '2025-04-03 16:36:04', '2025-04-03 16:36:04');
 
 -- --------------------------------------------------------
 
@@ -222,7 +232,21 @@ CREATE TABLE `products` (
 --
 
 INSERT INTO `products` (`id`, `category_id`, `name`, `slug`, `min_price`, `max_price`, `short_desc`, `description`, `image`, `is_featured`, `is_latest`, `is_discounted`, `created_at`, `updated_at`, `buy_many`) VALUES
-(1, 1, 'Hikari Gold', 'hikari-gold', 150000.00, 2282000.00, '<p>Hikari Gold là một chế độ ăn uống hàng ngày tăng cường màu sắc được phát triển để mang lại tốc độ tăng trưởng được cải thiện, hình thức vượt trội và màu sắc tự nhiên tuyệt vời.</p><p><strong>Hạt size M&nbsp;</strong></p><ul><li>Hikari Gold – 2370 – 2kg</li><li>Hikari Gold – 2342 – 500g</li><li>Hikari Gold – 2382 – 5kg</li></ul><p><strong>Hạt size L</strong></p><ul><li>Hikari Gold – 2482 – 5kg</li><li>Hikari Gold – 2489 – 10kg</li></ul>', '<p>Sản phẩm Hikari Gold giúp tăng màu hiệu quả, mang lại vẻ đẹp tự nhiên và màu sắc thực của cá Koi</p><p>Một sản phẩm cân bằng dinh dưỡng nhằm duy trì năng lượng của cá nuôi hồ, đồng thời giúp cá tăng trưởng nhanh và hạn chế tích mỡ gây ảnh hưởng đến sức khỏe của cá.</p><p>Ba kích thước hạt dạng nổi phù hợp để cung cấp dinh dưỡng cho tất cả các dòng cá có kích cỡ khách nhau, đồng thời làm giảm nguy cơ tạo váng hoặc đục trong nước</p><p>LÝ TƯỞNG CHO: Cá Koi con và cá vàng lớn khi muống tăng trưởng nhanh và cải thiện thân hình</p><p><strong>Lưu ý:</strong> Hikari Gold ® chứa hàm lượng thành phần tự nhiên cao hơn nên có thể gây ra một chút thay đổi về màu sắc giữa các lô sản xuất. Hãy yên tâm vì các tiêu chuẩn chất lượng khắt khe của chúng tôi, mỗi gói đều đáp ứng các thông số dinh dưỡng vượt trội của chúng tôi.</p><h2>Lượng thức ăn cho một lần</h2><p>Thường xuyên theo dõi nhiệt độ nước của bạn và điều chỉnh số lượng cũng như tần suất cho ăn dựa trên nhiệt độ này, tình trạng nước, số lượng và kích cỡ của cá cũng như mức độ hoạt động của chúng. Tránh cho ăn quá nhiều và luôn loại bỏ thức ăn thừa còn sót lại sau thời gian cho ăn.</p><ul><li>Ở nhiệt độ 20-30°C (68-86°F) – Cho ăn 2 đến 4 lần mỗi ngày, lượng cá của bạn sẽ tiêu thụ hoàn toàn trong vòng 5 phút.</li><li>Ở nhiệt độ 15-20°C (59-68°F) – Cho ăn không quá hai lần mỗi ngày, lượng cá của bạn sẽ tiêu thụ hoàn toàn trong vòng 5 phút. Để có kết quả tốt nhất, hãy cố gắng cho ăn vào thời điểm ấm hơn trong ngày.</li><li>Đối với 11-15°C (52-59°F) – Chúng tôi khuyên bạn nên sử dụng Công thức mầm lúa mì Hikari ® Excel ® hoặc Hikari ® .</li><li>Dưới 11°C (52°F) – Chúng tôi khuyên bạn nên sử dụng Công thức mầm lúa mì Hikari ®, được thiết kế đặc biệt để tiêu hóa ở nhiệt độ thấp.</li></ul><p><br></p>', '01JQV81QXFPP03K7PK7912P8Q6.png', 1, 1, 1, '2025-04-02 12:36:35', '2025-04-02 12:38:14', 0);
+(1, 6, 'Hikari Gold', 'hikari-gold', 150000.00, 2282000.00, '<p>Hikari Gold là một chế độ ăn uống hàng ngày tăng cường màu sắc được phát triển để mang lại tốc độ tăng trưởng được cải thiện, hình thức vượt trội và màu sắc tự nhiên tuyệt vời.</p><p><strong>Hạt size M&nbsp;</strong></p><ul><li>Hikari Gold – 2370 – 2kg</li><li>Hikari Gold – 2342 – 500g</li><li>Hikari Gold – 2382 – 5kg</li></ul><p><strong>Hạt size L</strong></p><ul><li>Hikari Gold – 2482 – 5kg</li><li>Hikari Gold – 2489 – 10kg</li></ul>', '<p>Sản phẩm Hikari Gold giúp tăng màu hiệu quả, mang lại vẻ đẹp tự nhiên và màu sắc thực của cá Koi</p><p>Một sản phẩm cân bằng dinh dưỡng nhằm duy trì năng lượng của cá nuôi hồ, đồng thời giúp cá tăng trưởng nhanh và hạn chế tích mỡ gây ảnh hưởng đến sức khỏe của cá.</p><p>Ba kích thước hạt dạng nổi phù hợp để cung cấp dinh dưỡng cho tất cả các dòng cá có kích cỡ khách nhau, đồng thời làm giảm nguy cơ tạo váng hoặc đục trong nước</p><p>LÝ TƯỞNG CHO: Cá Koi con và cá vàng lớn khi muống tăng trưởng nhanh và cải thiện thân hình</p><p><strong>Lưu ý:</strong> Hikari Gold ® chứa hàm lượng thành phần tự nhiên cao hơn nên có thể gây ra một chút thay đổi về màu sắc giữa các lô sản xuất. Hãy yên tâm vì các tiêu chuẩn chất lượng khắt khe của chúng tôi, mỗi gói đều đáp ứng các thông số dinh dưỡng vượt trội của chúng tôi.</p><h2>Lượng thức ăn cho một lần</h2><p>Thường xuyên theo dõi nhiệt độ nước của bạn và điều chỉnh số lượng cũng như tần suất cho ăn dựa trên nhiệt độ này, tình trạng nước, số lượng và kích cỡ của cá cũng như mức độ hoạt động của chúng. Tránh cho ăn quá nhiều và luôn loại bỏ thức ăn thừa còn sót lại sau thời gian cho ăn.</p><ul><li>Ở nhiệt độ 20-30°C (68-86°F) – Cho ăn 2 đến 4 lần mỗi ngày, lượng cá của bạn sẽ tiêu thụ hoàn toàn trong vòng 5 phút.</li><li>Ở nhiệt độ 15-20°C (59-68°F) – Cho ăn không quá hai lần mỗi ngày, lượng cá của bạn sẽ tiêu thụ hoàn toàn trong vòng 5 phút. Để có kết quả tốt nhất, hãy cố gắng cho ăn vào thời điểm ấm hơn trong ngày.</li><li>Đối với 11-15°C (52-59°F) – Chúng tôi khuyên bạn nên sử dụng Công thức mầm lúa mì Hikari ® Excel ® hoặc Hikari ® .</li><li>Dưới 11°C (52°F) – Chúng tôi khuyên bạn nên sử dụng Công thức mầm lúa mì Hikari ®, được thiết kế đặc biệt để tiêu hóa ở nhiệt độ thấp.</li></ul><p><br></p>', '01JQV81QXFPP03K7PK7912P8Q6.png', 1, 1, 1, '2025-04-02 12:36:35', '2025-04-02 12:38:14', 1),
+(3, 1, 'Ca Coi Royal', 'ca-coi-royal', 100000.00, 200000.00, '<p>&nbsp;Cá koi Royal có màu sắc đẹp, phù hợp với các hồ cá cao cấp.&nbsp;</p>', '<p><strong>&nbsp;Cá koi Royal là loài cá có màu sắc rực rỡ, dễ nuôi và thích hợp với môi trường nước sạch.&nbsp;</strong></p>', '01JQY5T1DK7PM2XMH9Z9VHMHHS.jpg', 1, 1, 1, '2025-04-03 15:55:09', '2025-04-03 16:12:47', 0),
+(4, 1, 'Ca Coi Golden', 'ca-coi-golden', 200000.00, 300000.00, '<p>&nbsp;Cá koi Golden nổi bật với lớp vảy vàng óng ánh.&nbsp;</p>', '<p>&nbsp;Cá koi Golden mang đến vẻ đẹp lấp lánh, là sự lựa chọn lý tưởng cho hồ cá của bạn.&nbsp;</p>', '01JQY5YHWGSXNCA02VPT3P2S51.webp', 1, 1, 0, '2025-04-03 15:57:37', '2025-04-03 16:14:15', 0),
+(5, 1, ' Ca Coi Sanke', 'ca-coi-sanke', 230000.00, 500000.00, '<p>&nbsp;Cá koi Sanke với sắc đỏ, trắng và đen nổi bật.&nbsp;</p>', '<p>&nbsp;Cá koi Sanke là loài cá có màu sắc đặc trưng với sự kết hợp hoàn hảo giữa ba màu sắc đỏ, trắng và đen.&nbsp;</p>', '01JQY60TFK92R77B4B0A7B8QVW.webp', 0, 1, 0, '2025-04-03 15:58:51', '2025-04-03 16:14:37', 0),
+(6, 1, 'Ca Coi Showa', 'ca-coi-showa', 300000.00, 800000.00, '<p>&nbsp;Cá koi Showa với màu sắc đen, đỏ nổi bật.&nbsp;</p>', '<p>&nbsp;Cá koi Showa có một vẻ ngoài ấn tượng, với sự kết hợp hoàn hảo giữa sắc đen và đỏ.&nbsp;</p>', '01JQY635VE60TEQ9A990BPYXKM.jpg', 0, 0, 0, '2025-04-03 16:00:09', '2025-04-03 16:14:50', 1),
+(7, 6, 'Thức ăn Koi Royal', 'thuc-an-koi-royal', 200000.00, 100000.00, '<p>&nbsp;Thức ăn chất lượng cao cho cá koi, giúp tăng trưởng nhanh và màu sắc đẹp.&nbsp;</p>', '<p>Thức ăn Koi Royal là loại thức ăn chuyên biệt giúp cá koi phát triển khỏe mạnh, màu sắc rực rỡ và nâng cao sức khỏe tổng thể.&nbsp;</p>', '01JQY67J8MYSMMSCYFH4586AKV.jpg', 1, 0, 0, '2025-04-03 16:02:32', '2025-04-03 16:17:15', 0),
+(8, 6, 'Thức ăn Koi Golden', 'thuc-an-koi-golden', 350000.00, 1200000.00, '<p>&nbsp;Thức ăn cho cá koi màu vàng đặc trưng, giúp tăng trưởng và phát triển mạnh mẽ.&nbsp;</p>', '<p>Thức ăn Koi Golden là sự lựa chọn lý tưởng giúp cá koi có lớp vảy vàng óng ánh, tăng cường sức khỏe và phát triển đồng đều.</p>', '01JQY69W9ZTYKX43S2W0SF2VC5.jpg', 0, 1, 0, '2025-04-03 16:03:48', '2025-04-03 16:17:31', 0),
+(9, 6, 'Thức ăn Koi Protein Cao', 'thuc-an-koi-protein-cao', 600000.00, 1800000.00, '<p>&nbsp;Cung cấp lượng protein cao, giúp cá koi phát triển cơ bắp.&nbsp;</p>', '<p>Thức ăn chứa lượng protein cao, giúp cá koi tăng trưởng mạnh mẽ, phát triển cơ bắp và duy trì sức khỏe tốt.</p>', '01JQY6C5F05JYEN93FNF1RP26R.jpg', 0, 0, 1, '2025-04-03 16:05:03', '2025-04-03 16:17:46', 1),
+(10, 6, 'Thức ăn Koi Màu Sắc', 'thuc-an-koi-mau-sac', 260000.00, 900000.00, '<p>&nbsp;Thức ăn giúp cá koi có màu sắc rực rỡ và sáng đẹp.&nbsp;</p>', '<p>Thức ăn Koi Màu Sắc bổ sung các chất phụ gia giúp cải thiện màu sắc tự nhiên của cá koi, mang lại vẻ ngoài sống động và hấp dẫn.</p>', '01JQY6EF2MCFBWXG3DRCEKXRJM.jpg', 0, 1, 0, '2025-04-03 16:06:18', '2025-04-03 16:18:00', 1),
+(11, 6, 'Thức ăn Koi Mùa Đông', 'thuc-an-koi-mua-dong', 125000.00, 300000.00, '<p>&nbsp;Thức ăn nhẹ cho cá koi trong mùa đông, giúp bảo vệ sức khỏe.&nbsp;</p>', '<p>&nbsp;Thức ăn Koi Mùa Đông giúp giảm protein và dầu mỡ, phù hợp với cá koi trong mùa đông, khi cá ít vận động hơn và cần ít năng lượng hơn.</p>', '01JQY6GCE4B18WE1HRZXJTPKQR.jpg', 0, 0, 1, '2025-04-03 16:07:21', '2025-04-03 16:16:22', 0),
+(12, 7, 'Thức ăn Koi Thực Phẩm Tự Nhiên', 'thuc-an-koi-thuc-pham-tu-nhien', 200000.00, 1400000.00, '<p>&nbsp;Thức ăn tự nhiên như giun, tôm, rau quả giúp bổ sung dinh dưỡng tự nhiên cho cá koi.&nbsp;</p>', '<p>&nbsp;Thức ăn Koi Thực Phẩm Tự Nhiên bổ sung các thực phẩm tự nhiên, giúp cá koi có chế độ ăn phong phú, giúp tăng trưởng tốt và tăng cường hệ miễn dịch.&nbsp;</p>', '01JQY77ZAR6KE4HK2ZFP6JF2VT.jpg', 1, 1, 1, '2025-04-03 16:20:14', '2025-04-03 16:20:14', 1),
+(13, 7, 'Thức ăn Koi Dễ Tiêu Hóa', 'thuc-an-koi-de-tieu-hoa', 180000.00, 3000000.00, '<p>&nbsp;Thức ăn dễ tiêu hóa, giúp cá koi hấp thụ tốt các chất dinh dưỡng.&nbsp;</p>', '<p>&nbsp;Thức ăn dễ tiêu hóa, giúp cá koi hấp thụ tốt các chất dinh dưỡng.&nbsp;</p>', '01JQY7A7FA0BSFQ9FH1PVJKRFQ.jpg', 1, 0, 0, '2025-04-03 16:21:28', '2025-04-03 16:21:28', 0),
+(14, 7, 'Thức ăn Koi Premium', 'thuc-an-koi-premium', 250000.00, 400000.00, '<p>&nbsp;Thức ăn cao cấp dành cho cá koi, giúp phát triển toàn diện.&nbsp;</p>', '<p>&nbsp;Thức ăn cao cấp dành cho cá koi, giúp phát triển toàn diện.&nbsp;</p>', '01JQY7BXN66XRRDRFY5F6S6MQQ.jpg', 0, 0, 1, '2025-04-03 16:22:24', '2025-04-03 16:22:24', 0),
+(15, 7, 'Thức ăn Koi Cho Hồ Lớn', 'thuc-an-koi-cho-ho-lon', 125000.00, 300000.00, '<p>&nbsp;Thức ăn dành riêng cho cá koi nuôi trong hồ lớn, giúp cá phát triển khỏe mạnh.&nbsp;</p>', '<p>&nbsp;Thức ăn dành riêng cho cá koi nuôi trong hồ lớn, giúp cá phát triển khỏe mạnh.&nbsp;</p>', '01JQY7DHG0KM8VCGVVSERBD28W.jpg', 0, 1, 0, '2025-04-03 16:23:17', '2025-04-03 16:23:17', 0),
+(16, 7, 'Thức ăn Koi Mới Lớn', 'thuc-an-koi-moi-lon', 500000.00, 30000000.00, '<p>&nbsp;Thức ăn cho cá koi mới lớn, giúp phát triển nhanh chóng và đều đặn.&nbsp;</p>', '<p>&nbsp;Thức ăn cho cá koi mới lớn, giúp phát triển nhanh chóng và đều đặn.&nbsp;</p>', '01JQY7F1H10V53M3GTGM1QPRZ5.jpg', 0, 0, 1, '2025-04-03 16:24:06', '2025-04-03 16:24:06', 0);
 
 -- --------------------------------------------------------
 
@@ -246,7 +270,9 @@ INSERT INTO `product_categories` (`id`, `name`, `created_at`, `updated_at`) VALU
 (2, 'Cá vàng ', '2025-04-02 12:15:38', '2025-04-02 12:15:38'),
 (3, 'Cá nhiệt đới ', '2025-04-02 12:15:41', '2025-04-02 12:15:41'),
 (4, 'Bò sát ', '2025-04-02 12:15:43', '2025-04-02 12:15:43'),
-(5, 'Chim', '2025-04-02 12:15:44', '2025-04-02 12:15:44');
+(5, 'Chim', '2025-04-02 12:15:44', '2025-04-02 12:15:44'),
+(6, 'Thức ăn Cho cá Koi', '2025-04-03 14:25:21', '2025-04-03 14:25:21'),
+(7, 'Thức ăn Cho cá cảnh', '2025-04-03 14:25:34', '2025-04-03 14:25:34');
 
 -- --------------------------------------------------------
 
@@ -310,8 +336,7 @@ CREATE TABLE `sessions` (
 --
 
 INSERT INTO `sessions` (`id`, `user_id`, `ip_address`, `user_agent`, `payload`, `last_activity`) VALUES
-('0QRfoFKH06GLePySGnrTnuPxRXeRY4BLWuKTJ39E', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiM2RYVW1tYU1pYmVwNndoSGhkQWxyZWNEMUV1bnVrTVA3VDk1dTNDeCI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=', 1743669532),
-('EodR0FqS0dmEqGczILL48FW1SOnoc0dQQ2EKMf8I', 2, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36', 'YTo3OntzOjY6Il90b2tlbiI7czo0MDoiaVVpb2Y2ZGZ6SDVCQ1VKYm1LY3dadWxLZDEwQTUwTHFoY3NtZjdQTyI7czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319czozOiJ1cmwiO2E6MDp7fXM6OToiX3ByZXZpb3VzIjthOjE6e3M6MzoidXJsIjtzOjU2OiJodHRwOi8vMTI3LjAuMC4xOjgwMDAvYmxvZy90b2ktdGh1LXBodS1jYS1rb2ktby1uaGF0LWJhbiI7fXM6NTA6ImxvZ2luX3dlYl81OWJhMzZhZGRjMmIyZjk0MDE1ODBmMDE0YzdmNThlYTRlMzA5ODlkIjtpOjI7czoxNzoicGFzc3dvcmRfaGFzaF93ZWIiO3M6NjA6IiQyeSQxMiQva1N6YjdMaHdnTmk4Q2hVdUhkM3hlTE9QZFR3bFNGeDhVSnE0RGtZZWg2RlJvdDZkNWhtMiI7czo4OiJmaWxhbWVudCI7YTowOnt9fQ==', 1743676123);
+('JFlJgD7jyevp9gVlgkGtjjF9lJ1dKdcs4y5YNfYp', 2, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36', 'YTo2OntzOjY6Il90b2tlbiI7czo0MDoiOXZlU3hxeWRRallOZVQ0NXVVRmhLSHlURGc1NEg3N3hHanNMMHJ3YSI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fXM6NTA6ImxvZ2luX3dlYl81OWJhMzZhZGRjMmIyZjk0MDE1ODBmMDE0YzdmNThlYTRlMzA5ODlkIjtpOjI7czoxNzoicGFzc3dvcmRfaGFzaF93ZWIiO3M6NjA6IiQyeSQxMiQva1N6YjdMaHdnTmk4Q2hVdUhkM3hlTE9QZFR3bFNGeDhVSnE0RGtZZWg2RlJvdDZkNWhtMiI7czo4OiJmaWxhbWVudCI7YTowOnt9fQ==', 1743698252);
 
 -- --------------------------------------------------------
 
@@ -465,7 +490,7 @@ ALTER TABLE `migrations`
 -- AUTO_INCREMENT for table `news`
 --
 ALTER TABLE `news`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
 
 --
 -- AUTO_INCREMENT for table `post_categories`
@@ -477,13 +502,13 @@ ALTER TABLE `post_categories`
 -- AUTO_INCREMENT for table `products`
 --
 ALTER TABLE `products`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
 
 --
 -- AUTO_INCREMENT for table `product_categories`
 --
 ALTER TABLE `product_categories`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
 
 --
 -- AUTO_INCREMENT for table `services`

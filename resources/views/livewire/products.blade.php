@@ -177,8 +177,7 @@
 
                                                                                     </div>
                                                                                     <h2 class="jet-woo-product-title"><a
-                                                                                            href="/product/{{$product->slug}}">VinaKoi
-                                                                                            Economy</a></h2>
+                                                                                            href="/product/{{$product->slug}}">{{$product->name}}</a></h2>
                                                                                     <div class="jet-woo-product-price">
                                                                                     <span class="price"><span
                                                                                             class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->min_price, 0, ',', '.') }}<span

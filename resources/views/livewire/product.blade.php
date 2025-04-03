@@ -306,7 +306,7 @@
                                                             <div class="elementor-widget-container">
                                                                 <div
                                                                     class="woocommerce-product-details__short-description">
-                                                                    <p>{!! $product->short_desc !!}</p>
+                                                                    {!! $product->short_desc !!}
 
                                                                 </div>
                                                             </div>

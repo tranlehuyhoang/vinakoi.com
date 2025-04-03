@@ -206,7 +206,7 @@
 
                                                                 />
                                                                 <span
-                                                                    class="product-title">{{$product->title}}</span>
+                                                                    class="product-title">{{$product->name}}</span>
                                                             </a>
 
                                                             <div class="star-rating">

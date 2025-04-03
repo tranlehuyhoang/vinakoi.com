@@ -17,7 +17,7 @@ class Product extends Component
     {
         $product = \App\Models\Product::where('slug', $this->slug)->first();
         $otherProducts = \App\Models\Product::where('category_id', $product->category_id)
-            ->where('category_id', '!=', $product->category_id)
+            ->where('slug', '!=', $product->slug)
             ->get();
         $otherNews = \App\Models\News::where('category_id', $product->category_id)
             ->get();

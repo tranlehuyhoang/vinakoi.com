@@ -482,11 +482,13 @@
                                                                                                 href="/product/{{$product->slug}}/">{{$product->name}}</a>
                                                                                         </h3>
                                                                                         <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->min_price, 0, ',', '.') }}<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                            &ndash; <span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+                                                                                            <p class="price"><span
+                                                                                                    class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->min_price, 0, ',', '.') }}<span
+                                                                                                            class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                                &ndash; <span
+                                                                                                    class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->max_price, 0, ',', '.') }}<span
+                                                                                                            class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                            </p>
                                                                                         </div>
                                                                                         <div
                                                                                             class="jet-woo-products-cqw-wrapper">
@@ -598,11 +600,13 @@
                                                                                                                 href="/product/{{$product->slug}}/">{{$product->name}}</a>
                                                                                                         </h3>
                                                                                                         <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->min_price, 0, ',', '.') }}<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                            &ndash; <span
-                                                                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+                                                                                                            <p class="price"><span
+                                                                                                                    class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->min_price, 0, ',', '.') }}<span
+                                                                                                                            class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                                                &ndash; <span
+                                                                                                                    class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->max_price, 0, ',', '.') }}<span
+                                                                                                                            class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                                            </p>
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="jet-woo-products-cqw-wrapper">
@@ -719,11 +723,13 @@
                                                                                                                 href="/product/{{$product->slug}}/">{{$product->name}}</a>
                                                                                                         </h3>
                                                                                                         <div class="jet-woo-product-price">
-                                                                                        <span class="price"><span
-                                                                                                class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->min_price, 0, ',', '.') }}<span
-                                                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                            &ndash; <span
-                                                                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
+                                                                                                            <p class="price"><span
+                                                                                                                    class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->min_price, 0, ',', '.') }}<span
+                                                                                                                            class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                                                &ndash; <span
+                                                                                                                    class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->max_price, 0, ',', '.') }}<span
+                                                                                                                            class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                                            </p>
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="jet-woo-products-cqw-wrapper">
@@ -856,7 +862,7 @@
                                                                                             <div
                                                                                                 class="elementor-widget-container">
                                                                                                 <img decoding="async"
-                                                                                                    src="/assets/wp-content/uploads/elementor/thumbs/zalo-vinakoi-qaatcfz17fjtx8zw12yrsnqqv73saztzq0ssi1wv0k.jpg"
+                                                                                                    src="{{asset('/assets/wp-content/uploads/elementor/thumbs/zalo-hikari-qaatcfz17fjtx8zw12yrsnqqv73saztzq0ssi1wv0k.jpg')}}"
                                                                                                     title="zalo-vinakoi"
                                                                                                     alt="zalo-vinakoi"
                                                                                                     loading="lazy" />
