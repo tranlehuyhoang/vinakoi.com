@@ -34,232 +34,48 @@
                                                     href="/assets/wp-content/plugins/elementor-pro/assets/css/widget-posts.min.css">
                                                 <div
                                                     class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
-                                                    <article
-                                                        class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
-                                                        <a class="elementor-post__thumbnail__link"
-                                                            href="/service/ca-chep-phi-tan/" tabindex="-1">
-                                                            <div class="elementor-post__thumbnail"><img width="768"
-                                                                    height="432"
-                                                                    src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
-                                                                    class="attachment-medium_large size-medium_large wp-image-3684"
-                                                                    alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
-                                                            </div>
-                                                        </a>
-                                                        <div class="elementor-post__text">
-                                                            <h3 class="elementor-post__title">
-                                                                <a href="/service/ca-chep-phi-tan/">
-                                                                    Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết
-                                                                    Nhất </a>
-                                                            </h3>
-                                                            <div class="elementor-post__meta-data">
+                                                    @foreach($services as $service)
+                                                        <article
+                                                            class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
+                                                            <a class="elementor-post__thumbnail__link"
+                                                               href="/service/{{$service->slug}}" tabindex="-1">
+                                                                <div class="elementor-post__thumbnail"><img width="768"
+                                                                                                            height="432"
+                                                                                                            src="{{\Illuminate\Support\Facades\Storage::url($service->banner)}}"
+                                                                                                            class="attachment-medium_large size-medium_large wp-image-3684"
+                                                                                                            alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
+                                                                </div>
+                                                            </a>
+                                                            <div class="elementor-post__text">
+                                                                <h3 class="elementor-post__title">
+                                                                    <a href="/service/{{$service->slug}}">
+                                                                        {{$service->title}} </a>
+                                                                </h3>
+                                                                <div class="elementor-post__meta-data">
                                                                 <span class="elementor-post-date">
-                                                                    21 Tháng Ba, 2025 </span>
+                                                                    {{$service->created_at}} </span>
+                                                                </div>
+                                                                <div class="elementor-post__excerpt">
+                                                                    <p>{!! $service->short_desc !!}</p>
+                                                                </div>
                                                             </div>
-                                                            <div class="elementor-post__excerpt">
-                                                                <p>Cá chép Phi Tần mang một nét đẹp riêng, khó có loài
-                                                                    cá nào sánh được. Chúng thường được nuôi trong các
-                                                                    hồ cảnh để làm đẹp và mang lại ý nghĩa phong thủy
-                                                                    tốt lành. Nếu bạn đang tìm hiểu về dòng cá này hãy
-                                                                    xem hết bài viết dưới đây, bao gồm thông tin</p>
-                                                            </div>
-                                                        </div>
-                                                    </article>
-                                                    <article
-                                                        class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
-                                                        <a class="elementor-post__thumbnail__link"
-                                                            href="/service/ca-chep-phi-tan/" tabindex="-1">
-                                                            <div class="elementor-post__thumbnail"><img width="768"
-                                                                    height="432"
-                                                                    src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
-                                                                    class="attachment-medium_large size-medium_large wp-image-3684"
-                                                                    alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
-                                                            </div>
-                                                        </a>
-                                                        <div class="elementor-post__text">
-                                                            <h3 class="elementor-post__title">
-                                                                <a href="/service/ca-chep-phi-tan/">
-                                                                    Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết
-                                                                    Nhất </a>
-                                                            </h3>
-                                                            <div class="elementor-post__meta-data">
-                                                                <span class="elementor-post-date">
-                                                                    21 Tháng Ba, 2025 </span>
-                                                            </div>
-                                                            <div class="elementor-post__excerpt">
-                                                                <p>Cá chép Phi Tần mang một nét đẹp riêng, khó có loài
-                                                                    cá nào sánh được. Chúng thường được nuôi trong các
-                                                                    hồ cảnh để làm đẹp và mang lại ý nghĩa phong thủy
-                                                                    tốt lành. Nếu bạn đang tìm hiểu về dòng cá này hãy
-                                                                    xem hết bài viết dưới đây, bao gồm thông tin</p>
-                                                            </div>
-                                                        </div>
-                                                    </article>
-                                                    <article
-                                                        class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
-                                                        <a class="elementor-post__thumbnail__link"
-                                                            href="/service/ca-chep-phi-tan/" tabindex="-1">
-                                                            <div class="elementor-post__thumbnail"><img width="768"
-                                                                    height="432"
-                                                                    src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
-                                                                    class="attachment-medium_large size-medium_large wp-image-3684"
-                                                                    alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
-                                                            </div>
-                                                        </a>
-                                                        <div class="elementor-post__text">
-                                                            <h3 class="elementor-post__title">
-                                                                <a href="/service/ca-chep-phi-tan/">
-                                                                    Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết
-                                                                    Nhất </a>
-                                                            </h3>
-                                                            <div class="elementor-post__meta-data">
-                                                                <span class="elementor-post-date">
-                                                                    21 Tháng Ba, 2025 </span>
-                                                            </div>
-                                                            <div class="elementor-post__excerpt">
-                                                                <p>Cá chép Phi Tần mang một nét đẹp riêng, khó có loài
-                                                                    cá nào sánh được. Chúng thường được nuôi trong các
-                                                                    hồ cảnh để làm đẹp và mang lại ý nghĩa phong thủy
-                                                                    tốt lành. Nếu bạn đang tìm hiểu về dòng cá này hãy
-                                                                    xem hết bài viết dưới đây, bao gồm thông tin</p>
-                                                            </div>
-                                                        </div>
-                                                    </article>
-                                                    <article
-                                                        class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
-                                                        <a class="elementor-post__thumbnail__link"
-                                                            href="/service/ca-chep-phi-tan/" tabindex="-1">
-                                                            <div class="elementor-post__thumbnail"><img width="768"
-                                                                    height="432"
-                                                                    src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
-                                                                    class="attachment-medium_large size-medium_large wp-image-3684"
-                                                                    alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
-                                                            </div>
-                                                        </a>
-                                                        <div class="elementor-post__text">
-                                                            <h3 class="elementor-post__title">
-                                                                <a href="/service/ca-chep-phi-tan/">
-                                                                    Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết
-                                                                    Nhất </a>
-                                                            </h3>
-                                                            <div class="elementor-post__meta-data">
-                                                                <span class="elementor-post-date">
-                                                                    21 Tháng Ba, 2025 </span>
-                                                            </div>
-                                                            <div class="elementor-post__excerpt">
-                                                                <p>Cá chép Phi Tần mang một nét đẹp riêng, khó có loài
-                                                                    cá nào sánh được. Chúng thường được nuôi trong các
-                                                                    hồ cảnh để làm đẹp và mang lại ý nghĩa phong thủy
-                                                                    tốt lành. Nếu bạn đang tìm hiểu về dòng cá này hãy
-                                                                    xem hết bài viết dưới đây, bao gồm thông tin</p>
-                                                            </div>
-                                                        </div>
-                                                    </article>
-                                                    <article
-                                                        class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
-                                                        <a class="elementor-post__thumbnail__link"
-                                                            href="/service/ca-chep-phi-tan/" tabindex="-1">
-                                                            <div class="elementor-post__thumbnail"><img width="768"
-                                                                    height="432"
-                                                                    src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
-                                                                    class="attachment-medium_large size-medium_large wp-image-3684"
-                                                                    alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
-                                                            </div>
-                                                        </a>
-                                                        <div class="elementor-post__text">
-                                                            <h3 class="elementor-post__title">
-                                                                <a href="/service/ca-chep-phi-tan/">
-                                                                    Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết
-                                                                    Nhất </a>
-                                                            </h3>
-                                                            <div class="elementor-post__meta-data">
-                                                                <span class="elementor-post-date">
-                                                                    21 Tháng Ba, 2025 </span>
-                                                            </div>
-                                                            <div class="elementor-post__excerpt">
-                                                                <p>Cá chép Phi Tần mang một nét đẹp riêng, khó có loài
-                                                                    cá nào sánh được. Chúng thường được nuôi trong các
-                                                                    hồ cảnh để làm đẹp và mang lại ý nghĩa phong thủy
-                                                                    tốt lành. Nếu bạn đang tìm hiểu về dòng cá này hãy
-                                                                    xem hết bài viết dưới đây, bao gồm thông tin</p>
-                                                            </div>
-                                                        </div>
-                                                    </article>
-                                                    <article
-                                                        class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
-                                                        <a class="elementor-post__thumbnail__link"
-                                                            href="/service/ca-chep-phi-tan/" tabindex="-1">
-                                                            <div class="elementor-post__thumbnail"><img width="768"
-                                                                    height="432"
-                                                                    src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
-                                                                    class="attachment-medium_large size-medium_large wp-image-3684"
-                                                                    alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
-                                                            </div>
-                                                        </a>
-                                                        <div class="elementor-post__text">
-                                                            <h3 class="elementor-post__title">
-                                                                <a href="/service/ca-chep-phi-tan/">
-                                                                    Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết
-                                                                    Nhất </a>
-                                                            </h3>
-                                                            <div class="elementor-post__meta-data">
-                                                                <span class="elementor-post-date">
-                                                                    21 Tháng Ba, 2025 </span>
-                                                            </div>
-                                                            <div class="elementor-post__excerpt">
-                                                                <p>Cá chép Phi Tần mang một nét đẹp riêng, khó có loài
-                                                                    cá nào sánh được. Chúng thường được nuôi trong các
-                                                                    hồ cảnh để làm đẹp và mang lại ý nghĩa phong thủy
-                                                                    tốt lành. Nếu bạn đang tìm hiểu về dòng cá này hãy
-                                                                    xem hết bài viết dưới đây, bao gồm thông tin</p>
-                                                            </div>
-                                                        </div>
-                                                    </article>
-                                                    <article
-                                                        class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width ast-width-md-12 ast-archive-post">
-                                                        <a class="elementor-post__thumbnail__link"
-                                                            href="/service/ca-chep-phi-tan/" tabindex="-1">
-                                                            <div class="elementor-post__thumbnail"><img width="768"
-                                                                    height="432"
-                                                                    src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
-                                                                    class="attachment-medium_large size-medium_large wp-image-3684"
-                                                                    alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
-                                                            </div>
-                                                        </a>
-                                                        <div class="elementor-post__text">
-                                                            <h3 class="elementor-post__title">
-                                                                <a href="/service/ca-chep-phi-tan/">
-                                                                    Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết
-                                                                    Nhất </a>
-                                                            </h3>
-                                                            <div class="elementor-post__meta-data">
-                                                                <span class="elementor-post-date">
-                                                                    21 Tháng Ba, 2025 </span>
-                                                            </div>
-                                                            <div class="elementor-post__excerpt">
-                                                                <p>Cá chép Phi Tần mang một nét đẹp riêng, khó có loài
-                                                                    cá nào sánh được. Chúng thường được nuôi trong các
-                                                                    hồ cảnh để làm đẹp và mang lại ý nghĩa phong thủy
-                                                                    tốt lành. Nếu bạn đang tìm hiểu về dòng cá này hãy
-                                                                    xem hết bài viết dưới đây, bao gồm thông tin</p>
-                                                            </div>
-                                                        </div>
-                                                    </article>
+                                                        </article>
+                                                    @endforeach
+
+
 
                                                 </div>
 
                                                 <div class="e-load-more-anchor" data-page="1" data-max-page="10"
                                                     data-next-page="/blog/page/2/"></div>
                                                 <nav class="elementor-pagination" aria-label="Pagination">
-                                                    <span aria-current="page" class="page-numbers current"><span
-                                                            class="elementor-screen-only">Trang</span>1</span>
-                                                    <a class="page-numbers" href="/blog/page/2/"><span
-                                                            class="elementor-screen-only">Trang</span>2</a>
-                                                    <a class="page-numbers" href="/blog/page/3/"><span
-                                                            class="elementor-screen-only">Trang</span>3</a>
-                                                    <span class="page-numbers dots">&hellip;</span>
-                                                    <a class="page-numbers" href="/blog/page/10/"><span
-                                                            class="elementor-screen-only">Trang</span>10</a>
+                                                    @foreach ($services->getUrlRange(1, $services->lastPage()) as $page => $url)
+                                                        <a class="page-numbers{{ $page == $services->currentPage() ? ' current' : '' }}" href="{{ $url }}">
+                                                            <span class="elementor-screen-only">Page</span>{{ $page }}
+                                                        </a>
+                                                    @endforeach
                                                 </nav>
+
                                             </div>
                                         </div>
                                     </div>

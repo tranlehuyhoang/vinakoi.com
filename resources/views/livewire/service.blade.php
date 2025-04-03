@@ -1,7 +1,7 @@
 <div>
 
     <head>
-        <title>Cá Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất 2025</title>
+        <title>{{$service->title}}</title>
         @livewire('inc.css.blog')
     </head>
 
@@ -80,8 +80,7 @@
                                                                 font-size: 59px
                                                             }
                                                         </style>
-                                                        <h1 class="elementor-heading-title elementor-size-default">Cá
-                                                            Chép Phi Tần: Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất</h1>
+                                                        <h1 class="elementor-heading-title elementor-size-default">{{$service->title}}</h1>
                                                     </div>
                                                 </div>
                                                 <div class="elementor-element elementor-element-ec6802f elementor-widget elementor-widget-post-info"
@@ -98,7 +97,7 @@
                                                                             class="far fa-calendar-alt"></i> </span>
                                                                     <span
                                                                         class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
-                                                                        <time>Tháng Ba 21, 2025</time> </span>
+                                                                        <time>{{$service->created_at}}</time> </span>
                                                                 </a>
                                                             </li>
                                                             <li class="elementor-icon-list-item elementor-repeater-item-cf7feaa elementor-inline-item"
@@ -138,10 +137,10 @@
                                                                 display: inline-block
                                                             }
                                                         </style> <img width="800" height="450"
-                                                            src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg"
+                                                            src="{{\Illuminate\Support\Facades\Storage::url($service->banner)}}"
                                                             class="attachment-full size-full wp-image-3684"
                                                             alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất"
-                                                            srcset="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan.jpg 800w, /assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg 768w, /assets/wp-content/uploads/2025/03/ca-chep-phi-tan-600x338.jpg 600w"
+                                                            srcset="{{\Illuminate\Support\Facades\Storage::url($service->banner)}} 800w, {{\Illuminate\Support\Facades\Storage::url($service->banner)}} 768w, {{\Illuminate\Support\Facades\Storage::url($service->banner)}} 600w"
                                                             sizes="(max-width: 800px) 100vw, 800px" />
                                                     </div>
                                                 </div>
@@ -150,242 +149,189 @@
                                                     data-widget_type="theme-post-content.default">
                                                     <div class="elementor-widget-container">
                                                         <div id="ftwp-postcontent">
-                                                            <p style="text-align: justify;"><a
-                                                                    href="/ca-chep-phi-tan/"><strong>Cá
-                                                                        chép Phi Tần</strong></a><span
-                                                                    style="font-weight: 400;"> mang một nét đẹp riêng,
-                                                                    khó có loài cá nào sánh được. Chúng thường được nuôi
-                                                                    trong các hồ cảnh để làm đẹp và mang lại ý nghĩa
-                                                                    phong thủy tốt lành. Nếu bạn đang tìm hiểu về dòng
-                                                                    cá này hãy xem hết bài viết dưới đây, bao gồm thông
-                                                                    tin về cá chép Phi Tần, cách nuôi và cách setup bể
-                                                                    cá chi tiết. </span></p>
-                                                            <div id="ftwp-container-outer"
-                                                                class="ftwp-in-post ftwp-float-none">
-                                                                <div id="ftwp-container"
-                                                                    class="ftwp-wrap ftwp-hidden-state ftwp-minimize ftwp-middle-left">
-                                                                    <button type="button" id="ftwp-trigger"
-                                                                        class="ftwp-shape-round ftwp-border-medium"
-                                                                        title="click To Maximize The Table Of Contents"><span
-                                                                            class="ftwp-trigger-icon ftwp-icon-number"></span></button>
-                                                                    <nav id="ftwp-contents"
-                                                                        class="ftwp-shape-square ftwp-border-medium">
-                                                                        <header id="ftwp-header"><span
-                                                                                id="ftwp-header-control"
-                                                                                class="ftwp-icon-number"></span><button
-                                                                                type="button" id="ftwp-header-minimize"
-                                                                                class="ftwp-icon-expand"
-                                                                                aria-labelledby="ftwp-header-title"
-                                                                                aria-label="Expand or collapse"></button>
-                                                                            <h2 id="ftwp-header-title">Phụ Lục</h2>
-                                                                        </header>
-                                                                        <ol id="ftwp-list"
-                                                                            class="ftwp-liststyle-decimal ftwp-effect-bounce-to-right ftwp-list-nest ftwp-strong-first ftwp-colexp ftwp-colexp-icon">
-                                                                            <li
-                                                                                class="ftwp-item ftwp-has-sub ftwp-expand">
-                                                                                <button type="button"
-                                                                                    aria-label="Expand or collapse"
-                                                                                    class="ftwp-icon-expand"></button><a
-                                                                                    class="ftwp-anchor"
-                                                                                    href="#dac-diem-va-nguon-goc-ca-chep-phi-tan"><span
-                                                                                        class="ftwp-text">Đặc điểm và
-                                                                                        nguồn gốc cá chép Phi
-                                                                                        Tần</span></a>
-                                                                                <ol class="ftwp-sub">
-                                                                                    <li class="ftwp-item"><a
-                                                                                            class="ftwp-anchor"
-                                                                                            href="#ca-chep-phi-tan-la-ca-gi"><span
-                                                                                                class="ftwp-text">Cá
-                                                                                                chép Phi Tần là cá
-                                                                                                gì?</span></a></li>
-                                                                                    <li class="ftwp-item"><a
-                                                                                            class="ftwp-anchor"
-                                                                                            href="#dac-diem-cua-ca-chep-phi-tan"><span
-                                                                                                class="ftwp-text">Đặc
-                                                                                                điểm của cá chép Phi
-                                                                                                Tần</span></a></li>
-                                                                                </ol>
-                                                                            </li>
-                                                                            <li class="ftwp-item"><a class="ftwp-anchor"
-                                                                                    href="#cach-phan-biet-ca-chep-phi-tan-va-ca-chep-su-tu"><span
-                                                                                        class="ftwp-text">Cách phân biệt
-                                                                                        cá chép Phi Tần và cá chép Sư
-                                                                                        Tử</span></a></li>
-                                                                            <li
-                                                                                class="ftwp-item ftwp-has-sub ftwp-expand">
-                                                                                <button type="button"
-                                                                                    aria-label="Expand or collapse"
-                                                                                    class="ftwp-icon-expand"></button><a
-                                                                                    class="ftwp-anchor"
-                                                                                    href="#ca-chep-phi-tan-co-may-loai"><span
-                                                                                        class="ftwp-text">Cá chép Phi
-                                                                                        Tần có mấy loại?</span></a>
-                                                                                <ol class="ftwp-sub">
-                                                                                    <li class="ftwp-item"><a
-                                                                                            class="ftwp-anchor"
-                                                                                            href="#phi-tan-co-dien"><span
-                                                                                                class="ftwp-text">Phi
-                                                                                                Tần cổ điển</span></a>
-                                                                                    </li>
-                                                                                    <li class="ftwp-item"><a
-                                                                                            class="ftwp-anchor"
-                                                                                            href="#phi-tan-cuu-cap"><span
-                                                                                                class="ftwp-text">Phi
-                                                                                                Tần cửu cáp</span></a>
-                                                                                    </li>
-                                                                                </ol>
-                                                                            </li>
-                                                                            <li class="ftwp-item"><a class="ftwp-anchor"
-                                                                                    href="#ca-chep-phi-tan-co-may-mau"><span
-                                                                                        class="ftwp-text">Cá chép Phi
-                                                                                        Tần có mấy màu?</span></a></li>
-                                                                            <li class="ftwp-item"><a class="ftwp-anchor"
-                                                                                    href="#ca-chep-phi-tan-gia-bao-nhieu-mot-con"><span
-                                                                                        class="ftwp-text">Cá chép Phi
-                                                                                        Tần giá bao nhiêu một
-                                                                                        con?</span></a></li>
-                                                                            <li class="ftwp-item"><a class="ftwp-anchor"
-                                                                                    href="#cach-chon-ca-chep-phi-tan-dep"><span
-                                                                                        class="ftwp-text">Cách chọn cá
-                                                                                        chép Phi Tần đẹp</span></a></li>
-                                                                            <li
-                                                                                class="ftwp-item ftwp-has-sub ftwp-expand">
-                                                                                <button type="button"
-                                                                                    aria-label="Expand or collapse"
-                                                                                    class="ftwp-icon-expand"></button><a
-                                                                                    class="ftwp-anchor"
-                                                                                    href="#cach-cham-soc-ca-chep-phi-tan-len-mau-dep-chi-tiet-nhat"><span
-                                                                                        class="ftwp-text">Cách chăm sóc
-                                                                                        cá chép phi tần lên màu đẹp chi
-                                                                                        tiết nhất</span></a>
-                                                                                <ol class="ftwp-sub">
-                                                                                    <li class="ftwp-item"><a
-                                                                                            class="ftwp-anchor"
-                                                                                            href="#xu-ly-nguon-nuoc-truoc-khi-cho-ca-vao-ho"><span
-                                                                                                class="ftwp-text">Xử lý
-                                                                                                nguồn nước trước khi cho
-                                                                                                cá vào hồ</span></a>
-                                                                                    </li>
-                                                                                    <li class="ftwp-item"><a
-                                                                                            class="ftwp-anchor"
-                                                                                            href="#kiem-soat-chat-luong-nuoc-vi-sinh-do-ph-bao-nhieu"><span
-                                                                                                class="ftwp-text">Kiểm
-                                                                                                soát chất lượng nước, vi
-                                                                                                sinh, độ pH bao
-                                                                                                nhiêu?</span></a></li>
-                                                                                    <li
-                                                                                        class="ftwp-item ftwp-has-sub ftwp-collapse">
-                                                                                        <button type="button"
-                                                                                            aria-label="Expand or collapse"
-                                                                                            class="ftwp-icon-collapse"></button><a
-                                                                                            class="ftwp-anchor"
-                                                                                            href="#ca-chep-phi-tan-an-gi-len-mau-dep"><span
-                                                                                                class="ftwp-text">Cá
-                                                                                                chép phi tần ăn gì lên
-                                                                                                màu đẹp?</span></a>
-                                                                                        <ol class="ftwp-sub">
-                                                                                            <li class="ftwp-item"><a
-                                                                                                    class="ftwp-anchor"
-                                                                                                    href="#thuc-an-tuoi-song"><span
-                                                                                                        class="ftwp-text">Thức
-                                                                                                        ăn tươi
-                                                                                                        sống</span></a>
-                                                                                            </li>
-                                                                                            <li class="ftwp-item"><a
-                                                                                                    class="ftwp-anchor"
-                                                                                                    href="#cam-cho-ca-chep-phi-tan"><span
-                                                                                                        class="ftwp-text">Cám
-                                                                                                        cho cá chép Phi
-                                                                                                        Tần</span></a>
-                                                                                            </li>
-                                                                                        </ol>
-                                                                                    </li>
-                                                                                    <li class="ftwp-item"><a
-                                                                                            class="ftwp-anchor"
-                                                                                            href="#chon-be-co-kich-thuoc-phu-hop"><span
-                                                                                                class="ftwp-text">Chọn
-                                                                                                bể có kích thước phù
-                                                                                                hợp</span></a></li>
-                                                                                    <li class="ftwp-item"><a
-                                                                                            class="ftwp-anchor"
-                                                                                            href="#cac-thiet-bi-be-ca-di-kem-nhu-bo-sui-oxy-den"><span
-                                                                                                class="ftwp-text">Các
-                                                                                                thiết bị bể cá đi kèm
-                                                                                                như bộ, sủi Oxy,
-                                                                                                đèn</span></a></li>
-                                                                                    <li class="ftwp-item"><a
-                                                                                            class="ftwp-anchor"
-                                                                                            href="#dam-bao-nhiet-do-anh-sang-thich-hop-cho-ca"><span
-                                                                                                class="ftwp-text">Đảm
-                                                                                                bảo nhiệt độ, ánh sáng
-                                                                                                thích hợp cho
-                                                                                                cá</span></a></li>
-                                                                                    <li class="ftwp-item"><a
-                                                                                            class="ftwp-anchor"
-                                                                                            href="#trang-tri-moi-truong-bang-cay-thuy-sinh-tieu-canh"><span
-                                                                                                class="ftwp-text">Trang
-                                                                                                trí môi trường bằng cây
-                                                                                                thủy sinh, tiểu
-                                                                                                cảnh</span></a></li>
-                                                                                </ol>
-                                                                            </li>
-                                                                            <li class="ftwp-item"><a class="ftwp-anchor"
-                                                                                    href="#cac-loai-benh-thuong-gap-o-ca-chep-phi-tan-va-cach-phong-benh"><span
-                                                                                        class="ftwp-text">Các loại bệnh
-                                                                                        thường gặp ở cá chép phi tần và
-                                                                                        cách phòng bệnh</span></a></li>
-                                                                        </ol>
-                                                                    </nav>
-                                                                </div>
-                                                            </div>
-                                                            <h2 id="dac-diem-va-nguon-goc-ca-chep-phi-tan"
-                                                                class="ftwp-heading" style="text-align: justify;">
-                                                                <strong>Đặc điểm và nguồn gốc cá chép Phi Tần</strong>
-                                                            </h2>
-                                                            <p>Trước tiên cùng Hoang Pet Food tìm hiểu về nguồn gốc
-                                                                cũng như đặc điểm của cá chép Phi Tần, rồi từ đó chúng
-                                                                ta sẽ xác định được cách nuôi cá khỏe mạnh, lên màu đẹp
-                                                                cho cá nhé!</p>
-                                                            <h3 id="ca-chep-phi-tan-la-ca-gi" class="ftwp-heading">Cá
-                                                                chép Phi Tần là cá gì?</h3>
                                                             <p style="text-align: justify;"><span
-                                                                    style="font-weight: 400;">Cá chép Phi Tần thuộc họ
-                                                                    cá Chép, là một trong các loài cá nước ngọt được
-                                                                    nhiều người ưa chuộng nhất trên thị trường hiện nay.
-                                                                    Điểm nhấn nổi bật nhất của loài cá này chính là vây
-                                                                    và đuôi dài, mềm mại, uyển chuyển, đồng thời cải
-                                                                    thiện khả năng thích nghi với môi trường và điều
-                                                                    kiện khí hậu ở các khu vực khác nhau.</span></p>
-                                                            <p style="text-align: justify;">Tính cách của cá chép Phi
-                                                                Tần khá hiền hòa, dễ nuôi và thân thiện. Cá chép phi tần
-                                                                nuôi chung với cá gì? Chúng có thể phù hợp nuôi chung
-                                                                với nhiều loại cá khác trong bể như các loại cá chép
-                                                                khác (cá chép Koi, cá chép Sư Tử,&#8230;), cá Vàng, cá
-                                                                bình tích, cá chuột Mỹ và cá tứ vân,&#8230;</p>
-                                                            <p style="text-align: justify;">Cá chép phi tần sống được
-                                                                bao lâu? Tuổi thọ trung bình của cá chép Phi Tần là
-                                                                khoảng từ 5 năm đến 10 năm có thể hơn nữa. Tùy thuộc vào
-                                                                điều kiện nuôi và cách chăm sóc cá chép Phi Tần bao gồm:
-                                                                chất lượng nước, chế độ dinh dưỡng, kích thước
-                                                                hồ,&#8230; và nhiều yếu tố khác. Bên dưới Hoang Pet
-                                                                Food sẽ hướng dẫn chi tiết cho các bạn nhé. Hãy cùng tìm
-                                                                hiểu tiếp nào!</p>
-                                                            <p style="text-align: justify;"><span
-                                                                    style="font-weight: 400;">Nhờ ngoại hình ấn tượng và
-                                                                    giá trị phong thủy cao, cá chép Phi Tần đã trở thành
-                                                                    lựa chọn yêu thích của người chơi cá cảnh ở nhiều
-                                                                    quốc gia, trong đó có Việt Nam.</span></p>
-                                                            <h3 id="dac-diem-cua-ca-chep-phi-tan" class="ftwp-heading"
-                                                                style="text-align: justify;"><strong>Đặc điểm của cá
-                                                                    chép Phi Tần</strong></h3>
-                                                            <p style="text-align: justify;">Cá chép Phi Tần sở hữu bảng
-                                                                màu đa dạng và bắt mắt. Các màu phổ biến bao gồm trắng,
-                                                                đỏ, đen, cam và vàng. Trong đó, các màu sắc hiếm như đỏ
-                                                                hoặc kết hợp giữa đỏ &#8211; trắng, đỏ &#8211; đen
-                                                                thường có giá trị cao hơn do tính thẩm mỹ độc đáo và độ
-                                                                hiếm của chúng. Lớp vảy óng ánh, đều đặn, vây và đuôi
-                                                                mềm mại, dài thướt tha, uốn lượn trong nước như dải lụa.
-                                                            </p>
+                                                                    style="font-weight: 400;">{!!$service->short_desc  !!}</span></p>
+{{--                                                            <div id="ftwp-container-outer"--}}
+{{--                                                                class="ftwp-in-post ftwp-float-none">--}}
+{{--                                                                <div id="ftwp-container"--}}
+{{--                                                                    class="ftwp-wrap ftwp-hidden-state ftwp-minimize ftwp-middle-left">--}}
+{{--                                                                    <button type="button" id="ftwp-trigger"--}}
+{{--                                                                        class="ftwp-shape-round ftwp-border-medium"--}}
+{{--                                                                        title="click To Maximize The Table Of Contents"><span--}}
+{{--                                                                            class="ftwp-trigger-icon ftwp-icon-number"></span></button>--}}
+{{--                                                                    <nav id="ftwp-contents"--}}
+{{--                                                                        class="ftwp-shape-square ftwp-border-medium">--}}
+{{--                                                                        <header id="ftwp-header"><span--}}
+{{--                                                                                id="ftwp-header-control"--}}
+{{--                                                                                class="ftwp-icon-number"></span><button--}}
+{{--                                                                                type="button" id="ftwp-header-minimize"--}}
+{{--                                                                                class="ftwp-icon-expand"--}}
+{{--                                                                                aria-labelledby="ftwp-header-title"--}}
+{{--                                                                                aria-label="Expand or collapse"></button>--}}
+{{--                                                                            <h2 id="ftwp-header-title">Phụ Lục</h2>--}}
+{{--                                                                        </header>--}}
+{{--                                                                        <ol id="ftwp-list"--}}
+{{--                                                                            class="ftwp-liststyle-decimal ftwp-effect-bounce-to-right ftwp-list-nest ftwp-strong-first ftwp-colexp ftwp-colexp-icon">--}}
+{{--                                                                            <li--}}
+{{--                                                                                class="ftwp-item ftwp-has-sub ftwp-expand">--}}
+{{--                                                                                <button type="button"--}}
+{{--                                                                                    aria-label="Expand or collapse"--}}
+{{--                                                                                    class="ftwp-icon-expand"></button><a--}}
+{{--                                                                                    class="ftwp-anchor"--}}
+{{--                                                                                    href="#dac-diem-va-nguon-goc-ca-chep-phi-tan"><span--}}
+{{--                                                                                        class="ftwp-text">Đặc điểm và--}}
+{{--                                                                                        nguồn gốc cá chép Phi--}}
+{{--                                                                                        Tần</span></a>--}}
+{{--                                                                                <ol class="ftwp-sub">--}}
+{{--                                                                                    <li class="ftwp-item"><a--}}
+{{--                                                                                            class="ftwp-anchor"--}}
+{{--                                                                                            href="#ca-chep-phi-tan-la-ca-gi"><span--}}
+{{--                                                                                                class="ftwp-text">Cá--}}
+{{--                                                                                                chép Phi Tần là cá--}}
+{{--                                                                                                gì?</span></a></li>--}}
+{{--                                                                                    <li class="ftwp-item"><a--}}
+{{--                                                                                            class="ftwp-anchor"--}}
+{{--                                                                                            href="#dac-diem-cua-ca-chep-phi-tan"><span--}}
+{{--                                                                                                class="ftwp-text">Đặc--}}
+{{--                                                                                                điểm của cá chép Phi--}}
+{{--                                                                                                Tần</span></a></li>--}}
+{{--                                                                                </ol>--}}
+{{--                                                                            </li>--}}
+{{--                                                                            <li class="ftwp-item"><a class="ftwp-anchor"--}}
+{{--                                                                                    href="#cach-phan-biet-ca-chep-phi-tan-va-ca-chep-su-tu"><span--}}
+{{--                                                                                        class="ftwp-text">Cách phân biệt--}}
+{{--                                                                                        cá chép Phi Tần và cá chép Sư--}}
+{{--                                                                                        Tử</span></a></li>--}}
+{{--                                                                            <li--}}
+{{--                                                                                class="ftwp-item ftwp-has-sub ftwp-expand">--}}
+{{--                                                                                <button type="button"--}}
+{{--                                                                                    aria-label="Expand or collapse"--}}
+{{--                                                                                    class="ftwp-icon-expand"></button><a--}}
+{{--                                                                                    class="ftwp-anchor"--}}
+{{--                                                                                    href="#ca-chep-phi-tan-co-may-loai"><span--}}
+{{--                                                                                        class="ftwp-text">Cá chép Phi--}}
+{{--                                                                                        Tần có mấy loại?</span></a>--}}
+{{--                                                                                <ol class="ftwp-sub">--}}
+{{--                                                                                    <li class="ftwp-item"><a--}}
+{{--                                                                                            class="ftwp-anchor"--}}
+{{--                                                                                            href="#phi-tan-co-dien"><span--}}
+{{--                                                                                                class="ftwp-text">Phi--}}
+{{--                                                                                                Tần cổ điển</span></a>--}}
+{{--                                                                                    </li>--}}
+{{--                                                                                    <li class="ftwp-item"><a--}}
+{{--                                                                                            class="ftwp-anchor"--}}
+{{--                                                                                            href="#phi-tan-cuu-cap"><span--}}
+{{--                                                                                                class="ftwp-text">Phi--}}
+{{--                                                                                                Tần cửu cáp</span></a>--}}
+{{--                                                                                    </li>--}}
+{{--                                                                                </ol>--}}
+{{--                                                                            </li>--}}
+{{--                                                                            <li class="ftwp-item"><a class="ftwp-anchor"--}}
+{{--                                                                                    href="#ca-chep-phi-tan-co-may-mau"><span--}}
+{{--                                                                                        class="ftwp-text">Cá chép Phi--}}
+{{--                                                                                        Tần có mấy màu?</span></a></li>--}}
+{{--                                                                            <li class="ftwp-item"><a class="ftwp-anchor"--}}
+{{--                                                                                    href="#ca-chep-phi-tan-gia-bao-nhieu-mot-con"><span--}}
+{{--                                                                                        class="ftwp-text">Cá chép Phi--}}
+{{--                                                                                        Tần giá bao nhiêu một--}}
+{{--                                                                                        con?</span></a></li>--}}
+{{--                                                                            <li class="ftwp-item"><a class="ftwp-anchor"--}}
+{{--                                                                                    href="#cach-chon-ca-chep-phi-tan-dep"><span--}}
+{{--                                                                                        class="ftwp-text">Cách chọn cá--}}
+{{--                                                                                        chép Phi Tần đẹp</span></a></li>--}}
+{{--                                                                            <li--}}
+{{--                                                                                class="ftwp-item ftwp-has-sub ftwp-expand">--}}
+{{--                                                                                <button type="button"--}}
+{{--                                                                                    aria-label="Expand or collapse"--}}
+{{--                                                                                    class="ftwp-icon-expand"></button><a--}}
+{{--                                                                                    class="ftwp-anchor"--}}
+{{--                                                                                    href="#cach-cham-soc-ca-chep-phi-tan-len-mau-dep-chi-tiet-nhat"><span--}}
+{{--                                                                                        class="ftwp-text">Cách chăm sóc--}}
+{{--                                                                                        cá chép phi tần lên màu đẹp chi--}}
+{{--                                                                                        tiết nhất</span></a>--}}
+{{--                                                                                <ol class="ftwp-sub">--}}
+{{--                                                                                    <li class="ftwp-item"><a--}}
+{{--                                                                                            class="ftwp-anchor"--}}
+{{--                                                                                            href="#xu-ly-nguon-nuoc-truoc-khi-cho-ca-vao-ho"><span--}}
+{{--                                                                                                class="ftwp-text">Xử lý--}}
+{{--                                                                                                nguồn nước trước khi cho--}}
+{{--                                                                                                cá vào hồ</span></a>--}}
+{{--                                                                                    </li>--}}
+{{--                                                                                    <li class="ftwp-item"><a--}}
+{{--                                                                                            class="ftwp-anchor"--}}
+{{--                                                                                            href="#kiem-soat-chat-luong-nuoc-vi-sinh-do-ph-bao-nhieu"><span--}}
+{{--                                                                                                class="ftwp-text">Kiểm--}}
+{{--                                                                                                soát chất lượng nước, vi--}}
+{{--                                                                                                sinh, độ pH bao--}}
+{{--                                                                                                nhiêu?</span></a></li>--}}
+{{--                                                                                    <li--}}
+{{--                                                                                        class="ftwp-item ftwp-has-sub ftwp-collapse">--}}
+{{--                                                                                        <button type="button"--}}
+{{--                                                                                            aria-label="Expand or collapse"--}}
+{{--                                                                                            class="ftwp-icon-collapse"></button><a--}}
+{{--                                                                                            class="ftwp-anchor"--}}
+{{--                                                                                            href="#ca-chep-phi-tan-an-gi-len-mau-dep"><span--}}
+{{--                                                                                                class="ftwp-text">Cá--}}
+{{--                                                                                                chép phi tần ăn gì lên--}}
+{{--                                                                                                màu đẹp?</span></a>--}}
+{{--                                                                                        <ol class="ftwp-sub">--}}
+{{--                                                                                            <li class="ftwp-item"><a--}}
+{{--                                                                                                    class="ftwp-anchor"--}}
+{{--                                                                                                    href="#thuc-an-tuoi-song"><span--}}
+{{--                                                                                                        class="ftwp-text">Thức--}}
+{{--                                                                                                        ăn tươi--}}
+{{--                                                                                                        sống</span></a>--}}
+{{--                                                                                            </li>--}}
+{{--                                                                                            <li class="ftwp-item"><a--}}
+{{--                                                                                                    class="ftwp-anchor"--}}
+{{--                                                                                                    href="#cam-cho-ca-chep-phi-tan"><span--}}
+{{--                                                                                                        class="ftwp-text">Cám--}}
+{{--                                                                                                        cho cá chép Phi--}}
+{{--                                                                                                        Tần</span></a>--}}
+{{--                                                                                            </li>--}}
+{{--                                                                                        </ol>--}}
+{{--                                                                                    </li>--}}
+{{--                                                                                    <li class="ftwp-item"><a--}}
+{{--                                                                                            class="ftwp-anchor"--}}
+{{--                                                                                            href="#chon-be-co-kich-thuoc-phu-hop"><span--}}
+{{--                                                                                                class="ftwp-text">Chọn--}}
+{{--                                                                                                bể có kích thước phù--}}
+{{--                                                                                                hợp</span></a></li>--}}
+{{--                                                                                    <li class="ftwp-item"><a--}}
+{{--                                                                                            class="ftwp-anchor"--}}
+{{--                                                                                            href="#cac-thiet-bi-be-ca-di-kem-nhu-bo-sui-oxy-den"><span--}}
+{{--                                                                                                class="ftwp-text">Các--}}
+{{--                                                                                                thiết bị bể cá đi kèm--}}
+{{--                                                                                                như bộ, sủi Oxy,--}}
+{{--                                                                                                đèn</span></a></li>--}}
+{{--                                                                                    <li class="ftwp-item"><a--}}
+{{--                                                                                            class="ftwp-anchor"--}}
+{{--                                                                                            href="#dam-bao-nhiet-do-anh-sang-thich-hop-cho-ca"><span--}}
+{{--                                                                                                class="ftwp-text">Đảm--}}
+{{--                                                                                                bảo nhiệt độ, ánh sáng--}}
+{{--                                                                                                thích hợp cho--}}
+{{--                                                                                                cá</span></a></li>--}}
+{{--                                                                                    <li class="ftwp-item"><a--}}
+{{--                                                                                            class="ftwp-anchor"--}}
+{{--                                                                                            href="#trang-tri-moi-truong-bang-cay-thuy-sinh-tieu-canh"><span--}}
+{{--                                                                                                class="ftwp-text">Trang--}}
+{{--                                                                                                trí môi trường bằng cây--}}
+{{--                                                                                                thủy sinh, tiểu--}}
+{{--                                                                                                cảnh</span></a></li>--}}
+{{--                                                                                </ol>--}}
+{{--                                                                            </li>--}}
+{{--                                                                            <li class="ftwp-item"><a class="ftwp-anchor"--}}
+{{--                                                                                    href="#cac-loai-benh-thuong-gap-o-ca-chep-phi-tan-va-cach-phong-benh"><span--}}
+{{--                                                                                        class="ftwp-text">Các loại bệnh--}}
+{{--                                                                                        thường gặp ở cá chép phi tần và--}}
+{{--                                                                                        cách phòng bệnh</span></a></li>--}}
+{{--                                                                        </ol>--}}
+{{--                                                                    </nav>--}}
+{{--                                                                </div>--}}
+{{--                                                            </div>--}}
+
+                                                            <p style="text-align: justify;">{!! $service->description !!}</p>
+
 
 
 
@@ -560,120 +506,28 @@
                                                             href="/assets/wp-content/plugins/elementor-pro/assets/css/widget-posts.min.css">
                                                         <div
                                                             class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
-                                                            <article
-                                                                class="elementor-post elementor-grid-item post-3507 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi post-ftoc">
-                                                                <a class="elementor-post__thumbnail__link"
-                                                                    href="/service/ca-chep-phung/" tabindex="-1">
-                                                                    <div class="elementor-post__thumbnail"><img
-                                                                            width="800" height="450"
-                                                                            src="/assets/wp-content/uploads/2025/03/ca-chep-phung-1.jpg"
-                                                                            class="attachment-full size-full wp-image-3677"
-                                                                            alt="Cá Chép Phụng Cách Nuôi Và Chăm Sóc Khỏe Đẹp Chi Tiết Nhất" />
+                                                            @foreach($otherServices as $otherService)
+                                                                <article
+                                                                    class="elementor-post elementor-grid-item post-3507 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi post-ftoc">
+                                                                    <a class="elementor-post__thumbnail__link"
+                                                                       href="/service/{{$otherService->slug}}" tabindex="-1">
+                                                                        <div class="elementor-post__thumbnail"><img
+                                                                                width="800" height="450"
+                                                                                src="{{\Illuminate\Support\Facades\Storage::url($otherService->banner)}}"
+                                                                                class="attachment-full size-full wp-image-3677"
+                                                                                alt="{{$otherService->title}}" />
+                                                                        </div>
+                                                                    </a>
+                                                                    <div class="elementor-post__text">
+                                                                        <h3 class="elementor-post__title">
+                                                                            <a href="/service/{{$otherService->slug}}">
+                                                                               {{$otherService->title}} </a>
+                                                                        </h3>
                                                                     </div>
-                                                                </a>
-                                                                <div class="elementor-post__text">
-                                                                    <h3 class="elementor-post__title">
-                                                                        <a href="/service/ca-chep-phung/">
-                                                                            Khám Phá Cá Chép phụng Cách Chọn Cách Nuôi
-                                                                            Chăm Sóc Chi Tiết </a>
-                                                                    </h3>
-                                                                </div>
-                                                            </article>
-                                                            <article
-                                                                class="elementor-post elementor-grid-item post-3507 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi post-ftoc">
-                                                                <a class="elementor-post__thumbnail__link"
-                                                                    href="/service/ca-chep-phung/" tabindex="-1">
-                                                                    <div class="elementor-post__thumbnail"><img
-                                                                            width="800" height="450"
-                                                                            src="/assets/wp-content/uploads/2025/03/ca-chep-phung-1.jpg"
-                                                                            class="attachment-full size-full wp-image-3677"
-                                                                            alt="Cá Chép Phụng Cách Nuôi Và Chăm Sóc Khỏe Đẹp Chi Tiết Nhất" />
-                                                                    </div>
-                                                                </a>
-                                                                <div class="elementor-post__text">
-                                                                    <h3 class="elementor-post__title">
-                                                                        <a href="/service/ca-chep-phung/">
-                                                                            Khám Phá Cá Chép phụng Cách Chọn Cách Nuôi
-                                                                            Chăm Sóc Chi Tiết </a>
-                                                                    </h3>
-                                                                </div>
-                                                            </article>
-                                                            <article
-                                                                class="elementor-post elementor-grid-item post-3507 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi post-ftoc">
-                                                                <a class="elementor-post__thumbnail__link"
-                                                                    href="/service/ca-chep-phung/" tabindex="-1">
-                                                                    <div class="elementor-post__thumbnail"><img
-                                                                            width="800" height="450"
-                                                                            src="/assets/wp-content/uploads/2025/03/ca-chep-phung-1.jpg"
-                                                                            class="attachment-full size-full wp-image-3677"
-                                                                            alt="Cá Chép Phụng Cách Nuôi Và Chăm Sóc Khỏe Đẹp Chi Tiết Nhất" />
-                                                                    </div>
-                                                                </a>
-                                                                <div class="elementor-post__text">
-                                                                    <h3 class="elementor-post__title">
-                                                                        <a href="/service/ca-chep-phung/">
-                                                                            Khám Phá Cá Chép phụng Cách Chọn Cách Nuôi
-                                                                            Chăm Sóc Chi Tiết </a>
-                                                                    </h3>
-                                                                </div>
-                                                            </article>
-                                                            <article
-                                                                class="elementor-post elementor-grid-item post-3507 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi post-ftoc">
-                                                                <a class="elementor-post__thumbnail__link"
-                                                                    href="/service/ca-chep-phung/" tabindex="-1">
-                                                                    <div class="elementor-post__thumbnail"><img
-                                                                            width="800" height="450"
-                                                                            src="/assets/wp-content/uploads/2025/03/ca-chep-phung-1.jpg"
-                                                                            class="attachment-full size-full wp-image-3677"
-                                                                            alt="Cá Chép Phụng Cách Nuôi Và Chăm Sóc Khỏe Đẹp Chi Tiết Nhất" />
-                                                                    </div>
-                                                                </a>
-                                                                <div class="elementor-post__text">
-                                                                    <h3 class="elementor-post__title">
-                                                                        <a href="/service/ca-chep-phung/">
-                                                                            Khám Phá Cá Chép phụng Cách Chọn Cách Nuôi
-                                                                            Chăm Sóc Chi Tiết </a>
-                                                                    </h3>
-                                                                </div>
-                                                            </article>
-                                                            <article
-                                                                class="elementor-post elementor-grid-item post-3507 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi post-ftoc">
-                                                                <a class="elementor-post__thumbnail__link"
-                                                                    href="/service/ca-chep-phung/" tabindex="-1">
-                                                                    <div class="elementor-post__thumbnail"><img
-                                                                            width="800" height="450"
-                                                                            src="/assets/wp-content/uploads/2025/03/ca-chep-phung-1.jpg"
-                                                                            class="attachment-full size-full wp-image-3677"
-                                                                            alt="Cá Chép Phụng Cách Nuôi Và Chăm Sóc Khỏe Đẹp Chi Tiết Nhất" />
-                                                                    </div>
-                                                                </a>
-                                                                <div class="elementor-post__text">
-                                                                    <h3 class="elementor-post__title">
-                                                                        <a href="/service/ca-chep-phung/">
-                                                                            Khám Phá Cá Chép phụng Cách Chọn Cách Nuôi
-                                                                            Chăm Sóc Chi Tiết </a>
-                                                                    </h3>
-                                                                </div>
-                                                            </article>
-                                                            <article
-                                                                class="elementor-post elementor-grid-item post-3507 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi post-ftoc">
-                                                                <a class="elementor-post__thumbnail__link"
-                                                                    href="/service/ca-chep-phung/" tabindex="-1">
-                                                                    <div class="elementor-post__thumbnail"><img
-                                                                            width="800" height="450"
-                                                                            src="/assets/wp-content/uploads/2025/03/ca-chep-phung-1.jpg"
-                                                                            class="attachment-full size-full wp-image-3677"
-                                                                            alt="Cá Chép Phụng Cách Nuôi Và Chăm Sóc Khỏe Đẹp Chi Tiết Nhất" />
-                                                                    </div>
-                                                                </a>
-                                                                <div class="elementor-post__text">
-                                                                    <h3 class="elementor-post__title">
-                                                                        <a href="/service/ca-chep-phung/">
-                                                                            Khám Phá Cá Chép phụng Cách Chọn Cách Nuôi
-                                                                            Chăm Sóc Chi Tiết </a>
-                                                                    </h3>
-                                                                </div>
-                                                            </article>
+                                                                </article>
+                                                            @endforeach
+
+
 
                                                         </div>
 

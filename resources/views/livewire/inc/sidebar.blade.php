@@ -192,192 +192,39 @@
                                             <div
                                                 class="woocommerce widget_products">
                                                 <ul class="product_list_widget">
-                                                    <li>
+                                                    @foreach($products as $product)
+                                                        <li>
 
-                                                        <a
-                                                            href="/product/hikari-tropical-vibra-bites/">
-                                                            <img loading="lazy"
-                                                                width="300"
-                                                                height="300"
-                                                                src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
-                                                                class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                                alt="Hikari Tropical Vibra Bites - 73g"
+                                                            <a
+                                                                href="/product/{{$product->slug}}">
+                                                                <img loading="lazy"
+                                                                     width="300"
+                                                                     height="300"
+                                                                     src="{{\Illuminate\Support\Facades\Storage::url($product->image)}}"
+                                                                     class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
+                                                                     alt="{{$product->title}}"
 
-                                                               />
-                                                            <span
-                                                                class="product-title">Hikari®
-                                                                Tropical Vibra
-                                                                Bites™</span>
-                                                        </a>
+                                                                />
+                                                                <span
+                                                                    class="product-title">{{$product->title}}</span>
+                                                            </a>
 
-                                                        <div class="star-rating">
-                                                            <span
-                                                                style="width:0%">Được
-                                                                xếp hạng <strong
-                                                                    class="rating">0</strong>
-                                                                5 sao</span></div>
-                                                        <span
-                                                            class="woocommerce-Price-amount amount"><bdi>98.000<span
-                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                        &ndash; <span
-                                                            class="woocommerce-Price-amount amount"><bdi>858.000<span
-                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                    </li>
-                                                    <li>
-
-                                                        <a
-                                                            href="/product/hikari-tropical-vibra-bites/">
-                                                            <img loading="lazy"
-                                                                width="300"
-                                                                height="300"
-                                                                src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
-                                                                class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                                alt="Hikari Tropical Vibra Bites - 73g"
-
-                                                               />
-                                                            <span
-                                                                class="product-title">Hikari®
-                                                                Tropical Vibra
-                                                                Bites™</span>
-                                                        </a>
-
-                                                        <div class="star-rating">
+                                                            <div class="star-rating">
                                                             <span
                                                                 style="width:0%">Được
                                                                 xếp hạng <strong
                                                                     class="rating">0</strong>
                                                                 5 sao</span></div>
-                                                        <span
-                                                            class="woocommerce-Price-amount amount"><bdi>98.000<span
-                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                        &ndash; <span
-                                                            class="woocommerce-Price-amount amount"><bdi>858.000<span
-                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                    </li>
-                                                    <li>
-
-                                                        <a
-                                                            href="/product/hikari-tropical-vibra-bites/">
-                                                            <img loading="lazy"
-                                                                width="300"
-                                                                height="300"
-                                                                src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
-                                                                class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                                alt="Hikari Tropical Vibra Bites - 73g"
-
-                                                               />
                                                             <span
-                                                                class="product-title">Hikari®
-                                                                Tropical Vibra
-                                                                Bites™</span>
-                                                        </a>
+                                                                class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->min_price, 0, ',', '.') }}<span
+                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                            &ndash; <span
+                                                                class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->max_price, 0, ',', '.') }}<span
+                                                                        class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                        </li>
+                                                    @endforeach
 
-                                                        <div class="star-rating">
-                                                            <span
-                                                                style="width:0%">Được
-                                                                xếp hạng <strong
-                                                                    class="rating">0</strong>
-                                                                5 sao</span></div>
-                                                        <span
-                                                            class="woocommerce-Price-amount amount"><bdi>98.000<span
-                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                        &ndash; <span
-                                                            class="woocommerce-Price-amount amount"><bdi>858.000<span
-                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                    </li>
-                                                    <li>
 
-                                                        <a
-                                                            href="/product/hikari-tropical-vibra-bites/">
-                                                            <img loading="lazy"
-                                                                width="300"
-                                                                height="300"
-                                                                src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
-                                                                class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                                alt="Hikari Tropical Vibra Bites - 73g"
-
-                                                               />
-                                                            <span
-                                                                class="product-title">Hikari®
-                                                                Tropical Vibra
-                                                                Bites™</span>
-                                                        </a>
-
-                                                        <div class="star-rating">
-                                                            <span
-                                                                style="width:0%">Được
-                                                                xếp hạng <strong
-                                                                    class="rating">0</strong>
-                                                                5 sao</span></div>
-                                                        <span
-                                                            class="woocommerce-Price-amount amount"><bdi>98.000<span
-                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                        &ndash; <span
-                                                            class="woocommerce-Price-amount amount"><bdi>858.000<span
-                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                    </li>
-                                                    <li>
-
-                                                        <a
-                                                            href="/product/hikari-tropical-vibra-bites/">
-                                                            <img loading="lazy"
-                                                                width="300"
-                                                                height="300"
-                                                                src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
-                                                                class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                                alt="Hikari Tropical Vibra Bites - 73g"
-
-                                                               />
-                                                            <span
-                                                                class="product-title">Hikari®
-                                                                Tropical Vibra
-                                                                Bites™</span>
-                                                        </a>
-
-                                                        <div class="star-rating">
-                                                            <span
-                                                                style="width:0%">Được
-                                                                xếp hạng <strong
-                                                                    class="rating">0</strong>
-                                                                5 sao</span></div>
-                                                        <span
-                                                            class="woocommerce-Price-amount amount"><bdi>98.000<span
-                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                        &ndash; <span
-                                                            class="woocommerce-Price-amount amount"><bdi>858.000<span
-                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                    </li>
-                                                    <li>
-
-                                                        <a
-                                                            href="/product/hikari-tropical-vibra-bites/">
-                                                            <img loading="lazy"
-                                                                width="300"
-                                                                height="300"
-                                                                src="/assets/wp-content/uploads/2023/06/Hikari®-Tropical-Vibra-Bites™-73g-300x300.jpg"
-                                                                class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
-                                                                alt="Hikari Tropical Vibra Bites - 73g"
-
-                                                               />
-                                                            <span
-                                                                class="product-title">Hikari®
-                                                                Tropical Vibra
-                                                                Bites™</span>
-                                                        </a>
-
-                                                        <div class="star-rating">
-                                                            <span
-                                                                style="width:0%">Được
-                                                                xếp hạng <strong
-                                                                    class="rating">0</strong>
-                                                                5 sao</span></div>
-                                                        <span
-                                                            class="woocommerce-Price-amount amount"><bdi>98.000<span
-                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                        &ndash; <span
-                                                            class="woocommerce-Price-amount amount"><bdi>858.000<span
-                                                                    class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                    </li>
 
                                                 </ul>
                                             </div>
@@ -412,276 +259,40 @@
                                                 href="/assets/wp-content/plugins/elementor-pro/assets/css/widget-posts.min.css">
                                             <div
                                                 class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
-                                                <article
-                                                    class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width desktop-align-left tablet-align-left mobile-align-left ast-width-md-12 ast-archive-post ast-product-gallery-layout-horizontal-slider">
-                                                    <a class="elementor-post__thumbnail__link"
-                                                        href="/blog/tin-tuc/"
-                                                        tabindex="-1">
+                                                @foreach($blogs as $blog)
+                                                    <article
+                                                        class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width desktop-align-left tablet-align-left mobile-align-left ast-width-md-12 ast-archive-post ast-product-gallery-layout-horizontal-slider">
+                                                        <a class="elementor-post__thumbnail__link"
+                                                           href="/blog/{{$blog->slug}}"
+                                                           tabindex="-1">
+                                                            <div
+                                                                class="elementor-post__thumbnail">
+                                                                <img loading="lazy"
+                                                                     width="768"
+                                                                     height="432"
+                                                                     src="{{\Illuminate\Support\Facades\Storage::url($blog->banner)}}"
+                                                                     class="attachment-medium_large size-medium_large wp-image-3684"
+                                                                     alt="{{$blog->title}}" />
+                                                            </div>
+                                                        </a>
                                                         <div
-                                                            class="elementor-post__thumbnail">
-                                                            <img loading="lazy"
-                                                                width="768"
-                                                                height="432"
-                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
-                                                                class="attachment-medium_large size-medium_large wp-image-3684"
-                                                                alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
+                                                            class="elementor-post__text">
+                                                            <h3
+                                                                class="elementor-post__title">
+                                                                <a
+                                                                    href="/blog/{{$blog->slug}}">
+                                                                    {{$blog->title}}
+                                                                </a>
+                                                            </h3>
+                                                            <div
+                                                                class="elementor-post__excerpt">
+                                                                <p>{!! $blog->short_desc !!}</p>
+                                                            </div>
                                                         </div>
-                                                    </a>
-                                                    <div
-                                                        class="elementor-post__text">
-                                                        <h3
-                                                            class="elementor-post__title">
-                                                            <a
-                                                                href="/blog/tin-tuc/">
-                                                                Cá Chép Phi Tần:
-                                                                Cách Nuôi, Setup Bể
-                                                                Nuôi Chi Tiết Nhất
-                                                            </a>
-                                                        </h3>
-                                                        <div
-                                                            class="elementor-post__excerpt">
-                                                            <p>Cá chép Phi Tần mang
-                                                                một nét đẹp riêng,
-                                                                khó có loài cá nào
-                                                                sánh được. Chúng
-                                                                thường được nuôi
-                                                                trong các hồ cảnh để
-                                                                làm đẹp và mang lại
-                                                                ý nghĩa phong thủy
-                                                                tốt lành. Nếu bạn
-                                                                đang tìm hiểu về
-                                                                dòng cá này hãy xem
-                                                                hết bài viết dưới
-                                                                đây, bao gồm thông
-                                                                tin</p>
-                                                        </div>
-                                                    </div>
-                                                </article>
-                                                <article
-                                                    class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width desktop-align-left tablet-align-left mobile-align-left ast-width-md-12 ast-archive-post ast-product-gallery-layout-horizontal-slider">
-                                                    <a class="elementor-post__thumbnail__link"
-                                                        href="/blog/tin-tuc/"
-                                                        tabindex="-1">
-                                                        <div
-                                                            class="elementor-post__thumbnail">
-                                                            <img loading="lazy"
-                                                                width="768"
-                                                                height="432"
-                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
-                                                                class="attachment-medium_large size-medium_large wp-image-3684"
-                                                                alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
-                                                        </div>
-                                                    </a>
-                                                    <div
-                                                        class="elementor-post__text">
-                                                        <h3
-                                                            class="elementor-post__title">
-                                                            <a
-                                                                href="/blog/tin-tuc/">
-                                                                Cá Chép Phi Tần:
-                                                                Cách Nuôi, Setup Bể
-                                                                Nuôi Chi Tiết Nhất
-                                                            </a>
-                                                        </h3>
-                                                        <div
-                                                            class="elementor-post__excerpt">
-                                                            <p>Cá chép Phi Tần mang
-                                                                một nét đẹp riêng,
-                                                                khó có loài cá nào
-                                                                sánh được. Chúng
-                                                                thường được nuôi
-                                                                trong các hồ cảnh để
-                                                                làm đẹp và mang lại
-                                                                ý nghĩa phong thủy
-                                                                tốt lành. Nếu bạn
-                                                                đang tìm hiểu về
-                                                                dòng cá này hãy xem
-                                                                hết bài viết dưới
-                                                                đây, bao gồm thông
-                                                                tin</p>
-                                                        </div>
-                                                    </div>
-                                                </article>
-                                                <article
-                                                    class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width desktop-align-left tablet-align-left mobile-align-left ast-width-md-12 ast-archive-post ast-product-gallery-layout-horizontal-slider">
-                                                    <a class="elementor-post__thumbnail__link"
-                                                        href="/blog/tin-tuc/"
-                                                        tabindex="-1">
-                                                        <div
-                                                            class="elementor-post__thumbnail">
-                                                            <img loading="lazy"
-                                                                width="768"
-                                                                height="432"
-                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
-                                                                class="attachment-medium_large size-medium_large wp-image-3684"
-                                                                alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
-                                                        </div>
-                                                    </a>
-                                                    <div
-                                                        class="elementor-post__text">
-                                                        <h3
-                                                            class="elementor-post__title">
-                                                            <a
-                                                                href="/blog/tin-tuc/">
-                                                                Cá Chép Phi Tần:
-                                                                Cách Nuôi, Setup Bể
-                                                                Nuôi Chi Tiết Nhất
-                                                            </a>
-                                                        </h3>
-                                                        <div
-                                                            class="elementor-post__excerpt">
-                                                            <p>Cá chép Phi Tần mang
-                                                                một nét đẹp riêng,
-                                                                khó có loài cá nào
-                                                                sánh được. Chúng
-                                                                thường được nuôi
-                                                                trong các hồ cảnh để
-                                                                làm đẹp và mang lại
-                                                                ý nghĩa phong thủy
-                                                                tốt lành. Nếu bạn
-                                                                đang tìm hiểu về
-                                                                dòng cá này hãy xem
-                                                                hết bài viết dưới
-                                                                đây, bao gồm thông
-                                                                tin</p>
-                                                        </div>
-                                                    </div>
-                                                </article>
-                                                <article
-                                                    class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width desktop-align-left tablet-align-left mobile-align-left ast-width-md-12 ast-archive-post ast-product-gallery-layout-horizontal-slider">
-                                                    <a class="elementor-post__thumbnail__link"
-                                                        href="/blog/tin-tuc/"
-                                                        tabindex="-1">
-                                                        <div
-                                                            class="elementor-post__thumbnail">
-                                                            <img loading="lazy"
-                                                                width="768"
-                                                                height="432"
-                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
-                                                                class="attachment-medium_large size-medium_large wp-image-3684"
-                                                                alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
-                                                        </div>
-                                                    </a>
-                                                    <div
-                                                        class="elementor-post__text">
-                                                        <h3
-                                                            class="elementor-post__title">
-                                                            <a
-                                                                href="/blog/tin-tuc/">
-                                                                Cá Chép Phi Tần:
-                                                                Cách Nuôi, Setup Bể
-                                                                Nuôi Chi Tiết Nhất
-                                                            </a>
-                                                        </h3>
-                                                        <div
-                                                            class="elementor-post__excerpt">
-                                                            <p>Cá chép Phi Tần mang
-                                                                một nét đẹp riêng,
-                                                                khó có loài cá nào
-                                                                sánh được. Chúng
-                                                                thường được nuôi
-                                                                trong các hồ cảnh để
-                                                                làm đẹp và mang lại
-                                                                ý nghĩa phong thủy
-                                                                tốt lành. Nếu bạn
-                                                                đang tìm hiểu về
-                                                                dòng cá này hãy xem
-                                                                hết bài viết dưới
-                                                                đây, bao gồm thông
-                                                                tin</p>
-                                                        </div>
-                                                    </div>
-                                                </article>
-                                                <article
-                                                    class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width desktop-align-left tablet-align-left mobile-align-left ast-width-md-12 ast-archive-post ast-product-gallery-layout-horizontal-slider">
-                                                    <a class="elementor-post__thumbnail__link"
-                                                        href="/blog/tin-tuc/"
-                                                        tabindex="-1">
-                                                        <div
-                                                            class="elementor-post__thumbnail">
-                                                            <img loading="lazy"
-                                                                width="768"
-                                                                height="432"
-                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
-                                                                class="attachment-medium_large size-medium_large wp-image-3684"
-                                                                alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
-                                                        </div>
-                                                    </a>
-                                                    <div
-                                                        class="elementor-post__text">
-                                                        <h3
-                                                            class="elementor-post__title">
-                                                            <a
-                                                                href="/blog/tin-tuc/">
-                                                                Cá Chép Phi Tần:
-                                                                Cách Nuôi, Setup Bể
-                                                                Nuôi Chi Tiết Nhất
-                                                            </a>
-                                                        </h3>
-                                                        <div
-                                                            class="elementor-post__excerpt">
-                                                            <p>Cá chép Phi Tần mang
-                                                                một nét đẹp riêng,
-                                                                khó có loài cá nào
-                                                                sánh được. Chúng
-                                                                thường được nuôi
-                                                                trong các hồ cảnh để
-                                                                làm đẹp và mang lại
-                                                                ý nghĩa phong thủy
-                                                                tốt lành. Nếu bạn
-                                                                đang tìm hiểu về
-                                                                dòng cá này hãy xem
-                                                                hết bài viết dưới
-                                                                đây, bao gồm thông
-                                                                tin</p>
-                                                        </div>
-                                                    </div>
-                                                </article>
-                                                <article
-                                                    class="elementor-post elementor-grid-item post-3498 post type-post status-publish format-standard has-post-thumbnail hentry category-chu-de-ca-koi ast-grid-common-col ast-full-width desktop-align-left tablet-align-left mobile-align-left ast-width-md-12 ast-archive-post ast-product-gallery-layout-horizontal-slider">
-                                                    <a class="elementor-post__thumbnail__link"
-                                                        href="/blog/tin-tuc/"
-                                                        tabindex="-1">
-                                                        <div
-                                                            class="elementor-post__thumbnail">
-                                                            <img loading="lazy"
-                                                                width="768"
-                                                                height="432"
-                                                                src="/assets/wp-content/uploads/2025/03/ca-chep-phi-tan-768x432.jpg"
-                                                                class="attachment-medium_large size-medium_large wp-image-3684"
-                                                                alt="Cá Chép Phi Tần Cách Nuôi, Setup Bể Nuôi Chi Tiết Nhất" />
-                                                        </div>
-                                                    </a>
-                                                    <div
-                                                        class="elementor-post__text">
-                                                        <h3
-                                                            class="elementor-post__title">
-                                                            <a
-                                                                href="/blog/tin-tuc/">
-                                                                Cá Chép Phi Tần:
-                                                                Cách Nuôi, Setup Bể
-                                                                Nuôi Chi Tiết Nhất
-                                                            </a>
-                                                        </h3>
-                                                        <div
-                                                            class="elementor-post__excerpt">
-                                                            <p>Cá chép Phi Tần mang
-                                                                một nét đẹp riêng,
-                                                                khó có loài cá nào
-                                                                sánh được. Chúng
-                                                                thường được nuôi
-                                                                trong các hồ cảnh để
-                                                                làm đẹp và mang lại
-                                                                ý nghĩa phong thủy
-                                                                tốt lành. Nếu bạn
-                                                                đang tìm hiểu về
-                                                                dòng cá này hãy xem
-                                                                hết bài viết dưới
-                                                                đây, bao gồm thông
-                                                                tin</p>
-                                                        </div>
-                                                    </div>
-                                                </article>
+                                                    </article>
+                                                @endforeach
+
+
 
                                             </div>
 
@@ -715,50 +326,15 @@
                                                 class="woocommerce widget_product_categories">
                                                 <h5>Product categories</h5>
                                                 <ul class="product-categories">
-                                                    <li
-                                                        class="cat-item cat-item-49">
-                                                        <a
-                                                            href="/products?category=1">Thức
-                                                            ăn bò sát</a> <span
-                                                            class="count">(7)</span>
-                                                    </li>
-                                                    <li
-                                                        class="cat-item cat-item-44 current-cat">
-                                                        <a
-                                                            href="/products?category=1">Thức
-                                                            ăn cá Koi</a> <span
-                                                            class="count">(17)</span>
-                                                    </li>
-                                                    <li
-                                                        class="cat-item cat-item-47">
-                                                        <a
-                                                            href="/products?category=1">Thức
-                                                            ăn cá nhiệt đới</a>
-                                                        <span
-                                                            class="count">(26)</span>
-                                                    </li>
-                                                    <li
-                                                        class="cat-item cat-item-46">
-                                                        <a
-                                                            href="/products?category=1">Thức
-                                                            ăn cá vàng</a> <span
-                                                            class="count">(12)</span>
-                                                    </li>
-                                                    <li
-                                                        class="cat-item cat-item-51">
-                                                        <a
-                                                            href="/products?category=1">Thức
-                                                            ăn chim</a> <span
-                                                            class="count">(5)</span>
-                                                    </li>
-                                                    <li
-                                                        class="cat-item cat-item-50">
-                                                        <a
-                                                            href="/products?category=1">Thức
-                                                            ăn động vật nhỏ</a>
-                                                        <span
-                                                            class="count">(0)</span>
-                                                    </li>
+                                                    @foreach($categories as  $categorie)
+                                                        <li
+                                                            class="cat-item cat-item-49">
+                                                            <a
+                                                                href="/products?category={{$categorie->id}}">{{$categorie->name}}</a> <span
+                                                                class="count">({{$categorie->product_count}})</span>
+                                                        </li>
+                                                    @endforeach
+
                                                 </ul>
                                             </div>
                                         </div>

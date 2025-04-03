@@ -44,9 +44,10 @@ class ServiceResource extends Resource
                 Forms\Components\Textarea::make('description')
                     ->required()
                     ->columnSpanFull(),
-                Forms\Components\TextInput::make('banner')
+                Forms\Components\FileUpload::make('banner')
+                    ->label('banner')
                     ->required()
-                    ->maxLength(255),
+                    ->image(),
             ]);
     }
 
@@ -61,7 +62,8 @@ class ServiceResource extends Resource
                 Tables\Columns\TextColumn::make('view')
                     ->numeric()
                     ->sortable(),
-                Tables\Columns\TextColumn::make('banner')
+                Tables\Columns\ImageColumn::make('banner')
+                    ->label('Banner')
                     ->searchable(),
                 Tables\Columns\TextColumn::make('created_at')
                     ->dateTime()

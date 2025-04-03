@@ -6,6 +6,7 @@ use App\Livewire\Home;
 use App\Livewire\Products;
 use App\Livewire\Service;
 use App\Livewire\Services;
+use App\Models\User;
 use Illuminate\Support\Facades\Route;
 use App\Livewire\Blog;
 use App\Livewire\Product;
@@ -21,4 +22,5 @@ Route::get('/blogs', Blogs::class);
 Route::get('/blog/{slug}', Blog::class);
 
 Route::get('/contact', Contact::class);
+
 
