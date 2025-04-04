@@ -108,7 +108,7 @@
                                                                     </span>
                                                                     <span
                                                                         class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
-                                                                        100 </span>
+                                                                        {{$service->view}} </span>
                                                                 </a>
                                                             </li>
                                                         </ul>

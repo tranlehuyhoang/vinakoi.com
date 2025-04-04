@@ -15,6 +15,12 @@ class Service extends Component
     }
     public function render()
     {
+        $news = \App\Models\Service::where('slug', $this->slug)->first();
+        if (!$news) {
+            return redirect()->back()->with('error', 'Bài viết không tồn tại');
+        }
+        $news->view = $news->view + 1;
+        $news->save();
         $service = \App\Models\Service::where('slug', $this->slug)->first();
         $otherServices = \App\Models\Service::where('slug', '!=', $this->slug)
         ->limit(6)

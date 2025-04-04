@@ -9,11 +9,13 @@ class Products extends Component
 {
 
     public $category;  // Biến category để lưu giá trị từ URL
+    public $search;
 
     public function mount()
     {
         // Lấy giá trị 'category' từ query string của URL
         $this->category = request('category');
+        $this->search = request('search');
     }
 
     public function render()
@@ -25,6 +27,9 @@ class Products extends Component
         // Kiểm tra nếu có category và lọc theo category
         if ($this->category) {
             $query->where('category_id', $this->category);
+        }
+        if($this->search){
+            $query->where('name', 'like', '%' . $this->search . '%');
         }
 
         // Lấy sản phẩm theo phân trang

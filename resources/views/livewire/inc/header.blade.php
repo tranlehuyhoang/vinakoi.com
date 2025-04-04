@@ -1,3 +1,4 @@
+
 <header
     class="site-header header-main-layout-1 ast-primary-menu-enabled ast-logo-title-inline ast-hide-custom-menu-mobile ast-builder-menu-toggle-icon ast-mobile-header-inline"
     id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead">
@@ -60,82 +61,171 @@
                                                                         data-settings>
                                                                         <form class="jet-ajax-search__form">
                                                                             <div class="jet-ajax-search__fields-holder">
-                                                                                <div
-                                                                                    class="jet-ajax-search__field-wrapper">
-                                                                                    <label for="search-input-377de8a"
-                                                                                        class="screen-reader-text">Search
-                                                                                        ...</label>
-                                                                                    <input id="search-input-377de8a"
-                                                                                        class="jet-ajax-search__field"
-                                                                                        type="search"
-                                                                                        placeholder="Nhập sản phẩm cần tìm ..."
-                                                                                        value="" name="s"
-                                                                                        autocomplete="off" />
-                                                                                    <input type="hidden"
-                                                                                        value="{&quot;search_source&quot;:&quot;product&quot;}"
-                                                                                        name="jet_ajax_search_settings" />
-                                                                                    <input type="hidden" value="product"
-                                                                                        name="post_type" />
-
+                                                                                <div class="jet-ajax-search__field-wrapper">
+                                                                                    <label for="search-input-377de8a" class="screen-reader-text">Search</label>
+                                                                                    <input id="search-input-377de8a" class="jet-ajax-search__field" type="search" placeholder="Nhập sản phẩm cần tìm ..."
+                                                                                           autocomplete="off" />
+                                                                                    <input type="hidden" value="{&quot;search_source&quot;:&quot;product&quot;}" name="jet_ajax_search_settings" />
+                                                                                    <input type="hidden" value="product" name="post_type" />
                                                                                 </div>
                                                                             </div>
 
-                                                                            <button class="jet-ajax-search__submit"
-                                                                                type="submit"
-                                                                                aria-label="Search submit"><span
-                                                                                    class="jet-ajax-search__submit-icon jet-ajax-search-icon"><i
-                                                                                        aria-hidden="true"
-                                                                                        class="fas fa-search"></i></span></button>
+                                                                            <a href="/products?search=" id="btn-searchs" class="" style="background-color: #0066B3;
+    padding: 5px 15px 12px 15px; color: #fff !important;" type="submit" aria-label="Search submit">
+                                                                                <span class="jet-ajax-search__submit-icon jet-ajax-search-icon">
+                                                                                    <i aria-hidden="true" class="fas fa-search"></i>
+                                                                                </span>
+                                                                            </a>
                                                                         </form>
 
                                                                         <div class="jet-ajax-search__results-area">
-                                                                            <div
-                                                                                class="jet-ajax-search__results-holder">
-                                                                                <div
-                                                                                    class="jet-ajax-search__results-header">
+                                                                            <div class="jet-ajax-search__results-holder">
+                                                                                <div class="jet-ajax-search__results-header">
+                                                                                    <button class="jet-ajax-search__results-count"><span id="resultsCount">{{ count($products) }}</span> Kết quả</button>
+                                                                                    <div class="jet-ajax-search__navigation-holder"></div>
+                                                                                </div>
 
-                                                                                    <button
-                                                                                        class="jet-ajax-search__results-count"><span></span>
-                                                                                        Kết quả</button>
-                                                                                    <div
-                                                                                        class="jet-ajax-search__navigation-holder">
+                                                                                <div class="jet-ajax-search__results-lists" id="resultsList">
+                                                                                    <div class="jet-ajax-search__results-list-inner" style="padding: 10px">
+                                                                                        <!-- Hiển thị kết quả tìm kiếm -->
+                                                                                        @foreach($products as $product)
+                                                                                            <div class="jet-ajax-search__result-item">
+
+                                                                                            </div>
+                                                                                        @endforeach
                                                                                     </div>
                                                                                 </div>
-                                                                                <div
-                                                                                    class="jet-ajax-search__results-list">
-                                                                                    <div
-                                                                                        class="jet-ajax-search__results-list-inner">
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div
-                                                                                    class="jet-ajax-search__results-footer">
-                                                                                    <button
-                                                                                        class="jet-ajax-search__full-results">Tất
-                                                                                        cả kết quả</button>
-                                                                                    <div
-                                                                                        class="jet-ajax-search__navigation-holder">
-                                                                                    </div>
+
+                                                                                <div class="jet-ajax-search__results-footer">
+                                                                                    <a href="/products?search" class=""  id="allResultsLink" style="    font-size: 16px;font-weight: 700;color: #0066B3;}">Tất cả kết quả</a>
+                                                                                    <div class="jet-ajax-search__navigation-holder"></div>
                                                                                 </div>
                                                                             </div>
-                                                                            <div class="jet-ajax-search__message">
-                                                                            </div>
 
-                                                                            <div
-                                                                                class="jet-ajax-search__spinner-holder">
+                                                                            <div class="jet-ajax-search__message"></div>
+                                                                            <style>
+                                                                                .jet-ajax-search__results-list-inner {
+                                                                                    display: flex;
+                                                                                    flex-direction: column; /* Hiển thị các phần tử theo hàng ngang */
+                                                                                    flex-wrap: wrap; /* Các phần tử sẽ xuống dòng nếu không đủ chỗ */
+                                                                                    gap: 10px; /* Khoảng cách giữa các phần tử */
+                                                                                }
+
+                                                                                .jet-ajax-search__result-item {
+                                                                                    flex: 1 1 auto; /* Tự động co giãn trong không gian có sẵn */
+                                                                                    display: flex;
+                                                                                    align-items: center;
+                                                                                    justify-content: flex-start; /* Căn trái phần tử */
+                                                                                    text-align: left;
+                                                                                    white-space: nowrap; /* Không ngắt dòng */
+                                                                                    min-width: 0; /* Đảm bảo không bị ngắt dòng */
+                                                                                }
+
+                                                                                .jet-ajax-search__result-item img {
+                                                                                    width: 50px; /* Kích thước ảnh */
+                                                                                    height: 50px;
+                                                                                    margin-right: 10px; /* Khoảng cách giữa ảnh và tên */
+                                                                                }
+
+                                                                                .jet-ajax-search__result-item h4 {
+                                                                                    margin: 0;
+                                                                                    white-space: nowrap; /* Đảm bảo tên sản phẩm không bị ngắt dòng */
+                                                                                    font-size: 15px;
+                                                                                }
+
+
+                                                                            </style>
+                                                                            <script>
+                                                                                window.addEventListener('load', function () {
+                                                                                    // Get the URL parameters
+                                                                                    const urlParams = new URLSearchParams(window.location.search);
+
+                                                                                    // Check if 'search' parameter exists in the URL
+                                                                                    const searchQuery = urlParams.get('search');  // or urlParams.get('query') if you prefer
+
+                                                                                    if (searchQuery) {
+                                                                                        // Set the value of the input field to the value of 'search' in the URL
+                                                                                        document.getElementById('search-input-377de8a').value = searchQuery;
+                                                                                        var allResultsLink = document.getElementById('allResultsLink');
+                                                                                        var link = document.getElementById('btn-searchs');
+                                                                                        allResultsLink.href = '/products?search=' + encodeURIComponent(searchQuery);  // Ensure the search term is URL-safe
+                                                                                        link.href = '/products?search=' + encodeURIComponent(searchQuery);
+                                                                                    }
+                                                                                });
+
+                                                                                // Lắng nghe sự kiện input từ ô tìm kiếm
+                                                                                document.getElementById('search-input-377de8a').addEventListener('input', function (e) {
+                                                                                    var searchValue = e.target.value; // Lấy giá trị người dùng nhập
+
+                                                                                    // Update the "Tất cả kết quả" link with the search term
+                                                                                    var allResultsLink = document.getElementById('allResultsLink');
+                                                                                    var link = document.getElementById('btn-searchs');
+                                                                                    allResultsLink.href = '/products?search=' + encodeURIComponent(searchValue);  // Ensure the search term is URL-safe
+                                                                                    link.href = '/products?search=' + encodeURIComponent(searchValue);
+                                                                                    if (searchValue.trim().length > 0) {
+                                                                                        // Gửi yêu cầu AJAX nếu có dữ liệu tìm kiếm
+                                                                                        fetch("{{ route('search.products') }}?search=" + searchValue)
+                                                                                            .then(response => response.json())
+                                                                                            .then(data => {
+                                                                                                // Xử lý kết quả tìm kiếm
+                                                                                                let resultsArea = document.getElementById('resultsArea');
+                                                                                                let resultsCount = document.getElementById('resultsCount');
+                                                                                                let resultsList = document.getElementById('resultsList').querySelector('.jet-ajax-search__results-list-inner');
+                                                                                                let resultsHolder = document.querySelector('.jet-ajax-search__results-holder');
+                                                                                                let spin=document.querySelector('.jet-ajax-search__spinner');
+                                                                                                // Xóa kết quả cũ
+                                                                                                resultsList.innerHTML = '';
+
+                                                                                                // Hiển thị số lượng kết quả
+                                                                                                resultsCount.textContent = data.length;
+
+                                                                                                if (data.length > 0) {
+                                                                                                    resultsHolder.setAttribute('style', 'display: block !important;');
+                                                                                                    spin.setAttribute('style', 'display: none !important;');
+                                                                                                    data.slice(0, 5).forEach(product => {
+                                                                                                        // Create a new container element for each product
+                                                                                                        let productElement = document.createElement('div');
+                                                                                                        productElement.classList.add('jet-ajax-search__result-item');
+
+                                                                                                        // Create the inner HTML content for each product
+                                                                                                        productElement.innerHTML = `
+        <a href="/product/${product.slug}" class="product-link" style="display: flex; align-items: center; text-decoration: none;">
+            <img src="/storage/${product.image}" alt="${product.name}" style="width: 50px; height: 50px; margin-right: 10px;object-fit:cover ">
+            <h4 style="margin: 0;">${product.name}</h4>
+        </a>
+    `;
+
+                                                                                                        // Append the created productElement to the results container
+                                                                                                        resultsList.appendChild(productElement);
+                                                                                                    });
+
+
+
+
+                                                                                                } else {
+                                                                                                    resultsList.innerHTML = '<p>Không có sản phẩm nào.</p>';
+                                                                                                }
+                                                                                            })
+                                                                                            .catch(error => console.log(error));
+                                                                                    } else {
+                                                                                        // Nếu ô tìm kiếm trống, xóa kết quả tìm kiếm
+                                                                                        let resultsList = document.getElementById('resultsList').querySelector('.jet-ajax-search__results-list-inner');
+                                                                                        resultsList.innerHTML = ''; // Xóa kết quả tìm kiếm
+                                                                                    }
+                                                                                });
+                                                                            </script>
+
+                                                                            <div class="jet-ajax-search__spinner-holder">
                                                                                 <div class="jet-ajax-search__spinner">
-                                                                                    <div class="rect rect-1">
-                                                                                    </div>
-                                                                                    <div class="rect rect-2">
-                                                                                    </div>
-                                                                                    <div class="rect rect-3">
-                                                                                    </div>
-                                                                                    <div class="rect rect-4">
-                                                                                    </div>
-                                                                                    <div class="rect rect-5">
-                                                                                    </div>
+                                                                                    <div class="rect rect-1"></div>
+                                                                                    <div class="rect rect-2"></div>
+                                                                                    <div class="rect rect-3"></div>
+                                                                                    <div class="rect rect-4"></div>
+                                                                                    <div class="rect rect-5"></div>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
+
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -523,6 +613,7 @@
             </div>
         </div>
     </div>
+
 
     <header id="ast-fixed-header"
         class="site-header header-main-layout-1 ast-primary-menu-enabled ast-logo-title-inline ast-hide-custom-menu-mobile ast-builder-menu-toggle-icon ast-mobile-header-inline"

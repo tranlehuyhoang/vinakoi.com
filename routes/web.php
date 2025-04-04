@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ProductSearchController;
 use App\Livewire\Blogs;
 use App\Livewire\Contact;
 use App\Livewire\Home;
@@ -25,4 +26,4 @@ Route::get('/blog/{slug}', Blog::class);
 
 Route::get('/contact', Contact::class);
 
-
+Route::get('/search-products', [ProductSearchController::class, 'getResults'])->name('search.products');
