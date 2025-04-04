@@ -2,7 +2,7 @@
 
 
     <head>
-        <title>Liên Hệ</title>
+        <title>Liên Hệ - VinaKoi</title>
       @livewire('inc.css.contact')
     </head>
 

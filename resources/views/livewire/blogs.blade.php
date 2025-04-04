@@ -2,7 +2,7 @@
 
 
     <head>
-        <title>Blog Kiến Thức Về Cách Nuôi, Chăm Sóc Thú Cưng</title>
+        <title>Blog - VinaKoi</title>
         @livewire('inc.css.blogs')
     </head>
 

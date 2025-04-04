@@ -1,9 +1,16 @@
 <div>
 
     <head>
-        <title>Thức ăn cá Koi - VinaKoi - Thức ăn thú cưng cao cấp đến từ Nhật Bản</title>
+        <title>Sản phẩm - VinaKoi</title>
        @livewire('inc.css.products')
     </head>
+    <style>
+        .jet-woo-products .jet-woo-product-thumbnail img {
+            height: 280px;
+            width: 100%;
+            object-fit: cover !important;
+        }
+    </style>
 
     <body
         class="archive tax-product_cat term-thuc-an-ca-koi term-44 wp-custom-logo theme-astra woocommerce woocommerce-page woocommerce-no-js woo-variation-swatches wvs-behavior-blur wvs-theme-astra-child wvs-show-label wvs-tooltip ast-desktop ast-page-builder-template ast-no-sidebar astra-4.1.5 group-blog columns-4 tablet-columns-3 mobile-columns-2 ast-woo-shop-archive ast-inherit-site-logo-transparent ast-hfb-header ast-blog-grid-1 ast-blog-layout-1 ast-pagination-default ast-full-width-layout ast-inherit-site-logo-sticky ast-primary-sticky-enabled ast-default-shop-page-modern-style ast-woocommerce-shop-page-modern-style ast-woocommerce-pagination-square elementor-page-436 elementor-default elementor-template-full-width elementor-kit-7 astra-addon-4.1.5">

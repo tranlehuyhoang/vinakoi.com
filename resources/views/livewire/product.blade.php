@@ -2,10 +2,14 @@
 
 
     <head>
-        <title>{{$product->name}}</title>
+        <title>{{$product->name}} - VinaKoi</title>
         @livewire('inc.css.product')
     </head>
-
+<style>
+    .jet-woo-products .jet-woo-product-thumbnail img {
+    object-fit: cover !important;
+}
+</style>
     <body
         class="product-template-default single single-product postid-1893 wp-custom-logo theme-astra woocommerce woocommerce-page woocommerce-no-js woo-variation-swatches wvs-behavior-blur wvs-theme-astra-child wvs-show-label wvs-tooltip ast-desktop ast-page-builder-template ast-no-sidebar astra-4.1.5 group-blog ast-blog-single-style-1 ast-custom-post-type ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-full-width-layout ast-inherit-site-logo-sticky ast-primary-sticky-enabled ast-woocommerce-related-upsell-list-style rel-up-columns-4 tablet-rel-up-columns-3 mobile-rel-up-columns-2 elementor-page-610 ast-normal-title-enabled elementor-default elementor-template-full-width elementor-kit-7 has-ftoc astra-addon-4.1.5">
         <div class="hfeed site" id="page">

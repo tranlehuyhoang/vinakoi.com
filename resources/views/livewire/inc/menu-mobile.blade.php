@@ -132,9 +132,10 @@
                                                             d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
                                                     </svg></span><span class="menu-text">Trang chủ</span></a>
                                         </li>
+
                                         <li
                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1656">
-                                            <a href="/products?category=1" class="menu-link"><span
+                                            <a href="/products" class="menu-link"><span
                                                     class="ast-icon icon-arrow"><svg class="ast-arrow-svg"
                                                         xmlns="http://www.w3.org/2000/svg"
                                                         xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px"
@@ -144,35 +145,7 @@
                                                         xml:space="preserve">
                                                         <path
                                                             d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                    </svg></span><span class="menu-text">Cá Koi</span></a>
-                                        </li>
-                                        <li
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1656">
-                                            <a href="/products?category=1" class="menu-link"><span
-                                                    class="ast-icon icon-arrow"><svg class="ast-arrow-svg"
-                                                        xmlns="http://www.w3.org/2000/svg"
-                                                        xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px"
-                                                        y="0px" width="26px" height="16.043px"
-                                                        viewBox="57 35.171 26 16.043"
-                                                        enable-background="new 57 35.171 26 16.043"
-                                                        xml:space="preserve">
-                                                        <path
-                                                            d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                    </svg></span><span class="menu-text">Cá Koi</span></a>
-                                        </li>
-                                        <li
-                                            class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1656">
-                                            <a href="/products?category=1" class="menu-link"><span
-                                                    class="ast-icon icon-arrow"><svg class="ast-arrow-svg"
-                                                        xmlns="http://www.w3.org/2000/svg"
-                                                        xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px"
-                                                        y="0px" width="26px" height="16.043px"
-                                                        viewBox="57 35.171 26 16.043"
-                                                        enable-background="new 57 35.171 26 16.043"
-                                                        xml:space="preserve">
-                                                        <path
-                                                            d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                    </svg></span><span class="menu-text">Cá Koi</span></a>
+                                                    </svg></span><span class="menu-text">Sản phẩm</span></a>
                                         </li>
 
 

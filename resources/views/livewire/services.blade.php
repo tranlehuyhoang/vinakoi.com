@@ -2,8 +2,16 @@
 
 
     <head>
-        <title>Chi tiết dịch vụ</title>
+        <title>Dịch vụ - VinaKoi</title>
         @livewire('inc.css.blogs')
+        <style>
+            .elementor-element.elementor-element-bc3cd28.elementor-widget.elementor-widget-heading {
+    display: none;
+}
+.elementor-element.elementor-element-9264a53.css_khu_vuc_chia_se.elementor-widget.elementor-widget-wp-widget-woocommerce_product_categories {
+    display: none;
+}
+        </style>
     </head>
 
     <body

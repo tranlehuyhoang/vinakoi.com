@@ -197,7 +197,7 @@
 
                                                             <a
                                                                 href="/product/{{$product->slug}}">
-                                                                <img loading="lazy"
+                                                                <img
                                                                      width="300"
                                                                      height="300"
                                                                      src="{{\Illuminate\Support\Facades\Storage::url($product->image)}}"
@@ -230,7 +230,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="elementor-element elementor-element-f9e465a elementor-widget elementor-widget-heading"
+                                    {{-- <div class="elementor-element elementor-element-f9e465a elementor-widget elementor-widget-heading"
                                         data-id="f9e465a" data-element_type="widget"
                                         data-widget_type="heading.default">
                                         <div class="elementor-widget-container">
@@ -266,8 +266,8 @@
                                                            href="/blog/{{$blog->slug}}"
                                                            tabindex="-1">
                                                             <div
-                                                                class="elementor-post__thumbnail">
-                                                                <img loading="lazy"
+                                                                class="elementor-post__thumbnail" id="blog-image">
+                                                                <img
                                                                      width="768"
                                                                      height="432"
                                                                      src="{{\Illuminate\Support\Facades\Storage::url($blog->banner)}}"
@@ -297,7 +297,7 @@
                                             </div>
 
                                         </div>
-                                    </div>
+                                    </div> --}}
                                     <div class="elementor-element elementor-element-bc3cd28 elementor-widget elementor-widget-heading"
                                         data-id="bc3cd28" data-element_type="widget"
                                         data-widget_type="heading.default">
@@ -347,4 +347,18 @@
             </div>
         </div>
     </div>
+    <style>
+        @media (max-width: 767px) {
+   #blog-image {
+        padding-bottom: initial !important;
+    }
+}
+ #blog-image img {
+    height: 50px !important;
+    object-fit: cover !important;
+}
+ #blog-image {
+    padding-bottom: initial !important;
+}
+    </style>
 </div>

@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.2.1
+-- version 5.2.0
 -- https://www.phpmyadmin.net/
 --
--- Host: 127.0.0.1
--- Generation Time: Apr 03, 2025 at 06:37 PM
--- Server version: 10.4.28-MariaDB
--- PHP Version: 8.2.4
+-- Host: localhost:3306
+-- Generation Time: Apr 04, 2025 at 12:58 AM
+-- Server version: 8.0.30
+-- PHP Version: 8.2.27
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -28,20 +28,10 @@ SET time_zone = "+00:00";
 --
 
 CREATE TABLE `cache` (
-  `key` varchar(255) NOT NULL,
-  `value` mediumtext NOT NULL,
-  `expiration` int(11) NOT NULL
+  `key` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `value` mediumtext COLLATE utf8mb4_unicode_ci NOT NULL,
+  `expiration` int NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-
---
--- Dumping data for table `cache`
---
-
-INSERT INTO `cache` (`key`, `value`, `expiration`) VALUES
-('da4b9237bacccdf19c0760cab7aec4a8359010b0', 'i:1;', 1743698222),
-('da4b9237bacccdf19c0760cab7aec4a8359010b0:timer', 'i:1743698222;', 1743698222),
-('livewire-rate-limiter:a17961fa74e9275d529f489537f179c05d50c2f3', 'i:1;', 1743690255),
-('livewire-rate-limiter:a17961fa74e9275d529f489537f179c05d50c2f3:timer', 'i:1743690255;', 1743690255);
 
 -- --------------------------------------------------------
 
@@ -50,9 +40,9 @@ INSERT INTO `cache` (`key`, `value`, `expiration`) VALUES
 --
 
 CREATE TABLE `cache_locks` (
-  `key` varchar(255) NOT NULL,
-  `owner` varchar(255) NOT NULL,
-  `expiration` int(11) NOT NULL
+  `key` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `owner` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `expiration` int NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- --------------------------------------------------------
@@ -62,13 +52,13 @@ CREATE TABLE `cache_locks` (
 --
 
 CREATE TABLE `failed_jobs` (
-  `id` bigint(20) UNSIGNED NOT NULL,
-  `uuid` varchar(255) NOT NULL,
-  `connection` text NOT NULL,
-  `queue` text NOT NULL,
-  `payload` longtext NOT NULL,
-  `exception` longtext NOT NULL,
-  `failed_at` timestamp NOT NULL DEFAULT current_timestamp()
+  `id` bigint UNSIGNED NOT NULL,
+  `uuid` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `connection` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `queue` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `payload` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
+  `exception` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
+  `failed_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- --------------------------------------------------------
@@ -78,13 +68,13 @@ CREATE TABLE `failed_jobs` (
 --
 
 CREATE TABLE `jobs` (
-  `id` bigint(20) UNSIGNED NOT NULL,
-  `queue` varchar(255) NOT NULL,
-  `payload` longtext NOT NULL,
-  `attempts` tinyint(3) UNSIGNED NOT NULL,
-  `reserved_at` int(10) UNSIGNED DEFAULT NULL,
-  `available_at` int(10) UNSIGNED NOT NULL,
-  `created_at` int(10) UNSIGNED NOT NULL
+  `id` bigint UNSIGNED NOT NULL,
+  `queue` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `payload` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
+  `attempts` tinyint UNSIGNED NOT NULL,
+  `reserved_at` int UNSIGNED DEFAULT NULL,
+  `available_at` int UNSIGNED NOT NULL,
+  `created_at` int UNSIGNED NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- --------------------------------------------------------
@@ -94,16 +84,16 @@ CREATE TABLE `jobs` (
 --
 
 CREATE TABLE `job_batches` (
-  `id` varchar(255) NOT NULL,
-  `name` varchar(255) NOT NULL,
-  `total_jobs` int(11) NOT NULL,
-  `pending_jobs` int(11) NOT NULL,
-  `failed_jobs` int(11) NOT NULL,
-  `failed_job_ids` longtext NOT NULL,
-  `options` mediumtext DEFAULT NULL,
-  `cancelled_at` int(11) DEFAULT NULL,
-  `created_at` int(11) NOT NULL,
-  `finished_at` int(11) DEFAULT NULL
+  `id` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `total_jobs` int NOT NULL,
+  `pending_jobs` int NOT NULL,
+  `failed_jobs` int NOT NULL,
+  `failed_job_ids` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
+  `options` mediumtext COLLATE utf8mb4_unicode_ci,
+  `cancelled_at` int DEFAULT NULL,
+  `created_at` int NOT NULL,
+  `finished_at` int DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- --------------------------------------------------------
@@ -113,9 +103,9 @@ CREATE TABLE `job_batches` (
 --
 
 CREATE TABLE `migrations` (
-  `id` int(10) UNSIGNED NOT NULL,
-  `migration` varchar(255) NOT NULL,
-  `batch` int(11) NOT NULL
+  `id` int UNSIGNED NOT NULL,
+  `migration` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `batch` int NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
@@ -142,14 +132,14 @@ INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
 --
 
 CREATE TABLE `news` (
-  `id` bigint(20) UNSIGNED NOT NULL,
-  `category_id` bigint(20) UNSIGNED NOT NULL,
-  `slug` varchar(255) NOT NULL,
-  `title` varchar(255) NOT NULL,
-  `view` int(10) UNSIGNED NOT NULL DEFAULT 0,
-  `short_desc` text NOT NULL,
-  `description` text NOT NULL,
-  `banner` varchar(255) NOT NULL,
+  `id` bigint UNSIGNED NOT NULL,
+  `category_id` bigint UNSIGNED NOT NULL,
+  `slug` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `title` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `view` int UNSIGNED NOT NULL DEFAULT '0',
+  `short_desc` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `description` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `banner` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
@@ -178,8 +168,8 @@ INSERT INTO `news` (`id`, `category_id`, `slug`, `title`, `view`, `short_desc`, 
 --
 
 CREATE TABLE `password_reset_tokens` (
-  `email` varchar(255) NOT NULL,
-  `token` varchar(255) NOT NULL,
+  `email` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `token` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `created_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
@@ -190,8 +180,8 @@ CREATE TABLE `password_reset_tokens` (
 --
 
 CREATE TABLE `post_categories` (
-  `id` bigint(20) UNSIGNED NOT NULL,
-  `name` varchar(255) NOT NULL,
+  `id` bigint UNSIGNED NOT NULL,
+  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
@@ -210,21 +200,21 @@ INSERT INTO `post_categories` (`id`, `name`, `created_at`, `updated_at`) VALUES
 --
 
 CREATE TABLE `products` (
-  `id` bigint(20) UNSIGNED NOT NULL,
-  `category_id` bigint(20) UNSIGNED NOT NULL,
-  `name` varchar(255) NOT NULL,
-  `slug` varchar(255) NOT NULL,
+  `id` bigint UNSIGNED NOT NULL,
+  `category_id` bigint UNSIGNED NOT NULL,
+  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `slug` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `min_price` decimal(10,2) NOT NULL,
   `max_price` decimal(10,2) NOT NULL,
-  `short_desc` text NOT NULL,
-  `description` text NOT NULL,
-  `image` varchar(255) NOT NULL,
-  `is_featured` tinyint(1) NOT NULL DEFAULT 0,
-  `is_latest` tinyint(1) NOT NULL DEFAULT 0,
-  `is_discounted` tinyint(1) NOT NULL DEFAULT 0,
+  `short_desc` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `description` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `image` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `is_featured` tinyint(1) NOT NULL DEFAULT '0',
+  `is_latest` tinyint(1) NOT NULL DEFAULT '0',
+  `is_discounted` tinyint(1) NOT NULL DEFAULT '0',
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL,
-  `buy_many` tinyint(1) NOT NULL DEFAULT 0
+  `buy_many` tinyint(1) NOT NULL DEFAULT '0'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
@@ -232,21 +222,21 @@ CREATE TABLE `products` (
 --
 
 INSERT INTO `products` (`id`, `category_id`, `name`, `slug`, `min_price`, `max_price`, `short_desc`, `description`, `image`, `is_featured`, `is_latest`, `is_discounted`, `created_at`, `updated_at`, `buy_many`) VALUES
-(1, 6, 'Hikari Gold', 'hikari-gold', 150000.00, 2282000.00, '<p>Hikari Gold là một chế độ ăn uống hàng ngày tăng cường màu sắc được phát triển để mang lại tốc độ tăng trưởng được cải thiện, hình thức vượt trội và màu sắc tự nhiên tuyệt vời.</p><p><strong>Hạt size M&nbsp;</strong></p><ul><li>Hikari Gold – 2370 – 2kg</li><li>Hikari Gold – 2342 – 500g</li><li>Hikari Gold – 2382 – 5kg</li></ul><p><strong>Hạt size L</strong></p><ul><li>Hikari Gold – 2482 – 5kg</li><li>Hikari Gold – 2489 – 10kg</li></ul>', '<p>Sản phẩm Hikari Gold giúp tăng màu hiệu quả, mang lại vẻ đẹp tự nhiên và màu sắc thực của cá Koi</p><p>Một sản phẩm cân bằng dinh dưỡng nhằm duy trì năng lượng của cá nuôi hồ, đồng thời giúp cá tăng trưởng nhanh và hạn chế tích mỡ gây ảnh hưởng đến sức khỏe của cá.</p><p>Ba kích thước hạt dạng nổi phù hợp để cung cấp dinh dưỡng cho tất cả các dòng cá có kích cỡ khách nhau, đồng thời làm giảm nguy cơ tạo váng hoặc đục trong nước</p><p>LÝ TƯỞNG CHO: Cá Koi con và cá vàng lớn khi muống tăng trưởng nhanh và cải thiện thân hình</p><p><strong>Lưu ý:</strong> Hikari Gold ® chứa hàm lượng thành phần tự nhiên cao hơn nên có thể gây ra một chút thay đổi về màu sắc giữa các lô sản xuất. Hãy yên tâm vì các tiêu chuẩn chất lượng khắt khe của chúng tôi, mỗi gói đều đáp ứng các thông số dinh dưỡng vượt trội của chúng tôi.</p><h2>Lượng thức ăn cho một lần</h2><p>Thường xuyên theo dõi nhiệt độ nước của bạn và điều chỉnh số lượng cũng như tần suất cho ăn dựa trên nhiệt độ này, tình trạng nước, số lượng và kích cỡ của cá cũng như mức độ hoạt động của chúng. Tránh cho ăn quá nhiều và luôn loại bỏ thức ăn thừa còn sót lại sau thời gian cho ăn.</p><ul><li>Ở nhiệt độ 20-30°C (68-86°F) – Cho ăn 2 đến 4 lần mỗi ngày, lượng cá của bạn sẽ tiêu thụ hoàn toàn trong vòng 5 phút.</li><li>Ở nhiệt độ 15-20°C (59-68°F) – Cho ăn không quá hai lần mỗi ngày, lượng cá của bạn sẽ tiêu thụ hoàn toàn trong vòng 5 phút. Để có kết quả tốt nhất, hãy cố gắng cho ăn vào thời điểm ấm hơn trong ngày.</li><li>Đối với 11-15°C (52-59°F) – Chúng tôi khuyên bạn nên sử dụng Công thức mầm lúa mì Hikari ® Excel ® hoặc Hikari ® .</li><li>Dưới 11°C (52°F) – Chúng tôi khuyên bạn nên sử dụng Công thức mầm lúa mì Hikari ®, được thiết kế đặc biệt để tiêu hóa ở nhiệt độ thấp.</li></ul><p><br></p>', '01JQV81QXFPP03K7PK7912P8Q6.png', 1, 1, 1, '2025-04-02 12:36:35', '2025-04-02 12:38:14', 1),
-(3, 1, 'Ca Coi Royal', 'ca-coi-royal', 100000.00, 200000.00, '<p>&nbsp;Cá koi Royal có màu sắc đẹp, phù hợp với các hồ cá cao cấp.&nbsp;</p>', '<p><strong>&nbsp;Cá koi Royal là loài cá có màu sắc rực rỡ, dễ nuôi và thích hợp với môi trường nước sạch.&nbsp;</strong></p>', '01JQY5T1DK7PM2XMH9Z9VHMHHS.jpg', 1, 1, 1, '2025-04-03 15:55:09', '2025-04-03 16:12:47', 0),
-(4, 1, 'Ca Coi Golden', 'ca-coi-golden', 200000.00, 300000.00, '<p>&nbsp;Cá koi Golden nổi bật với lớp vảy vàng óng ánh.&nbsp;</p>', '<p>&nbsp;Cá koi Golden mang đến vẻ đẹp lấp lánh, là sự lựa chọn lý tưởng cho hồ cá của bạn.&nbsp;</p>', '01JQY5YHWGSXNCA02VPT3P2S51.webp', 1, 1, 0, '2025-04-03 15:57:37', '2025-04-03 16:14:15', 0),
-(5, 1, ' Ca Coi Sanke', 'ca-coi-sanke', 230000.00, 500000.00, '<p>&nbsp;Cá koi Sanke với sắc đỏ, trắng và đen nổi bật.&nbsp;</p>', '<p>&nbsp;Cá koi Sanke là loài cá có màu sắc đặc trưng với sự kết hợp hoàn hảo giữa ba màu sắc đỏ, trắng và đen.&nbsp;</p>', '01JQY60TFK92R77B4B0A7B8QVW.webp', 0, 1, 0, '2025-04-03 15:58:51', '2025-04-03 16:14:37', 0),
-(6, 1, 'Ca Coi Showa', 'ca-coi-showa', 300000.00, 800000.00, '<p>&nbsp;Cá koi Showa với màu sắc đen, đỏ nổi bật.&nbsp;</p>', '<p>&nbsp;Cá koi Showa có một vẻ ngoài ấn tượng, với sự kết hợp hoàn hảo giữa sắc đen và đỏ.&nbsp;</p>', '01JQY635VE60TEQ9A990BPYXKM.jpg', 0, 0, 0, '2025-04-03 16:00:09', '2025-04-03 16:14:50', 1),
-(7, 6, 'Thức ăn Koi Royal', 'thuc-an-koi-royal', 200000.00, 100000.00, '<p>&nbsp;Thức ăn chất lượng cao cho cá koi, giúp tăng trưởng nhanh và màu sắc đẹp.&nbsp;</p>', '<p>Thức ăn Koi Royal là loại thức ăn chuyên biệt giúp cá koi phát triển khỏe mạnh, màu sắc rực rỡ và nâng cao sức khỏe tổng thể.&nbsp;</p>', '01JQY67J8MYSMMSCYFH4586AKV.jpg', 1, 0, 0, '2025-04-03 16:02:32', '2025-04-03 16:17:15', 0),
-(8, 6, 'Thức ăn Koi Golden', 'thuc-an-koi-golden', 350000.00, 1200000.00, '<p>&nbsp;Thức ăn cho cá koi màu vàng đặc trưng, giúp tăng trưởng và phát triển mạnh mẽ.&nbsp;</p>', '<p>Thức ăn Koi Golden là sự lựa chọn lý tưởng giúp cá koi có lớp vảy vàng óng ánh, tăng cường sức khỏe và phát triển đồng đều.</p>', '01JQY69W9ZTYKX43S2W0SF2VC5.jpg', 0, 1, 0, '2025-04-03 16:03:48', '2025-04-03 16:17:31', 0),
-(9, 6, 'Thức ăn Koi Protein Cao', 'thuc-an-koi-protein-cao', 600000.00, 1800000.00, '<p>&nbsp;Cung cấp lượng protein cao, giúp cá koi phát triển cơ bắp.&nbsp;</p>', '<p>Thức ăn chứa lượng protein cao, giúp cá koi tăng trưởng mạnh mẽ, phát triển cơ bắp và duy trì sức khỏe tốt.</p>', '01JQY6C5F05JYEN93FNF1RP26R.jpg', 0, 0, 1, '2025-04-03 16:05:03', '2025-04-03 16:17:46', 1),
-(10, 6, 'Thức ăn Koi Màu Sắc', 'thuc-an-koi-mau-sac', 260000.00, 900000.00, '<p>&nbsp;Thức ăn giúp cá koi có màu sắc rực rỡ và sáng đẹp.&nbsp;</p>', '<p>Thức ăn Koi Màu Sắc bổ sung các chất phụ gia giúp cải thiện màu sắc tự nhiên của cá koi, mang lại vẻ ngoài sống động và hấp dẫn.</p>', '01JQY6EF2MCFBWXG3DRCEKXRJM.jpg', 0, 1, 0, '2025-04-03 16:06:18', '2025-04-03 16:18:00', 1),
-(11, 6, 'Thức ăn Koi Mùa Đông', 'thuc-an-koi-mua-dong', 125000.00, 300000.00, '<p>&nbsp;Thức ăn nhẹ cho cá koi trong mùa đông, giúp bảo vệ sức khỏe.&nbsp;</p>', '<p>&nbsp;Thức ăn Koi Mùa Đông giúp giảm protein và dầu mỡ, phù hợp với cá koi trong mùa đông, khi cá ít vận động hơn và cần ít năng lượng hơn.</p>', '01JQY6GCE4B18WE1HRZXJTPKQR.jpg', 0, 0, 1, '2025-04-03 16:07:21', '2025-04-03 16:16:22', 0),
-(12, 7, 'Thức ăn Koi Thực Phẩm Tự Nhiên', 'thuc-an-koi-thuc-pham-tu-nhien', 200000.00, 1400000.00, '<p>&nbsp;Thức ăn tự nhiên như giun, tôm, rau quả giúp bổ sung dinh dưỡng tự nhiên cho cá koi.&nbsp;</p>', '<p>&nbsp;Thức ăn Koi Thực Phẩm Tự Nhiên bổ sung các thực phẩm tự nhiên, giúp cá koi có chế độ ăn phong phú, giúp tăng trưởng tốt và tăng cường hệ miễn dịch.&nbsp;</p>', '01JQY77ZAR6KE4HK2ZFP6JF2VT.jpg', 1, 1, 1, '2025-04-03 16:20:14', '2025-04-03 16:20:14', 1),
-(13, 7, 'Thức ăn Koi Dễ Tiêu Hóa', 'thuc-an-koi-de-tieu-hoa', 180000.00, 3000000.00, '<p>&nbsp;Thức ăn dễ tiêu hóa, giúp cá koi hấp thụ tốt các chất dinh dưỡng.&nbsp;</p>', '<p>&nbsp;Thức ăn dễ tiêu hóa, giúp cá koi hấp thụ tốt các chất dinh dưỡng.&nbsp;</p>', '01JQY7A7FA0BSFQ9FH1PVJKRFQ.jpg', 1, 0, 0, '2025-04-03 16:21:28', '2025-04-03 16:21:28', 0),
-(14, 7, 'Thức ăn Koi Premium', 'thuc-an-koi-premium', 250000.00, 400000.00, '<p>&nbsp;Thức ăn cao cấp dành cho cá koi, giúp phát triển toàn diện.&nbsp;</p>', '<p>&nbsp;Thức ăn cao cấp dành cho cá koi, giúp phát triển toàn diện.&nbsp;</p>', '01JQY7BXN66XRRDRFY5F6S6MQQ.jpg', 0, 0, 1, '2025-04-03 16:22:24', '2025-04-03 16:22:24', 0),
-(15, 7, 'Thức ăn Koi Cho Hồ Lớn', 'thuc-an-koi-cho-ho-lon', 125000.00, 300000.00, '<p>&nbsp;Thức ăn dành riêng cho cá koi nuôi trong hồ lớn, giúp cá phát triển khỏe mạnh.&nbsp;</p>', '<p>&nbsp;Thức ăn dành riêng cho cá koi nuôi trong hồ lớn, giúp cá phát triển khỏe mạnh.&nbsp;</p>', '01JQY7DHG0KM8VCGVVSERBD28W.jpg', 0, 1, 0, '2025-04-03 16:23:17', '2025-04-03 16:23:17', 0),
-(16, 7, 'Thức ăn Koi Mới Lớn', 'thuc-an-koi-moi-lon', 500000.00, 30000000.00, '<p>&nbsp;Thức ăn cho cá koi mới lớn, giúp phát triển nhanh chóng và đều đặn.&nbsp;</p>', '<p>&nbsp;Thức ăn cho cá koi mới lớn, giúp phát triển nhanh chóng và đều đặn.&nbsp;</p>', '01JQY7F1H10V53M3GTGM1QPRZ5.jpg', 0, 0, 1, '2025-04-03 16:24:06', '2025-04-03 16:24:06', 0);
+(1, 6, 'Hikari Gold', 'hikari-gold', '150000.00', '2282000.00', '<p>Hikari Gold là một chế độ ăn uống hàng ngày tăng cường màu sắc được phát triển để mang lại tốc độ tăng trưởng được cải thiện, hình thức vượt trội và màu sắc tự nhiên tuyệt vời.</p><p><strong>Hạt size M&nbsp;</strong></p><ul><li>Hikari Gold – 2370 – 2kg</li><li>Hikari Gold – 2342 – 500g</li><li>Hikari Gold – 2382 – 5kg</li></ul><p><strong>Hạt size L</strong></p><ul><li>Hikari Gold – 2482 – 5kg</li><li>Hikari Gold – 2489 – 10kg</li></ul>', '<p>Sản phẩm Hikari Gold giúp tăng màu hiệu quả, mang lại vẻ đẹp tự nhiên và màu sắc thực của cá Koi</p><p>Một sản phẩm cân bằng dinh dưỡng nhằm duy trì năng lượng của cá nuôi hồ, đồng thời giúp cá tăng trưởng nhanh và hạn chế tích mỡ gây ảnh hưởng đến sức khỏe của cá.</p><p>Ba kích thước hạt dạng nổi phù hợp để cung cấp dinh dưỡng cho tất cả các dòng cá có kích cỡ khách nhau, đồng thời làm giảm nguy cơ tạo váng hoặc đục trong nước</p><p>LÝ TƯỞNG CHO: Cá Koi con và cá vàng lớn khi muống tăng trưởng nhanh và cải thiện thân hình</p><p><strong>Lưu ý:</strong> Hikari Gold ® chứa hàm lượng thành phần tự nhiên cao hơn nên có thể gây ra một chút thay đổi về màu sắc giữa các lô sản xuất. Hãy yên tâm vì các tiêu chuẩn chất lượng khắt khe của chúng tôi, mỗi gói đều đáp ứng các thông số dinh dưỡng vượt trội của chúng tôi.</p><h2>Lượng thức ăn cho một lần</h2><p>Thường xuyên theo dõi nhiệt độ nước của bạn và điều chỉnh số lượng cũng như tần suất cho ăn dựa trên nhiệt độ này, tình trạng nước, số lượng và kích cỡ của cá cũng như mức độ hoạt động của chúng. Tránh cho ăn quá nhiều và luôn loại bỏ thức ăn thừa còn sót lại sau thời gian cho ăn.</p><ul><li>Ở nhiệt độ 20-30°C (68-86°F) – Cho ăn 2 đến 4 lần mỗi ngày, lượng cá của bạn sẽ tiêu thụ hoàn toàn trong vòng 5 phút.</li><li>Ở nhiệt độ 15-20°C (59-68°F) – Cho ăn không quá hai lần mỗi ngày, lượng cá của bạn sẽ tiêu thụ hoàn toàn trong vòng 5 phút. Để có kết quả tốt nhất, hãy cố gắng cho ăn vào thời điểm ấm hơn trong ngày.</li><li>Đối với 11-15°C (52-59°F) – Chúng tôi khuyên bạn nên sử dụng Công thức mầm lúa mì Hikari ® Excel ® hoặc Hikari ® .</li><li>Dưới 11°C (52°F) – Chúng tôi khuyên bạn nên sử dụng Công thức mầm lúa mì Hikari ®, được thiết kế đặc biệt để tiêu hóa ở nhiệt độ thấp.</li></ul><p><br></p>', '01JQV81QXFPP03K7PK7912P8Q6.png', 1, 1, 1, '2025-04-02 12:36:35', '2025-04-02 12:38:14', 1),
+(3, 1, 'Ca Coi Royal', 'ca-coi-royal', '100000.00', '200000.00', '<p>&nbsp;Cá koi Royal có màu sắc đẹp, phù hợp với các hồ cá cao cấp.&nbsp;</p>', '<p><strong>&nbsp;Cá koi Royal là loài cá có màu sắc rực rỡ, dễ nuôi và thích hợp với môi trường nước sạch.&nbsp;</strong></p>', '01JQY5T1DK7PM2XMH9Z9VHMHHS.jpg', 1, 1, 1, '2025-04-03 15:55:09', '2025-04-03 16:12:47', 0),
+(4, 1, 'Ca Coi Golden', 'ca-coi-golden', '200000.00', '300000.00', '<p>&nbsp;Cá koi Golden nổi bật với lớp vảy vàng óng ánh.&nbsp;</p>', '<p>&nbsp;Cá koi Golden mang đến vẻ đẹp lấp lánh, là sự lựa chọn lý tưởng cho hồ cá của bạn.&nbsp;</p>', '01JQY5YHWGSXNCA02VPT3P2S51.webp', 1, 1, 0, '2025-04-03 15:57:37', '2025-04-03 16:14:15', 0),
+(5, 1, ' Ca Coi Sanke', 'ca-coi-sanke', '230000.00', '500000.00', '<p>&nbsp;Cá koi Sanke với sắc đỏ, trắng và đen nổi bật.&nbsp;</p>', '<p>&nbsp;Cá koi Sanke là loài cá có màu sắc đặc trưng với sự kết hợp hoàn hảo giữa ba màu sắc đỏ, trắng và đen.&nbsp;</p>', '01JQY60TFK92R77B4B0A7B8QVW.webp', 0, 1, 0, '2025-04-03 15:58:51', '2025-04-03 16:14:37', 0),
+(6, 1, 'Ca Coi Showa', 'ca-coi-showa', '300000.00', '800000.00', '<p>&nbsp;Cá koi Showa với màu sắc đen, đỏ nổi bật.&nbsp;</p>', '<p>&nbsp;Cá koi Showa có một vẻ ngoài ấn tượng, với sự kết hợp hoàn hảo giữa sắc đen và đỏ.&nbsp;</p>', '01JQY635VE60TEQ9A990BPYXKM.jpg', 0, 0, 0, '2025-04-03 16:00:09', '2025-04-03 16:14:50', 1),
+(7, 6, 'Thức ăn Koi Royal', 'thuc-an-koi-royal', '200000.00', '100000.00', '<p>&nbsp;Thức ăn chất lượng cao cho cá koi, giúp tăng trưởng nhanh và màu sắc đẹp.&nbsp;</p>', '<p>Thức ăn Koi Royal là loại thức ăn chuyên biệt giúp cá koi phát triển khỏe mạnh, màu sắc rực rỡ và nâng cao sức khỏe tổng thể.&nbsp;</p>', '01JQY67J8MYSMMSCYFH4586AKV.jpg', 1, 0, 0, '2025-04-03 16:02:32', '2025-04-03 16:17:15', 0),
+(8, 6, 'Thức ăn Koi Golden', 'thuc-an-koi-golden', '350000.00', '1200000.00', '<p>&nbsp;Thức ăn cho cá koi màu vàng đặc trưng, giúp tăng trưởng và phát triển mạnh mẽ.&nbsp;</p>', '<p>Thức ăn Koi Golden là sự lựa chọn lý tưởng giúp cá koi có lớp vảy vàng óng ánh, tăng cường sức khỏe và phát triển đồng đều.</p>', '01JQY69W9ZTYKX43S2W0SF2VC5.jpg', 0, 1, 0, '2025-04-03 16:03:48', '2025-04-03 16:17:31', 0),
+(9, 6, 'Thức ăn Koi Protein Cao', 'thuc-an-koi-protein-cao', '600000.00', '1800000.00', '<p>&nbsp;Cung cấp lượng protein cao, giúp cá koi phát triển cơ bắp.&nbsp;</p>', '<p>Thức ăn chứa lượng protein cao, giúp cá koi tăng trưởng mạnh mẽ, phát triển cơ bắp và duy trì sức khỏe tốt.</p>', '01JQY6C5F05JYEN93FNF1RP26R.jpg', 0, 0, 1, '2025-04-03 16:05:03', '2025-04-03 16:17:46', 1),
+(10, 6, 'Thức ăn Koi Màu Sắc', 'thuc-an-koi-mau-sac', '260000.00', '900000.00', '<p>&nbsp;Thức ăn giúp cá koi có màu sắc rực rỡ và sáng đẹp.&nbsp;</p>', '<p>Thức ăn Koi Màu Sắc bổ sung các chất phụ gia giúp cải thiện màu sắc tự nhiên của cá koi, mang lại vẻ ngoài sống động và hấp dẫn.</p>', '01JQY6EF2MCFBWXG3DRCEKXRJM.jpg', 0, 1, 0, '2025-04-03 16:06:18', '2025-04-03 16:18:00', 1),
+(11, 6, 'Thức ăn Koi Mùa Đông', 'thuc-an-koi-mua-dong', '125000.00', '300000.00', '<p>&nbsp;Thức ăn nhẹ cho cá koi trong mùa đông, giúp bảo vệ sức khỏe.&nbsp;</p>', '<p>&nbsp;Thức ăn Koi Mùa Đông giúp giảm protein và dầu mỡ, phù hợp với cá koi trong mùa đông, khi cá ít vận động hơn và cần ít năng lượng hơn.</p>', '01JQY6GCE4B18WE1HRZXJTPKQR.jpg', 0, 0, 1, '2025-04-03 16:07:21', '2025-04-03 16:16:22', 0),
+(12, 7, 'Thức ăn Koi Thực Phẩm Tự Nhiên', 'thuc-an-koi-thuc-pham-tu-nhien', '200000.00', '1400000.00', '<p>&nbsp;Thức ăn tự nhiên như giun, tôm, rau quả giúp bổ sung dinh dưỡng tự nhiên cho cá koi.&nbsp;</p>', '<p>&nbsp;Thức ăn Koi Thực Phẩm Tự Nhiên bổ sung các thực phẩm tự nhiên, giúp cá koi có chế độ ăn phong phú, giúp tăng trưởng tốt và tăng cường hệ miễn dịch.&nbsp;</p>', '01JQY77ZAR6KE4HK2ZFP6JF2VT.jpg', 1, 1, 1, '2025-04-03 16:20:14', '2025-04-03 16:20:14', 1),
+(13, 7, 'Thức ăn Koi Dễ Tiêu Hóa', 'thuc-an-koi-de-tieu-hoa', '180000.00', '3000000.00', '<p>&nbsp;Thức ăn dễ tiêu hóa, giúp cá koi hấp thụ tốt các chất dinh dưỡng.&nbsp;</p>', '<p>&nbsp;Thức ăn dễ tiêu hóa, giúp cá koi hấp thụ tốt các chất dinh dưỡng.&nbsp;</p>', '01JQY7A7FA0BSFQ9FH1PVJKRFQ.jpg', 1, 0, 0, '2025-04-03 16:21:28', '2025-04-03 16:21:28', 0),
+(14, 7, 'Thức ăn Koi Premium', 'thuc-an-koi-premium', '250000.00', '400000.00', '<p>&nbsp;Thức ăn cao cấp dành cho cá koi, giúp phát triển toàn diện.&nbsp;</p>', '<p>&nbsp;Thức ăn cao cấp dành cho cá koi, giúp phát triển toàn diện.&nbsp;</p>', '01JQY7BXN66XRRDRFY5F6S6MQQ.jpg', 0, 0, 1, '2025-04-03 16:22:24', '2025-04-03 16:22:24', 0),
+(15, 7, 'Thức ăn Koi Cho Hồ Lớn', 'thuc-an-koi-cho-ho-lon', '125000.00', '300000.00', '<p>&nbsp;Thức ăn dành riêng cho cá koi nuôi trong hồ lớn, giúp cá phát triển khỏe mạnh.&nbsp;</p>', '<p>&nbsp;Thức ăn dành riêng cho cá koi nuôi trong hồ lớn, giúp cá phát triển khỏe mạnh.&nbsp;</p>', '01JQY7DHG0KM8VCGVVSERBD28W.jpg', 0, 1, 0, '2025-04-03 16:23:17', '2025-04-03 16:23:17', 0),
+(16, 7, 'Thức ăn Koi Mới Lớn', 'thuc-an-koi-moi-lon', '500000.00', '30000000.00', '<p>&nbsp;Thức ăn cho cá koi mới lớn, giúp phát triển nhanh chóng và đều đặn.&nbsp;</p>', '<p>&nbsp;Thức ăn cho cá koi mới lớn, giúp phát triển nhanh chóng và đều đặn.&nbsp;</p>', '01JQY7F1H10V53M3GTGM1QPRZ5.jpg', 0, 0, 1, '2025-04-03 16:24:06', '2025-04-03 16:24:06', 0);
 
 -- --------------------------------------------------------
 
@@ -255,8 +245,8 @@ INSERT INTO `products` (`id`, `category_id`, `name`, `slug`, `min_price`, `max_p
 --
 
 CREATE TABLE `product_categories` (
-  `id` bigint(20) UNSIGNED NOT NULL,
-  `name` varchar(255) NOT NULL,
+  `id` bigint UNSIGNED NOT NULL,
+  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
@@ -281,13 +271,13 @@ INSERT INTO `product_categories` (`id`, `name`, `created_at`, `updated_at`) VALU
 --
 
 CREATE TABLE `services` (
-  `id` bigint(20) UNSIGNED NOT NULL,
-  `slug` varchar(255) NOT NULL,
-  `title` varchar(255) NOT NULL,
-  `view` int(10) UNSIGNED NOT NULL DEFAULT 0,
-  `short_desc` text NOT NULL,
-  `description` text NOT NULL,
-  `banner` varchar(255) NOT NULL,
+  `id` bigint UNSIGNED NOT NULL,
+  `slug` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `title` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `view` int UNSIGNED NOT NULL DEFAULT '0',
+  `short_desc` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `description` text COLLATE utf8mb4_unicode_ci NOT NULL,
+  `banner` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
@@ -323,12 +313,12 @@ INSERT INTO `services` (`id`, `slug`, `title`, `view`, `short_desc`, `descriptio
 --
 
 CREATE TABLE `sessions` (
-  `id` varchar(255) NOT NULL,
-  `user_id` bigint(20) UNSIGNED DEFAULT NULL,
-  `ip_address` varchar(45) DEFAULT NULL,
-  `user_agent` text DEFAULT NULL,
-  `payload` longtext NOT NULL,
-  `last_activity` int(11) NOT NULL
+  `id` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `user_id` bigint UNSIGNED DEFAULT NULL,
+  `ip_address` varchar(45) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `user_agent` text COLLATE utf8mb4_unicode_ci,
+  `payload` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
+  `last_activity` int NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 --
@@ -336,7 +326,7 @@ CREATE TABLE `sessions` (
 --
 
 INSERT INTO `sessions` (`id`, `user_id`, `ip_address`, `user_agent`, `payload`, `last_activity`) VALUES
-('JFlJgD7jyevp9gVlgkGtjjF9lJ1dKdcs4y5YNfYp', 2, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36', 'YTo2OntzOjY6Il90b2tlbiI7czo0MDoiOXZlU3hxeWRRallOZVQ0NXVVRmhLSHlURGc1NEg3N3hHanNMMHJ3YSI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fXM6NTA6ImxvZ2luX3dlYl81OWJhMzZhZGRjMmIyZjk0MDE1ODBmMDE0YzdmNThlYTRlMzA5ODlkIjtpOjI7czoxNzoicGFzc3dvcmRfaGFzaF93ZWIiO3M6NjA6IiQyeSQxMiQva1N6YjdMaHdnTmk4Q2hVdUhkM3hlTE9QZFR3bFNGeDhVSnE0RGtZZWg2RlJvdDZkNWhtMiI7czo4OiJmaWxhbWVudCI7YTowOnt9fQ==', 1743698252);
+('KCtK8VAG4icUekIwzVq7pDFxKRUpFZhP2Mc4rE1C', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiYlA1RWk2Z0dVTUdXTDNXVER0dzJoV3JvMUlERmNWbjRkZmtXWFRDayI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=', 1743728288);
 
 -- --------------------------------------------------------
 
@@ -345,17 +335,17 @@ INSERT INTO `sessions` (`id`, `user_id`, `ip_address`, `user_agent`, `payload`, 
 --
 
 CREATE TABLE `users` (
-  `id` bigint(20) UNSIGNED NOT NULL,
-  `name` varchar(255) NOT NULL,
-  `email` varchar(255) NOT NULL,
+  `id` bigint UNSIGNED NOT NULL,
+  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `email` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `email_verified_at` timestamp NULL DEFAULT NULL,
-  `password` varchar(255) NOT NULL,
-  `remember_token` varchar(100) DEFAULT NULL,
+  `password` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `remember_token` varchar(100) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL,
-  `custom_fields` longtext CHARACTER SET utf8mb4 COLLATE utf8mb4_bin DEFAULT NULL CHECK (json_valid(`custom_fields`)),
-  `avatar_url` varchar(255) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+  `custom_fields` longtext CHARACTER SET utf8mb4 COLLATE utf8mb4_bin,
+  `avatar_url` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL
+) ;
 
 --
 -- Dumping data for table `users`
@@ -472,55 +462,55 @@ ALTER TABLE `users`
 -- AUTO_INCREMENT for table `failed_jobs`
 --
 ALTER TABLE `failed_jobs`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `id` bigint UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `jobs`
 --
 ALTER TABLE `jobs`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `id` bigint UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `migrations`
 --
 ALTER TABLE `migrations`
-  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
+  MODIFY `id` int UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
 
 --
 -- AUTO_INCREMENT for table `news`
 --
 ALTER TABLE `news`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
+  MODIFY `id` bigint UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
 
 --
 -- AUTO_INCREMENT for table `post_categories`
 --
 ALTER TABLE `post_categories`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id` bigint UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `products`
 --
 ALTER TABLE `products`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
+  MODIFY `id` bigint UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
 
 --
 -- AUTO_INCREMENT for table `product_categories`
 --
 ALTER TABLE `product_categories`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `id` bigint UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
 
 --
 -- AUTO_INCREMENT for table `services`
 --
 ALTER TABLE `services`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
+  MODIFY `id` bigint UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
 
 --
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` bigint UNSIGNED NOT NULL AUTO_INCREMENT;
 
 --
 -- Constraints for dumped tables

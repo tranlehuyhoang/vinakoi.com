@@ -1,7 +1,7 @@
 <div>
 
     <head>
-        <title>{{$blog->title}}</title>
+        <title>{{$blog->title}} - VinaKoi</title>
         @livewire('inc.css.blog')
     </head>
 

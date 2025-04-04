@@ -296,8 +296,7 @@
                                                                     xml:space="preserve">
                                                                     <path
                                                                         d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z" />
-                                                                </svg></span><span class="menu-text">Cá
-                                                                Koi</span></a>
+                                                                </svg></span><span class="menu-text">Sản phẩm</span></a>
                                                     </li>
 
                                                     <li id="menu-item-794"

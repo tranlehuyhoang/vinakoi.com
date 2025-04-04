@@ -3,7 +3,12 @@
     <head>
         <title>VinaKoi - Thức ăn thú cưng cao cấp đến từ Nhật Bản</title>
         @livewire('inc.css.home')
-
+<style>
+    .jet-woo-products .jet-woo-product-thumbnail img {
+    height: 280px;
+    object-fit: cover;
+}
+</style>
 
     </head>
 
@@ -1016,5 +1021,6 @@
         @livewire('inc.contact')
         @livewire('inc.js.home')
     </body>
+
 
 </div>
