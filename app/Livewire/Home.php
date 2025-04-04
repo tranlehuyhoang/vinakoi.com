@@ -2,6 +2,7 @@
 
 namespace App\Livewire;
 
+use Illuminate\Support\Facades\DB;
 use Livewire\Component;
 
 class Home extends Component
@@ -9,9 +10,14 @@ class Home extends Component
     public function render()
     {
         $products=\App\Models\Product::where('buy_many',1)->get();
-        $productsCoi=\App\Models\Product::where('category_id',6)->get();
-        $productsCanh=\App\Models\Product::where('category_id',7)->get();
         $services=\App\Models\Service::all();
-        return view('livewire.home',compact('products','productsCoi','productsCanh','services'));
+        $emptyCategories = DB::table('product_categories')
+            ->leftJoin('products', 'product_categories.id', '=', 'products.category_id')
+            ->select('product_categories.id as category_id', 'product_categories.name as category_name', 'products.*')
+            ->whereNotNull('products.category_id') // Chỉ lấy những danh mục có sản phẩm
+            ->get()
+            ->groupBy('category_id'); // Nhóm theo category_id
+
+        return view('livewire.home',compact('products','services','emptyCategories'));
     }
 }

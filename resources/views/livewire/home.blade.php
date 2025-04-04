@@ -524,115 +524,117 @@
                                                 </div>
                                             </div>
                                         </section>
-                                        <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-7b11cf7 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                            data-id="7b11cf7" data-element_type="section"
-                                            data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-                                            <div class="elementor-container elementor-column-gap-default">
-                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-95ab98f"
-                                                    data-id="95ab98f" data-element_type="column">
-                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-77db4bf elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="77db4bf" data-element_type="section"
-                                                            data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-63d9ee0"
-                                                                    data-id="63d9ee0" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-5fc6413 elementor-widget elementor-widget-heading"
-                                                                            data-id="5fc6413" data-element_type="widget"
-                                                                            data-widget_type="heading.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <h2
-                                                                                    class="elementor-heading-title elementor-size-default">
-                                                                                    Thức ăn Cho cá Koi</h2>
+                                        @foreach($emptyCategories as $productsCoi)
+                                            <section
+                                                class="elementor-section elementor-top-section elementor-element elementor-element-7b11cf7 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                data-id="7b11cf7" data-element_type="section"
+                                                data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+                                                <div class="elementor-container elementor-column-gap-default">
+                                                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-95ab98f"
+                                                         data-id="95ab98f" data-element_type="column">
+                                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                                            <section
+                                                                class="elementor-section elementor-inner-section elementor-element elementor-element-77db4bf elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                                data-id="77db4bf" data-element_type="section"
+                                                                data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+                                                                <div
+                                                                    class="elementor-container elementor-column-gap-default">
+                                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-63d9ee0"
+                                                                         data-id="63d9ee0" data-element_type="column">
+                                                                        <div
+                                                                            class="elementor-widget-wrap elementor-element-populated">
+                                                                            <div class="elementor-element elementor-element-5fc6413 elementor-widget elementor-widget-heading"
+                                                                                 data-id="5fc6413" data-element_type="widget"
+                                                                                 data-widget_type="heading.default">
+                                                                                <div class="elementor-widget-container">
+                                                                                    <h2
+                                                                                        class="elementor-heading-title elementor-size-default">
+                                                                                       {{$productsCoi[0]->category_name}}</h2>
+                                                                                </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                            </div>
-                                                        </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-25e2a2a elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="25e2a2a" data-element_type="section"
-                                                            data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-531be9c"
-                                                                    data-id="531be9c" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-72be30c elementor-widget elementor-widget-jet-woo-products"
-                                                                            data-id="72be30c" data-element_type="widget"
-                                                                            data-settings="{&quot;columns_tablet&quot;:&quot;3&quot;,&quot;columns_mobile&quot;:&quot;2&quot;,&quot;columns&quot;:4,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;space_between_slides&quot;:10}"
-                                                                            data-widget_type="jet-woo-products.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="elementor-jet-woo-products jet-woo-builder">
-                                                                                    <div class="jet-woo-carousel swiper-container horizontal"
-                                                                                        data-slider_options="{&quot;direction&quot;:&quot;horizontal&quot;,&quot;slidesPerGroup&quot;:1,&quot;simulateTouch&quot;:true,&quot;loop&quot;:true,&quot;freeMode&quot;:false,&quot;centeredSlides&quot;:false,&quot;speed&quot;:500,&quot;paginationEnable&quot;:false,&quot;navigationEnable&quot;:true,&quot;autoplay&quot;:{&quot;delay&quot;:5000,&quot;disableOnInteraction&quot;:false}}"
-                                                                                        dir="ltr">
-                                                                                        <div class="jet-woo-products jet-woo-products--preset-1 swiper-wrapper  jet-equal-cols"
-                                                                                            data-mobile-hover="">
-                                                                                            @foreach($productsCoi as $product)
-                                                                                                <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                     data-product-id="{{$product->id}}">
-                                                                                                    <div
-                                                                                                        class="jet-woo-products__inner-box">
-
+                                                            </section>
+                                                            <section
+                                                                class="elementor-section elementor-inner-section elementor-element elementor-element-25e2a2a elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                                data-id="25e2a2a" data-element_type="section"
+                                                                data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+                                                                <div
+                                                                    class="elementor-container elementor-column-gap-default">
+                                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-531be9c"
+                                                                         data-id="531be9c" data-element_type="column">
+                                                                        <div
+                                                                            class="elementor-widget-wrap elementor-element-populated">
+                                                                            <div class="elementor-element elementor-element-72be30c elementor-widget elementor-widget-jet-woo-products"
+                                                                                 data-id="72be30c" data-element_type="widget"
+                                                                                 data-settings="{&quot;columns_tablet&quot;:&quot;3&quot;,&quot;columns_mobile&quot;:&quot;2&quot;,&quot;columns&quot;:4,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;space_between_slides&quot;:10}"
+                                                                                 data-widget_type="jet-woo-products.default">
+                                                                                <div class="elementor-widget-container">
+                                                                                    <div
+                                                                                        class="elementor-jet-woo-products jet-woo-builder">
+                                                                                        <div class="jet-woo-carousel swiper-container horizontal"
+                                                                                             data-slider_options="{&quot;direction&quot;:&quot;horizontal&quot;,&quot;slidesPerGroup&quot;:1,&quot;simulateTouch&quot;:true,&quot;loop&quot;:true,&quot;freeMode&quot;:false,&quot;centeredSlides&quot;:false,&quot;speed&quot;:500,&quot;paginationEnable&quot;:false,&quot;navigationEnable&quot;:true,&quot;autoplay&quot;:{&quot;delay&quot;:5000,&quot;disableOnInteraction&quot;:false}}"
+                                                                                             dir="ltr">
+                                                                                            <div class="jet-woo-products jet-woo-products--preset-1 swiper-wrapper  jet-equal-cols"
+                                                                                                 data-mobile-hover="">
+                                                                                                @foreach($productsCoi as $product)
+                                                                                                    <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
+                                                                                                         data-product-id="{{$product->id}}">
                                                                                                         <div
-                                                                                                            class="jet-woo-product-thumbnail">
+                                                                                                            class="jet-woo-products__inner-box">
 
-                                                                                                            <a
-                                                                                                                href="/product/{{$product->slug}}"><img
-                                                                                                                    loading="lazy"
-                                                                                                                    width="600" height="600"
-                                                                                                                    src="{{\Illuminate\Support\Facades\Storage::url($product->image)}}"
-                                                                                                                    class="attachment-full size-full"
-                                                                                                                    alt="Saki-VinaKoi Fancy Goldfish Balance 200gram"
-                                                                                                                    decoding="async"
-                                                                                                                    sizes="(max-width: 600px) 100vw, 600px" /></a>
                                                                                                             <div
-                                                                                                                class="jet-woo-product-img-overlay">
+                                                                                                                class="jet-woo-product-thumbnail">
+
+                                                                                                                <a
+                                                                                                                    href="/product/{{$product->slug}}"><img
+                                                                                                                        loading="lazy"
+                                                                                                                        width="600" height="600"
+                                                                                                                        src="{{\Illuminate\Support\Facades\Storage::url($product->image)}}"
+                                                                                                                        class="attachment-full size-full"
+                                                                                                                        alt="Saki-VinaKoi Fancy Goldfish Balance 200gram"
+                                                                                                                        decoding="async"
+                                                                                                                        sizes="(max-width: 600px) 100vw, 600px" /></a>
+                                                                                                                <div
+                                                                                                                    class="jet-woo-product-img-overlay">
+                                                                                                                </div>
+
+
                                                                                                             </div>
+                                                                                                            <h3 class="jet-woo-product-title"><a
+                                                                                                                    href="/product/{{$product->slug}}/">{{$product->name}}</a>
+                                                                                                            </h3>
+                                                                                                            <div class="jet-woo-product-price">
+                                                                                                                <p class="price"><span
+                                                                                                                        class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->min_price, 0, ',', '.') }}<span
+                                                                                                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                                                    &ndash; <span
+                                                                                                                        class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->max_price, 0, ',', '.') }}<span
+                                                                                                                                class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+                                                                                                                </p>
+                                                                                                            </div>
+                                                                                                            <div
+                                                                                                                class="jet-woo-products-cqw-wrapper">
+                                                                                                            </div>
+                                                                                                        </div>
 
-
-                                                                                                        </div>
-                                                                                                        <h3 class="jet-woo-product-title"><a
-                                                                                                                href="/product/{{$product->slug}}/">{{$product->name}}</a>
-                                                                                                        </h3>
-                                                                                                        <div class="jet-woo-product-price">
-                                                                                                            <p class="price"><span
-                                                                                                                    class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->min_price, 0, ',', '.') }}<span
-                                                                                                                            class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                                                &ndash; <span
-                                                                                                                    class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->max_price, 0, ',', '.') }}<span
-                                                                                                                            class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                                            </p>
-                                                                                                        </div>
-                                                                                                        <div
-                                                                                                            class="jet-woo-products-cqw-wrapper">
-                                                                                                        </div>
                                                                                                     </div>
-
-                                                                                                </div>
-                                                                                            @endforeach
+                                                                                                @endforeach
 
 
 
-                                                                                        </div>
-                                                                                        <div
-                                                                                            class="prev-arrow jet-swiper-button-prev jet-arrow">
-                                                                                            <i aria-hidden="true"
-                                                                                                class="fas fa-angle-left"></i>
-                                                                                        </div>
-                                                                                        <div
-                                                                                            class="next-arrow jet-swiper-button-next jet-arrow">
-                                                                                            <i aria-hidden="true"
-                                                                                                class="fas fa-angle-right"></i>
+                                                                                            </div>
+                                                                                            <div
+                                                                                                class="prev-arrow jet-swiper-button-prev jet-arrow">
+                                                                                                <i aria-hidden="true"
+                                                                                                   class="fas fa-angle-left"></i>
+                                                                                            </div>
+                                                                                            <div
+                                                                                                class="next-arrow jet-swiper-button-next jet-arrow">
+                                                                                                <i aria-hidden="true"
+                                                                                                   class="fas fa-angle-right"></i>
+                                                                                            </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -640,133 +642,13 @@
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                            </div>
-                                                        </section>
+                                                            </section>
+                                                        </div>
                                                     </div>
                                                 </div>
-                                            </div>
-                                        </section>
-                                        <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-74ccd62 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                            data-id="74ccd62" data-element_type="section"
-                                            data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-                                            <div class="elementor-container elementor-column-gap-default">
-                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-965dd52"
-                                                    data-id="965dd52" data-element_type="column">
-                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-c8b7c25 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="c8b7c25" data-element_type="section"
-                                                            data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d32d151"
-                                                                    data-id="d32d151" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-5786c89 elementor-widget elementor-widget-heading"
-                                                                            data-id="5786c89" data-element_type="widget"
-                                                                            data-widget_type="heading.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <h2
-                                                                                    class="elementor-heading-title elementor-size-default">
-                                                                                    Thức ăn Cho cá cảnh</h2>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
+                                            </section>
+                                        @endforeach
 
-                                                            </div>
-                                                        </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-2cf4111 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                            data-id="2cf4111" data-element_type="section"
-                                                            data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
-                                                                <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2bf6e17"
-                                                                    data-id="2bf6e17" data-element_type="column">
-                                                                    <div
-                                                                        class="elementor-widget-wrap elementor-element-populated">
-                                                                        <div class="elementor-element elementor-element-6086e6c elementor-widget elementor-widget-jet-woo-products"
-                                                                            data-id="6086e6c" data-element_type="widget"
-                                                                            data-settings="{&quot;columns_tablet&quot;:&quot;3&quot;,&quot;columns_mobile&quot;:&quot;2&quot;,&quot;columns&quot;:4,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;space_between_slides&quot;:10}"
-                                                                            data-widget_type="jet-woo-products.default">
-                                                                            <div class="elementor-widget-container">
-                                                                                <div
-                                                                                    class="elementor-jet-woo-products jet-woo-builder">
-                                                                                    <div class="jet-woo-carousel swiper-container horizontal"
-                                                                                        data-slider_options="{&quot;direction&quot;:&quot;horizontal&quot;,&quot;slidesPerGroup&quot;:1,&quot;simulateTouch&quot;:true,&quot;loop&quot;:true,&quot;freeMode&quot;:false,&quot;centeredSlides&quot;:false,&quot;speed&quot;:500,&quot;paginationEnable&quot;:false,&quot;navigationEnable&quot;:true,&quot;autoplay&quot;:{&quot;delay&quot;:5000,&quot;disableOnInteraction&quot;:false}}"
-                                                                                        dir="ltr">
-                                                                                        <div class="jet-woo-products jet-woo-products--preset-1 swiper-wrapper  jet-equal-cols"
-                                                                                            data-mobile-hover="">
-                                                                                            @foreach($productsCanh as $product)
-                                                                                                <div class="jet-woo-products__item jet-woo-builder-product swiper-slide"
-                                                                                                     data-product-id="{{$product->id}}">
-                                                                                                    <div
-                                                                                                        class="jet-woo-products__inner-box">
-
-                                                                                                        <div
-                                                                                                            class="jet-woo-product-thumbnail">
-
-                                                                                                            <a
-                                                                                                                href="/product/{{$product->slug}}"><img
-                                                                                                                    loading="lazy"
-                                                                                                                    width="600" height="600"
-                                                                                                                    src="{{\Illuminate\Support\Facades\Storage::url($product->image)}}"
-                                                                                                                    class="attachment-full size-full"
-                                                                                                                    alt="Saki-VinaKoi Fancy Goldfish Balance 200gram"
-                                                                                                                    decoding="async"
-                                                                                                                    sizes="(max-width: 600px) 100vw, 600px" /></a>
-                                                                                                            <div
-                                                                                                                class="jet-woo-product-img-overlay">
-                                                                                                            </div>
-
-
-                                                                                                        </div>
-                                                                                                        <h3 class="jet-woo-product-title"><a
-                                                                                                                href="/product/{{$product->slug}}/">{{$product->name}}</a>
-                                                                                                        </h3>
-                                                                                                        <div class="jet-woo-product-price">
-                                                                                                            <p class="price"><span
-                                                                                                                    class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->min_price, 0, ',', '.') }}<span
-                                                                                                                            class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                                                &ndash; <span
-                                                                                                                    class="woocommerce-Price-amount amount"><bdi>{{ number_format($product->max_price, 0, ',', '.') }}<span
-                                                                                                                            class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
-                                                                                                            </p>
-                                                                                                        </div>
-                                                                                                        <div
-                                                                                                            class="jet-woo-products-cqw-wrapper">
-                                                                                                        </div>
-                                                                                                    </div>
-
-                                                                                                </div>
-                                                                                            @endforeach
-
-                                                                                        </div>
-                                                                                        <div
-                                                                                            class="prev-arrow jet-swiper-button-prev jet-arrow">
-                                                                                            <i aria-hidden="true"
-                                                                                                class="fas fa-angle-left"></i>
-                                                                                        </div>
-                                                                                        <div
-                                                                                            class="next-arrow jet-swiper-button-next jet-arrow">
-                                                                                            <i aria-hidden="true"
-                                                                                                class="fas fa-angle-right"></i>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </section>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </section>
                                         <section
                                             class="elementor-section elementor-top-section elementor-element elementor-element-293baca elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                             data-id="293baca" data-element_type="section"

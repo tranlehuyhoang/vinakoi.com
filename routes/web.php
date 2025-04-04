@@ -7,6 +7,8 @@ use App\Livewire\Products;
 use App\Livewire\Service;
 use App\Livewire\Services;
 use App\Models\User;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Route;
 use App\Livewire\Blog;
 use App\Livewire\Product;

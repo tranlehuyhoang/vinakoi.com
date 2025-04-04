@@ -44,7 +44,7 @@
                                                             <div class="elementor-widget-container">
                                                                 <nav class="woocommerce-breadcrumb"><a
                                                                         href="/">Trang
-                                                                        chủ</a>&nbsp;&#47;&nbsp;Sản phẩm</nav>
+                                                                        chủ</a>&nbsp;&#47;&nbsp;{{$product_category->name ?? 'Tất cả sản phẩm'}}</nav>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -99,7 +99,7 @@
                                                                 </style>
                                                                 <h1
                                                                     class="elementor-heading-title elementor-size-default">
-                                                                    Sản phẩm</h1>
+                                                                    {{$product_category->name ?? 'Tất cả sản phẩm'}}</h1>
                                                             </div>
                                                         </div>
                                                     </div>
