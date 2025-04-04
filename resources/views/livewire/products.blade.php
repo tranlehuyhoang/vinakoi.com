@@ -44,7 +44,7 @@
                                                             <div class="elementor-widget-container">
                                                                 <nav class="woocommerce-breadcrumb"><a
                                                                         href="/">Trang
-                                                                        chủ</a>&nbsp;&#47;&nbsp;Thức ăn cá Koi</nav>
+                                                                        chủ</a>&nbsp;&#47;&nbsp;Sản phẩm</nav>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -99,7 +99,7 @@
                                                                 </style>
                                                                 <h1
                                                                     class="elementor-heading-title elementor-size-default">
-                                                                    Thức ăn cá Koi</h1>
+                                                                    Sản phẩm</h1>
                                                             </div>
                                                         </div>
                                                     </div>
