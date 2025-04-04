@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Apr 04, 2025 at 12:58 AM
+-- Generation Time: Apr 04, 2025 at 01:01 AM
 -- Server version: 8.0.30
 -- PHP Version: 8.2.27
 
@@ -32,6 +32,14 @@ CREATE TABLE `cache` (
   `value` mediumtext COLLATE utf8mb4_unicode_ci NOT NULL,
   `expiration` int NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `cache`
+--
+
+INSERT INTO `cache` (`key`, `value`, `expiration`) VALUES
+('livewire-rate-limiter:a17961fa74e9275d529f489537f179c05d50c2f3', 'i:3;', 1743728528),
+('livewire-rate-limiter:a17961fa74e9275d529f489537f179c05d50c2f3:timer', 'i:1743728528;', 1743728528);
 
 -- --------------------------------------------------------
 
@@ -326,7 +334,7 @@ CREATE TABLE `sessions` (
 --
 
 INSERT INTO `sessions` (`id`, `user_id`, `ip_address`, `user_agent`, `payload`, `last_activity`) VALUES
-('KCtK8VAG4icUekIwzVq7pDFxKRUpFZhP2Mc4rE1C', NULL, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTozOntzOjY6Il90b2tlbiI7czo0MDoiYlA1RWk2Z0dVTUdXTDNXVER0dzJoV3JvMUlERmNWbjRkZmtXWFRDayI7czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6MjE6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMCI7fXM6NjoiX2ZsYXNoIjthOjI6e3M6Mzoib2xkIjthOjA6e31zOjM6Im5ldyI7YTowOnt9fX0=', 1743728288);
+('Zj2saImRrwl8nAbizUtWsrLpL1YQijyfX1PU6Jh3', 1, '127.0.0.1', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0', 'YTo1OntzOjY6Il90b2tlbiI7czo0MDoidFdGM3RLODdWalNjSEdVWnZ2eHdMR1hST3lKNHpMRVNUb3ZoUDJuNCI7czo2OiJfZmxhc2giO2E6Mjp7czozOiJvbGQiO2E6MDp7fXM6MzoibmV3IjthOjA6e319czo5OiJfcHJldmlvdXMiO2E6MTp7czozOiJ1cmwiO3M6Mjc6Imh0dHA6Ly8xMjcuMC4wLjE6ODAwMC9hZG1pbiI7fXM6NTA6ImxvZ2luX3dlYl81OWJhMzZhZGRjMmIyZjk0MDE1ODBmMDE0YzdmNThlYTRlMzA5ODlkIjtpOjE7czoxNzoicGFzc3dvcmRfaGFzaF93ZWIiO3M6NjA6IiQyeSQxMiRTbGx1WGtGL3Eyd3pQTHdzcHhiVUFPSk9oMHFPbTB0Ti9JVkZmWFRHWnB1d282a3k4S20xVyI7fQ==', 1743728490);
 
 -- --------------------------------------------------------
 
@@ -352,8 +360,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`, `custom_fields`, `avatar_url`) VALUES
-(1, 'tranlehuyhoang@gmail.com', 'tranlehuyhoang@gmail.com', NULL, '$2y$12$G4hx5NNwSYXbb2kGPLQxx.mUTrIQZPO/KI6/ofBlncr2xBr06soOW', NULL, '2025-03-28 01:16:28', '2025-03-28 01:16:28', NULL, NULL),
-(2, 'admin@gmail.com', 'admin@gmail.com', NULL, '$2y$12$/kSzb7LhwgNi8ChUuHd3xeLOPdTwlSFx8UJq4DkYeh6FRot6d5hm2', NULL, '2025-03-28 08:17:04', '2025-04-03 08:41:05', NULL, NULL);
+(1, 'admin@gmail.com', 'admin@gmail.com', NULL, '$2y$12$SlluXkF/q2wzPLwspxbUAOJOh0qOm0tN/IVFfXTGZpuwo6ky8Km1W', NULL, '2025-03-28 01:16:28', '2025-04-04 01:01:22', NULL, NULL);
 
 --
 -- Indexes for dumped tables
