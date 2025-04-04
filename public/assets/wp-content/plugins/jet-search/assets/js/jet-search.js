@@ -811,7 +811,7 @@
 				}
 
 				resultsHolder.removeClass( 'show' );
-				self.outputMessage( '', '' );
+				// self.outputMessage( '', '' );
 				resultsListInner.css( 'transform', 'translateX(0)' );
 				resultsList.css( 'height', 'auto' );
 
@@ -833,7 +833,7 @@
 			self.successCallback = function( response ) {
 				if ( response.error ) {
 					spinner.removeClass( 'show' );
-					self.outputMessage( data.server_error, 'error show' );
+					// self.outputMessage( data.server_error, 'error show' );
 					return;
 				}
 
@@ -1035,7 +1035,7 @@
 			self.errorCallback = function( jqXHR ) {
 				if ( 'abort' !== jqXHR.statusText ) {
 					spinner.removeClass( 'show' );
-					self.outputMessage( data.server_error, 'error show' );
+					// self.outputMessage( data.server_error, 'error show' );
 				}
 			};
 
@@ -1097,12 +1097,12 @@
 				$( settings.searchFormClass, self ).removeClass( formFocusClass );
 			};
 
-			self.outputMessage = function( message, messageClass ) {
-				message = message.replace( /\\/g, '' ); // remove slashes
-				//message = $( "<div/>" ).html( message ).text();
-				message = message.replace( /\\*"/g, '' );
-				messageHolder.removeClass( 'error show' ).addClass( messageClass ).html( message );
-			};
+			// self.outputMessage = function( message, messageClass ) {
+			// 	message = message.replace( /\\/g, '' ); // remove slashes
+			// 	//message = $( "<div/>" ).html( message ).text();
+			// 	message = message.replace( /\\*"/g, '' );
+			// 	messageHolder.removeClass( 'error show' ).addClass( messageClass ).html( message );
+			// };
 
 			self.formClick = function( event ) {
 				event.stopPropagation();
