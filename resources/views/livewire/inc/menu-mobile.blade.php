@@ -37,24 +37,21 @@
                                                     <div class="elementor-jet-ajax-search jet-search">
                                                         <div class="jet-ajax-search"
                                                              data-settings>
-                                                            <form class="jet-ajax-search__form">
-                                                                <div class="jet-ajax-search__fields-holder">
-                                                                    <div class="jet-ajax-search__field-wrapper">
-                                                                        <label for="search-input-377de8a" class="screen-reader-text">Search</label>
-                                                                        <input id="inputSearch" class="jet-ajax-search__field" type="search" placeholder="Nhập sản phẩm cần tìm ..."
-                                                                               autocomplete="off" />
-                                                                        <input type="hidden" value="{&quot;search_source&quot;:&quot;product&quot;}" name="jet_ajax_search_settings" />
-                                                                        <input type="hidden" value="product" name="post_type" />
-                                                                    </div>
-                                                                </div>
+                                                          <form class="jet-ajax-search__form" action="/products" method="GET">
+    <div class="jet-ajax-search__fields-holder">
+        <div class="jet-ajax-search__field-wrapper">
+            <label for="inputSearch" class="screen-reader-text">Search</label>
+            <input id="inputSearch" name="search" class="jet-ajax-search__field" type="search" placeholder="Nhập sản phẩm cần tìm ..."
+                   autocomplete="off" />
+        </div>
+    </div>
 
-                                                                <a href="/products?search=" id="btn-searchss" class="" style="background-color: #0066B3;
-    padding: 5px 15px 12px 15px; color: #fff !important;" type="submit" aria-label="Search submit">
-                                                                                <span class="jet-ajax-search__submit-icon jet-ajax-search-icon">
-                                                                                    <i aria-hidden="true" class="fas fa-search"></i>
-                                                                                </span>
-                                                                </a>
-                                                            </form>
+    <button id="btn-searchss" class="" style="background-color: #0066B3; padding: 5px 15px 12px 15px; color: #fff !important;" type="submit" aria-label="Search submit">
+        <span class="jet-ajax-search__submit-icon jet-ajax-search-icon">
+            <i aria-hidden="true" class="fas fa-search"></i>
+        </span>
+    </button>
+</form>
 
                                                             <div class="jet-ajax-search__results-area">
                                                                 <div class="jet-ajax-search__results-holder" id="listContent">
